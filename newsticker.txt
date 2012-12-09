@@ -413,6 +413,7 @@
 ++++ Einer muss es ja machen: Stiftung Warentest testet Potenzpillen ++++
 ++++ Eine Runde gedreht: Radfahrer bringt adipöse Frau zu Fall ++++
 ++++ Einfach abgehauen: Henker verlässt Marktplatz wortlos ++++
+++++ Einfach abgehauen: Weihnachtsbaum-Räuber auf der Flucht ++++
 ++++ Einfach Spitze: Name des höchsten deutschen Bergs soll verkürzt werden ++++
 ++++ Einfach weggerannt: Klingelputzer verzichtet auf seinen Lohn ++++
 ++++ Einfach zum Kotzen: Brechstange ++++
@@ -432,6 +433,7 @@
 ++++ Einsame Spitze: Matterhorn nicht zu Gipfeltreffen eingeladen ++++
 ++++ Einsatzbefehl: Soldaten an der Front zu prägnanter Ausdrucksweise verdonnert ++++
 ++++ Ein Tag für die Tonne: Müllmann unzufrieden mit seinem Job ++++
+++++ Ein toller Hecht: Angler fängt großen Raubfisch ++++
 ++++ Eisernes Kreuz: Arzt bekommt Orden für erfolgreiche Rückentransplantation ++++
 ++++ Eiskalt: Mann legt Schal um ++++
 ++++ Eitel: Magnet hätte gern was Schönes zum Anziehen ++++
@@ -751,6 +753,7 @@
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
 ++++ Hat seinen Meister gefunden: Toter Trickbetrüger von Bestatter reingelegt ++++
 ++++ Hat seinen Reiz verloren: Mann hört mit ständiger Husterei auf ++++
+++++ Hat's faustdick hinter den Ohren: Tumorpatient betrügt Krankenkasse ++++
 ++++ Hat sich abgezeichnet: Künstler verlegt sich auf Selbstportraits ++++
 ++++ Hat sich aus dem Staub gemacht: Künstler kreiert Selbstportrait aus Dreck ++++
 ++++ Hat sich ausgezahlt: Croupier veruntreut Gelder ++++
@@ -976,6 +979,7 @@
 ++++ Klar abgehängt: PKW gewinnt ungleiches Rennen gegen Wohnwagen ++++
 ++++ Klasse gehalten: Torhüterleistung verhindert Abstieg ++++
 ++++ Klebstoff klebt nicht richtig: Haftbefehl erlassen ++++
+++++ Klein beigegeben: Swinger lässt sich zu Natursektspielen überreden ++++
 ++++ Kleine Erhebung: Mücke nahm Stichprobe ++++
 ++++ Kleiner Wurm: Timmy (9) verwendet Malware, um Trojaner zu zeichnen ++++
 ++++ Kleine Tochter hat ihm die Augen geöffnet: Auch am Wochenende kann man schon um 6 Uhr aufstehen ++++
@@ -1119,6 +1123,7 @@
 ++++ Manila morgens nass: Sinnloses Anagramm ++++
 ++++ Mann doch kein Hypochonder: "Ich hatte mir das nur eingebildet" ++++
 ++++ Manni poliert: Frau zwingt Ehemann durch Hypnose zum Putzen ++++
+++++ Mann, Mann, Mann: CDU nicht offen für neue Beziehungsmodelle ++++
 ++++ Mann stutzte, als er es erfuhr: Frau steht auf Intimrasur ++++
 ++++ Marktstudie: Rolls Royce immer noch der Rolls Royce unter den Autos ++++
 ++++ Masse statt Klasse: Vierte Newstickerzeile absolut entbehrlich ++++
@@ -1215,6 +1220,7 @@
 ++++ Nahm sich ein Herz: Mutiger Chirurg zeigt kleptomanischen Kollegen an ++++
 ++++ Napoli: Italienischer Nudeldieb geht Polizei in die Farfalle ++++
 ++++ Nasen-OP missglückt: Schönheitschirurg befürchtet Gesichtsverlust ++++
+++++ Nase voll: Popelsammler gibt Hobby auf ++++
 ++++ Naseweis: Kokainsüchtige werden immer vorlauter ++++
 ++++ Nass geworden: Fußgänger hatte Niederschlag nicht auf dem Schirm ++++
 ++++ Nerven verloren: Neurochirurg hat schlampig gearbeitet ++++
@@ -1638,6 +1644,7 @@
 ++++ Spannend: Voyeur ++++
 ++++ Spargel: Haarfestiger im Sonderangebot ++++
 ++++ Spaß bei der Arbeit: Nacktputzerin wischt feucht durch ++++
+++++ Spaßbremse: TÜV findet in Auto verbauten Scherzartikel nicht lustig ++++
 ++++ Spaß dank Sextanten: Matrosen finden Weg ins Rotlichtviertel ++++
 ++++ Spaß in der Mittagspause: Spiegelkabinett-Besitzer verzerrt sein Pausenbrot ++++
 ++++ Spätzünder: Selbstmordattentäter werden immer älter ++++
