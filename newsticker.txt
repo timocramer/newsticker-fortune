@@ -414,6 +414,7 @@
 ++++ Eine Runde gedreht: Radfahrer bringt adipöse Frau zu Fall ++++
 ++++ Einfach abgehauen: Henker verlässt Marktplatz wortlos ++++
 ++++ Einfach abgehauen: Weihnachtsbaum-Räuber auf der Flucht ++++
+++++ Einfach nur krank: Nachlässiger Arzt stellt Pauschaldiagnosen ++++
 ++++ Einfach Spitze: Name des höchsten deutschen Bergs soll verkürzt werden ++++
 ++++ Einfach weggerannt: Klingelputzer verzichtet auf seinen Lohn ++++
 ++++ Einfach zum Kotzen: Brechstange ++++
@@ -826,6 +827,7 @@
 ++++ Huhn erblindet: Korn war selbstgebrannt ++++
 ++++ Humbug: Brite will Biene mit Käfer gekreuzt haben ++++
 ++++ Hund enttäuscht: Neuer Freßnapf war für die Katz ++++
+++++ Hunderte Franken verloren: Schweizer Menschenhändler macht großen Verlust ++++
 ++++ Hundesteuerflucht: Deutsche Dogge verlegt Haupthundehütte in die Schweiz ++++
 ++++ Hund zufrieden: Floh abgekratzt ++++
 ++++ "Ich glaub, mein Schwein pfeift!": Bauer leidet an Tinnitus ++++
@@ -987,6 +989,7 @@
 ++++ Kleinkind am Boden zerstört: Schäferhund zog Leine ++++
 ++++ Klotz am Bein: Mafia beseitigt Kronzeugen ++++
 ++++ Knall auf Fall: Kriminalbeamter nach Verbrechensaufklärung in psychologischer Behandlung ++++
+++++ Knebelvertrag: Pornodarstellerin muss bei Bondagefilmen mitspielen ++++
 ++++ Knöchel verstaucht: Rockstar kann nicht auftreten ++++
 ++++ Knochenjob: Chiropraktiker klagt über hohe Arbeitsbelastung ++++
 ++++ Kocht auch nur mit Wasser: Wasserkocher ++++
@@ -1000,6 +1003,7 @@
 ++++ Kommt nicht gut rüber: Stabhochspringer erscheint betrunken zum Wettkampf ++++
 ++++ Kommt nicht in die Tüte: Kiffer verzichtet auf Tabak ++++
 ++++ Kommt nicht in die Tüte: Mann hat keine Lust auf Kondom ++++
+++++ Kommt nicht mehr klar: Junkie geht nur noch high zur Arbeit ++++
 ++++ Kommt nicht zum Tragen: Umzugshelfer ohne gültigen Vertrag ++++
 ++++ Kommt nicht zu Potte: Haschdealer hat Nachschubprobleme ++++
 ++++ Kommt nur langsam darüber hinweg: Mann hat Angst vor Schlaglöchern ++++
@@ -1263,6 +1267,7 @@
 ++++ Nichts als Rügen: Ostseeinsel-Urlauber unzufrieden ++++
 ++++ Nichts darf passieren: Sicherheitswahn legt Verkehr lahm ++++
 ++++ Nicht sehr berauschend: Mann enttäuscht von schlechtem Koks ++++
+++++ Nicht sein Bier: Braumeister ist Konkurrenz egal ++++
 ++++ Nicht sein Tag: Graffitikünstler wegen fremder Schmierereien verhaftet ++++
 ++++ Nichts hat geklappt: Mann reklamiert faltbare Gartenmöbel ++++
 ++++ Nichts mehr zu machen: Produktionsbetrieb muss Insolvenz anmelden ++++
@@ -1786,6 +1791,7 @@
 ++++ Überfall: Punkräuber erbeuten zwei Sicherheitsnadeln, 4,73 Euro und eine Ratte ++++
 ++++ Überfordert: Fotograf fordert Entwicklungshilfe ++++
 ++++ Überfordert: Geigerzähler verliert bei Opernaufführung den Überblick ++++
+++++ Überführt: Autoschieber hatte Kontakte ins Ausland ++++
 ++++ Übergroße Abteile: Niemand wartete auf ihn im Kloster ++++
 ++++ Überraschend verlaufen: Warentest deckt Mängel bei Wimperntusche auf ++++
 ++++ Überraschung: Meteorologe konnte Kugelhagel, in dem er starb, nicht vorhersagen ++++
@@ -1967,6 +1973,7 @@
 ++++ Wäscherei: defekte Wäschemangel schuld am Wäschemangel ++++
 ++++ "Was fällt Ihnen ein?": Alte Menschen empört über Demenz-Befragung ++++
 ++++ Was für ein Finnisch: Sprinter überzeugt mit Fremdsprachenkenntnissen ++++
+++++ Was für ein Honk: Mann betätigt wiederholt laute Hupe ++++
 ++++ Was für ein Jammer: Jazzmusiker verstorben ++++
 ++++ Was für ein Loser: Mann zieht nur Nieten ++++
 ++++ Was für ein Riesenarsch: Chef mobbt Mitarbeiterin wegen ihres Hinterns ++++
