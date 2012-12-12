@@ -147,6 +147,7 @@
 ++++ Ausgefallene Frisur: Glatze ++++
 ++++ Ausgefallenes Geschenk: Milchzahn ++++
 ++++ Ausgefallen: Intendant sagt Premiere in grün-gelb-kariertem Röckchen ab ++++
+++++ Ausgefeilt: Häftling entkommt durch cleveren Plan aus Gefängnis ++++
 ++++ Ausgenutzt: Rinder sind die Melkkühe der Nation ++++
 ++++ Ausgepackt: zip-Dateien machen sich .rar ++++
 ++++ Ausgeräumt: Verdacht auf Wohnungseinbruch ++++
@@ -389,6 +390,7 @@
 ++++ Dreist: I für Buchstabhochsprung über H missbraucht ++++
 ++++ Dreist: Schiedsrichter raucht Pfeife ++++
 ++++ Drogen-Razzia misslungen: Dealer waren Fixer ++++
+++++ Drückend überlegen: Mann löst auch schwierigste Kreuzworträtsel auf der Toilette ++++
 ++++ Drücken sich vor der Arbeit: Familientherapeuten ++++
 ++++ Dumm gelaufen: Model umgeknickt ++++
 ++++ Durch Aus verdient: Linienrichter erhielt 20.000 EUR ++++
@@ -656,6 +658,7 @@
 ++++ Ging daneben: Stalker von Opfer erwischt ++++
 ++++ Ging durch Geschosse zu Boden: Mann in herabfahrendem Aufzug erschossen ++++
 ++++ Ging nach hinten los: Tänzer verstaucht sich bei Moonwalk den Fuß ++++
+++++ Gips nicht: Arzt verweigert Beinbruchpatienten die Behandlung ++++
 ++++ Glanzparade: Festlicher Umzug zu Ehren von Torwart durchgeführt ++++
 ++++ Glatt gelogen: Werbeversprechen für Faltencreme sorgt für Stirnrunzeln ++++
 ++++ Gleitzeit im Bordell: Angestellte können kommen, wann sie wollen ++++
@@ -748,6 +751,7 @@
 ++++ Hat genug von Stromschlägen: Briefträger weigert sich, E-Mails zuzustellen ++++
 ++++ Hat gestanden: Angeblicher Rollstuhlfahrer gibt Regelverstoß bei Paralympics zu ++++
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
+++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
 ++++ Hat keinen Bock: Schäfer muss selbst ran ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
@@ -908,6 +912,7 @@
 ++++ Kalenderdiebstahl: Beide Täter bekommen sechs Monate ++++
 ++++ Kaltblütig: Pferd wirft Reiter ab ++++
 ++++ Kälter als man denkt: Griff ins Klo ++++
+++++ Kameradenschwein: Feldwebel schlachtet Truppenmaskottchen ++++
 ++++ Kam früher im Kino: Der WiXXer ++++
 ++++ Kam mit dem Druck nicht zurecht: Printmediengestalter kündigt seinen Job ++++
 ++++ Kam nicht drüber weg: Stuntbiker nach Sturz in Schlucht ein gebrochener Mann ++++
@@ -1498,6 +1503,7 @@
 ++++ Sauerei: Genforscher kreuzen Huhn mit Zitrone ++++
 ++++ Sauerei: Kinder-Überraschung ab sofort nur noch mit Zitronengeschmack ++++
 ++++ Sauerei: Zitronen-Omelette ++++
+++++ Saugt nicht mehr: Prostituierte wegen defekten Haushaltsgeräts daheim geblieben ++++
 ++++ Sauwetter: Trotz Regen viele Besucher bei Schweinerennen ++++
 ++++ Schaben: So bekommt man plattgehauenes Ungeziefer von der Wand ++++
 ++++ Schach: Amokläufer schlägt 3 Bauern, Turm, Dame und König ++++
@@ -1632,6 +1638,7 @@
 ++++ Sodomieverdacht: Schäfer steckt in Dilemma ++++
 ++++ SoDoMi: Tierhandlung nur dreimal pro Woche geöffnet ++++
 ++++ So ein Jammer: Geiger wegen Improvisierens aus Orchester geworfen ++++
+++++ So ein Schlitzohr: Friseur versteckt kleines Malheur gekonnt unter Dauerwelle ++++
 ++++ So ein Schweinehund: Kreuzung bei Rot überfahren ++++
 ++++ So ein Twixer: Mr. Tom snickert Kit-Kat an den Mars und bekommt voll in die Nuts ++++
 ++++ So gut wie nie: Lob für Mitarbeiter ++++
