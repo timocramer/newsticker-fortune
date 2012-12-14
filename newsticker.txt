@@ -27,6 +27,7 @@
 ++++ Absehbar: Raupe entpuppt sich als Schmetterling ++++
 ++++ Absolut nichts in der Birne: Unfähiger Ingenieur baut komplett leere Glühlampe ++++
 ++++ Abstoßend: Torwart ++++
+++++ Abt verlegt die Bibel: Seine Mönche haben sie schon abgeschrieben ++++
 ++++ Abzug: US-Truppen im Irak freuen sich auf Rückkehr nach Afghanistan ++++
 ++++ Ach du grüne Neune: Erster Bio-Kegelclub gegründet ++++
 ++++ Achse des Bösen: Grund für Pannenserie bei Toyota endlich gefunden ++++
@@ -300,6 +301,7 @@
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
 ++++ Da muss sie erstmal schlucken: Pornodebütantin bekommt harte Auflagen ++++
 ++++ Danach kräht kein Hahn mehr: Bauer schlachtet noch wie im Mittelalter ++++
+++++ Danach kräht kein Hahn mehr: Vogelgrippe ++++
 ++++ Daran führt kein Weg vorbei: Drive-In-Lokal muss Insolvenz anmelden ++++
 ++++ Darauf ein Hoch: Wetterkarte ++++
 ++++ Darauf kannst du einen lassen: Dachdecker von Qualität seiner Arbeit überzeugt ++++
@@ -465,6 +467,7 @@
 ++++ Er hält den Rand: Südafrikanischer Zeuge nahm Schweigegeld ++++
 ++++ Er hat gestanden: Mann gibt zu, WC verschmutzt zu haben ++++
 ++++ Er hatte keinen Schimmer: Juwelier lässt sich gefälschten Diamanten andrehen ++++
+++++ Er kennt seine Rechte: Teenager weiß, dass Selbstbefriedigung nicht verboten ist ++++
 ++++ Er kriegt die Krise: Ministerialbeamter bekommt Euro-Rettung zugewiesen ++++
 ++++ Er kriegt die Motten: Sohn des Schmetterlingszüchters über Testament entsetzt ++++
 ++++ Ernster Wasserschaden: Klempner geht zu Lachen in den Keller ++++
@@ -545,6 +548,7 @@
 ++++ Flüchtigkeitsfehler: Gefängnisausbruch gescheitert ++++
 ++++ Förderung eingestellt: Kohle nicht mehr subventioniert ++++
 ++++ Forscher: Schüchterner Wissenschaftler findet heraus, wie Frauen angesprochen werden müssen ++++
+++++ Forsch: Wissenschaftler missfällt Umgangston im Labor ++++
 ++++ Förster entlassen: Waldbesitzer kündigte wegen Eichenbedarf ++++
 ++++ Französischer Freund aus Übersee: Ami ++++
 ++++ Frau lag daneben: Mann kann auch alleine Spaß im Bett haben ++++
@@ -1490,6 +1494,7 @@
 ++++ Sahara: Libyscher Vogelkundler macht überraschende Beobachtung ++++
 ++++ Sah nach Meer aus: Ostsee kleiner als gedacht ++++
 ++++ Sah nie Täter: Rettungsfahrer ist kein hilfreicher Zeuge ++++
+++++ Sah seine Zukunft in der Glaskugel: Goldfisch findet neues Zuhause mit Hilfe eines Wahrsagers ++++
 ++++ Sah Tiere: Journalist schreibt spöttischen Bericht über Zoobesuch ++++
 ++++ Saisonbedingt: Leiter bekommt Sommersprossen ++++
 ++++ Saldo Mortale: Artist stürzt sich nach Blick auf seinen Kontoauszug in den Tod ++++
@@ -1643,6 +1648,7 @@
 ++++ So ein Twixer: Mr. Tom snickert Kit-Kat an den Mars und bekommt voll in die Nuts ++++
 ++++ So gut wie nie: Lob für Mitarbeiter ++++
 ++++ So lala: Neues Musical erhält mittelmäßige Kritiken ++++
+++++ Soll Daten verkaufen: Bundeswehr gibt persönliche Informationen an Dritte weiter ++++
 ++++ Soll keine Anstalten machen: Stadt kündigt Vertrag mit Bauunternehmen ++++
 ++++ Soll nicht sein: Bankkunde beschwert sich über fehlerhafte Abbuchung ++++
 ++++ Sollte die Kirche im Dorf lassen: Gefeuerter Priester verlangt heftige Abfindung ++++
@@ -2094,6 +2100,7 @@
 ++++ Zu durchsichtig: Hypochonder täuscht Glasknochenkrankheit vor ++++
 ++++ Zu Ende gedacht: Philosoph will sich der Praxis widmen ++++
 ++++ Zufallstreffen in afrikanischem Waisenhaus: Madonna und Angelina Jolie adoptieren sich gegenseitig ++++
+++++ Zu faul zum Arbeiten: Chef fuhr mit Angestellten Schlitten ++++
 ++++ Zügellos: Reiter hat Pferd nicht unter Kontrolle ++++
 ++++ Zu gut: Gewiefter Ladendieb steckt Kaufhausdetektive in die Tasche ++++
 ++++ Zug verpasst: Schachspieler von Turnier ausgeschlossen ++++
