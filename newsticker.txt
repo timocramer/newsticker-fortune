@@ -191,6 +191,7 @@
 ++++ Bei Drogen-Experiment: Kiffer beißt ins Gras ++++
 ++++ Beifuß: Hund apportiert Heilkraut ++++
 ++++ Bei Großwildjagd: Legolas verliert Elfenbein ++++
+++++ Beim Shoppen zu wählerisch?: Frau will sich diesen Schuh nicht anziehen ++++
 ++++ Beinahe über den Jordan gegangen: Israeli fiel von Brücke ++++
 ++++ Bei Norditalienbesuch in den Po gestoßen: Papst treibt ab ++++
 ++++ Bei Produktionsfehlern: Pattex haftet nicht ++++
@@ -437,6 +438,7 @@
 ++++ Einleuchtend: Proktologe arbeitet mit Helmlampe ++++
 ++++ Ein paar Radler gekippt: Betrunkener Autofahrer verletzt mehrere Verkehrsteilnehmer ++++
 ++++ Einsame Klasse: Wunderkind erhält Privatunterricht ++++
+++++ Einsame Spitze: Hunde-Datingservice verzeichnet Rekordanmeldezahlen ++++
 ++++ Einsame Spitze: Matterhorn nicht zu Gipfeltreffen eingeladen ++++
 ++++ Einsatzbefehl: Soldaten an der Front zu prägnanter Ausdrucksweise verdonnert ++++
 ++++ Ein Tag für die Tonne: Müllmann unzufrieden mit seinem Job ++++
@@ -785,6 +787,7 @@
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
 ++++ Hausaufgaben: Soldaten müssen Rückzug aus Wohngebieten üben ++++
 ++++ Hausgemacht: Maurer genießt Brotzeit beim Richtfest ++++
+++++ Hausmeister machen das unter sich aus: Keller bleiben dunkel ++++
 ++++ Haus weg: Immobilienmakler stoßen auf Vertragsabschluß an ++++
 ++++ Haut ab: Chirurg nach illegaler Beschneidung auf der Flucht ++++
 ++++ Häute im Angebot: Günstige Lederwaren ++++
@@ -1029,6 +1032,7 @@
 ++++ Können sie sich abschminken: Make-Up macht Frauen nicht schöner ++++
 ++++ Konnte doch noch bei ihm landen: Flotte Biene traf ihren alten Schwarm wieder ++++
 ++++ Konnte einen Teilerfolg erzielen: Moses am Roten Meer ++++
+++++ Konnte es mit ihm einfach nicht aufnehmen: Schüchterner Musiker entlässt dominanten Tontechniker ++++
 ++++ Konnte keinem etwas abschlagen: Gutmütiger Henker total ruiniert ++++
 ++++ Konnte niemandem das Wasser reichen: Kellner entlassen ++++
 ++++ Konsequent: Boxer haut Siegprämie auf den Kopf ++++
@@ -1298,6 +1302,7 @@
 ++++ Niedrige Löhne: Immer häufiger wird der Beruf zum Hobby ++++
 ++++ Niemand kommt: Erstes Treffen der Anonymen Impotenten erfolgreich abgehalten ++++
 ++++ Nimmt bizarre Züge an: Pfusch in der Einkaufsabteilung der Deutschen Bahn ++++
+++++ Nimmt die Beine in die Hand: Kannibale isst aus Zeitmangel ohne Besteck ++++
 ++++ Niobsbotschaft: 41. Element äußerst selten ++++
 ++++ Nix gerissen: Deutsche Gewichtheber enttäuschen bei Olympia ++++
 ++++ Nix los: Nur ein Besucher bei Singleparty ++++
@@ -1944,6 +1949,7 @@
 ++++ Volle Deckung: Hündin wirft Welpen ++++
 ++++ Voll fett: Ghetto-Bauer erntet Gangsta-Raps ++++
 ++++ Völlig aufgelöst: Hinterbliebene von Säureopfer trauern ++++
+++++ Völlig überzogen: Teebeutel zwei Stunden in Tasse gelassen ++++
 ++++ Völlig vermessen: Frau bestellt 200 Meter Goldbrokat für Abendkleid ++++
 ++++ Völlig verschwitzt: Vater vergisst, sein Kind in der Sauna abzuholen ++++
 ++++ Völlig von der Rolle: Tesa-Streifen zu 3 Jahren Haft verurteilt ++++
@@ -2062,6 +2068,7 @@
 ++++ Will sich nicht für Karriere verbiegen müssen: Schlangenmensch kündigt ++++
 ++++ Wird ins Auge gehen: Tornadoforscher will mitten in Sturmzentrum ++++
 ++++ Wirft kein gutes Licht auf die Stadt: Schon wieder eine defekte Straßenlaterne ++++
+++++ Wirft schlechtes Licht auf seinen Charakter: Schauspieler verprügelt Beleuchter ++++
 ++++ Wirkt auf den ersten Blick nackt: Schlumpf im Blaumann ++++
 ++++ Wirkt gefasst: Verbrecher nach Flucht wieder hinter Gittern ++++
 ++++ Wirkt ziemlich aufgesetzt: Teewasser ++++
