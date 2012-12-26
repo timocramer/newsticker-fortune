@@ -198,6 +198,7 @@
 ++++ Bei Produktionsfehlern: Pattex haftet nicht ++++
 ++++ Bei Prügelei Schuh verloren: Schläger auf freiem Fuß ++++
 ++++ Beispiellos: z. ++++
+++++ Bekam eine geklebt: Mann überzeugt TÜV-Prüfer mit Nachdruck zu Plakettenvergabe ++++
 ++++ Bekommt immer mehr Anhänger: Leistungsstarker neuer Traktor ++++
 ++++ Béla rät die: Fußballkommentator erkennt Spieler nicht ++++
 ++++ Belastungstest für neuen Fußgängersteg: Alle draufgegangen ++++
@@ -309,6 +310,7 @@
 ++++ Daran führt kein Weg vorbei: Drive-In-Lokal muss Insolvenz anmelden ++++
 ++++ Darauf ein Hoch: Wetterkarte ++++
 ++++ Darauf kannst du einen lassen: Dachdecker von Qualität seiner Arbeit überzeugt ++++
+++++ Darauf steht die Domina: Am Boden liegender Sklave ++++
 ++++ Darum dreht sich alles: Alkohol ++++
 ++++ Da scheiden sich die Geister: Braucht das Jenseits ein Gericht für nachträgliche Eheauflösungen? ++++
 ++++ Das Ende vom Lid: Wimpern ++++
@@ -452,6 +454,7 @@
 ++++ Eklat: Internationaler Clownkongress gerät zur Farce ++++
 ++++ Eklat: Sturm der Entrüstung löst Weltfrieden aus ++++
 ++++ Endgültiges Aus: Lichtschalter kriegt sich nicht mehr ein ++++
+++++ Endlich die richtige Kreuzung gefunden: Rosenzüchter kommt gerade noch rechtzeitig zur Preisverleihung ++++
 ++++ Endlich eine Reaktion: Chemiker melden Erfolg nach zwölf Wochen im Labor ++++
 ++++ Endlich gen Italien: Familie freut sich auf FKK-Urlaub ++++
 ++++ Endlich Heil: Nazi kann gebrochenen rechten Arm wieder heben ++++
@@ -754,6 +757,7 @@
 ++++ Hat die Nase vorn: Fast jeder ++++
 ++++ Hat einen ziehen lassen: Glücksfee wegen Blähungen verhindert ++++
 ++++ Hat ein Händchen für sowas: Kannibale bereitet Kinderteller zu ++++
+++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
 ++++ Hat er nicht gerafft: Hausmann hängt Gardinen falsch auf ++++
 ++++ Hat Gänsefüßchen: "Gänseküken" ++++
 ++++ Hat gefunkt: Kommissar hielt Polizeistreife über sein Date auf dem Laufenden ++++
@@ -947,6 +951,7 @@
 ++++ Kann man knicken: Origamischule bringt nur wenig bei ++++
 ++++ Kann man sich aus dem Kopf schlagen: Teure Kontaktlinsen ++++
 ++++ Kann nichts belegen: Entlassener Brötchenschmierer vor Arbeitsgericht erfolglos ++++
+++++ Kann nicht Schritt halten: Tanga-Hersteller meldet Konkurs an ++++
 ++++ Kann nur Summen: Biene bei Rechenwettbewerb chancenlos ++++
 ++++ Kann passieren: Drogenschmuggel bei Grenzkontrolle nicht aufgeflogen ++++
 ++++ Kann seinem Enkel nicht folgen: Opa versteht Twitter nicht ++++
@@ -964,6 +969,7 @@
 ++++ Käsereibedarf: Käsereibe darf, muss aber nicht ++++
 ++++ Katerstimmung: Jammernde Katze fliegt aus Miezhaus ++++
 ++++ Katzenberger bescheiden: "Ich tat nur meinen Job als Feuerwehrmann!" ++++
+++++ Kauf von Bodenheizung kurzfristig widerrufen: Mann bekam kalte Füße ++++
 ++++ Kaum zu fassen: Der springende Punkt ++++
 ++++ Kehrt zum Tatort zurück: Mörder kurz vor Ende der Tagesschau wieder zu Hause ++++
 ++++ Kein Biss: ARD-Intendant unzufrieden mit seinen Dritten ++++
@@ -1091,6 +1097,7 @@
 ++++ Lässt tief blicken: Billighotel schenkt dünnen Kaffee aus ++++
 ++++ Läuft ja wie geschmiert: Bestochener Sprinter verliert ++++
 ++++ Läuft über: Syrischer Rebell manipuliert Assads Toilette ++++
+++++ Läuft wie geschmiert: Ermittler erkennt Betrüger sofort an der Gangart ++++
 ++++ Lausanne: Schweizer Schülerin wegen Kopfparasiten gemobbt ++++
 ++++ Laus: Chinese versucht, Parasiten zu verscheuchen ++++
 ++++ Laus über Leber gelaufen: Arzt verärgert über Hygienezustände in Krankenhaus ++++
