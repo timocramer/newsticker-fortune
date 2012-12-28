@@ -546,6 +546,7 @@
 ++++ Findet einfach keine Worte: Mann ließ sich leeren Duden andrehen ++++
 ++++ Findet keinen Angelköder: Den Fänger wurmt der frühe Vogel ++++
 ++++ Findet reißenden Absatz: Neuartiger Schuhfehler-Detektor verkauft sich gut ++++
+++++ Fingerfertig: Prothesenhersteller erfüllt Auftrag früher als geplant ++++
 ++++ Finger verbrannt: Engländer hatte einen im Tee ++++
 ++++ Fisch nicht frisch: Rochen rochen ++++
 ++++ Fischt frische Fische: Fischers Fritz ++++
@@ -1013,6 +1014,7 @@
 ++++ Kleine Tochter hat ihm die Augen geöffnet: Auch am Wochenende kann man schon um 6 Uhr aufstehen ++++
 ++++ Kleinkariert: Lehrerin bestraft Musterschüler ++++
 ++++ Kleinkind am Boden zerstört: Schäferhund zog Leine ++++
+++++ Klopft auf Holz: Lebend Begrabener hofft, zeitnah bemerkt zu werden ++++
 ++++ Klotz am Bein: Mafia beseitigt Kronzeugen ++++
 ++++ Knall auf Fall: Kriminalbeamter nach Verbrechensaufklärung in psychologischer Behandlung ++++
 ++++ Knebelvertrag: Pornodarstellerin muss bei Bondagefilmen mitspielen ++++
@@ -1111,10 +1113,12 @@
 ++++ "Leck mich doch am Arsch!": Frau genervt, dass sie Sexvorlieben ständig wiederholen muss ++++
 ++++ Leckscreen: Neue iPhone-App ermöglicht interaktives Eisessen ++++
 ++++ Leder zappelt im Netz: Omas in Strapsen spielen Fußball ++++
+++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
 ++++ Leichtgläubig: Naive Menschen sind schwindelerregend ++++
 ++++ Leidet nicht mehr an Krebs: Gläubiger in Heilquelle ertrunken ++++
 ++++ Letzter Satz: "Von dem Gewitter lasse ich mir doch nicht mein Tennisspiel ruinieren!" ++++
 ++++ Letzter Wunsch: Staubsaugervertreter will, dass seine Asche auf den Teppichen von potentiellen Kunden verstreut wird ++++
+++++ Letzte Vorkehrungen: Party-Gastgeber reinigt nochmal den Fußboden ++++
 ++++ Libyen: Bauern protestieren gegen Pflugverbotszone ++++
 ++++ Liegt auf der Hand: Nekrophiler bewahrt Leichenteile am liebsten im Bett auf ++++
 ++++ Liegt in seiner Natur: Fauler König besucht regelmäßig Residenz im Grünen ++++
@@ -1585,6 +1589,7 @@
 ++++ Schnitzeljagdunfall: Jägerschnitzel von Panierraupe überfahren ++++
 ++++ Schock fürs Leben: Defibrillator ++++
 ++++ Schön, dass er es einrichten konnte: Innenarchitekt gestaltet Wohnzimmer trotz Termindrucks ++++
+++++ Schöne Bescherung: Edward bekommt neue Hände ++++
 ++++ Schon gespannt: Sportbogenschütze wartet auf seinen Sohn (9) vor Schule ++++
 ++++ Schon vor 3000 Jahren: China hatte als erstes Land eigene Webseide ++++
 ++++ Schraube locker: Mutter dreht durch ++++
@@ -2037,6 +2042,7 @@
 ++++ Wegen weihnachtlichem Umsatzplus: Parfümeriebesitzer singt Eau du Fröhliche ++++
 ++++ Weg ist das Ziel: Frau wirft prügelnden Ehemann von Balkon ++++
 ++++ Weichen gestellt: Geschlechtsverkehr kann endlich stattfinden ++++
+++++ Weihnachtsmann packt aus: Kinder oft zu faul, um Geschenkpapier selbst zu entfernen ++++
 ++++ Weihnachtswunder: Schuldner werden gläubiger ++++
 ++++ Weihwasserexzess: Pfarrer beim Komataufen erwischt ++++
 ++++ Weil am Rhein: Stadt profitiert von Schifffahrt ++++
@@ -2092,6 +2098,7 @@
 ++++ Wissenschaftler deckt auf: Spielkarte hat Vorder- und Rückseite ++++
 ++++ Wissenschaftler finden heraus: Labyrinth war zu einfach ++++
 ++++ Wollen mehr Geld: Prostituierte gehen für ihre Sache auf die Straße ++++
+++++ Wollte die Rinde nicht essen: Biberkind geht ohne Nachtisch schlafen ++++
 ++++ Wollten den Dax manipulieren: Betrüger wanderten in den Bau ++++
 ++++ Wollte nicht mehr: Bauer verkauft unrentables Schaf ++++
 ++++ Wollte nur spielen: Pitbull attackiert Croupier im Casino ++++
