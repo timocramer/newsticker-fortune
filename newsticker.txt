@@ -683,6 +683,7 @@
 ++++ Göttliche Fügung: Papst muss dran glauben ++++
 ++++ Gottverdammte Scheiße: Fluchlotsen wollen schon wieder streiken ++++
 ++++ Grässlich: Krise zieht kritische Kreise, reißt Chrysler in die Kreide ++++
+++++ Gratulation: Polizist ergreift rechte Hand von Mafiaboss ++++
 ++++ Grauer Star: Ornithologe traut seinen Augen nicht ++++
 ++++ Grausam: Messerblock brutal abgestochen ++++
 ++++ Grausam: Schlangenbeschwörer gibt seiner Geliebten einen Korb ++++
@@ -772,6 +773,7 @@
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
 ++++ Hat keinen Bock: Schäfer muss selbst ran ++++
+++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
 ++++ Hat seinen Meister gefunden: Toter Trickbetrüger von Bestatter reingelegt ++++
@@ -794,6 +796,7 @@
 ++++ Hätte schlimmer kommen können: Optimist in halbvoller Badewanne ertrunken ++++
 ++++ Hatte Zeit totzuschlagen: Mann mordete aus Langeweile ++++
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
+++++ Hat viele verschiedene Frauen: Mormone ist Witwer ++++
 ++++ Hausaufgaben: Soldaten müssen Rückzug aus Wohngebieten üben ++++
 ++++ Hausgemacht: Maurer genießt Brotzeit beim Richtfest ++++
 ++++ Hausmeister machen das unter sich aus: Keller bleiben dunkel ++++
@@ -1190,6 +1193,7 @@
 ++++ Missverstanden: Junggeselle fragt verheiratete Britin nach Date ++++
 ++++ Missverständnis im Chemielabor: Mitarbeiter löst Vertrag auf ++++
 ++++ Missverständnis: Kriminalbeamter hat sich verhört ++++
+++++ Mistgabel: Bauer verwünscht morsches Werkzeug ++++
 ++++ Mit Ach und Krach: Silvester trotz Verletzungen überstanden ++++
 ++++ Mit Autobombe bestückt: Mehrtürer ++++
 ++++ Mit Bußgeld belegt: Pizzabäcker verstieß gegen Hygienevorschriften ++++
@@ -1747,6 +1751,7 @@
 ++++ Stimmt nicht: Klavierbauer hat kein gutes Gehör ++++
 ++++ Stinkt zum Himmel: Mönche beharren auf Raucherabtei ++++
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
+++++ Stolz wie Oskar: Gregor Gysi gründet eigene Partei ++++
 ++++ St. Pauli: Immer mehr Zeitarbeit in Stundenhotels ++++
 ++++ Strafftat: Schönheitschirurg nutzt illegale Mittel zur Selbstentfaltung ++++
 ++++ Streng verdaulich: BND schließt Geheimkantine ++++
@@ -1980,6 +1985,7 @@
 ++++ Vollkommen durchgedreht: Mann steckt Arm absichtlich in Fleischwolf ++++
 ++++ Vollpfosten: Stürmer schießt entscheidenden Elfmeter genau ans Aluminium ++++
 ++++ Voll schlecht: Leergut ++++
+++++ Vom Hype genervt: Skateboard-Pionier beklagt zu viele Trittbrettfahrer ++++
 ++++ Vom Teufel geritten: Frau bringt Antichrist zur Welt ++++
 ++++ Von der Palme gewedelt: Plantagenbesitzer verscheucht onanierende Affen ++++
 ++++ Von documenta ausgeschlossen: Aktionskünstler hätte Rahmen gesprengt ++++
@@ -2073,6 +2079,7 @@
 ++++ Wieder gerade: Schönheitschirurg dreht krummes Ding ++++
 ++++ Wieder mal weit abgeschlagen: Unfähiger Golfer weiß nicht, wie man einlocht ++++
 ++++ Wieder mehr Gefreite: Soldatinnen als Ehefrauen begehrt ++++
+++++ Wie konnte er nur?: Armloser verprügelt wehrloses Kleinkind ++++
 ++++ Wie man's nimmt: Taschendieb schreibt praktischen Ratgeber ++++
 ++++ Wie tief kann man sinken? U-Boot-Kapitän zu betrunken, um einfache Fachfragen zu beantworten ++++
 ++++ Wie ungezogen: Wurzel aus 1 ++++
