@@ -356,6 +356,7 @@
 ++++ Dermatologe bestätigt: Hautreizung war ausschlaggebend ++++
 ++++ Der nächste Wurf muss sitzen: Bauer trainiert Ferkeln gute Tischmanieren an ++++
 ++++ Der Ofen ist aus: Ehe zerbricht an fehlender Wärme ++++
+++++ Der Plan ging nicht auf: Dschungelexpedition scheitert an verklebter Landkarte ++++
 ++++ Der Postillon schreibt rote Zahlen: 4, 17, 99, 1, 982 ++++
 ++++ Der Sake nach: Japanisches Getränk wurde am Reisbrett entworfen ++++
 ++++ Der seltsame Fall des Jenson Button: Formel-1-Pilot fährt Rennen rückwärts ++++
@@ -773,6 +774,7 @@
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
 ++++ Hat keinen Bock: Schäfer muss selbst ran ++++
+++++ Hat lange mit sich gekämpft: Schizophrener Boxer ringt sich zu Therapie durch ++++
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
@@ -979,6 +981,7 @@
 ++++ Katzenberger bescheiden: "Ich tat nur meinen Job als Feuerwehrmann!" ++++
 ++++ Kauf von Bodenheizung kurzfristig widerrufen: Mann bekam kalte Füße ++++
 ++++ Kaum zu fassen: Der springende Punkt ++++
+++++ Kehrt Wände: Neuer Vertikalbesen bringt Firma aus der Krise ++++
 ++++ Kehrt zum Tatort zurück: Mörder kurz vor Ende der Tagesschau wieder zu Hause ++++
 ++++ Kein Biss: ARD-Intendant unzufrieden mit seinen Dritten ++++
 ++++ Kein Ding: Frau findet Zeugungsunfähigkeit ihres Partners nicht schlimm ++++
@@ -1061,6 +1064,7 @@
 ++++ Kontra: Musiker wechselt auf die dunkle Saite und wird Bassith ++++
 ++++ Kontraproduktiv: Skat-Spieler geht immer volles Risiko ++++
 ++++ Kopflos: Henker haut ab ++++
+++++ Kopf oder zahl: Verschuldeter Glücksspieler erhält Morddrohung von Gläubiger ++++
 ++++ Kopf verdreht: Mann verliebt sich in Krankenschwester ++++
 ++++ "Koste es was es wolle": Vater erlaubt Kind, jedes Gericht auf Speisekarte zu probieren ++++
 ++++ Kostenlos: Schornsteinfeger geht aufs Haus ++++
@@ -1200,6 +1204,7 @@
 ++++ Mit dem Blasebalg vorm Kamin: Ministrant heizt Priester richtig ein ++++
 ++++ Mit dem Falschen angelegt: Bankrotter Boxer verprügelt unfähigen Börsenmakler ++++
 ++++ Mit den Nerven am Ende: Neurologe macht früher Feierabend ++++
+++++ Mit einem Schlag zu Ende: Ehe von Rafael und Sylvie van der Vaart ++++
 ++++ Mit Feldstecher: Liebestolle Frau in Kornfeld entdeckt ++++
 ++++ Mit Hochspannung erwartet: Gemeinde freut sich auf Stromanschluss ++++
 ++++ Mit Kater erwacht: Katze kann sich an nichts erinnern ++++
@@ -1667,6 +1672,7 @@
 ++++ Sieht ihm ähnlich: Eineiiger Zwilling hat Sex mit ahnungsloser Schwägerin ++++
 ++++ Sieht ihm wieder mal ähnlich: Narzisstischer Bildhauer fertigt neue Skulptur an ++++
 ++++ Sieht mitgenommen aus: Mann ist müde vom Trampen ++++
+++++ Sieht schwarz: Pessimist sicher, dass GEZ ihn früher oder später erwischt ++++
 ++++ Single Malt: Junggeselle zeichnet im Whiskyrausch ++++
 ++++ Singvogel-OP: Tierarzt entfernt Nachtigallensteine ++++
 ++++ Sisyphusarbeit: Österreichische Kaiserin benötigt ständig Pediküren ++++
@@ -2026,6 +2032,7 @@
 ++++ Wärmstens zu empfehlen: Glühwein ++++
 ++++ Warm und feucht: Wetter outet sich als schwül ++++
 ++++ War nicht angemessen: Anzug von der Stange ++++
+++++ War reserviert: Introvertierter Mann bekam keinen Tisch im Restaurant ++++
 ++++ "Warum funktioniert das Ding nicht?": Rasensprengerverkäufer steht auf dem Schlauch ++++
 ++++ War vorher klar: Kleinkind pinkelt ins Pool-Wasser ++++
 ++++ Wäscherei: defekte Wäschemangel schuld am Wäschemangel ++++
