@@ -328,6 +328,7 @@
 ++++ Das nagt an ihm: Mann muss Frettchen leider ins Tierheim geben ++++
 ++++ Das rentiert sich: Weihnachtsmann fliegt klimaneutral ++++
 ++++ Das schwächste Glied in der Kette: SM-Pornostar wegen Impotenz gefeuert ++++
+++++ Das sieht ihm ähnlich: Ehrgeiziger Gentechniker bastelt sich Klon-Kind ++++
 ++++ "Das sind doch nur wilde Spekulationen!": Deutsche-Bank-Chef spielt Risikobanking-Vorwürfe herunter ++++
 ++++ Da steht nix: Buch für impotente Männer enttäuschend ++++
 ++++ Das war knapp: Dicker Mann hätte T-Shirt beinahe in Größe S gekauft ++++
@@ -412,6 +413,7 @@
 ++++ Durch die Bank weg: Viele Anleger verlieren ihr Erspartes ++++
 ++++ Durcheinander gekommen: Tohuwabohu im Swingerclub ++++
 ++++ Durchgedreht: Fleischwolf droht 500 Gramm Rind, Hackfleisch aus ihm zu machen ++++
+++++ Durchgefallen: Dachdecker-Lehrling versagt bei Praxisprüfung ++++
 ++++ Durchgefallen: Falltür hat Test bestanden ++++
 ++++ Durchgeknallt: Mann schläft mit Irrer ++++
 ++++ Echt jetzt: Radfahrer hat Licht nur zum Schein ++++
@@ -429,6 +431,7 @@
 ++++ Eine Runde gedreht: Radfahrer bringt adipöse Frau zu Fall ++++
 ++++ Einfach abgehauen: Henker verlässt Marktplatz wortlos ++++
 ++++ Einfach abgehauen: Weihnachtsbaum-Räuber auf der Flucht ++++
+++++ Einfacher Durchschnitt: Chirurg findet seine Leistung nicht erwähnenswert ++++
 ++++ Einfach nur krank: Nachlässiger Arzt stellt Pauschaldiagnosen ++++
 ++++ Einfach Spitze: Name des höchsten deutschen Bergs soll verkürzt werden ++++
 ++++ Einfach weggerannt: Klingelputzer verzichtet auf seinen Lohn ++++
@@ -588,6 +591,7 @@
 ++++ Fussballgott: Thooooooooooooor ++++
 ++++ Fußnote: Käse^1 ++++
 ++++ Gab einen Menschenauflauf: Großer Andrang beim Kannibalen-Showcooking ++++
+++++ Gab ihr einen Korb: Weidenflechter verstand verliebte Kundin nicht ++++
 ++++ Gab stets ungefragt seinen Senf dazu: Nerviger Wurstbuden-Azubi gefeuert ++++
 ++++ Galgenhumor: Henker verwendet Bungeeseil ++++
 ++++ Gänsehaut pur: Gourmet begeistert von Delikatesse ++++
@@ -768,6 +772,7 @@
 ++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
 ++++ Hat er nicht gerafft: Hausmann hängt Gardinen falsch auf ++++
 ++++ Hat Gänsefüßchen: "Gänseküken" ++++
+++++ Hat ganz schön dran zu knabbern: Salzstangenfabrikant kämpft nach Silvester mit massiver Überproduktion ++++
 ++++ Hat gefunkt: Kommissar hielt Polizeistreife über sein Date auf dem Laufenden ++++
 ++++ Hat genug: Leidenschaftlicher Sammler gibt Hobby auf ++++
 ++++ Hat genug vom Streichen: Geiger pfeift auf Violine ++++
@@ -795,6 +800,7 @@
 ++++ Hat sich zu viel versprochen: Botschafter enttäuscht über neuen Dolmetscher ++++
 ++++ Hat sie nicht ausgefüllt: Dildo-Testerin kündigt Job ++++
 ++++ Hat sie nicht mehr alle: Mann hysterisch nach Verlust von Panini-Sticker ++++
+++++ Hat sie nicht mehr alle: Psychiatrische Klinik meldet Ausbrecher ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
 ++++ Hatte keinen Bock mehr: Einsames Schaf begeht Selbstmord ++++
 ++++ Hätte man auch anders lösen können: Mieter entfernt Tapete mit Vorschlaghammer ++++
@@ -1202,6 +1208,7 @@
 ++++ Missverstanden: Junggeselle fragt verheiratete Britin nach Date ++++
 ++++ Missverständnis im Chemielabor: Mitarbeiter löst Vertrag auf ++++
 ++++ Missverständnis: Kriminalbeamter hat sich verhört ++++
+++++ Mist für ihn: Sohn des Kompostunternehmers erbt einen feuchten Dreck ++++
 ++++ Mistgabel: Bauer verwünscht morsches Werkzeug ++++
 ++++ Mit Ach und Krach: Silvester trotz Verletzungen überstanden ++++
 ++++ Mit Autobombe bestückt: Mehrtürer ++++
