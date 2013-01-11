@@ -627,6 +627,7 @@
 ++++ Gehört zum guten Ton: Töpfer schließt Lehmsversicherung ab ++++
 ++++ Geht auf keine Kuhhaut: Bulle darf nie richtig ran ++++
 ++++ Geht auf keine Kuhhaut: Rodeoreiter streikt ++++
+++++ Geht doch: Beinamputierter übt Laufen auf Händen ++++
 ++++ Geht durch Mark und Bein: Pathologe führt neue Knochensäge vor ++++
 ++++ Geht ihm auf den Sack: Knecht Ruprecht ärgert Nikolaus ++++
 ++++ Geht ihm nicht ums Aussäen: Bauer sucht nur One-Night-Stands ++++
@@ -839,6 +840,7 @@
 ++++ Heuschrecken: Hungrige Kuh ++++
 ++++ Heute schon zum fünften Mal: Arzt diagnostiziert, dass er seinen Beruf nie wieder ausüben kann, weil er mit Alzheimer im Heim sitzt ++++
 ++++ Heute vor 1400 Jahren: Heiliger Bimbam erfindet Kirchenglocke ++++
+++++ Hieb- und Stichfest: Schläger und Messerstecher reichen fundierten Antrag auf eigenen Feiertag ein ++++
 ++++ Hielt nicht, was er versprach: Großmäuliger Torwart von Verein entlassen ++++
 ++++ Hieß Ledger: Heath ++++
 ++++ Hilft gegen Schleimspuren von Kriechtieren: Schneckentempo ++++
@@ -1016,6 +1018,7 @@
 ++++ Kein Sponsor in Sicht: Judo-Meister muss schwarzen Gürtel enger schnallen ++++
 ++++ Kein Tempo: Vettel hat die Nase voll ++++
 ++++ Kein Wachhund war ihm gut genug: Mann suchte sich einen Wolf ++++
+++++ Kein Wunder: Selbsternannter Prophet von Anhängern verlassen ++++
 ++++ Kein Zuckerschlecken: Arbeit im Salzbergwerk sehr hart ++++
 ++++ Kein Zuckerschlecken: Immer mehr Menschen leiden an Diabetes ++++
 ++++ Kennedy: Mann prahlt mit Kontakten in Politikerdynastie ++++
@@ -1047,6 +1050,7 @@
 ++++ Komisches Ding: Neuartige Glocke läutet merkwürdig ++++
 ++++ Kommt auf keinen grünen Zweig mehr: Gärtner von Arbeitgeber beim Onanieren erwischt ++++
 ++++ Kommt ganz groß raus: Elf Kilo schweres Kind geboren ++++
+++++ Kommt ihm entgegen: Suizident muss nicht mehr lange auf Zug warten ++++
 ++++ Kommt ihm gut gelegen: Almbauer hat einen Hang zum Skifahren ++++
 ++++ Kommt nach der Mutter: Sohn mit Ödipuskomplex ist sehr ausdauernd ++++
 ++++ Kommt nicht gut rüber: Stabhochspringer erscheint betrunken zum Wettkampf ++++
@@ -1258,6 +1262,7 @@
 ++++ Nach Einbruch: Eingetretene Tür braucht Spenderscharniere ++++
 ++++ Nach erfolgreicher Transplantation: Mann sieht die Welt jetzt mit anderen Augen ++++
 ++++ Nach furiosem Sprint übergeben: Staffelläufer holte alles aus sich heraus ++++
+++++ Nach jahrelangem Hin und Her: Alte Schaukel endlich abgerissen ++++
 ++++ Nach Jahren der Ruhe: Altes Möbelstück wird wegen Renovierungsarbeiten verrückt ++++
 ++++ Nachkommen bei Begräbnis unerwünscht: Die jungen Leute sind immer so unpünktlich ++++
 ++++ Nach Lampendiebstahl: Polizei tappt immer noch im Dunkeln ++++
@@ -1632,6 +1637,7 @@
 ++++ Schuss in den Ofen: Mordanschlag auf Pizzabäcker geht fehl ++++
 ++++ Schüttelt noch per Hand: Barkeeper befriedigt seinen Arbeitgeber ++++
 ++++ Schutzlos ausgeliefert: Pizzabote wegen vergessenen Kartons verprügelt ++++
+++++ Schwache Leistung: Elektriker installiert die falschen Lampen ++++
 ++++ Schwache Quoten: RTL setzt Pille ab ++++
 ++++ Schwamm drüber: Fisch ignoriert Angelhaken ++++
 ++++ Schwangerschaft einer Nudistin belegt: Es sind gar nicht Kleider, die Leute machen ++++
@@ -1796,6 +1802,7 @@
 ++++ Tag für Tag: Sprayer macht immer nur das gleiche ++++
 ++++ Taktlos: Dirigent gefeuert ++++
 ++++ Talk-Star: Englischsprechender Vogel entdeckt ++++
+++++ Tan-Codes vergeben: Sonnenbank geht online ++++
 ++++ TANs der Vampire: Untote nutzen sicheres Online-Blutbanking ++++
 ++++ Tarnung hat versagt: Vogelschwarm aufgeflogen ++++
 ++++ Tasten ab: Blinde PC-Nutzer haben hohen Keyboardverschleiß ++++
