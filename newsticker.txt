@@ -454,6 +454,7 @@
 ++++ Einsatzbefehl: Soldaten an der Front zu prägnanter Ausdrucksweise verdonnert ++++
 ++++ Ein Tag für die Tonne: Müllmann unzufrieden mit seinem Job ++++
 ++++ Ein toller Hecht: Angler fängt großen Raubfisch ++++
+++++ Ein Witz auf seine Kosten: Masochist kann nur gequält lächeln ++++
 ++++ Eisernes Kreuz: Arzt bekommt Orden für erfolgreiche Rückentransplantation ++++
 ++++ Eiskalt: Mann legt Schal um ++++
 ++++ Eitel: Magnet hätte gern was Schönes zum Anziehen ++++
@@ -897,6 +898,7 @@
 ++++ Im Regen stehengelassen: Zuckerberg völlig aufgelöst ++++
 ++++ Im Sande verlaufen: Suche nach verschwundenen Sahara-Touristen eingestellt ++++
 ++++ In aller Munde: Spucke ++++
+++++ In Bar: Mann bezahlt Drink mit Münzen und Scheinen ++++
 ++++ In Brand gesetzt: Feuerwehrleute testen wasserlose Löschmethode ++++
 ++++ In den falschen Hals bekommen: Frau nach Blowjob schwanger ++++
 ++++ In den Hintergrund getreten: Theater-Schauspieler bekommt nach Wutanfall nur noch kleine Rollen ++++
@@ -999,6 +1001,7 @@
 ++++ Kein Ding: Frau findet Zeugungsunfähigkeit ihres Partners nicht schlimm ++++
 ++++ Keine Ahnung vom Schlittenfahren: Eskimos gehen vor die Hunde ++++
 ++++ Keine Ausdauer: Schiedsrichter pfeift aus dem letzten Loch ++++
+++++ Keine Basis für eine gute Beziehung: Polarforscher ließ Polarforscherin zu wenig Freiraum ++++
 ++++ Keine Energie mehr: Perpetuum-Mobile-Forscher geben auf ++++
 ++++ Keine gute Figur gemacht: Miserabler Bildhauer muss Atelier schließen ++++
 ++++ Keine Kohle: Grill abgebrannt ++++
@@ -1238,6 +1241,7 @@
 ++++ Mundraub: Kieferchirurg erleichtert Patienten um vier Weisheitszähne ++++
 ++++ Mundraub: Opfer muss mit Magensonde ernährt werden ++++
 ++++ Muss er sich vorhalten lassen: Flugreisender kotzt ständig neben die Tüte ++++
+++++ Muss erst mal runterkommen: Mount Everest-Bezwinger völlig euphorisch ++++
 ++++ Muss kleine Brötchen backen: Bäcker spürt Getreidemangel am eigenen Laib ++++
 ++++ Muss nicht zum Bund: Hippie kommt ungeschoren davon ++++
 ++++ Muss noch viele Stellen streichen: Malerbetrieb vorerst nicht bankrott ++++
@@ -1799,6 +1803,7 @@
 ++++ Süßwarenfabrik: Mitarbeiter von unzufriedenem Chef gemarsriegelt ++++
 ++++ Tag der Entscheidung: Frau steht kurz vor Geschlechtsumwandlung ++++
 ++++ Tag des offenen Denkmals: Altes Schloss nicht zugelassen ++++
+++++ Tag ein, Tag aus: HTML-Programmierer beklagt monotone Arbeit ++++
 ++++ Tag für Tag: Sprayer macht immer nur das gleiche ++++
 ++++ Taktlos: Dirigent gefeuert ++++
 ++++ Talk-Star: Englischsprechender Vogel entdeckt ++++
@@ -2128,6 +2133,7 @@
 ++++ Will nicht mehr die zweite Geige spielen: Orchestermusiker geht flöten ++++
 ++++ Will nicht mit dem Strom schwimmen: Badegast verlässt bei Gewitter als einziger das Wasser ++++
 ++++ Will sich nicht für Karriere verbiegen müssen: Schlangenmensch kündigt ++++
+++++ Will sich selbst ein Bild machen: Messebesucher testet neuen Fotoapparat ++++
 ++++ Wird ins Auge gehen: Tornadoforscher will mitten in Sturmzentrum ++++
 ++++ Wirft kein gutes Licht auf die Stadt: Schon wieder eine defekte Straßenlaterne ++++
 ++++ Wirft schlechtes Licht auf seinen Charakter: Schauspieler verprügelt Beleuchter ++++
@@ -2164,6 +2170,7 @@
 ++++ Ziehen sich magisch an: Zaubererpaar spart morgens Zeit ++++
 ++++ Ziehen zusammen: Kokainsüchtige gründen Wohngemeinschaft ++++
 ++++ Ziehen zusammen: Pärchen versucht vergeblich, Tür zu gemeinsamer Wohnung zu öffnen ++++
+++++ Zieh, Sohn: Vater verleitet Stiefkind zum Rauchen ++++
 ++++ Zieht Leine: Mann hat keine Lust mehr auf Wäscheaufhängen ++++
 ++++ Zieht so gut wie immer: Tee ++++
 ++++ Zielgruppe: Onanist trifft hübsche Frauen ++++
