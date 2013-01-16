@@ -641,6 +641,7 @@
 ++++ Geht über Laichen: Skrupelloser Fischzüchter verrät Geheimnis seines Erfolgs ++++
 ++++ Geht vielen am Arsch vorbei: Tanga mit neuer Passform setzt sich nicht durch ++++
 ++++ Geht voll ab: Betrunkener fliegt von Schule ++++
+++++ Geht wieder unter Menschen: Kanalarbeiter von Krankheit genesen ++++
 ++++ "Gehweg!": Autofahrer verweist Fußgänger der Straße ++++
 ++++ Geil auf Menstruation: Vampirlesbe hat Blut geleckt ++++
 ++++ Geistesblitz: Vier Mitarbeiter einer Hamburger Werbeagentur erleiden Gehirnerschütterung bei Brain-Storming ++++
@@ -1132,6 +1133,7 @@
 ++++ Lausanne: Schweizer Schülerin wegen Kopfparasiten gemobbt ++++
 ++++ Laus: Chinese versucht, Parasiten zu verscheuchen ++++
 ++++ Laus über Leber gelaufen: Arzt verärgert über Hygienezustände in Krankenhaus ++++
+++++ Lauterbach tobt: Schauspieler stört Fließgewässer vor seinem Fenster ++++
 ++++ Lebensretter: Pistolenkugel in Brusttasche lenkt geworfene Bibel ab ++++
 ++++ Lebt über seine Verhältnisse: Heiratsschwindler ++++
 ++++ Lecker: Fleischer hat Gänsehaut ++++
@@ -1201,6 +1203,7 @@
 ++++ Medaillenspiegel: dloG, rebliS, eznorB ++++
 ++++ Medikamentenskandal: Aufregung um Valium ++++
 ++++ Medizinmann gerufen: Bandwurm sitzt in Apache ++++
+++++ Meerteiler: Peter Jackson plant epischen Moses-Film ++++
 ++++ Mehr Rechte für Frauen: NPD gründet Datingservice ++++
 ++++ Mehr Transparenz: Stadionsprecher wollen auf Dressur-WM Ross und Reiter nennen ++++
 ++++ Meisterschaft im Geräteturnen abgesagt: Veranstalter hatten keinen Bock ++++
@@ -1211,6 +1214,7 @@
 ++++ Milchdrüsen verstopft: Stillende Bäuerin holt sich Kuhtipps ++++
 ++++ Mildes Urteil: Moderate Taliban steinigen Frau mit Watte ++++
 ++++ . . . . . . . . . . . . . . . . . minimal gesunken ++++
+++++ Minivan: Kleinwüchsiger Russe eröffnet Shuttleservice ++++
 ++++ Misstrauisch: Gärtnerei befürchtet Maulwurf in den eigenen Reihen ++++
 ++++ Missverstanden: Junggeselle fragt verheiratete Britin nach Date ++++
 ++++ Missverständnis im Chemielabor: Mitarbeiter löst Vertrag auf ++++
@@ -1744,6 +1748,7 @@
 ++++ Spoiler-Alarm: Nächste Tickerzeile handelt von aerodynamischem Autobauteil ++++
 ++++ Sport mit Dieter: Bowlen ++++
 ++++ Sprechschule für Tiere erfolglos: Frösche kommen nicht aus dem Quak ++++
+++++ Spricht mit gespaltener Zunge: Häuptlingssohn glaubt Vater nicht, dass man Messer nicht ablecken soll ++++
 ++++ Springt im Dreieck: Ariane Friedrich in Pyramide eingesperrt ++++
 ++++ Staatsstreich: Regierung lässt Zahnpasta unter Türklinken verteilen ++++
 ++++ Stachen ihm sofort ins Auge: Imker musste diese Bienen haben ++++
@@ -1972,6 +1977,7 @@
 ++++ Verläuft so gut wie nie reibungslos: Selbstbefriedigung ++++
 ++++ Verletzung durch Keilerei: Mann mit Schweinehoden verprügelt ++++
 ++++ Vermisst ihn: Schneider führt letzten Auftrag für wegziehenden Stammkunden durch ++++
+++++ Vermisst in Afrika: Familie kennt Aufenthaltsort von Geodät nicht ++++
 ++++ Vernachlässigt: Kettenhund völlig verrostet ++++
 ++++ Vernichtend: Bruder adoptiert Mädchen ++++
 ++++ Vernichtende Worte: Mann tödlich verunglimpft ++++
@@ -2112,6 +2118,7 @@
 ++++ Wieder gerade: Schönheitschirurg dreht krummes Ding ++++
 ++++ Wieder mal weit abgeschlagen: Unfähiger Golfer weiß nicht, wie man einlocht ++++
 ++++ Wieder mehr Gefreite: Soldatinnen als Ehefrauen begehrt ++++
+++++ Wie geil ist das denn: Kaninchen schon wieder schwanger ++++
 ++++ Wie konnte er nur?: Armloser verprügelt wehrloses Kleinkind ++++
 ++++ Wie man's nimmt: Taschendieb schreibt praktischen Ratgeber ++++
 ++++ Wie tief kann man sinken? U-Boot-Kapitän zu betrunken, um einfache Fachfragen zu beantworten ++++
