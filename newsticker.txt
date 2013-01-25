@@ -246,6 +246,7 @@
 ++++ Bleibt Brautkleid: Brautkleid ++++
 ++++ Bleibt locker: Formel-1-Pilot startet trotz wackelnden Spoilers ++++
 ++++ Bleibt seiner Linie treu: Schiedrichter-Assistent verweigert Seitenwechsel ++++
+++++ Blieb eisern: Alchemist weigert sich, wertloses Metall in Gold zu verwandeln ++++
 ++++ Blind: Hufschmied beschlägt Brille ++++
 ++++ Blitzumfrage: Jeder zehnte fährt innerorts gern schneller als 70 ++++
 ++++ Blöde Schnepfe: Streitbare Ornithologin spricht Vogelart Intelligenz ab ++++
@@ -311,8 +312,10 @@
 ++++ Daran führt kein Weg vorbei: Drive-In-Lokal muss Insolvenz anmelden ++++
 ++++ Darauf ein Hoch: Wetterkarte ++++
 ++++ Darauf kannst du einen lassen: Dachdecker von Qualität seiner Arbeit überzeugt ++++
+++++ Darauf muss man erst mal kommen: Onanie auf einem Kran ++++
 ++++ Darauf steht die Domina: Am Boden liegender Sklave ++++
 ++++ Darum dreht sich alles: Alkohol ++++
+++++ Das arme Schwein: Bäuerin jagt Bauern in den Stall, weil er zu laut schnarcht ++++
 ++++ Da scheiden sich die Geister: Braucht das Jenseits ein Gericht für nachträgliche Eheauflösungen? ++++
 ++++ Das Ende vom Lid: Wimpern ++++
 ++++ Das erklärt einiges: Handbuch unter Sofa aufgetaucht ++++
@@ -484,6 +487,7 @@
 ++++ Erforschte das Ding an sich: Junger Kant machte Hobby zur Philosophie ++++
 ++++ Erfreut sich großer Beleibtheit: Ottfried Fischer ++++
 ++++ Er hält den Rand: Südafrikanischer Zeuge nahm Schweigegeld ++++
+++++ Er hat es gleich hinter sich: Tödliches Reptil nähert sich arglosem Mann an ++++
 ++++ Er hat gestanden: Mann gibt zu, WC verschmutzt zu haben ++++
 ++++ Er hatte keinen Schimmer: Juwelier lässt sich gefälschten Diamanten andrehen ++++
 ++++ Er kennt seine Rechte: Teenager weiß, dass Selbstbefriedigung nicht verboten ist ++++
@@ -504,9 +508,11 @@
 ++++ Erwischt: Sie bohnert ++++
 ++++ Es geht um die Wurst: Gesundheitsamt kontrolliert Fleischerei ++++
 ++++ Es gibt Nachttisch: Bibermutter ruft zum Dessert ++++
+++++ Es isst ein Mädchen!: Kannibalen-Eltern erfreut über Appetit von Neugeborenem ++++
 ++++ Es ist der Oberarm: Kellner kann Orthopäden nicht bezahlen ++++
 ++++ Es kann nicht mehr weit sein: Frau fährt ungeduldig zur Scheidenverjüngung ++++
 ++++ "Es knirschte": Spaziergänger wegen Schneckenhausfriendensbruch vor Gericht ++++
+++++ Es lag am schwachen Nervenkostüm: Neurologe versaut Büttenrede ++++
 ++++ Es lief schon mal besser: Verkaufszahlen von Stephen Kings Kultbuch sinken ++++
 ++++ Es war eine Ente: Zeitungen berichteten über fliegende Kuh ++++
 ++++ Es wird Ernst: Jury wählt Vornamen des Jahres ++++
@@ -584,6 +590,7 @@
 ++++ Fühlen sich unverstanden: Menschen aus Fachchina ++++
 ++++ Fühlt sich ausgebeutet: Supermarktkassiererin wird ständig zur Kasse gebeten ++++
 ++++ Fünf vor zwölf: Sieben ++++
+++++ Für 20 Euro verkloppt: Räuber verkauft Geldbörse von zusammengeschlagenem Opfer ++++
 ++++ Für alle Felle: Kürschner schließt Diebstahlsversicherung ab ++++
 ++++ Für ihn ist Jesus gestorben: Mann tritt aus Kirche aus ++++
 ++++ Für mehr Prickeln im Internet: Ahoi-Browser-Pulver ++++
@@ -717,6 +724,7 @@
 ++++ Gut aufgestellt in der Krise: Zwangsversteigerungsschild ++++
 ++++ Gute Idee: Architekt fällt neues Haus ein ++++
 ++++ Gute Lobbyarbeit: Taube verschaffen sich Gehör ++++
+++++ Gute Partie: Neuer Schachweltmeister mit Liebesbriefen überhäuft ++++
 ++++ Guter Aufhänger: Henker führt gerne Smalltalk über seinen Berufsalltag ++++
 ++++ Guter Einfall: Atilla mit Hunneninvasion sehr zufrieden ++++
 ++++ Guter Geruchssinn: Lawinensuchhund findet verschütteten Kaffee ++++
@@ -767,6 +775,7 @@
 ++++ Hat davon Wind bekommen: Frau serviert untreuem Gatten Linseneintopf ++++
 ++++ Hat den Bogen raus: Mann beendet Papierstau im Kopierer ++++
 ++++ Hat den Braten gerochen: Mann kauft defekte Dunstabzugshaube nicht ++++
+++++ Hat den Vogel abgeschossen: Mafia bringt Witzbold um ++++
 ++++ Hat Dicke gereicht: Kannibalenhäuptling ließ sich bei Festmahl nicht lumpen ++++
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
@@ -800,6 +809,7 @@
 ++++ Hat sich eine gefangen: Kidnapper wird von Geisel geohrfeigt ++++
 ++++ Hat sich einen Schnitzer geleistet: Schweizer kann Taschenmesser nicht allein bedienen ++++
 ++++ "Hat sich einfach so ergeben": Polizist beschreibt zufällige Festnahme ++++
+++++ Hat sich verschrieben: Arzt trägt versehentlich seinen Namen als Medikament ein +++
 ++++ Hat sich zu viel versprochen: Botschafter enttäuscht über neuen Dolmetscher ++++
 ++++ Hat sie nicht ausgefüllt: Dildo-Testerin kündigt Job ++++
 ++++ Hat sie nicht mehr alle: Mann hysterisch nach Verlust von Panini-Sticker ++++
@@ -846,6 +856,7 @@
 ++++ Hielt nicht, was er versprach: Großmäuliger Torwart von Verein entlassen ++++
 ++++ Hieß Ledger: Heath ++++
 ++++ Hilft gegen Schleimspuren von Kriechtieren: Schneckentempo ++++
+++++ Hingen ihm zum Halse raus: Tierarzt findet Bemerkungen über Pferdetritt in seine Hoden langsam nicht mehr lustig ++++
 ++++ Hinter Gitta: Knacki vernascht Frau am Besuchstag in Hündchenstellung ++++
 ++++ Hinterm Berg gehalten: Viehdieb spricht erstmals über geklautes Pferd ++++
 ++++ Historiker besorgt: Ausgrabungen zur Tortenschlacht bei Leipzig geraten zur Farce ++++
@@ -1014,6 +1025,7 @@
 ++++ Keinen Pfifferling wert: Steinpilz ++++
 ++++ Keine offenen Stellen mehr: Altenheim bestens mit Pflegepersonal versorgt ++++
 ++++ Keiner fand mehr aus Haus raus: Pförtner hatte Ausgang ++++
+++++ Keiner kann ihm das Wasser reichen: Gedopter Radprofi hängt Teamfahrzeug ab ++++
 ++++ Keine Sau ruft ihn an: Bauer unzufrieden mit neuem Stalltelefon ++++
 ++++ Keine Verbindung mehr zur Außenstelle: Elektriker hat Kontakt abgebrochen ++++
 ++++ Kein Gras mehr da: Entspannter Kiffer macht sich keinen Kopf ++++
@@ -1073,6 +1085,7 @@
 ++++ Konnte doch noch bei ihm landen: Flotte Biene traf ihren alten Schwarm wieder ++++
 ++++ Konnte einen Teilerfolg erzielen: Moses am Roten Meer ++++
 ++++ Konnte es mit ihm einfach nicht aufnehmen: Schüchterner Musiker entlässt dominanten Tontechniker ++++
+++++ Konnte ihn damit nicht anmachen: Frau warf Dessous enttäuscht in den Ofen ++++
 ++++ Konnte keinem etwas abschlagen: Gutmütiger Henker total ruiniert ++++
 ++++ Konnte niemandem das Wasser reichen: Kellner entlassen ++++
 ++++ Konsequent: Boxer haut Siegprämie auf den Kopf ++++
@@ -1172,6 +1185,7 @@
 ++++ Macht doch nichts: Baby hat nur Verstopfung ++++
 ++++ Macht doch nichts: Mann hat keinen Job ++++
 ++++ Machte die Nacht zum Tag: Gott feierte Erschaffung der Welt mit riesiger Party ++++
+++++ Machte einen Ollie: Skater feiert Geburt seines ersten Sohnes ++++
 ++++ Macht eine Riesenwelle: Friseur prahlt mit neuem Haardesign ++++
 ++++ Macht er mit Links: IT-Experte erstellt Homepage problemlos ++++
 ++++ Macht er nicht mit: Pornodarsteller wehrt sich gegen Kondomzwang ++++
@@ -1231,6 +1245,7 @@
 ++++ Mit Feldstecher: Liebestolle Frau in Kornfeld entdeckt ++++
 ++++ Mit Hochspannung erwartet: Gemeinde freut sich auf Stromanschluss ++++
 ++++ Mit Kater erwacht: Katze kann sich an nichts erinnern ++++
+++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mobbing: Hexe hänselt Gretel ++++
 ++++ Moderat: Neue Lifestyle-Zeitschrift eher mittelmäßig ++++
@@ -1247,6 +1262,7 @@
 ++++ Muss er sich vorhalten lassen: Flugreisender kotzt ständig neben die Tüte ++++
 ++++ Muss erst mal runterkommen: Mount Everest-Bezwinger völlig euphorisch ++++
 ++++ Muss kleine Brötchen backen: Bäcker spürt Getreidemangel am eigenen Laib ++++
+++++ Muss man sich auf der Zunge zergehen lassen: In Kot sind Nährstoffe enthalten ++++
 ++++ Muss nicht zum Bund: Hippie kommt ungeschoren davon ++++
 ++++ Muss noch viele Stellen streichen: Malerbetrieb vorerst nicht bankrott ++++
 ++++ Muss passen: Fussballer kann keine Flanken ++++
@@ -1337,6 +1353,7 @@
 ++++ Nicht rechtzeitig fertig geworden: Schlachter hat Hühnchen mit Lehrling zu rupfen ++++
 ++++ Nichts als Rügen: Ostseeinsel-Urlauber unzufrieden ++++
 ++++ Nichts darf passieren: Sicherheitswahn legt Verkehr lahm ++++
+++++ Nichts dran: Model leugnet Magersucht ++++
 ++++ Nicht sehr berauschend: Mann enttäuscht von schlechtem Koks ++++
 ++++ Nicht sein Bier: Braumeister ist Konkurrenz egal ++++
 ++++ Nicht sein Tag: Graffitikünstler wegen fremder Schmierereien verhaftet ++++
@@ -1521,6 +1538,7 @@
 ++++ Religion: Immer mehr Fliegen sind in Sekten ++++
 ++++ Rennt nicht mehr: Rentier geht in Rente ++++
 ++++ Rentabler als gedacht: Kieswerk entpuppt sich als Goldgrube ++++
+++++ Rentner strahlt über beide Ohren: Mittel gegen Inkontinenz gefunden ++++
 ++++ Restlos bedient: Skatspieler verliert, obwohl er die Regeln befolgt ++++
 ++++ Restrukturierungsmaßnahmen: Bauchladen sucht neuen Geschäftsführer ++++
 ++++ Resultate vom Ritter Sport: Drei gebrochene Rippen und ein Schokomund ++++
@@ -1637,6 +1655,7 @@
 ++++ Schreibblock ade: Dichter fällt nichts mehr ein ++++
 ++++ Schreibtischlampe? Bei Charlotte Roche brennt nachts noch Licht ++++
 ++++ Schreien, kacken, schlafen: Knigge erforscht Baby-Sitten ++++
+++++ Schreiner zimmerte ihm ein paar: Kunde hatte nicht mehr alle Latten am Zaun ++++
 ++++ Schrieb keine Berichte mehr: Verärgerter Maurermeister wirft Stift aus Fenster ++++
 ++++ Schritt für Schritt: Urologe arbeitet, bis Wartezimmer leer ist ++++
 ++++ Schuh verloren: Fußballspieler muss passen ++++
@@ -1651,6 +1670,7 @@
 ++++ Schwangerschaft einer Nudistin belegt: Es sind gar nicht Kleider, die Leute machen ++++
 ++++ Schwarzer Afghane und roter Libanese: Amsterdamer Polizei verhaftet radikale Haschprediger ++++
 ++++ Schwarzer Humor: Schreibfehler auf Onkologiebericht sorgt für Heiterkeit ++++
+++++ Schwarze Zahlen: Unternehmer in Afrika erfolgreich ++++
 ++++ Schwein gehabt: Hungriger Moslem pfeift auf religiöse Vorschriften ++++
 ++++ Schwer auszudrücken: Gefühle und Pickel ++++
 ++++ Schwer auszumachen: Warum Fernseher 21 Jahre lang lief, bleibt Rätsel ++++
@@ -1719,6 +1739,7 @@
 ++++ So ein Schweinehund: Kreuzung bei Rot überfahren ++++
 ++++ So ein Twixer: Mr. Tom snickert Kit-Kat an den Mars und bekommt voll in die Nuts ++++
 ++++ So gut wie nie: Lob für Mitarbeiter ++++
+++++ So kann es nicht weitergehen: Bauer schläfert lahmendes Pferd ein ++++
 ++++ So lala: Neues Musical erhält mittelmäßige Kritiken ++++
 ++++ Soll Daten verkaufen: Bundeswehr gibt persönliche Informationen an Dritte weiter ++++
 ++++ Soll keine Anstalten machen: Stadt kündigt Vertrag mit Bauunternehmen ++++
@@ -1743,6 +1764,7 @@
 ++++ Spielt die beleidigte Leberwurst: Schauspieler unzufrieden mit Rolle ++++
 ++++ Spielt einen Streich: Geiger verulkt Publikum mit sehr kurzem Stück ++++
 ++++ Spielt keine Rolle mehr: Tonbandgerät defekt ++++
+++++ Spionasche: Rest von aufgeflogenem Agenten in Heimatland zurückgeschickt ++++
 ++++ Spitzbergen: Norwegische Tierschützer finden vermissten Hund ++++
 ++++ Splatter-Porno: Film zeigt Kannibalen beim Geschlechtsverzehr ++++
 ++++ Spoiler-Alarm: Nächste Tickerzeile handelt von aerodynamischem Autobauteil ++++
@@ -1777,6 +1799,7 @@
 ++++ Stellenanzeige: Victoria's Secret sucht Spitzenmanager ++++
 ++++ Stellenanzeige: Viehdiebin sucht Partner zum Pferde stehlen ++++
 ++++ "Stellen Sie sich nicht so an": Kassiererin maßregelt Kunden mit Hexenschuß ++++
+++++ Stellt alles in den Schatten: So einen dummen Azubi hatte Gärtnerei noch nie ++++
 ++++ Stellungnahme: Kamasutra-Leser droht: "Ich kann auch anders!" ++++
 ++++ Stichproben bestätigt: Messer schneiden im Test besser ab als Löffel ++++
 ++++ Stichprobe: Neues Messer von Mörder funktioniert ausgezeichnet ++++
@@ -1786,6 +1809,7 @@
 ++++ Stimmt nicht: Klavierbauer hat kein gutes Gehör ++++
 ++++ Stinkt zum Himmel: Mönche beharren auf Raucherabtei ++++
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
+++++ Stoffwechselprobleme: Junkie verträgt Umstieg von Crack auf Speed nicht ++++
 ++++ Stolz wie Oskar: Gregor Gysi gründet eigene Partei ++++
 ++++ St. Pauli: Immer mehr Zeitarbeit in Stundenhotels ++++
 ++++ Strafftat: Schönheitschirurg nutzt illegale Mittel zur Selbstentfaltung ++++
@@ -1803,6 +1827,7 @@
 ++++ Studie: Übertriebene Vergleiche sind schlimmer als Hitler ++++
 ++++ Stuhlproben beweisen: Schlümpfe machen blau ++++
 ++++ Sturer Gefangener: Foltermeister erhält Informationen nur mit Hängen und Würgen ++++
+++++ Sucht den Dialog: Vater will mit Sohn über verschwundene Platonausgabe reden ++++
 ++++ Sucht die Nadel im Heuhaufen: Bauer findet sein Fixbesteck nicht mehr ++++
 ++++ Surfen bis der Arzt kommt: WLAN im Wartezimmer ++++
 ++++ Süßwarenfabrik: Mitarbeiter von unzufriedenem Chef gemarsriegelt ++++
@@ -1871,6 +1896,7 @@
 ++++ Trog voll: Optische Täuschung ließ Futterbehälter leer aussehen ++++
 ++++ Trommel kaputt: Kleiner Timmy (9) bekommt Standpauke ++++
 ++++ Trotzalter: 90-Jährige kümmert sich um aufmüpfigen Urenkel ++++
+++++ Trotz ekelhafter Fahne: Alkoholiker gründen eigene Nation ++++
 ++++ Turniermannschaft bestreitet dritte Partie: "Alles Unsinn, wir haben nur zweimal gespielt!" ++++
 ++++ Tut gut: ADAC empfiehlt lautes Hupen zum Stressabbau ++++
 ++++ Typisch Bahn: Sprengstoffattentat auf ICE verzögert sich um über zwei Stunden ++++
@@ -1882,6 +1908,7 @@
 ++++ Überfordert: Fotograf fordert Entwicklungshilfe ++++
 ++++ Überfordert: Geigerzähler verliert bei Opernaufführung den Überblick ++++
 ++++ Überführt: Autoschieber hatte Kontakte ins Ausland ++++
+++++ Über Gebühr aufgeregt: Mann protestiert lautstark bei der GEZ ++++
 ++++ Übergroße Abteile: Niemand wartete auf ihn im Kloster ++++
 ++++ Überraschend verlaufen: Warentest deckt Mängel bei Wimperntusche auf ++++
 ++++ Überraschung: Meteorologe konnte Kugelhagel, in dem er starb, nicht vorhersagen ++++
@@ -2000,6 +2027,7 @@
 ++++ Verwackelt: Fotograf scheitert bei Produktfoto von Götterspeise ++++
 ++++ Verwöhnt: Scheich lässt sich gerne von vorne bis hinten Beduinen ++++
 ++++ Verzehrte sich nach einer Jungfrau: Kannibale war eindeutig zu gierig ++++
+++++ Verzogen: Psychologe erreicht kleinen Timmy (9) nicht mehr ++++
 ++++ Verzögerung bei Schiffabfahrt: Programmierer mußte Bug entfernen ++++
 ++++ Vibratoren-Verkäufer stellt fest: Geschäft brummt ++++
 ++++ Viel Rummel um seine Person: Schausteller steht gerne im Mittelpunkt ++++
