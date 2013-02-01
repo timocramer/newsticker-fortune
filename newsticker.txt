@@ -508,6 +508,7 @@
 ++++ "Er war viel zu schmutzig": Frau kehrt Mann den Rücken ++++
 ++++ Er wird es weit bringen: Postbote liefert Paket nach Sibirien aus ++++
 ++++ Erwischt: Sie bohnert ++++
+++++ Er wollte nur mal austreten: Esel verletzt Toilettenbenutzer ++++
 ++++ Es geht um die Wurst: Gesundheitsamt kontrolliert Fleischerei ++++
 ++++ Es gibt Nachttisch: Bibermutter ruft zum Dessert ++++
 ++++ Es isst ein Mädchen!: Kannibalen-Eltern erfreut über Appetit von Neugeborenem ++++
@@ -945,6 +946,7 @@
 ++++ Ist ihm nicht zu billig: Nacktbarbesucher heiratet Frau von der Stange ++++
 ++++ Ist jetzt auch Wurst: Metzger hat seinen toten Hund verarbeitet ++++
 ++++ Ist jetzt natürlich hart, aber so ist die Regel: Frau verweigert Mann den Sex ++++
+++++ Ist neu in der Szene: Statist läuft bei Pornoreportage durchs Bild ++++
 ++++ Ist noch nicht aus dem Schneider: Textilhandwerker bekommt Tumor entfernt ++++
 ++++ Ist unten durch: Kanalarbeiter macht schon wieder früher Feierabend ++++
 ++++ Jacke wie Hose: Overall ++++
@@ -1050,6 +1052,7 @@
 ++++ Kinder können ihm den Buckel runterrutschen: Rentner protestiert gegen Bau von Abenteuerspielplatz ++++
 ++++ Kinder leicht kochen: Kannibale veröffentlicht Kochbuch für Anfänger ++++
 ++++ Kinderwunsch: Eltern sollen vor dem Beischlaf bitte Zimmertür schließen ++++
+++++ Kippen vergessen: LKW-Fahrer muss zur Deponie zurück ++++
 ++++ Kirche in Flammen: Übereifrige Putzfrau verursachte Fegefeuer ++++
 ++++ Klappt nicht: Zugbrücke defekt ++++
 ++++ Klar abgehängt: PKW gewinnt ungleiches Rennen gegen Wohnwagen ++++
@@ -1080,6 +1083,7 @@
 ++++ Kommt nicht in die Tüte: Kiffer verzichtet auf Tabak ++++
 ++++ Kommt nicht in die Tüte: Mann hat keine Lust auf Kondom ++++
 ++++ Kommt nicht mehr klar: Junkie geht nur noch high zur Arbeit ++++
+++++ Kommt nicht unter die Haube: KFZ-Mechaniker hat Übergewicht ++++
 ++++ Kommt nicht zum Tragen: Umzugshelfer ohne gültigen Vertrag ++++
 ++++ Kommt nicht zu Potte: Haschdealer hat Nachschubprobleme ++++
 ++++ Kommt nur langsam darüber hinweg: Mann hat Angst vor Schlaglöchern ++++
@@ -1291,6 +1295,7 @@
 ++++ Mut zur Lücke: Wissenschaftler widerlegen Zahnprothese ++++
 ++++ Mysteriös: Bermuda-Dreieck verschwunden ++++
 ++++ Mysteriös: Traumfrau nach dem Aufwachen spurlos verschwunden ++++
+++++ Na Bravo: Nachwuchs-Funker scheitert beim Nato-Alphabet schon am zweiten Buchstaben ++++
 ++++ Nach 20 Jahren: Mauerfall noch immer ungelöst ++++
 ++++ Nach acht Wochen im Stall: Bauer läßt endlich mal die Sau raus ++++
 ++++ Nach Betriebsfeier: Betrunkene Taxifahrer kommen nicht nach Hause ++++
@@ -1603,6 +1608,7 @@
 ++++ Sauber gemacht: Putzfrau wird vom Chef gelobt ++++
 ++++ Sauber: Müllmann erteilt Geliebter eine Abfuhr ++++
 ++++ Sauber: Straßenfeger erhält Kehrseite der Medaille ++++
+++++ Sauer auf Merkel: Kanzlergatte muss beim Sex immer oben liegen ++++
 ++++ Sauerei: Genforscher kreuzen Huhn mit Zitrone ++++
 ++++ Sauerei: Kinder-Überraschung ab sofort nur noch mit Zitronengeschmack ++++
 ++++ Sauerei: Zitronen-Omelette ++++
@@ -2058,6 +2064,7 @@
 ++++ Volle Deckung: Hündin wirft Welpen ++++
 ++++ Voll fett: Ghetto-Bauer erntet Gangsta-Raps ++++
 ++++ Völlig aufgelöst: Hinterbliebene von Säureopfer trauern ++++
+++++ Völlig überwältigt: Gauner zeigte sich bei Festnahme ergriffen ++++
 ++++ Völlig überzogen: Teebeutel zwei Stunden in Tasse gelassen ++++
 ++++ Völlig vermessen: Frau bestellt 200 Meter Goldbrokat für Abendkleid ++++
 ++++ Völlig verschwitzt: Vater vergisst, sein Kind in der Sauna abzuholen ++++
