@@ -22,6 +22,7 @@
 ++++ Abgewürgt: Mann erdrosselt Ehefrau wegen schlechten Fahrstils ++++
 ++++ Abreibung verpasst: Bandenmitglied kam zu spät ++++
 ++++ Absatzprobleme: Damenschuh verkauft sich schlecht ++++
+++++ Abschreckend: Nacktköche halten Nudeln und Eier unter kaltes Wasser ++++
 ++++ Absehbar: China gewinnt Gold im Reiskunstlauf ++++
 ++++ Absehbar: Lufthansa startet Pilotprojekt ++++
 ++++ Absehbar: Raupe entpuppt sich als Schmetterling ++++
@@ -66,6 +67,7 @@
 ++++ Alter Falter: 98-Jähriger gewinnt Origami-Wettbewerb ++++
 ++++ Alter Uhrmacher nicht mehr so präzise: Uhren gehen nach wie vor ++++
 ++++ Alt genug: Handy geht abends allein aus ++++
+++++ Alt geworden: Betagte Sopranistin verliert an Stimmhöhe ++++
 ++++ Altglascontainer gestohlen: Recyclingfirma steht vor Scherbenhaufen ++++
 ++++ Alzheimer: Betagter Elektroinstallateur verlegt immer öfter Kabel ++++
 ++++ Am Arsch die Räuber: Bevölkerung nimmt Warnung vor Stringtanga-Dieben nicht ernst ++++
@@ -1277,6 +1279,7 @@
 ++++ Muss drei Jahre brummen: Braunbär erhält milde Strafe nach Zeltlagerüberfall ++++
 ++++ Muss er sich vorhalten lassen: Flugreisender kotzt ständig neben die Tüte ++++
 ++++ Muss erst mal runterkommen: Mount Everest-Bezwinger völlig euphorisch ++++
+++++ Muss erst wieder reinkommen: Single hat nach langer Zeit mal wieder Sex ++++
 ++++ Muss kleine Brötchen backen: Bäcker spürt Getreidemangel am eigenen Laib ++++
 ++++ Muss man sich auf der Zunge zergehen lassen: In Kot sind Nährstoffe enthalten ++++
 ++++ Muss nicht zum Bund: Hippie kommt ungeschoren davon ++++
@@ -1697,6 +1700,7 @@
 ++++ Schweres Gewürz aufgefahren: Nord- und Südkoriander weiterhin unversöhnlich ++++
 ++++ Schweres Los: Lotteriegewinner schafft es nicht rechtzeitig zur Annahmestelle ++++
 ++++ Schwer vorstellbar: Mann leidet an Begrüßungsphobie ++++
+++++ Schwindelanfall: Ärzte besorgt um Simulanten ++++
 ++++ Schwindel auf dem Rummelplatz: Karussell dreht sich schneller als angegeben ++++
 ++++ Schwindelerregend: Drehbuch ++++
 ++++ Seele verschwunden: Toter außer sich ++++
@@ -1917,6 +1921,7 @@
 ++++ Trommel kaputt: Kleiner Timmy (9) bekommt Standpauke ++++
 ++++ Trotzalter: 90-Jährige kümmert sich um aufmüpfigen Urenkel ++++
 ++++ Trotz ekelhafter Fahne: Alkoholiker gründen eigene Nation ++++
+++++ Trotzkisten: Revolutionäre verpatzen Umzug ++++
 ++++ Turniermannschaft bestreitet dritte Partie: "Alles Unsinn, wir haben nur zweimal gespielt!" ++++
 ++++ Tut gut: ADAC empfiehlt lautes Hupen zum Stressabbau ++++
 ++++ Typisch Bahn: Sprengstoffattentat auf ICE verzögert sich um über zwei Stunden ++++
@@ -2123,6 +2128,7 @@
 ++++ Was für ein Jammer: Jazzmusiker verstorben ++++
 ++++ Was für ein Loser: Mann zieht nur Nieten ++++
 ++++ Was für ein Riesenarsch: Chef mobbt Mitarbeiterin wegen ihres Hinterns ++++
+++++ Was für ein Spaten: Dummer Gärtner prahlt mit seinem Arbeitsgerät ++++
 ++++ Was für Fotzen!: Verfickter Tourettungswagen kommt zu spät ++++
 ++++ Was gibt es zu Kapern?: Ratlose Piraten in der Kombüse ++++
 ++++ Was ihn da wohl geritten hat: Mann behauptet Sex mit Alien ++++
@@ -2168,6 +2174,7 @@
 ++++ Wieder mal weit abgeschlagen: Unfähiger Golfer weiß nicht, wie man einlocht ++++
 ++++ Wieder mehr Gefreite: Soldatinnen als Ehefrauen begehrt ++++
 ++++ Wie geil ist das denn: Kaninchen schon wieder schwanger ++++
+++++ Wie können die nachts noch ruhig schlafen? Diebe entwenden zwei Paletten Energydrinks ++++
 ++++ Wie konnte er nur?: Armloser verprügelt wehrloses Kleinkind ++++
 ++++ Wie man's nimmt: Taschendieb schreibt praktischen Ratgeber ++++
 ++++ Wie tief kann man sinken? U-Boot-Kapitän zu betrunken, um einfache Fachfragen zu beantworten ++++
