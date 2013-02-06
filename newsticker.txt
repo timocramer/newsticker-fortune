@@ -17,6 +17,7 @@
 ++++ Abgekartetes Spiel: Bube legt seine Herzdame aufs Kreuz ++++
 ++++ Abgelaufen: Garantie auf Schuhsohle ++++
 ++++ Abgemacht: Blutbank und Samenbank vereinbaren Austausch von Körperflüssigkeiten ++++
+++++ Abgeschrieben: Insider zweifeln an politischer Zukunft von Annette Schavan ++++
 ++++ Abgesoffen: New Yorker bekommt sein Auto nicht mehr gestartet ++++
 ++++ Abgesprochen: Ende des Hollywoodfilms "The Wrestler" stand bereits vorher fest ++++
 ++++ Abgewürgt: Mann erdrosselt Ehefrau wegen schlechten Fahrstils ++++
@@ -149,6 +150,7 @@
 ++++ Ausgebrannt: Feuerwehrschlauch hielt Druck nicht stand ++++
 ++++ Ausgebrannt: Immer mehr Glühbirnen leiden am Burn-Out-Syndrom ++++
 ++++ Ausgebuht: Frustriertes Schloßgespenst geht in Vorruhestand ++++
+++++ Ausgecheckt: Mann prüft gleich, wann sein Rückflug geht ++++
 ++++ Ausgefallene Frisur: Glatze ++++
 ++++ Ausgefallenes Geschenk: Milchzahn ++++
 ++++ Ausgefallen: Intendant sagt Premiere in grün-gelb-kariertem Röckchen ab ++++
@@ -188,6 +190,7 @@
 ++++ Bayern - Barcelona: Philipp Fußlahm hat sich gerade noch rechtzeitig von einer Verballhornung seines Namens wegen einer Wadenverhärtung erholt ++++
 ++++ Bayernfeindlichkeit: Mann in Lederhosen erhält Tracht-Prügel ++++
 ++++ Beamte mit vorbildlicher Pflichtauffassung: Chefingenieur Montgomery Scott ++++
+++++ Beamte nicht: Scotty verweigert Teleport von Staatsdienern ++++
 ++++ Behielt das lieber für sich: Kleptomane verschwieg sein Problem jahrelang ++++
 ++++ Beide Beine amputiert: Gogo-Tänzerin jetzt Rollroll-Tänzerin ++++
 ++++ Bei der Stange gehalten: Prostituierte ergreift Maßnahmen zur Kundenbindung ++++
@@ -684,6 +687,7 @@
 ++++ Gesundheitspolitik: Krebslobby fordert weniger Krebsvorsorgeuntersuchungen ++++
 ++++ Gesundheitsreform: Gynäkologen rechnen mit Abstrichen ++++
 ++++ Gesundheitstipp: Festsitzenden Schleim einfach mit bronchialer Gewalt abhusten ++++
+++++ Geteilt: Brutaler Tierquäler stellt Bild von toter Katze auf Facebook ++++
 ++++ Gewagte Behauptung: Arzt will erste Kopftransplantation durchgeführt haben ++++
 ++++ Gewalt am Arbeitsplatz: Grobe Leberwurst verprügelt Fleischer ++++
 ++++ Gewaltiger Anschiss: Empörte Frau beschwert sich lautstark bei Taubenzüchter ++++
@@ -1299,6 +1303,7 @@
 ++++ Mysteriös: Bermuda-Dreieck verschwunden ++++
 ++++ Mysteriös: Traumfrau nach dem Aufwachen spurlos verschwunden ++++
 ++++ Na Bravo: Nachwuchs-Funker scheitert beim Nato-Alphabet schon am zweiten Buchstaben ++++
+++++ Nach 10 Geboten war sie weg: Bibel versteigert ++++
 ++++ Nach 20 Jahren: Mauerfall noch immer ungelöst ++++
 ++++ Nach acht Wochen im Stall: Bauer läßt endlich mal die Sau raus ++++
 ++++ Nach Betriebsfeier: Betrunkene Taxifahrer kommen nicht nach Hause ++++
@@ -1573,6 +1578,7 @@
 ++++ Risiko zu groß: Gesellschaftsspiel darf bei Flug nicht mit ins Handgepäck ++++
 ++++ Riskantes Hobby: Wieder vier Spieler beim Poolbillard ertrunken ++++
 ++++ Riskiert eine dicke Lippe: Frau beleidigt Schönheitschirurg während OP ++++
+++++ Rock am Ring: Festivalbesucherin verheddert sich mit ihrem Intimpiercing ++++
 ++++ Rockerbraut: Bikerin verkauft Bier ihres Mannes ++++
 ++++ Rolle rückwärts: Ellor ++++
 ++++ Romantisch: Mann mit schwerer Kindheit findet seine Trauma-Frau ++++
@@ -1927,6 +1933,7 @@
 ++++ Typisch Bahn: Sprengstoffattentat auf ICE verzögert sich um über zwei Stunden ++++
 ++++ Übel aufgestoßen: Rülps-Wettbewerb führt zu Nachbarschaftsklage ++++
 ++++ Übel: Blinder Passagier ist sehkrank ++++
+++++ Überascht: Legasthenikerdorf nach Vulkanausbruch verschüttet ++++
 ++++ Über den Haufen gefahren: Autofahrer übt Rache an rücksichtslosem Hundebesitzer ++++
 ++++ Über den Tisch gezogen: Teller am Boden zerstört ++++
 ++++ Überfall: Punkräuber erbeuten zwei Sicherheitsnadeln, 4,73 Euro und eine Ratte ++++
@@ -2020,6 +2027,7 @@
 ++++ Václav got to do with it: Tschechischer Urheber für Tina-Turner-Song gefunden ++++
 ++++ Vampire wissen es längst: Kürbisse sind an Halloween Pflicht ++++
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
+++++ Verdient unterm Strich mehr: Ehemalige Prostituierte heuert bei Kanalreinigungsunternehmen an ++++
 ++++ Verdreht Frauen den Kopf: Exorzist-Drehbuchschreiber ++++
 ++++ Verfahren eingestellt: Richter kauft sich endlich ein Navi ++++
 ++++ Verfahren: Geisterfahrer wird angeklagt ++++
