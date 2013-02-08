@@ -54,6 +54,7 @@
 ++++ Alles bleibt beim Alten: Kinder wollen nicht ausziehen ++++
 ++++ Alles für die Leidenschaft: Mann erträgt Schaftleiden ++++
 ++++ Alles im Arsch: Unbeherrschter Darsteller ruiniert Pornodreh ++++
+++++ Alles in Butter: Angst vor angebranntem Schnitzel gänzlich unbegründet ++++
 ++++ Alles in Butter: Molkereichef durch kluge Investition reich geworden ++++
 ++++ Alles muss raus: Abführmittel bis zu 30 % reduziert ++++
 ++++ Alles nur heiße Luft: Ballonfahrer hat doch keine Superkräfte ++++
@@ -258,6 +259,7 @@
 ++++ Blödes Wortspiel: Scrabble ++++
 ++++ "Boa!": Mann bestaunt Würgeschlange ++++
 ++++ Bock geschossen: Jäger zielte eigentlich auf Ziege ++++
+++++ Bohr ey: Prolet staunt über Atommodell ++++
 ++++ Bordelltür blockiert: Zuhälter am Werk ++++
 ++++ Börsensturz: Taschendieb muss sich nur noch bücken ++++
 ++++ Börse: Störfeuer lässt Kaviarpreise steigen ++++
@@ -362,6 +364,7 @@
 ++++ Der Hammer: Leichtathlet gibt seinem Trainer nach heftigem Diskus die Kugel und verletzt ihn Speer ++++
 ++++ Der hat doch einen an der Waffel: Dummer Mann übersieht Eislöffel ++++
 ++++ Der hat doch einen Schaden: Autofahrer begeht Unfallflucht ++++
+++++ Der hat doch einen Vogel: Haustierbesitzer schafft Katze an ++++
 ++++ Der hat hier nix zu suchen: Spürhund wieder nach Hause geschickt ++++
 ++++ Der kann was erleben: Polizei sucht Zechpreller im Freizeitpark ++++
 ++++ Der letzte Schrei: Frau fand neue Schuhe zum Sterben schön ++++
@@ -2029,6 +2032,7 @@
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Verdient unterm Strich mehr: Ehemalige Prostituierte heuert bei Kanalreinigungsunternehmen an ++++
 ++++ Verdreht Frauen den Kopf: Exorzist-Drehbuchschreiber ++++
+++++ Verdrückt: Fahrstuhlgast landete versehentlich auf Kannibalen-Etage ++++
 ++++ Verfahren eingestellt: Richter kauft sich endlich ein Navi ++++
 ++++ Verfahren: Geisterfahrer wird angeklagt ++++
 ++++ Verflucht günstig: Hexe bietet billigen Service an ++++
@@ -2162,11 +2166,13 @@
 ++++ Weihwasserexzess: Pfarrer beim Komataufen erwischt ++++
 ++++ Weil am Rhein: Stadt profitiert von Schifffahrt ++++
 ++++ Weil sie es nicht können: Pfarrer liest Analphabeten die Leviten ++++
+++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
 ++++ Wenigstens einsichtig: Zyklop geht an Karneval doch nicht als Pirat ++++
 ++++ Wenn alle Stricke reißen: Henker hat Axt für Notfälle ++++
 ++++ Wenn das Wörtchen wenn nicht wär: das Wörtchen nicht wär ++++
 ++++ Wenn der kleine Hunger kommt: Spermaspuren in Milchreis entdeckt ++++
+++++ Wer austeilt, muss auch einstecken können: Zeitungsjunge von Passanten verprügelt ++++
 ++++ Wer kann da schon Nein sagen: Selbsthilfegruppe für Sprachgestörte gibt Gratisseminare ++++
 ++++ Werkzeugmacher spricht Beileid aus: "Ich schwöre, dass meine Äxte höchsten Qualitätsanforderungen entsprechen!" ++++
 ++++ Westafrikanische Heißgetränke immer beliebter: Kaffee ToGo an jeder Straßenecke erhältlich ++++
@@ -2221,6 +2227,7 @@
 ++++ Wollten den Dax manipulieren: Betrüger wanderten in den Bau ++++
 ++++ Wollte nicht mehr: Bauer verkauft unrentables Schaf ++++
 ++++ Wollte nur spielen: Pitbull attackiert Croupier im Casino ++++
+++++ Wollte sie aufreißen: Patientin verklagt Chirurgen ++++
 ++++ Woolworth beantragt Insolvenz und sichert sich den Namen "Woolworthless" ++++
 ++++ Workaholic: Erster Sopran lobt Chor in höchsten Tönen ++++
 ++++ Wort gebrochen: Buchstabensuppe war schlechter als versprochen ++++
