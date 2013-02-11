@@ -95,6 +95,7 @@
 ++++ Angriffsbereit: Indianer hat den Bogen raus ++++
 ++++ Angst vor Hinrichtung: Gefangener bricht in Panik aus ++++
 ++++ Angst vor Niederlage: Bürgermeister von Drückeberg kandidiert nicht mehr ++++
+++++ An Nichts interessiert: Nihilismus-Azubi beginnt dreijährige Leere ++++
 ++++ Anrufversuche erfolglos: Billig-Hotel hat keinen Empfang ++++
 ++++ Ans Licht gekommen: Glühbirne führte On-Off-Beziehung mit Lichtschalter ++++
 ++++ Ansteckend: Mann leidet unter Pyromanie ++++
@@ -563,6 +564,7 @@
 ++++ Festnahme: Proktologe wollte Schmuggelware einführen ++++
 ++++ Fett im Geschäft: Molkerei sahnt bei Lieferungen ab ++++
 ++++ Fiel niemandem auf: Zahlendreher bei Kloschild-Montage ++++
+++++ Fieser Ziegenpeter: Heidi wochenlang ans Bett gefesselt ++++
 ++++ Figurbewusst: Zombie schwört auf Schlankheitspupillen ++++
 ++++ Figurprobleme: Adipöses Tanzpaar verpatzt Tango ++++
 ++++ Filmriss: Betrunkener Fotograf ruiniert Hochzeitsfotos ++++
@@ -580,6 +582,7 @@
 ++++ Flasche geköpft: Henker stößt auf Hinrichtung seines unfähigen Gehilfen an ++++
 ++++ Fleischersatz: "Tofu ist Scheiße!" ++++
 ++++ Fliege entsetzt: Froschschutzmittel wirkungslos ++++
+++++ Flinte ins Korn geworfen: Bauer gibt Suche nach verlorener Waffe auf ++++
 ++++ Fluch der Karibik: Pirat heult Rum ++++
 ++++ Flucht fortgesetzt: Ausbrecher spart nicht mit Kraftausdrücken ++++
 ++++ Flüchtigkeitsfehler: Gefängnisausbruch gescheitert ++++
@@ -662,6 +665,7 @@
 ++++ Geht wieder unter Menschen: Kanalarbeiter von Krankheit genesen ++++
 ++++ "Gehweg!": Autofahrer verweist Fußgänger der Straße ++++
 ++++ Geil auf Menstruation: Vampirlesbe hat Blut geleckt ++++
+++++ Geiler Trip: Heroinjunkies machen Spritztour ++++
 ++++ Geistesblitz: Vier Mitarbeiter einer Hamburger Werbeagentur erleiden Gehirnerschütterung bei Brain-Storming ++++
 ++++ Geistesgegenwart: Schlossbesitzer endeckt neues Geschäftsmodell ++++
 ++++ Gelber Sack: Chinesischer Nachbar trennt seinen Müll nicht ++++
@@ -792,6 +796,7 @@
 ++++ Hat Dicke gereicht: Kannibalenhäuptling ließ sich bei Festmahl nicht lumpen ++++
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
+++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen ziehen lassen: Glücksfee wegen Blähungen verhindert ++++
 ++++ Hat ein Händchen für sowas: Kannibale bereitet Kinderteller zu ++++
 ++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
@@ -1379,6 +1384,7 @@
 ++++ Nicht mehr lange: Erfolgreicher Igel führt Leben auf der Überholspur ++++
 ++++ Nicht mit allem Gold der Welt aufzuwiegen: Gleiche Menge an Platin ++++
 ++++ Nicht rechtzeitig fertig geworden: Schlachter hat Hühnchen mit Lehrling zu rupfen ++++
+++++ Nicht richtig im Oberstübchen: Patient aus Turmzimmer auf Psychiatrie verlegt ++++
 ++++ Nichts als Rügen: Ostseeinsel-Urlauber unzufrieden ++++
 ++++ Nichts darf passieren: Sicherheitswahn legt Verkehr lahm ++++
 ++++ Nichts dran: Model leugnet Magersucht ++++
@@ -1901,6 +1907,7 @@
 ++++ Tor nicht zugelassen: Fans stehlen schusseligem Schiedsrichter Auto aus der Garage ++++
 ++++ Total daneben: Mann verärgert über Tankstelle auf Nachbargrundstück ++++
 ++++ Total verbohrt: Zahnarzt gesteht Kunstfehler nicht ein ++++
+++++ Total verklemmt: Schüchterner Mann kam jahrelang nicht vor die Tür ++++
 ++++ Total verspant: Pinocchio hat Rückenschmerzen ++++
 ++++ Tragikomisch: Zigarettenpausenclown an Lungenkrebs gestorben ++++
 ++++ Tragischer Arbeitsunfall II: Veitstanzlehrer stirbt an Erschöpfung ++++
