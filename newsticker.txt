@@ -305,6 +305,7 @@
 ++++ Da hat er den Salat: Vegetarier beißt ins Gras ++++
 ++++ Da hat er sich aber geschnitten: Emo glaubte, an echter Depression zu leiden ++++
 ++++ Da hatte ihr Mann nicht mit gerechnet: Frau löst Matheaufgabe mit drei Unbekannten ++++
+++++ Daher weht der Wind: Meteorologe wollte keinen Sonnenschein vorhersagen ++++
 ++++ Da ist doch was faul: Gemüse unverschämt billig ++++
 ++++ Da ist was im Bush: Ex-Präsident bekommt Gallensteine entfernt ++++
 ++++ Da kann man nur den Kopf schütteln: Metal-Festival völlig überteuert ++++
@@ -704,6 +705,7 @@
 ++++ Ghostwriter: Nachricht war gar nicht von Sam ++++
 ++++ Gibt weiter Rätsel auf: Verschwundener Sudoku-Autor ++++
 ++++ Ging an die Decke: Frau verärgert über Sauerei, die ihr Mann beim Onanieren angerichtet hat ++++
+++++ Ging auf dem Zahnfleisch: Akrobat nach großer Welttournee völlig erschöpft ++++
 ++++ Ging daneben: Seiltanznummer endet tragisch für Artisten ++++
 ++++ Ging daneben: Stalker von Opfer erwischt ++++
 ++++ Ging durch Geschosse zu Boden: Mann in herabfahrendem Aufzug erschossen ++++
@@ -789,6 +791,7 @@
 ++++ Hat Absatzprobleme: Textverarbeitungsprogramm verkauft sich schlecht ++++
 ++++ Hat alle vom Hocker gehauen: Skandalöser Freispruch für Kneipenschläger ++++
 ++++ Hat Blut geleckt: Vampirpraktikant von Schnupperwoche begeistert ++++
+++++ Hat da nichts zu suchen: Google verzichtet auf Nordkorea-Niederlassung ++++
 ++++ Hat davon Wind bekommen: Frau serviert untreuem Gatten Linseneintopf ++++
 ++++ Hat den Bogen raus: Mann beendet Papierstau im Kopierer ++++
 ++++ Hat den Braten gerochen: Mann kauft defekte Dunstabzugshaube nicht ++++
@@ -1185,6 +1188,7 @@
 ++++ Leckscreen: Neue iPhone-App ermöglicht interaktives Eisessen ++++
 ++++ Leder zappelt im Netz: Omas in Strapsen spielen Fußball ++++
 ++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
+++++ Lehnte sich zu weit aus dem Fenster: Copilot behauptete, er könne fliegen ++++
 ++++ Leichtgläubig: Naive Menschen sind schwindelerregend ++++
 ++++ Leidet nicht mehr an Krebs: Gläubiger in Heilquelle ertrunken ++++
 ++++ Letzter Satz: "Von dem Gewitter lasse ich mir doch nicht mein Tennisspiel ruinieren!" ++++
@@ -1235,6 +1239,7 @@
 ++++ Manni poliert: Frau zwingt Ehemann durch Hypnose zum Putzen ++++
 ++++ Mann, Mann, Mann: CDU nicht offen für neue Beziehungsmodelle ++++
 ++++ Mann stutzte, als er es erfuhr: Frau steht auf Intimrasur ++++
+++++ Markiert den starken Mann: Mutiger Hund ++++
 ++++ Marktstudie: Rolls Royce immer noch der Rolls Royce unter den Autos ++++
 ++++ Masse statt Klasse: Vierte Newstickerzeile absolut entbehrlich ++++
 ++++ Maßlos traurig: Oktoberfestbesucher ist fast schon bedient ++++
@@ -1693,6 +1698,7 @@
 ++++ Schreibtischlampe? Bei Charlotte Roche brennt nachts noch Licht ++++
 ++++ Schreien, kacken, schlafen: Knigge erforscht Baby-Sitten ++++
 ++++ Schreiner zimmerte ihm ein paar: Kunde hatte nicht mehr alle Latten am Zaun ++++
+++++ Schreit nach Wiederholung: Trainer klagt lautstark über manipuliertes Spiel ++++
 ++++ Schrieb keine Berichte mehr: Verärgerter Maurermeister wirft Stift aus Fenster ++++
 ++++ Schritt für Schritt: Urologe arbeitet, bis Wartezimmer leer ist ++++
 ++++ Schuh verloren: Fußballspieler muss passen ++++
@@ -1798,6 +1804,7 @@
 ++++ Spaß dank Sextanten: Matrosen finden Weg ins Rotlichtviertel ++++
 ++++ Spaß in der Mittagspause: Spiegelkabinett-Besitzer verzerrt sein Pausenbrot ++++
 ++++ Spätzünder: Selbstmordattentäter werden immer älter ++++
+++++ Spektakuläre Rehkonstruktion: Geschichte der Belagerung Trojas muss neu geschrieben werden ++++
 ++++ Spektakulär: Speck da, Kuh leer ++++
 ++++ Spezifisch: Wassertier gut an Leben in Limonade angepasst ++++
 ++++ Spielt die beleidigte Leberwurst: Schauspieler unzufrieden mit Rolle ++++
