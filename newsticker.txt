@@ -523,6 +523,7 @@
 ++++ Es gibt Nachttisch: Bibermutter ruft zum Dessert ++++
 ++++ Es isst ein Mädchen!: Kannibalen-Eltern erfreut über Appetit von Neugeborenem ++++
 ++++ Es ist der Oberarm: Kellner kann Orthopäden nicht bezahlen ++++
+++++ Es ist noch alles offen: Chirurg macht nach zwölf Stunden Herz-OP erstmal Pause ++++
 ++++ Es kann nicht mehr weit sein: Frau fährt ungeduldig zur Scheidenverjüngung ++++
 ++++ "Es knirschte": Spaziergänger wegen Schneckenhausfriendensbruch vor Gericht ++++
 ++++ Es lag am schwachen Nervenkostüm: Neurologe versaut Büttenrede ++++
@@ -681,6 +682,7 @@
 ++++ Gerät in Teufels Küche: Spülmaschinenvertreter schließt Pakt mit Satan ++++
 ++++ Gerettet: Schauspieler bekommt Rolle seines Lebens unter der Klotür durchgereicht ++++
 ++++ Gerissen: Gescheiterter Hochspringer täuscht Muskelverletzung vor ++++
+++++ Gerissen: Raubtier lauerte Beute auf ++++
 ++++ Gerissen: Windiger Extremsportler verkauft defektes Bungeeseil ++++
 ++++ Gerüchen zufolge: Käse stinkt ++++
 ++++ Geruchsarm: Mann vergisst Deo aufzutragen ++++
@@ -790,6 +792,7 @@
 ++++ Hart für Xavier & Co.: Söhne Mannheims zur Adoption freigegeben ++++
 ++++ Hat Absatzprobleme: Textverarbeitungsprogramm verkauft sich schlecht ++++
 ++++ Hat alle vom Hocker gehauen: Skandalöser Freispruch für Kneipenschläger ++++
+++++ Hat an jedem Event Teil genommen: Ecstasykonsument vom Feiern erschöpft ++++
 ++++ Hat Blut geleckt: Vampirpraktikant von Schnupperwoche begeistert ++++
 ++++ Hat da nichts zu suchen: Google verzichtet auf Nordkorea-Niederlassung ++++
 ++++ Hat davon Wind bekommen: Frau serviert untreuem Gatten Linseneintopf ++++
@@ -819,6 +822,7 @@
 ++++ Hat lange mit sich gekämpft: Schizophrener Boxer ringt sich zu Therapie durch ++++
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
+++++ Hat ordentlich getankt: Betrunkener Autofahrer hat Benzinlache nicht verursacht ++++
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
 ++++ Hat seinen Meister gefunden: Toter Trickbetrüger von Bestatter reingelegt ++++
 ++++ Hat seinen Reiz verloren: Mann hört mit ständiger Husterei auf ++++
@@ -1347,6 +1351,7 @@
 ++++ Nah am Wasser gebaut: Architekt weint bei Damm-Eröffnung ++++
 ++++ Naheliegend: Biber ernährt sich von Dammwild ++++
 ++++ Naheliegend: Kuscheln tut gut ++++
+++++ Nahm davon keine Notiz: Protokollführer verpasste Sitzung ++++
 ++++ Nahm sich ein Herz: Mutiger Chirurg zeigt kleptomanischen Kollegen an ++++
 ++++ Napoli: Italienischer Nudeldieb geht Polizei in die Farfalle ++++
 ++++ Nasen-OP missglückt: Schönheitschirurg befürchtet Gesichtsverlust ++++
@@ -1451,6 +1456,7 @@
 ++++ Ohne Schonung: Gläubiger nehmen Schuldner auch noch sein Waldstück ++++
 ++++ Ohne wenn und aber: Duden 2012 wird zurückgerufen ++++
 ++++ Ohral: Gehörgangbang führt zu heftiger Trommelfellatio ++++
+++++ "Oje mine!": Soldat trat auf Sprengkörper ++++
 ++++ Olle Kamellen: Gesundheitsamt schließt Bonbonfabrik ++++
 ++++ Oma packt es nicht: Enkel erkennt Geschenk sofort ++++
 ++++ Online-Samenspende immer beliebter: ~~~o ~~~o ~~~o ++++
@@ -1572,6 +1578,7 @@
 ++++ Reif für die Insel: England erhält Käselieferung ++++
 ++++ Rein aus Neugier: Obdachloser probierte Waschsalon aus ++++
 ++++ Reingelegt: Vermeintliche Leiche im Sarg war gar nicht tot ++++
+++++ Reis ausgenommen: Chinese verlässt fluchtartig All-You-Can-Eat Party ++++
 ++++ Reißt sogleich alle mit: Charismatischer Bergsteiger springt in Gletscherspalte ++++
 ++++ Rekonvaleszent: Kranker Biber wieder auf dem Damm ++++
 ++++ Rekord gebrochen: Mann kotzt fünf Meter weit ++++
@@ -1653,6 +1660,7 @@
 ++++ Scheint gut zu Arbeiten: Werkstattlampe funktioniert einwandfrei ++++
 ++++ Scheiß die Wand an: Putzfrau stört's nicht, wenn mal was daneben geht ++++
 ++++ Scheiße: Mann hat doch nicht nur gefurzt ++++
+++++ Scheiße passiert: Fäkalien in Tomatenmark festgestellt ++++
 ++++ Scheiße: Töpferin hat sich im Ton vergriffen ++++
 ++++ Schenkelklopfer: Preuße versucht, Schuhplattler zu tanzen ++++
 ++++ Schick: Lagerfeld macht in Hosen und vertreibt Fliegen ++++
@@ -1722,10 +1730,12 @@
 ++++ Schwerer Schritt: Mann entscheidet sich für Penisverkleinerung ++++
 ++++ Schweres Gewürz aufgefahren: Nord- und Südkoriander weiterhin unversöhnlich ++++
 ++++ Schweres Los: Lotteriegewinner schafft es nicht rechtzeitig zur Annahmestelle ++++
+++++ Schwer in: Hauptstadt von Mecklenburg-Vorpommern extrem angesagt ++++
 ++++ Schwer vorstellbar: Mann leidet an Begrüßungsphobie ++++
 ++++ Schwindelanfall: Ärzte besorgt um Simulanten ++++
 ++++ Schwindel auf dem Rummelplatz: Karussell dreht sich schneller als angegeben ++++
 ++++ Schwindelerregend: Drehbuch ++++
+++++ Seagate: Festplatte läuft problemlos ++++
 ++++ Seele verschwunden: Toter außer sich ++++
 ++++ Seeräuber ermordet: Polizei drückt Auge zu ++++
 ++++ Sehr entgegenkommend: Geisterfahrer mit Warnblinker ++++
@@ -1878,6 +1888,7 @@
 ++++ Studie: Übertriebene Vergleiche sind schlimmer als Hitler ++++
 ++++ Stuhlproben beweisen: Schlümpfe machen blau ++++
 ++++ Sturer Gefangener: Foltermeister erhält Informationen nur mit Hängen und Würgen ++++
+++++ Stut' gart: Schwabe bereitet Lasagne zu ++++
 ++++ Sucht den Dialog: Vater will mit Sohn über verschwundene Platonausgabe reden ++++
 ++++ Sucht die Nadel im Heuhaufen: Bauer findet sein Fixbesteck nicht mehr ++++
 ++++ Surfen bis der Arzt kommt: WLAN im Wartezimmer ++++
@@ -1939,6 +1950,7 @@
 ++++ Traurig: Mann unter Sonnenschirm führt Schattendasein ++++
 ++++ Traut sich: Katholischer Priester verstößt gegen Zölibat ++++
 ++++ Traut sich nicht mehr aus dem Haus: Allergikerin Sabine ++++
+++++ Treibt es auf die Spitze: Reinhold Messner will nochmal Achttausender besteigen ++++
 ++++ Trend: Immer mehr Gürteltiere schwören auf Hosenträger ++++
 ++++ Tretminen-Skandal: Hund entpuppt sich als skrupelloser Geschäftemacher ++++
 ++++ Trickdieb: Max Mustermann wegen millionenfachen Scheckbetrugs gesucht ++++
@@ -2093,6 +2105,7 @@
 ++++ Viel zu flach: Witze über Holland ++++
 ++++ Viel zu langsam: Autoschieberbande von Polizei erwischt ++++
 ++++ Villenlos: Verarmtem Millionär ist egal, auf welcher Parkbank er schläft ++++
+++++ Vitamin B: Kumpel von Arzt kommt leicht an Nährstoffpräparat ++++
 ++++ Vogelwild: Specht mit Hirsch gekreuzt ++++
 ++++ Voll auf die Zwölf: Jesus verprügelt Apostel ++++
 ++++ Vollbeschäftigung im Krankenhaus: Ursula von der Leyen gelingt ihr größter Wurf ++++
@@ -2281,6 +2294,7 @@
 ++++ Zuchtbulle unzufrieden: Künstliche Befruchtung verlief reibungslos ++++
 ++++ Zu dick aufgetragen: Angeblicher Star-Visagist entpuppt sich als Anfänger ++++
 ++++ Zu durchsichtig: Hypochonder täuscht Glasknochenkrankheit vor ++++
+++++ Zu einem schlechten Zeitpunkt ausgebrochen: Entflohener Sträfling verbrannte im Lavastrom ++++
 ++++ Zu Ende gedacht: Philosoph will sich der Praxis widmen ++++
 ++++ Zufallstreffen in afrikanischem Waisenhaus: Madonna und Angelina Jolie adoptieren sich gegenseitig ++++
 ++++ Zu faul zum Arbeiten: Chef fuhr mit Angestellten Schlitten ++++
