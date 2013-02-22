@@ -92,6 +92,7 @@
 ++++ Angelverkäufer gesteht: "Meine Produkte haben alle einen Haken" ++++
 ++++ Angepisst: Betrunkener auf Herrentoilette eingeschlafen ++++
 ++++ Angeschmiert: Naiver Mann geht Plakatierer auf den Leim ++++
+++++ Angeturnt: Fabian Hambüchen beeindruckt Frau mit Saltos ++++
 ++++ Angriffsbereit: Indianer hat den Bogen raus ++++
 ++++ Angst vor Hinrichtung: Gefangener bricht in Panik aus ++++
 ++++ Angst vor Niederlage: Bürgermeister von Drückeberg kandidiert nicht mehr ++++
@@ -756,6 +757,7 @@
 ++++ Gut gefülltes Frauenzimmer: Entspannte Runde im Warteraum beim Gynäkologen ++++
 ++++ Gut getroffen: Portrait auf Zielscheibe sehr hilfreich ++++
 ++++ Gut in Schuss: Rentner gewinnt Abfahrtsrennen der Herren ++++
+++++ Gut integriert: Junge mit Migrationshintergrund gewinnt Mathematikolympiade ++++
 ++++ Gut nicht gut genug: Baron erweitert Landsitz ++++
 ++++ Gynäkologen warnen: Intimrasur führt meist zu Nachwuchs ++++
 ++++ Haarschwund: Franzose irrtümlich rektal untersucht ++++
@@ -835,6 +837,7 @@
 ++++ Hat sich einen Schnitzer geleistet: Schweizer kann Taschenmesser nicht allein bedienen ++++
 ++++ "Hat sich einfach so ergeben": Polizist beschreibt zufällige Festnahme ++++
 ++++ Hat sich verschrieben: Arzt trägt versehentlich seinen Namen als Medikament ein +++
+++++ Hat sich weggeschmissen: Mann fällt vor Lachen in den Müllcontainer ++++
 ++++ Hat sich zu viel versprochen: Botschafter enttäuscht über neuen Dolmetscher ++++
 ++++ Hat sie nicht ausgefüllt: Dildo-Testerin kündigt Job ++++
 ++++ Hat sie nicht mehr alle: Mann hysterisch nach Verlust von Panini-Sticker ++++
@@ -1035,6 +1038,7 @@
 ++++ Katerstimmung: Jammernde Katze fliegt aus Miezhaus ++++
 ++++ Katzenberger bescheiden: "Ich tat nur meinen Job als Feuerwehrmann!" ++++
 ++++ Kauf von Bodenheizung kurzfristig widerrufen: Mann bekam kalte Füße ++++
+++++ Kaum wahrnehmbar: Graswurzelbewegung ++++
 ++++ Kaum zu fassen: Der springende Punkt ++++
 ++++ Kehrt Wände: Neuer Vertikalbesen bringt Firma aus der Krise ++++
 ++++ Kehrt zum Tatort zurück: Mörder kurz vor Ende der Tagesschau wieder zu Hause ++++
@@ -1088,6 +1092,7 @@
 ++++ Klopft auf Holz: Lebend Begrabener hofft, zeitnah bemerkt zu werden ++++
 ++++ Klotz am Bein: Mafia beseitigt Kronzeugen ++++
 ++++ Knall auf Fall: Kriminalbeamter nach Verbrechensaufklärung in psychologischer Behandlung ++++
+++++ Knappes Ergebnis: Rittergehilfe bilanziert Beinahe-Pleite ++++
 ++++ Knebelvertrag: Pornodarstellerin muss bei Bondagefilmen mitspielen ++++
 ++++ Knöchel verstaucht: Rockstar kann nicht auftreten ++++
 ++++ Knochenjob: Chiropraktiker klagt über hohe Arbeitsbelastung ++++
@@ -1096,6 +1101,7 @@
 ++++ K.o. in der dritten Runde: Boxer kann beim Joggen nicht mit Herrchen mithalten ++++
 ++++ Komisches Ding: Neuartige Glocke läutet merkwürdig ++++
 ++++ Kommt auf keinen grünen Zweig mehr: Gärtner von Arbeitgeber beim Onanieren erwischt ++++
+++++ Kommt auf keinen grünen Zweig mehr: Onanierendes Eichhörnchen wird Winter nicht überleben ++++
 ++++ Kommt ganz groß raus: Elf Kilo schweres Kind geboren ++++
 ++++ Kommt ihm entgegen: Suizident muss nicht mehr lange auf Zug warten ++++
 ++++ Kommt ihm gut gelegen: Almbauer hat einen Hang zum Skifahren ++++
@@ -1433,6 +1439,7 @@
 ++++ Nur am Rande gestreift: Kreuzung von Pferd und Zebra machte keine großen Schlagzeilen ++++
 ++++ Nur die Rosinen herausgepickt: Stollen droht einzustürzen ++++
 ++++ Nur ein alter Schinken: Antikes Metzgerfachbuch enttäuscht ++++
+++++ Nur ein Bisschen: Angriff von Welpen tat nicht besonders weh ++++
 ++++ Nur einen runtergeholt: Flakschütze unehrenhaft entlassen ++++
 ++++ Nur ein kleiner Grazer: Autofahrer, der Österreicher überfahren hat, erleichtert ++++
 ++++ Nur ein Strohmann: Krähen haben keine Angst mehr vor Vogelscheuche ++++
