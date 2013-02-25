@@ -354,6 +354,7 @@
 ++++ Das wird kein Kinderspiel: Ravensburger will neues Geschäftsfeld erschließen ++++
 ++++ Das wird teuer: Star-Architekt baut Unfall ++++
 ++++ Datenautobahn: Stau auf dem CD-Brenner ++++
+++++ Dauerhaft: Lebenslänglich ++++
 ++++ Dax im Keller: Frau ruft Kammerjäger ++++
 ++++ Defektes Sicherheitsnetz: Hochseilakrobat unten durch ++++
 ++++ Déjà-vu: 50% der Leser meinen, diese Tickerzeile schon einmal gelesen zu haben ++++
@@ -536,6 +537,7 @@
 ++++ Ex-Post: Filiale hätte doch nicht geschlossen werden sollen ++++
 ++++ Fackelt nicht lange: Strohfeuer ++++
 ++++ Faden verloren: Puppenspieler unkonzentriert ++++
+++++ Fährt einen heißen Reifen: Sanitäter bringt Sean Connery ins Krankenhaus ++++
 ++++ Fake: Sushi-Bar serviert keinen echten Reiswein ++++
 ++++ Fällt aus allen Wolken: Wüstenbewohner erstaunt über Regen ++++
 ++++ Fällt ins Auge: Lidschatten ++++
@@ -842,6 +844,7 @@
 ++++ Hat sie nicht ausgefüllt: Dildo-Testerin kündigt Job ++++
 ++++ Hat sie nicht mehr alle: Mann hysterisch nach Verlust von Panini-Sticker ++++
 ++++ Hat sie nicht mehr alle: Psychiatrische Klinik meldet Ausbrecher ++++
+++++ Hat sofort gehandelt: Broker reagiert auf Börsencrash ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
 ++++ Hatte keinen Bock mehr: Einsames Schaf begeht Selbstmord ++++
 ++++ Hätte man auch anders lösen können: Mieter entfernt Tapete mit Vorschlaghammer ++++
@@ -1317,6 +1320,7 @@
 ++++ Muss Privatinkontinenz anmelden: Mann in den Urin getrieben ++++
 ++++ Muss sofort zum Arzt: Frau von Picasso hat blaue Periode ++++
 ++++ Musste eine Schlappe einstecken: Kleptomane mit Hausschuhfetisch rückfällig ++++
+++++ Musste mit Bruch rechnen: Turner ohne Mathe schafft Saldo nicht ++++
 ++++ Muss über die Runden kommen: Stuntbiker springt für Weight Watchers ++++
 ++++ Muss um ihren Job bangen: Von Pornodarstellerin wird Gruppensex verlangt ++++
 ++++ Muss wohl dran glauben: Atheist vor Inquisitionsanhörung ++++
@@ -1534,6 +1538,7 @@
 ++++ Prinz angepisst: Rapunzel ließ Harn herunter ++++
 ++++ Problem aufgetaucht: Mafioso hatte keinen Stein zur Hand ++++
 ++++ Produziert nur noch Flickenteppiche: Schneider leidet an Stoffwechselkrankheit ++++
+++++ Profilacktisch: Maler setzt bei Einrichtung von neuer Werkstatt sicherheitshalber auf Premiummöbel ++++
 ++++ Promis in die Pfanne gehauen: Gesundheitsamt schließt Gerüchteküche ++++
 ++++ Promis in die Pfanne gehauen: Gesundheitsamt schließt Kannibalen-Gerüchteküche ++++
 ++++ Prostituierte berichtet: Männer kommen und gehen ++++
@@ -1599,6 +1604,7 @@
 ++++ Restrukturierungsmaßnahmen: Bauchladen sucht neuen Geschäftsführer ++++
 ++++ Resultate vom Ritter Sport: Drei gebrochene Rippen und ein Schokomund ++++
 ++++ Resultat vom Erbsenzählen: 12.494 (eigentlich 12.493, weil sich eine Linse darunter befand) ++++
+++++ Rheuma: Rentner trotz Gelenkschmerzen zum Schneeschippen aufgefordert ++++
 ++++ Riecht komisch: Geheimnis muss mal wieder gelüftet werden ++++
 ++++ Riecht komisch: Verwester Clown ++++
 ++++ Riesenfetisch: Mann steht auf Stelzen ++++
@@ -2306,6 +2312,7 @@
 ++++ Zufallstreffen in afrikanischem Waisenhaus: Madonna und Angelina Jolie adoptieren sich gegenseitig ++++
 ++++ Zu faul zum Arbeiten: Chef fuhr mit Angestellten Schlitten ++++
 ++++ Zügellos: Reiter hat Pferd nicht unter Kontrolle ++++
+++++ Zu großer Vorsprung: Führender des Wingsuit-Flugwettbewerbs prallt gegen Fels ++++
 ++++ Zu gut: Gewiefter Ladendieb steckt Kaufhausdetektive in die Tasche ++++
 ++++ Zug verpasst: Schachspieler von Turnier ausgeschlossen ++++
 ++++ Zu klein geraten: Mann schätzt Eiffelturm auf 290 Meter ++++
