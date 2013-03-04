@@ -32,6 +32,7 @@
 ++++ Abt verlegt die Bibel: Seine Mönche haben sie schon abgeschrieben ++++
 ++++ Abzug: US-Truppen im Irak freuen sich auf Rückkehr nach Afghanistan ++++
 ++++ Ach du grüne Neune: Erster Bio-Kegelclub gegründet ++++
+++++ Achmed: Araber fällt ein, was er beim Metzger vergessen hat ++++
 ++++ Achse des Bösen: Grund für Pannenserie bei Toyota endlich gefunden ++++
 ++++ Achtlos: Billardturnier versehentlich ohne schwarze Kugel ausgerichtet ++++
 ++++ Ach, wie reizend: Demonstranten entzückt von neuem Bio-Pfefferspray ++++
@@ -73,6 +74,7 @@
 ++++ Altglascontainer gestohlen: Recyclingfirma steht vor Scherbenhaufen ++++
 ++++ Alzheimer: Betagter Elektroinstallateur verlegt immer öfter Kabel ++++
 ++++ Am Arsch die Räuber: Bevölkerung nimmt Warnung vor Stringtanga-Dieben nicht ernst ++++
+++++ Am Arsch: Mann bekommt tödlichen Tumor diagnostiziert ++++
 ++++ Amateurhaft: Einbrecher vergessen Räuberleiter am Tatort ++++
 ++++ Amazon-Statistik: Gedichtbände haben die meisten Versendungen ++++
 ++++ Am Boden: Frau zutiefst unglücklich über ihre Hängebrüste ++++
@@ -228,6 +230,7 @@
 ++++ Besorgniserregend: Immer mehr Schafstoffe in Wollpullovern ++++
 ++++ Besorgniserregend: Mann bekommt Magengeschwür aus Angst vor Magengeschwüren ++++
 ++++ Besorgniserregend: Vier von fünf Killerspiele-Spielern sind zu fett für Amoklauf ++++
+++++ Besorgt es sich lieber selbst: Mann kauft Pornoheft persönlich am Kiosk ++++
 ++++ Besser ist das: Deutschlehrer schließt den Kind vom Unterricht aus ++++
 ++++ Betrug bei eBay: Bauern warten vergeblich auf bestellte Äcker ++++
 ++++ Betrunken unterwegs: Rentier verliert Lappen ++++
@@ -405,6 +408,7 @@
 ++++ Doch kein Schnäppchen?: Mann zahlt ausgezeichneten Preis ++++
 ++++ Donnerwetter war vorherzusehen: Unfähiger Meteorologe verliert Job ++++
 ++++ Doppelagent entlarvt: Falsch herum montierter Türspion arbeitete jahrelang für die Gegenseite ++++
+++++ Dorn im Auge: Mann kann Rosenstrauch vor seinem Grundstück nicht mehr sehen ++++
 ++++ Dortmund: Biologie-Lehrer zeigt Schulklasse orale Öffnung ++++
 ++++ Drama im Theater: Darsteller proben den Aufstand ++++
 ++++ Drama in Augsburger Puppenkiste: Leben von querschnittsgelähmter Marionette hängt an einem seidenen Faden ++++
@@ -714,6 +718,7 @@
 ++++ Ging daneben: Seiltanznummer endet tragisch für Artisten ++++
 ++++ Ging daneben: Stalker von Opfer erwischt ++++
 ++++ Ging durch Geschosse zu Boden: Mann in herabfahrendem Aufzug erschossen ++++
+++++ Ging ihm locker von der Hand: Schreiner verliert Finger bei simplen Hobelarbeiten ++++
 ++++ Ging nach hinten los: Tänzer verstaucht sich bei Moonwalk den Fuß ++++
 ++++ Gips nicht: Arzt verweigert Beinbruchpatienten die Behandlung ++++
 ++++ Glanzparade: Festlicher Umzug zu Ehren von Torwart durchgeführt ++++
@@ -798,6 +803,7 @@
 ++++ Hat alle vom Hocker gehauen: Skandalöser Freispruch für Kneipenschläger ++++
 ++++ Hat an jedem Event Teil genommen: Ecstasykonsument vom Feiern erschöpft ++++
 ++++ Hat Blut geleckt: Vampirpraktikant von Schnupperwoche begeistert ++++
+++++ Hat dafür keine Lorbeeren geerntet: Italiener baute nur Wein an ++++
 ++++ Hat da nichts zu suchen: Google verzichtet auf Nordkorea-Niederlassung ++++
 ++++ Hat davon Wind bekommen: Frau serviert untreuem Gatten Linseneintopf ++++
 ++++ Hat den Bogen raus: Mann beendet Papierstau im Kopierer ++++
@@ -835,6 +841,7 @@
 ++++ Hat sich aus dem Staub gemacht: Künstler kreiert Selbstportrait aus Dreck ++++
 ++++ Hat sich ausgezahlt: Croupier veruntreut Gelder ++++
 ++++ Hat sich den Arsch aufgerissen: Mann gewinnt Kampf gegen Verstopfung ++++
+++++ Hat sich die Hörner abgestoßen: Junger Dämon bei Junggesellenabschied schwer verletzt ++++
 ++++ Hat sich eine gefangen: Kidnapper wird von Geisel geohrfeigt ++++
 ++++ Hat sich einen Schnitzer geleistet: Schweizer kann Taschenmesser nicht allein bedienen ++++
 ++++ "Hat sich einfach so ergeben": Polizist beschreibt zufällige Festnahme ++++
@@ -916,6 +923,7 @@
 ++++ Hunderte Franken verloren: Schweizer Menschenhändler macht großen Verlust ++++
 ++++ Hundesteuerflucht: Deutsche Dogge verlegt Haupthundehütte in die Schweiz ++++
 ++++ Hund zufrieden: Floh abgekratzt ++++
+++++ Hut ab: Udo Lindenberg geht endlich zum Friseur ++++
 ++++ "Ich glaub, mein Schwein pfeift!": Bauer leidet an Tinnitus ++++
 ++++ "Ich glaub, mich knutscht ein Elch": Schwedischer Darkroom anders als erwartet ++++
 ++++ "Ich war ein Cop!": Aussteiger berichtet aus dem Blaulichtmilieu ++++
@@ -933,6 +941,7 @@
 ++++ Im August: Mann schiebt Lachnummer mit Clown ++++
 ++++ Im falschen Körper: Mann stellt zu spät fest, dass er doch nicht schwul ist ++++
 ++++ Im Finale ausgeschieden: Sportler wegen ungebührlichen Verhaltens disqualifiziert ++++
+++++ Im Keller: Geringe Besucherzahlen für Natascha-Kampusch-Film ++++
 ++++ Immer al dente: Zahnpasta ++++
 ++++ "Immer auf dem Teppich bleiben!": Anfänger erhalten Tipps von erfahrenem Fakir ++++
 ++++ Immer dasselbe Loch: Gürtel trennt sich von seiner Schnalle ++++
@@ -1142,6 +1151,7 @@
 ++++ "Koste es was es wolle": Vater erlaubt Kind, jedes Gericht auf Speisekarte zu probieren ++++
 ++++ Kostenlos: Schornsteinfeger geht aufs Haus ++++
 ++++ Kostet nichts: Unbezahlter Mundschenk war des Herrschers Tod ++++
+++++ Kotzte sich die Seele aus dem Leib: Schwabe aß verdorbenes Weißbrotgebäck ++++
 ++++ Krähen zu aggressiv: Hähne vom Hof verjagt ++++
 ++++ Kranke Scheiße: Mann hat Blut im Stuhl ++++
 ++++ Krasser Absturz: Volltrunkener Pilot kann Bord-Computer nicht mehr hochfahren ++++
@@ -1241,6 +1251,7 @@
 ++++ Macht Liebe blind?: Einäugiger wirft Auge auf junge Frau ++++
 ++++ Macht Nägel mit Köpfen: Kannibale meldet Patent auf Rezept an ++++
 ++++ Macht nichts: Senior Assistant Vice Chief Executive Officer entlassen ++++
+++++ Machtvoll: Absinth haut den stärksten Mann um ++++
 ++++ Mag sein: Ontologe liebt seinen Beruf ++++
 ++++ Mähen in Black: Schwarzes Schaf aufgeflogen ++++
 ++++ Mahlzeit: Müller arbeitet auch in der Mittagspause ++++
@@ -1249,6 +1260,7 @@
 ++++ Malware: Hacker nutzen Sicherheitslücke in Paint ++++
 ++++ Mal was anderes: Kunstprofessor unzufrieden mit Werk seines Lieblingsstudenten ++++
 ++++ Manila morgens nass: Sinnloses Anagramm ++++
+++++ Man kann es drehen und wenden, wie man will: Grillsteak schmeckt nicht ++++
 ++++ Mann doch kein Hypochonder: "Ich hatte mir das nur eingebildet" ++++
 ++++ Manni poliert: Frau zwingt Ehemann durch Hypnose zum Putzen ++++
 ++++ Mann, Mann, Mann: CDU nicht offen für neue Beziehungsmodelle ++++
@@ -1308,6 +1320,7 @@
 ++++ Mundraub: Kieferchirurg erleichtert Patienten um vier Weisheitszähne ++++
 ++++ Mundraub: Opfer muss mit Magensonde ernährt werden ++++
 ++++ Muss drei Jahre brummen: Braunbär erhält milde Strafe nach Zeltlagerüberfall ++++
+++++ Müssen nicht sein: Selbstmörder ++++
 ++++ Muss er sich vorhalten lassen: Flugreisender kotzt ständig neben die Tüte ++++
 ++++ Muss erst mal runterkommen: Mount Everest-Bezwinger völlig euphorisch ++++
 ++++ Muss erst wieder reinkommen: Single hat nach langer Zeit mal wieder Sex ++++
@@ -1391,6 +1404,7 @@
 ++++ Nicht der Rede wert: Moderator entlassen ++++
 ++++ Nicht der Rede wert: Peer Steinbrück unzufrieden mit Nebeneinkünften ++++
 ++++ Nicht einfach: Doppelte Buchführung ++++
+++++ Nicht eingeweiht: Bauherr fehlt auf eigenem Richtfest ++++
 ++++ Nicht ganz dicht: Reederei lässt unfertiges Schiff vom Stapel ++++
 ++++ Nicht ganz nach seiner Vorstellung: Zersägte Jungfrau verklagt Zauberkünstler ++++
 ++++ Nicht gebraucht: Mann verkauft seinen Neuwagen ++++
@@ -1614,6 +1628,7 @@
 ++++ Risiko zu groß: Gesellschaftsspiel darf bei Flug nicht mit ins Handgepäck ++++
 ++++ Riskantes Hobby: Wieder vier Spieler beim Poolbillard ertrunken ++++
 ++++ Riskiert eine dicke Lippe: Frau beleidigt Schönheitschirurg während OP ++++
+++++ Rochen: Beifänge von Heringsflotten nicht genießbar ++++
 ++++ Rock am Ring: Festivalbesucherin verheddert sich mit ihrem Intimpiercing ++++
 ++++ Rockerbraut: Bikerin verkauft Bier ihres Mannes ++++
 ++++ Rolle rückwärts: Ellor ++++
@@ -1645,6 +1660,7 @@
 ++++ Sah seine Zukunft in der Glaskugel: Goldfisch findet neues Zuhause mit Hilfe eines Wahrsagers ++++
 ++++ Sah Tiere: Journalist schreibt spöttischen Bericht über Zoobesuch ++++
 ++++ Saisonbedingt: Leiter bekommt Sommersprossen ++++
+++++ Saiten gewechselt: Gitarrist von Konkurrenzprodukt überzeugt ++++
 ++++ Saldo Mortale: Artist stürzt sich nach Blick auf seinen Kontoauszug in den Tod ++++
 ++++ Salonfähig: Friseur stellt Azubi mit guten Manieren ein ++++
 ++++ Sammelte Kronleuchter: Bankrotter Adliger hängt an seinem Hobby ++++
@@ -1885,6 +1901,7 @@
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
 ++++ Stoffwechselprobleme: Junkie verträgt Umstieg von Crack auf Speed nicht ++++
 ++++ Stolz wie Oskar: Gregor Gysi gründet eigene Partei ++++
+++++ Störtebeker: Ex-Tennisprofi von Pirat in Besenkammer überrascht ++++
 ++++ St. Pauli: Immer mehr Zeitarbeit in Stundenhotels ++++
 ++++ Strafftat: Schönheitschirurg nutzt illegale Mittel zur Selbstentfaltung ++++
 ++++ Streng verdaulich: BND schließt Geheimkantine ++++
@@ -1949,6 +1966,7 @@
 ++++ Tragischer Arbeitsunfall II: Veitstanzlehrer stirbt an Erschöpfung ++++
 ++++ Tragischer Arbeitsunfall I: Priester segnet versehentlich das Zeitliche ++++
 ++++ Tragisch: Selbstmörder auf totem Gleis verhungert ++++
+++++ Tragisch: Türkischstämmiger Mann stürzt, als er für alte Dame Tüten schleppt ++++
 ++++ Trainingsniederlage: Boxer verliert gegen Rinderhälfte ++++
 ++++ Trampolin: Frau aus Warschau nutzt Straßenbahn ++++
 ++++ Transexuell: Mann steht auf Wale ++++
@@ -2079,6 +2097,7 @@
 ++++ Verdrückt: Fahrstuhlgast landete versehentlich auf Kannibalen-Etage ++++
 ++++ Verfahren eingestellt: Richter kauft sich endlich ein Navi ++++
 ++++ Verfahren: Geisterfahrer wird angeklagt ++++
+++++ Verflogen: Nicht mehr nachweisbarer Geruch irritierte Piloten ++++
 ++++ Verflucht günstig: Hexe bietet billigen Service an ++++
 ++++ Vergebliche Liebesmüh: Kameramann vergisst, bei Pornodreh Film einzulegen ++++
 ++++ Verkehrt in kriminellen Kreisen: Ehrlichkeit ++++
@@ -2117,6 +2136,7 @@
 ++++ Viel zu eingebildet: Mann trifft sich nicht mehr mit imaginärem Freund ++++
 ++++ Viel zu flach: Witze über Holland ++++
 ++++ Viel zu langsam: Autoschieberbande von Polizei erwischt ++++
+++++ Villa in Tornadogebiet gekauft: Millionär lebt in Saus und Braus ++++
 ++++ Villenlos: Verarmtem Millionär ist egal, auf welcher Parkbank er schläft ++++
 ++++ Vitamin B: Kumpel von Arzt kommt leicht an Nährstoffpräparat ++++
 ++++ Vogelwild: Specht mit Hirsch gekreuzt ++++
@@ -2132,6 +2152,7 @@
 ++++ Völlig verschwitzt: Vater vergisst, sein Kind in der Sauna abzuholen ++++
 ++++ Völlig von der Rolle: Tesa-Streifen zu 3 Jahren Haft verurteilt ++++
 ++++ Vollkommen durchgedreht: Mann steckt Arm absichtlich in Fleischwolf ++++
+++++ Vollkommen überzogen: Schokoladenapfel auf Kirmes kostet 18 Euro ++++
 ++++ Vollpfosten: Stürmer schießt entscheidenden Elfmeter genau ans Aluminium ++++
 ++++ Voll schlecht: Leergut ++++
 ++++ Vom Hype genervt: Skateboard-Pionier beklagt zu viele Trittbrettfahrer ++++
