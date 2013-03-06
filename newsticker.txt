@@ -34,6 +34,7 @@
 ++++ Ach du grüne Neune: Erster Bio-Kegelclub gegründet ++++
 ++++ Achmed: Araber fällt ein, was er beim Metzger vergessen hat ++++
 ++++ Achse des Bösen: Grund für Pannenserie bei Toyota endlich gefunden ++++
+++++ Achtbar: Mountainbiker pumpt viel Luft in seine Reifen ++++
 ++++ Achtlos: Billardturnier versehentlich ohne schwarze Kugel ausgerichtet ++++
 ++++ Ach, wie reizend: Demonstranten entzückt von neuem Bio-Pfefferspray ++++
 ++++ ADAC warnt: Erdbeeren schlecht im Winterreifen ++++
@@ -264,6 +265,7 @@
 ++++ Blödes Wortspiel: Scrabble ++++
 ++++ "Boa!": Mann bestaunt Würgeschlange ++++
 ++++ Bock geschossen: Jäger zielte eigentlich auf Ziege ++++
+++++ Bodybuilding für Arme: Hanteltraining ++++
 ++++ Bohr ey: Prolet staunt über Atommodell ++++
 ++++ Bordelltür blockiert: Zuhälter am Werk ++++
 ++++ Börsensturz: Taschendieb muss sich nur noch bücken ++++
@@ -274,6 +276,7 @@
 ++++ Boxer stolz: Sohn schlägt sich gut in der Schule ++++
 ++++ Brach ein: Sprintstarker Ganove nach Verfolgungsmarathon gefasst ++++
 ++++ Brach in Tränen aus: Entflohenem Häftling fiel der Abschied schwer ++++
+++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
 ++++ Brillant: König hat einen in der Krone ++++
@@ -534,6 +537,7 @@
 ++++ "Es knirschte": Spaziergänger wegen Schneckenhausfriendensbruch vor Gericht ++++
 ++++ Es lag am schwachen Nervenkostüm: Neurologe versaut Büttenrede ++++
 ++++ Es lief schon mal besser: Verkaufszahlen von Stephen Kings Kultbuch sinken ++++
+++++ Essen ist fertig: Städteplaner im Ruhrgebiet machen Mittagspause ++++
 ++++ Es war eine Ente: Zeitungen berichteten über fliegende Kuh ++++
 ++++ Es wird Ernst: Jury wählt Vornamen des Jahres ++++
 ++++ Exhibitionismus-Vorwurf: Verdächtiger packt aus ++++
@@ -723,6 +727,7 @@
 ++++ Gips nicht: Arzt verweigert Beinbruchpatienten die Behandlung ++++
 ++++ Glanzparade: Festlicher Umzug zu Ehren von Torwart durchgeführt ++++
 ++++ Glatt gelogen: Werbeversprechen für Faltencreme sorgt für Stirnrunzeln ++++
+++++ Glaubt noch an den Klapperstorch: Froschpärchen entschließt sich gegen Zeugungsakt ++++
 ++++ Gleitzeit im Bordell: Angestellte können kommen, wann sie wollen ++++
 ++++ Glück im Unglück: Angefahrener Hund stellt entzückt fest, dass aus seinem gebrochenen Bein ein Knochen ragt ++++
 ++++ Gnade vor Recht: Lexikon alphabetisch sortiert ++++
@@ -1091,6 +1096,7 @@
 ++++ Kinderwunsch: Eltern sollen vor dem Beischlaf bitte Zimmertür schließen ++++
 ++++ Kippen vergessen: LKW-Fahrer muss zur Deponie zurück ++++
 ++++ Kirche in Flammen: Übereifrige Putzfrau verursachte Fegefeuer ++++
+++++ Klang ziemlich abgehackt: Iran überträgt erstmals Enthauptung im Radio ++++
 ++++ Klappt nicht: Zugbrücke defekt ++++
 ++++ Klar abgehängt: PKW gewinnt ungleiches Rennen gegen Wohnwagen ++++
 ++++ Klasse gehalten: Torhüterleistung verhindert Abstieg ++++
@@ -1138,6 +1144,7 @@
 ++++ Konnte ihn damit nicht anmachen: Frau warf Dessous enttäuscht in den Ofen ++++
 ++++ Konnte keinem etwas abschlagen: Gutmütiger Henker total ruiniert ++++
 ++++ Konnte niemandem das Wasser reichen: Kellner entlassen ++++
+++++ Konnte nur schief gehen: Volltrunkener ließ Wagen stehen ++++
 ++++ Konsequent: Boxer haut Siegprämie auf den Kopf ++++
 ++++ Konsequent: Leichenschmaus mit Totenschein bezahlt ++++
 ++++ Konstanz am Bodensee: Wasserqualität seit Jahren auf hohem Level ++++
