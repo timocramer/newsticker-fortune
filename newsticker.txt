@@ -540,6 +540,7 @@
 ++++ Essen ist fertig: Städteplaner im Ruhrgebiet machen Mittagspause ++++
 ++++ Es war eine Ente: Zeitungen berichteten über fliegende Kuh ++++
 ++++ Es wird Ernst: Jury wählt Vornamen des Jahres ++++
+++++ Es wird Tote geben: Rechtschreibfehler verursacht Panik auf Geburtstagsfeier ++++
 ++++ Exhibitionismus-Vorwurf: Verdächtiger packt aus ++++
 ++++ Existenzkrise: Imaginärer Freund erhängt sich mit WLAN-Kabel ++++
 ++++ Ex-Post: Filiale hätte doch nicht geschlossen werden sollen ++++
@@ -745,6 +746,7 @@
 ++++ Großes Fest: Mann feiert überstandene Durchfallerkrankung ++++
 ++++ Großkotz: Mann prahlt nach Saufgelage mit Menge seines Erbrochenen ++++
 ++++ Großzügige Skandinavier: Betuchte Lappen lassen sich nicht lumpen ++++
+++++ Grottenkick: Fußballspiel in Tropfsteinhöhle endet 0:0 ++++
 ++++ Grund für chinesische Internetzensur entdeckt: ROFLMAO ++++
 ++++ Grund genug für eine Riesenparty: Landbesitzer feiert millionsten Quadratmeter ++++
 ++++ Grundlose Panik: Nichtschwimmer gerät ins tiefe Wasser ++++
@@ -821,6 +823,7 @@
 ++++ Hat einen ziehen lassen: Glücksfee wegen Blähungen verhindert ++++
 ++++ Hat ein Händchen für sowas: Kannibale bereitet Kinderteller zu ++++
 ++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
+++++ Hat endlich aufgehört zu rauchen: Nikotinsüchtiger kam bei Brand ums Leben ++++
 ++++ Hat er nicht gerafft: Hausmann hängt Gardinen falsch auf ++++
 ++++ Hat Gänsefüßchen: "Gänseküken" ++++
 ++++ Hat ganz schön dran zu knabbern: Salzstangenfabrikant kämpft nach Silvester mit massiver Überproduktion ++++
@@ -860,6 +863,7 @@
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
 ++++ Hatte keinen Bock mehr: Einsames Schaf begeht Selbstmord ++++
 ++++ Hätte man auch anders lösen können: Mieter entfernt Tapete mit Vorschlaghammer ++++
+++++ Hatte nur einen Haken: Maler konnte Wandfresko nirgends aufhängen ++++
 ++++ Hatte Parteigenossen: Mann war gerne SPD-Mitglied ++++
 ++++ Hätte schlimmer kommen können: Optimist in halbvoller Badewanne ertrunken ++++
 ++++ Hatte Zeit totzuschlagen: Mann mordete aus Langeweile ++++
@@ -1008,6 +1012,7 @@
 ++++ Joboffensive: Barilla sucht Spaghettiträger ++++
 ++++ juckt den gefängnisdirektor nicht mehr: der gefangene floh ++++
 ++++ Junge Talente: Frisch geschlüpfter Wasservogel meidet Berge ++++
+++++ Jüngstes Gerücht: Das Ende der Welt steht bevor ++++
 ++++ Kabeldiebstahl aufgeklärt: Drahtzieher verhaftet ++++
 ++++ Kain: Problem für Abel ++++
 ++++ Kaiser gefällt Kai sehr: Beckenbauer lobt Hafenbeckenbauer ++++
@@ -1483,6 +1488,7 @@
 ++++ "Oh na, nie!": Bayer bestreitet Masturbationsvorwürfe ++++
 ++++ Ohne Anlass: Auto startet nicht mehr ++++
 ++++ Ohne Flachs: Landwirt baut ausschließlich Hanf an ++++
+++++ Ohne großes Trara: Jäger verzichten auf das Spielen von Jagdhörnern ++++
 ++++ Ohne Mist: Bio-Bauer scheißt auf ökologische Anbaufläche ++++
 ++++ Ohne Scheiß: Mann litt drei Wochen unter Verstopfung ++++
 ++++ Ohne Schonung: Gläubiger nehmen Schuldner auch noch sein Waldstück ++++
@@ -1699,6 +1705,7 @@
 ++++ Scheiße passiert: Fäkalien in Tomatenmark festgestellt ++++
 ++++ Scheiße: Töpferin hat sich im Ton vergriffen ++++
 ++++ Schenkelklopfer: Preuße versucht, Schuhplattler zu tanzen ++++
+++++ Schenkelklopfer: Sadist bringt Masochist zum Lachen ++++
 ++++ Schick: Lagerfeld macht in Hosen und vertreibt Fliegen ++++
 ++++ Schiebung: Betrug beim Seifenkistenrennen ++++
 ++++ Schief gewickelt: Christo überschätzt sich bei Turmprojekt in Pisa ++++
