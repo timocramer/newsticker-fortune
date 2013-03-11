@@ -351,6 +351,7 @@
 ++++ "Das sind doch nur wilde Spekulationen!": Deutsche-Bank-Chef spielt Risikobanking-Vorwürfe herunter ++++
 ++++ Das sollte ihm eine Lehre sein: Junger Mann verliert Ausbildungsplatz ++++
 ++++ Da steht nix: Buch für impotente Männer enttäuschend ++++
+++++ Das wäre ja noch schöner: Krankenkasse zahlt Model kosmetischen Eingriff nicht +++
 ++++ Das war knapp: Dicker Mann hätte T-Shirt beinahe in Größe S gekauft ++++
 ++++ Das war 'ne harte Nuss: Tierarzt setzt Eichhörnchen erfolgreich dritte Zähne ein ++++
 ++++ Das war sein letzter Satz: "Da komm ich locker drüber" ++++
@@ -399,6 +400,7 @@
 ++++ Die dunkle Seide der Macht: Imperator trägt schwarze Robe ++++
 ++++ Die ewigen Jagdgründe: Bock auf Töten und Fleisch ++++
 ++++ Die Figur ist wichtig: Dame wird von Schachspieler versetzt ++++
+++++ Die Flasche war nicht zu gebrauchen: Brauerei entläßt Designer ++++
 ++++ Die hat sich aber gewaschen: Mieterin erhält hohe Warmwasserrechnung ++++
 ++++ Die Luft war raus: Mann beendet Beziehung mit seiner Gummipuppe ++++
 ++++ Die Runde geht aufs Haus: Kneipe feiert neue Sat-Schüssel mit Freigetränken ++++
@@ -1222,6 +1224,7 @@
 ++++ "Leck mich doch am Arsch!": Frau genervt, dass sie Sexvorlieben ständig wiederholen muss ++++
 ++++ Leckscreen: Neue iPhone-App ermöglicht interaktives Eisessen ++++
 ++++ Leder zappelt im Netz: Omas in Strapsen spielen Fußball ++++
+++++ Leeres Magazin: Amokläufer löscht Redaktion aus ++++
 ++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
 ++++ Lehnte sich zu weit aus dem Fenster: Copilot behauptete, er könne fliegen ++++
 ++++ Leichtgläubig: Naive Menschen sind schwindelerregend ++++
@@ -1538,6 +1541,7 @@
 ++++ Pervers: Mann mit Sprachfehler ist logopädophil ++++
 ++++ Pervers: Spannbetttuch beobachtet Pärchen aus nächster Nähe beim Geschlechtsverkehr ++++
 ++++ Pfeifen auf der Bühne: Langweiliger Auftritt bei Talentwettbewerb ++++
+++++ Pfeifen: Peter Gagelmann und Wolfgang Stark ++++
 ++++ Pferdekuss: Eifersüchtiger Hengst tritt Nebenbuhler ++++
 ++++ Pfui Spinne: Netzaktivistin frisst Fliege ++++
 ++++ Pfui Teufel: Fürst der Finsternis nicht stubenrein ++++
@@ -1610,6 +1614,7 @@
 ++++ Regionale Vorliebe: Hessische Zombies schwören auf Augebbelwoi ++++
 ++++ Regisseur dreht durch: Pause abgesagt ++++
 ++++ Rehgenerationsphase: Hirsch nutzt Brunftzeit zur Entspannung ++++
+++++ Reiben zwecklos: Wunderlampe hat Geist aufgegeben ++++
 ++++ Reich ins Heim: Wohlhabender Altnazi ist pflegebedürftig ++++
 ++++ Reicht nicht mehr: Butler kündigt wegen zu niedrigen Gehalts ++++
 ++++ Reife Leistung: Apfel fällt weit vom Stamm ++++
@@ -1892,6 +1897,7 @@
 ++++ Statt Intimrasur: Mann lässt wachsen ++++
 ++++ Statt Land Fluss: Überschwemmung ++++
 ++++ Steckt in den Miesen: Pornostar muss nehmen, was er kriegt ++++
+++++ Steckt noch in den Kinderschuhen: Jungdesigner kann nichts über neues Projekt verraten ++++
 ++++ Steht auf Messers Schneide: Artist will mit gewagtem Kunststück Zirkus retten ++++
 ++++ Steht auf Messers Schneide: "Rostfrei" ++++
 ++++ Steht auf Rasur: Mediävist bedauert unleserliche Bartschneidechronik ++++
@@ -2199,6 +2205,7 @@
 ++++ Waldarbeiter zufrieden: Baum gefällt ++++
 ++++ Walnüsse knacken: Neuer Extremsport für Tauchfans ++++
 ++++ War ausgezogen: Burgfräulein erwartet Ritter bereits sehnsüchtig ++++
+++++ War der Gehörnte: Mann erwischt Ehefrau bei Seitensprung mit Satan ++++
 ++++ Wäre auch an der Zeit gewesen: Gesellschaft zur Rettung des Konjunktiv II hätte heute gegründet werden können ++++
 ++++ War einfach nur ätzend: Chemiker gibt Forschungsprojekt an neuer Säure auf ++++
 ++++ Waren alle abgefüllt: Brauerei-Chef stellte Flaschen selbst ein ++++
