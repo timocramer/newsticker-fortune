@@ -160,6 +160,7 @@
 ++++ Ausgefallene Frisur: Glatze ++++
 ++++ Ausgefallenes Geschenk: Milchzahn ++++
 ++++ Ausgefallen: Intendant sagt Premiere in grün-gelb-kariertem Röckchen ab ++++
+++++ Ausgefallen: Lehrer begründet abgesagten Unterricht mit Zahnverlust ++++
 ++++ Ausgefeilt: Häftling entkommt durch cleveren Plan aus Gefängnis ++++
 ++++ Ausgenutzt: Rinder sind die Melkkühe der Nation ++++
 ++++ Ausgepackt: zip-Dateien machen sich .rar ++++
@@ -321,6 +322,7 @@
 ++++ Da kannst du Gift drauf nehmen: Vertreter empfiehlt Lebensversicherung ++++
 ++++ Da könnte ja jeder kommen: Stadt will Billigbordell verhindern ++++
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
+++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
 ++++ Da muss sie erstmal schlucken: Pornodebütantin bekommt harte Auflagen ++++
 ++++ Danach kräht kein Hahn mehr: Bauer schlachtet noch wie im Mittelalter ++++
@@ -369,6 +371,7 @@
 ++++ Delikate Methoden: Umstrittener Koch bereitet Stiergenitalien mit Honigwein zu ++++
 ++++ Dementer Rentner bleibt mit PKW stehen: Nachfolgende Fahrer rufen Pharmalobby ++++
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
+++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
 ++++ Den Studenten stinkt's: Proktologe bringt Lehrstuhl mit in die Vorlesung ++++
 ++++ Depp, adieu!: Franzosen lassen Schauspieler gerne nach Russland ziehen ++++
 ++++ Depressionen: Astronaut empfindet Alltag als düster ++++
@@ -834,6 +837,7 @@
 ++++ Hat genug vom Streichen: Geiger pfeift auf Violine ++++
 ++++ Hat genug von Stromschlägen: Briefträger weigert sich, E-Mails zuzustellen ++++
 ++++ Hat gestanden: Angeblicher Rollstuhlfahrer gibt Regelverstoß bei Paralympics zu ++++
+++++ Hat gute Gründe: Angler verweigert Küstenfischern Zugang zu Privatbucht ++++
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat jetzt eine heiße Spur: Detektiv macht sich vor Freude in die Hose ++++
@@ -1596,6 +1600,7 @@
 ++++ Rätsel gelöst: Löcher in Barmobiliar von Schluckspechten verursacht ++++
 ++++ Rätselhaft: Rätselheft ++++
 ++++ Rätselhaft: Tampon schnurlos verschwunden ++++
+++++ Ratzekahl: Ex-Papst rasiert sich vor Klostereintritt vollständig ++++
 ++++ "Ratz, ja?": Kindergärtnerin droht Kontrolle des Mittagsschlafs an ++++
 ++++ Rauchzeichen: Indianer spricht durch Loch im Hals ++++
 ++++ Raufen sich zusammen: Jugendliche Straftäter gründen Boxverein ++++
@@ -1693,6 +1698,7 @@
 ++++ Sauerei: Zitronen-Omelette ++++
 ++++ Saugt nicht mehr: Prostituierte wegen defekten Haushaltsgeräts daheim geblieben ++++
 ++++ Saulecker: Sodomist verteidigt Vorliebe ++++
+++++ Sau-Preis: Hauptgewinn des Rosenheimer Schweinezuchtvereins geht an Zugereisten ++++
 ++++ Sauwetter: Trotz Regen viele Besucher bei Schweinerennen ++++
 ++++ Schaben: So bekommt man plattgehauenes Ungeziefer von der Wand ++++
 ++++ Schach: Amokläufer schlägt 3 Bauern, Turm, Dame und König ++++
@@ -2030,6 +2036,7 @@
 ++++ Überraschend verlaufen: Warentest deckt Mängel bei Wimperntusche auf ++++
 ++++ Überraschung: Meteorologe konnte Kugelhagel, in dem er starb, nicht vorhersagen ++++
 ++++ Überschlagen: Bodenturner macht ungefähr einen Salto ++++
+++++ Über seinen Kopf entschieden: Todeskandidat fühlt sich übergangen ++++
 ++++ Übers Knie gebrochen: Weltrekordversuch im Wettessen frühzeitig vorbei ++++
 ++++ Überstunden: Am Montagabend am Montageband ++++
 ++++ Überwachungsskandal: Hobby-Angler jahrelang von Baum beschattet ++++
