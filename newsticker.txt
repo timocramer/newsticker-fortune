@@ -405,6 +405,7 @@
 ++++ Die Figur ist wichtig: Dame wird von Schachspieler versetzt ++++
 ++++ Die Flasche war nicht zu gebrauchen: Brauerei entläßt Designer ++++
 ++++ Die hat sich aber gewaschen: Mieterin erhält hohe Warmwasserrechnung ++++
+++++ Die Langsamen: Große Spermien kommen später ans Ziel ++++
 ++++ Die Luft war raus: Mann beendet Beziehung mit seiner Gummipuppe ++++
 ++++ Die Runde geht aufs Haus: Kneipe feiert neue Sat-Schüssel mit Freigetränken ++++
 ++++ Die Sache stinkt zum Himmel: Glücksspieler hat Aas im Ärmel ++++
@@ -761,6 +762,7 @@
 ++++ Guckt dumm aus der Wäsche: Katze im Schleudergang ++++
 ++++ Güllegrube übersehen: Bayern-Tourist versinkt vor Cham im Boden ++++
 ++++ Gummipuppe unehrlich: Organismus nur vorgetäuscht ++++
+++++ Gut angezogen: Smoking-Träger leert Cocktail in Rekordzeit ++++
 ++++ Gut aufgelegt: Mann freut sich über Telefonrechnung ++++
 ++++ Gut aufgestellt in der Krise: Zwangsversteigerungsschild ++++
 ++++ Gute Idee: Architekt fällt neues Haus ein ++++
@@ -825,6 +827,7 @@
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
+++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
 ++++ Hat einen ziehen lassen: Glücksfee wegen Blähungen verhindert ++++
 ++++ Hat ein Händchen für sowas: Kannibale bereitet Kinderteller zu ++++
 ++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
@@ -1076,6 +1079,7 @@
 ++++ Keine Ausdauer: Schiedsrichter pfeift aus dem letzten Loch ++++
 ++++ Keine Basis für eine gute Beziehung: Polarforscher ließ Polarforscherin zu wenig Freiraum ++++
 ++++ Keine Energie mehr: Perpetuum-Mobile-Forscher geben auf ++++
+++++ Keine Frage: Wortkarger Reporter ist fehl am Platz ++++
 ++++ Keine gute Figur gemacht: Miserabler Bildhauer muss Atelier schließen ++++
 ++++ Keine Kohle: Grill abgebrannt ++++
 ++++ Keine Kohle mehr: Bergmann kann Zeche nicht zahlen ++++
@@ -1854,6 +1858,7 @@
 ++++ So lala: Neues Musical erhält mittelmäßige Kritiken ++++
 ++++ Soll Daten verkaufen: Bundeswehr gibt persönliche Informationen an Dritte weiter ++++
 ++++ Soll keine Anstalten machen: Stadt kündigt Vertrag mit Bauunternehmen ++++
+++++ Soll mehr kuschen: Rechtschreibfehler in Liebesbrief treibt Paar auseinander ++++
 ++++ Soll nicht sein: Bankkunde beschwert sich über fehlerhafte Abbuchung ++++
 ++++ Sollte den Kopf nicht hängen lassen: Henker-Azubi scharf zurechtgewiesen ++++
 ++++ Sollte die Kirche im Dorf lassen: Gefeuerter Priester verlangt heftige Abfindung ++++
@@ -2175,6 +2180,7 @@
 ++++ Völlig aufgelöst: Hinterbliebene von Säureopfer trauern ++++
 ++++ Völlig überwältigt: Gauner zeigte sich bei Festnahme ergriffen ++++
 ++++ Völlig überzogen: Teebeutel zwei Stunden in Tasse gelassen ++++
+++++ Völlig untergegangen: Niemand nahm Notiz von sinkendem Boot ++++
 ++++ Völlig vermessen: Frau bestellt 200 Meter Goldbrokat für Abendkleid ++++
 ++++ Völlig verschwitzt: Vater vergisst, sein Kind in der Sauna abzuholen ++++
 ++++ Völlig von der Rolle: Tesa-Streifen zu 3 Jahren Haft verurteilt ++++
@@ -2394,6 +2400,7 @@
 ++++ Zu viele Alkopops getrunken: Teenager colabierte ++++
 ++++ Zu viel Ouzo: Mann bricht fließend griechisch ++++
 ++++ Zu viel Schnaps: Flachmann übergibt sich in Brusttasche ++++
+++++ Zu wenig Spielraum: Stadt kann sich Kindergartenausbau nicht leisten ++++
 ++++ Zu wenig Stoff: Erotikfilmprojekt kurzfristig abgeblasen ++++
 ++++ Zwanghaft: Bayrische Kommode tanzt Schubladler ++++
 ++++ Zwangsläufig: Nymphomanin gründet Selbsthilfegruppe ++++
