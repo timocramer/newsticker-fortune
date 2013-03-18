@@ -364,6 +364,7 @@
 ++++ Das wird teuer: Star-Architekt baut Unfall ++++
 ++++ Datenautobahn: Stau auf dem CD-Brenner ++++
 ++++ Dauerhaft: Lebenslänglich ++++
+++++ Davon kann man sich eine Scheibe abschneiden: Großzügiger Metzger lädt zur Salamiverkostung ++++
 ++++ Dax im Keller: Frau ruft Kammerjäger ++++
 ++++ Defektes Sicherheitsnetz: Hochseilakrobat unten durch ++++
 ++++ Déjà-vu: 50% der Leser meinen, diese Tickerzeile schon einmal gelesen zu haben ++++
@@ -1209,6 +1210,7 @@
 ++++ Langweilig: Gespräch zwischen Dolmetscher und Papagei dreht sich im Kreis ++++
 ++++ Lassen fünfe gerade sein: Faule Mannschaft gibt genau jetzt Basketball auf ++++
 ++++ Lässt es raushängen: Reicher Exihibitionist trägt goldene Unterhose ++++
+++++ Lässt fünfe gerade sein: Chirurg richtet Zehen zum Freundschaftspreis ++++
 ++++ Lässt ihn fallen: General schickt Protégé an die Front ++++
 ++++ Lässt nichts anbrennen: Nekrophiler steigt in Krematorium ein ++++
 ++++ Lässt noch zu wünschen übrig: Mann geht sparsam mit Feen-Angebot um ++++
@@ -1301,6 +1303,7 @@
 ++++ Medizinmann gerufen: Bandwurm sitzt in Apache ++++
 ++++ Meerteiler: Peter Jackson plant epischen Moses-Film ++++
 ++++ Mehr Rechte für Frauen: NPD gründet Datingservice ++++
+++++ Mehr Tempo: Taschentuchhersteller kauft schnellere Maschinen ++++
 ++++ Mehr Transparenz: Stadionsprecher wollen auf Dressur-WM Ross und Reiter nennen ++++
 ++++ Meisterschaft im Geräteturnen abgesagt: Veranstalter hatten keinen Bock ++++
 ++++ Method Acting? Einer von David Carradines (†) letzten Filmen hatte den Titel "My Suicide" ++++
@@ -1648,6 +1651,7 @@
 ++++ Rheuma: Rentner trotz Gelenkschmerzen zum Schneeschippen aufgefordert ++++
 ++++ Riecht komisch: Geheimnis muss mal wieder gelüftet werden ++++
 ++++ Riecht komisch: Verwester Clown ++++
+++++ Riesencoup gelandet: Viehdiebe flogen fettes Rind ins Ausland aus ++++
 ++++ Riesenfetisch: Mann steht auf Stelzen ++++
 ++++ Riesengeschäft: Villeroy & Boch macht in Kloschüsseln ++++
 ++++ Riesenspecktakel: Fette Zookrake gefüttert ++++
@@ -1761,6 +1765,7 @@
 ++++ Schöne Bescherung: Edward bekommt neue Hände ++++
 ++++ Schon gespannt: Sportbogenschütze wartet auf seinen Sohn (9) vor Schule ++++
 ++++ Schon vor 3000 Jahren: China hatte als erstes Land eigene Webseide ++++
+++++ Schöpfte aus den Vollen: Taschendieb bestiehlt betrunkene Festbesucher ++++
 ++++ Schraube locker: Mutter dreht durch ++++
 ++++ Schreibblock ade: Dichter fällt nichts mehr ein ++++
 ++++ Schreibtischlampe? Bei Charlotte Roche brennt nachts noch Licht ++++
@@ -1901,6 +1906,7 @@
 ++++ Ständig K.O.: Boxkarriere beginnt mit anstrengenden Bodengängen ++++
 ++++ Ständig muss er füttern: Bauer macht Ferkel zur Sau ++++
 ++++ Ständig zu spät gekommen: Pornodarsteller gefeuert ++++
+++++ Stand völlig neben sich: Doppelagent entlarvt ++++
 ++++ Stark abgebaut: Bergarbeiter nach Doppelschicht total erschöpft ++++
 ++++ Starke Winde: Geländewagen trotz Sturms aus Schlammloch gezogen ++++
 ++++ Startenöre: Berühmte Sänger führen neues Zahlungsmittel ein ++++
@@ -1930,6 +1936,7 @@
 ++++ Stimmt nicht: Klavierbauer hat kein gutes Gehör ++++
 ++++ Stinkt zum Himmel: Mönche beharren auf Raucherabtei ++++
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
+++++ Stofftier verschluckt: Schlange würgt ein wenig steiff ++++
 ++++ Stoffwechselprobleme: Junkie verträgt Umstieg von Crack auf Speed nicht ++++
 ++++ Stolz wie Oskar: Gregor Gysi gründet eigene Partei ++++
 ++++ Störtebeker: Ex-Tennisprofi von Pirat in Besenkammer überrascht ++++
