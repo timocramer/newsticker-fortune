@@ -321,6 +321,7 @@
 ++++ Da kann nur ein Wunder helfen: Lazarett hat keine Patienten ++++
 ++++ Da kannst du Gift drauf nehmen: Vertreter empfiehlt Lebensversicherung ++++
 ++++ Da könnte ja jeder kommen: Stadt will Billigbordell verhindern ++++
+++++ Dame mit Läufer geschlagen: Schachspieler verprügelt überlegene Kontrahentin mit Teppich ++++
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
 ++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
@@ -834,6 +835,7 @@
 ++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
 ++++ Hat endlich aufgehört zu rauchen: Nikotinsüchtiger kam bei Brand ums Leben ++++
 ++++ Hat er nicht gerafft: Hausmann hängt Gardinen falsch auf ++++
+++++ Hat es in sich: Kurier verrät Drogenversteck ++++
 ++++ Hat Gänsefüßchen: "Gänseküken" ++++
 ++++ Hat ganz schön dran zu knabbern: Salzstangenfabrikant kämpft nach Silvester mit massiver Überproduktion ++++
 ++++ Hat gefunkt: Kommissar hielt Polizeistreife über sein Date auf dem Laufenden ++++
@@ -1237,6 +1239,7 @@
 ++++ Leeres Magazin: Amokläufer löscht Redaktion aus ++++
 ++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
 ++++ Lehnte sich zu weit aus dem Fenster: Copilot behauptete, er könne fliegen ++++
+++++ Leichen pflastern seinen Weg: Voodoo-Priester lässt Zombies schuften ++++
 ++++ Leichtgläubig: Naive Menschen sind schwindelerregend ++++
 ++++ Leidet nicht mehr an Krebs: Gläubiger in Heilquelle ertrunken ++++
 ++++ Letzter Satz: "Von dem Gewitter lasse ich mir doch nicht mein Tennisspiel ruinieren!" ++++
@@ -1481,6 +1484,7 @@
 ++++ NPD steht vor der Pleite: Kann eine Verstaatlichung helfen? ++++
 ++++ Null Block: Volleyballer hat keine Lust mehr ++++
 ++++ Nur am Rande gestreift: Kreuzung von Pferd und Zebra machte keine großen Schlagzeilen ++++
+++++ Nur an der Leine unterwegs: Hannovers Hunde enttäuscht ++++
 ++++ Nur die Rosinen herausgepickt: Stollen droht einzustürzen ++++
 ++++ Nur ein alter Schinken: Antikes Metzgerfachbuch enttäuscht ++++
 ++++ Nur ein Bisschen: Angriff von Welpen tat nicht besonders weh ++++
@@ -1684,6 +1688,7 @@
 ++++ Rum statt Ähre: Piraten feiern Enterdankfest ++++
 ++++ Rundungsfehler: Brust-OP schief gegangen ++++
 ++++ Rüstungsinnovation: Neue Rakete schlägt ein wie eine Bombe ++++
+++++ Sabbat: Juden läuft beim Gedanken an Freitag Wasser im Munde zusammen ++++
 ++++ Sachbeschädigung: Akrobat schlägt Rad ++++
 ++++ Sahara: Libyscher Vogelkundler macht überraschende Beobachtung ++++
 ++++ Sah nach Meer aus: Ostsee kleiner als gedacht ++++
@@ -2111,6 +2116,7 @@
 ++++ Unsanft ausgeladen: Umzugshelfer bei Einweihungsparty nicht willkommen ++++
 ++++ Unsportlich: Waldarbeiter fällt Kollegen in den Rücken ++++
 ++++ Unten durch: Liebhaber blamiert sich mit zu kurzem Vorspiel ++++
+++++ Unten durch: Radrennfahrer bei Abkürzung durch Tunnel erwischt ++++
 ++++ Unter aller Sau: Angehender Melker besteht Prüfung nicht ++++
 ++++ Unter aller Sau: Ferkel ++++
 ++++ Unterbelichtet: Dummer Fotograf vergeigt Foto ++++
@@ -2128,6 +2134,7 @@
 ++++ Unzufrieden: Mann mit Tourette-Syndrom verflucht sein Schicksal ++++
 ++++ Urinstinkt: Mann putzt WC freiwillig ++++
 ++++ Urkunde: Mann erhält Zertifikat für 50-jährige Supermarkt-Treue ++++
+++++ Usain Bowlt: Jamaikanischer Sprinter wechselt die Sportart ++++
 ++++ Václav got to do with it: Tschechischer Urheber für Tina-Turner-Song gefunden ++++
 ++++ Vampire wissen es längst: Kürbisse sind an Halloween Pflicht ++++
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
