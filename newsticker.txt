@@ -393,6 +393,7 @@
 ++++ Der Sake nach: Japanisches Getränk wurde am Reisbrett entworfen ++++
 ++++ Der seltsame Fall des Jenson Button: Formel-1-Pilot fährt Rennen rückwärts ++++
 ++++ Der Spuk ist vorbei: Polizei schnappt Geisterfahrer dank Phantombild ++++
+++++ Der war geladen: Promi durfte nicht mit Revolver zum VIP-Dinner ++++
 ++++ Der Weg ist das Ziel: Pflasterer höchst motiviert ++++
 ++++ Deserteure wehren sich gegen Vorwürfe: Wir haben doch Land gewonnen! ++++
 ++++ Deshalb geht die Welt doch nicht unter: Prophet lag mit Vorhersage falsch ++++
@@ -522,6 +523,7 @@
 ++++ Er kennt seine Rechte: Teenager weiß, dass Selbstbefriedigung nicht verboten ist ++++
 ++++ Er kriegt die Krise: Ministerialbeamter bekommt Euro-Rettung zugewiesen ++++
 ++++ Er kriegt die Motten: Sohn des Schmetterlingszüchters über Testament entsetzt ++++
+++++ Erlebte ein Donnerwetter: Nasser Ehegatte versaut neuen Wohnzimmerteppich ++++
 ++++ Ernster Wasserschaden: Klempner geht zu Lachen in den Keller ++++
 ++++ Ernüchternd: 1,0 Promille erst nach 10 Stunden abgebaut ++++
 ++++ Erregnis besorgend: Blaue Pillen ++++
@@ -560,6 +562,7 @@
 ++++ Fällt ins Auge: Lidschatten ++++
 ++++ Falsche Einstellung: Neuer Mitarbeiter will nicht arbeiten ++++
 ++++ Falsche Einstellung: Solitärweltmeister arbeitet heimlich, statt zu trainieren ++++
+++++ Falsch gekürzt: Bruchrechnung nicht mehr auf dem Lehrplan ++++
 ++++ Falsch kombiniert: Detektivin trägt pinkes Oberteil zu gelber Hose ++++
 ++++ Falschrum: Zuckerrohrschnaps hat 04% statt 40% ++++
 ++++ Falsch verbunden: Bondage-Künstler durch Anruf abgelenkt ++++
@@ -881,6 +884,7 @@
 ++++ Hatte Zeit totzuschlagen: Mann mordete aus Langeweile ++++
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
 ++++ Hat viele verschiedene Frauen: Mormone ist Witwer ++++
+++++ Häufig: Bauer gesteht regelmäßigen Liebesakt in Scheune ++++
 ++++ Hausaufgaben: Soldaten müssen Rückzug aus Wohngebieten üben ++++
 ++++ Hausgemacht: Maurer genießt Brotzeit beim Richtfest ++++
 ++++ Hausmeister machen das unter sich aus: Keller bleiben dunkel ++++
@@ -1067,6 +1071,7 @@
 ++++ Karriereende: Pirat allergisch gegen Kapern ++++
 ++++ Karriereknick: Pornostar erleidet Penisbruch ++++
 ++++ Kartograph geil: Weiße Flecken auf der Landkarte ++++
+++++ Karzinogene Zusatzstoffe: Mann an Crèpes erkrankt ++++
 ++++ Kasache: Bayer vergibt Zentralasiaten ++++
 ++++ Käsereibedarf: Käsereibe darf, muss aber nicht ++++
 ++++ Katerstimmung: Jammernde Katze fliegt aus Miezhaus ++++
@@ -1185,6 +1190,7 @@
 ++++ Kreditblasen: Freier überschulden sich bei Prostituierten ++++
 ++++ Kreislaufprobleme: Marathonläufer mit verkürztem linken Bein gibt vorzeitig auf ++++
 ++++ Kreuzbandriss: Herabfallendes Christensymbol verletzt Messdiener am Knie ++++
+++++ Kriegen endlich die Kurve: Engagierte Ultras spenden für Stadionausbau ++++
 ++++ Kriegt den Hals nicht voll: Tattoo-Junkie gehen die Motiv-Ideen aus ++++
 ++++ Kriegt die Kurve nicht: Rennstall entlässt drogensüchtigen Fahrer ++++
 ++++ Kriegt sein Fett weg: Dicker Mann wegen Schönheits-OP gehänselt ++++
@@ -1412,6 +1418,7 @@
 ++++ Nass geworden: Fußgänger hatte Niederschlag nicht auf dem Schirm ++++
 ++++ Nerven verloren: Neurochirurg hat schlampig gearbeitet ++++
 ++++ Nervig: Zecke geht Mann auf den Sack ++++
+++++ Nette Einlage: Artistin entblößt bei Spagat versehentlich ihre Binde ++++
 ++++ Neue Bestimmungsmethode für Alter von PKW: Jahresringe von Duftbaum zählen ++++
 ++++ Neue Cockpitverpflegung entwickelt: Testpilot isst Versuchskaninchen ++++
 ++++ Neue Erkenntnisse: Indianer vermehren sich durch Zeltteilung ++++
