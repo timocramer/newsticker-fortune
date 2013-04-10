@@ -6,6 +6,7 @@
 ++++ 25 Prozent: Halbstarker querschnittsgelähmt ++++
 ++++ 6 Semester Ackerbau: Studienzeit vergeht wie im Pflug ++++
 ++++ "6|_|T3N T46": Mathematiker löst Begrüßungsformel ++++
+++++ 700 Euro im Monat: Heroin-Süchtiger hat hohe Fixkosten ++++
 ++++ 90-60-90: Schneider vermisst seine Frau jeden Tag aufs Neue ++++
 ++++ 9,8696043785340225: Mathematikerkind macht schon alleine ππ ++++
 ++++ "Aaah!", "Iiih!", "Da!": Panik nach Rattenplage auf Kreuzfahrtschiff ++++
@@ -136,6 +137,7 @@
 ++++ Auf Ex getrunken: Frisch Geschiedener gibt Freunden einen aus ++++
 ++++ Aufgedonnert: Gewitter im Anzug ++++
 ++++ Aufgeflogen: Hühnerdieb macht keine Beute ++++
+++++ Aufgehängt: Callcentermitarbeiter nicht mehr zu erreichen ++++
 ++++ Aufgelöst: Rätsel um verschwundene Brausetablette ++++
 ++++ Auflockerung an deutschen Hochschulen: Uni-Sex-Toiletten eingeführt ++++
 ++++ Auf Nummer sicher: Prostitutierte benutzt Kondom ++++
@@ -162,6 +164,8 @@
 ++++ Ausgefallen: Intendant sagt Premiere in grün-gelb-kariertem Röckchen ab ++++
 ++++ Ausgefallen: Lehrer begründet abgesagten Unterricht mit Zahnverlust ++++
 ++++ Ausgefeilt: Häftling entkommt durch cleveren Plan aus Gefängnis ++++
+++++ Ausgekochtes Schlitzohr: Wirt entwickelt exotische Rezepte, um mehr Gäste zu locken ++++
+++++ Ausgelaugt: Bäcker gibt Brezelverkauf auf ++++
 ++++ Ausgenutzt: Rinder sind die Melkkühe der Nation ++++
 ++++ Ausgepackt: zip-Dateien machen sich .rar ++++
 ++++ Ausgeräumt: Verdacht auf Wohnungseinbruch ++++
@@ -277,6 +281,7 @@
 ++++ Boxer stolz: Sohn schlägt sich gut in der Schule ++++
 ++++ Brach ein: Sprintstarker Ganove nach Verfolgungsmarathon gefasst ++++
 ++++ Brach in Tränen aus: Entflohenem Häftling fiel der Abschied schwer ++++
+++++ Brandtstiftung: Nachlass von früherem Kanzler fällt Flammen zum Opfer ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
@@ -321,6 +326,7 @@
 ++++ Da kann nur ein Wunder helfen: Lazarett hat keine Patienten ++++
 ++++ Da kannst du Gift drauf nehmen: Vertreter empfiehlt Lebensversicherung ++++
 ++++ Da könnte ja jeder kommen: Stadt will Billigbordell verhindern ++++
+++++ Da kullern die Tränen: Leichtathletiktrainer beweint Leistung seiner Hürdenläufer ++++
 ++++ Dame mit Läufer geschlagen: Schachspieler verprügelt überlegene Kontrahentin mit Teppich ++++
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
 ++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
@@ -429,6 +435,7 @@
 ++++ Drauf geschissen: Schüler isst Pausenbrot trotz Taubenkot ++++
 ++++ Dreck am Stecken: Männer duschen zu selten ++++
 ++++ Dreht am Rad: Glücksfee ++++
+++++ Drehte sich beruflich im Kreis: Ballerina beendet Karriere ++++
 ++++ Dreht sich wegen Pfusch von Nachfolger im Grabe um: Lebendig begrabener Leichenbestatter ++++
 ++++ Dreisilbig: Einsilbig ++++
 ++++ Dreister Kreditkartenbetrug: Goldene Mastercard in Wahrheit aus Plastik ++++
@@ -470,6 +477,7 @@
 ++++ Einfach weggerannt: Klingelputzer verzichtet auf seinen Lohn ++++
 ++++ Einfach zum Kotzen: Brechstange ++++
 ++++ Einfältig: naiver Christ glaubt nicht an Sohn und Heiligen Geist ++++
+++++ Ein feiner Zug: Kiffer bekommt Joint gereicht ++++
 ++++ Ein Fühler weniger: Fliege hat einen an der Klatsche ++++
 ++++ Einführungspreis: Gebrauchte Sexspielzeuge um bis zu 50% billiger ++++
 ++++ Eingebildet: Adeliger trägt Kontaktmonokel ++++
@@ -509,6 +517,7 @@
 ++++ Entlassen: Schmiedelehrling kaute bei der Arbeit an den Nägeln ++++
 ++++ Enttäuschung steht ihm ins Gesicht geschrieben: Mann wollte andere Tätowierung ++++
 ++++ Entwickelt sich langsam: Säugling hilft schon vorsichtig mit ++++
+++++ Epidemie: Hunderte in Mülheim an der Ruhr erkrankt ++++
 ++++ Erasmus: Student entdeckte Faible für püriertes Obst im Ausland ++++
 ++++ Erbärmlich: Geringer Wohlstand geht auf nächste Generation über ++++
 ++++ Erbrechen: Antikes Gartenutensil über 8 Generationen weitergegeben ++++
@@ -548,6 +557,7 @@
 ++++ Es lag am schwachen Nervenkostüm: Neurologe versaut Büttenrede ++++
 ++++ Es lief schon mal besser: Verkaufszahlen von Stephen Kings Kultbuch sinken ++++
 ++++ Essen ist fertig: Städteplaner im Ruhrgebiet machen Mittagspause ++++
+++++ Ess-/Teetisch: Wandelbares Möbelstück besticht durch ansprechende Optik ++++
 ++++ Es war eine Ente: Zeitungen berichteten über fliegende Kuh ++++
 ++++ Es wird Ernst: Jury wählt Vornamen des Jahres ++++
 ++++ Es wird Tote geben: Rechtschreibfehler verursacht Panik auf Geburtstagsfeier ++++
@@ -694,6 +704,7 @@
 ++++ Geistesblitz: Vier Mitarbeiter einer Hamburger Werbeagentur erleiden Gehirnerschütterung bei Brain-Storming ++++
 ++++ Geistesgegenwart: Schlossbesitzer endeckt neues Geschäftsmodell ++++
 ++++ Gelber Sack: Chinesischer Nachbar trennt seinen Müll nicht ++++
+++++ Gelöst: Chemiker begießt Kreuzworträtsel mit Säure ++++
 ++++ Gemeine Fangfragen: Mann fällt durch Angelprüfung ++++
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
@@ -729,8 +740,10 @@
 ++++ Gezinkt: Meister im Kartenhausbauen als Hochstapler entlarvt ++++
 ++++ Ghostwriter: Nachricht war gar nicht von Sam ++++
 ++++ Gibt weiter Rätsel auf: Verschwundener Sudoku-Autor ++++
+++++ Gießen: Hessischer Botaniker findet heraus, wie Pflanzen länger leben ++++
 ++++ Ging an die Decke: Frau verärgert über Sauerei, die ihr Mann beim Onanieren angerichtet hat ++++
 ++++ Ging auf dem Zahnfleisch: Akrobat nach großer Welttournee völlig erschöpft ++++
+++++ Ging auf keine Kuhhaut: Milka kürzt umstrittenen Werbeslogan ++++
 ++++ Ging daneben: Seiltanznummer endet tragisch für Artisten ++++
 ++++ Ging daneben: Stalker von Opfer erwischt ++++
 ++++ Ging durch Geschosse zu Boden: Mann in herabfahrendem Aufzug erschossen ++++
@@ -881,6 +894,7 @@
 ++++ Hatte nur einen Haken: Maler konnte Wandfresko nirgends aufhängen ++++
 ++++ Hatte Parteigenossen: Mann war gerne SPD-Mitglied ++++
 ++++ Hätte schlimmer kommen können: Optimist in halbvoller Badewanne ertrunken ++++
+++++ Hatte Schwimmflügel: Pianist einziger Überlebender bei Schiffsunglück ++++
 ++++ Hatte Zeit totzuschlagen: Mann mordete aus Langeweile ++++
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
 ++++ Hat viele verschiedene Frauen: Mormone ist Witwer ++++
@@ -999,7 +1013,9 @@
 ++++ Interessiert ihn nicht die Bohne: Steakhaus-Gast lässt Beilage unangerührt ++++
 ++++ In Teufels Küche gebracht: Koch in Erklärungsnot nach Einsatz von schwarzem Maggi ++++
 ++++ In Tränen aufgelöst: Heulsuse hat kein Wasser für Brausetablette ++++
+++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
 ++++ Islam: Muezzin sitzt im Rollstuhl ++++
+++++ Isst Jacke wie Hose: Motte bei Nahrungsauswahl nicht wählerisch ++++
 ++++ Ist das Ihr Ernst?: Ehefrau muss Unfallopfer identifizieren ++++
 ++++ Ist doch kein Beinbruch: Oberarzt tröstet jungen Internisten nach Fehldiagnose ++++
 ++++ Ist ganz aufgewühlt: Rentner hat Maulwürfe im Garten ++++
@@ -1009,6 +1025,7 @@
 ++++ Ist jetzt natürlich hart, aber so ist die Regel: Frau verweigert Mann den Sex ++++
 ++++ Ist neu in der Szene: Statist läuft bei Pornoreportage durchs Bild ++++
 ++++ Ist noch nicht aus dem Schneider: Textilhandwerker bekommt Tumor entfernt ++++
+++++ Ist Sean Penn: Schauspieler ging nach hartem Arbeitstag früh ins Bett ++++
 ++++ Ist unten durch: Kanalarbeiter macht schon wieder früher Feierabend ++++
 ++++ Jacke wie Hose: Overall ++++
 ++++ Jämmerlich im Stich gelassen: Stachel von Biene ++++
@@ -1030,6 +1047,7 @@
 ++++ Junge Talente: Frisch geschlüpfter Wasservogel meidet Berge ++++
 ++++ Jüngstes Gerücht: Das Ende der Welt steht bevor ++++
 ++++ Kabeldiebstahl aufgeklärt: Drahtzieher verhaftet ++++
+++++ Kaffeeplantage: Großgrundbesitzer besprechen Produktion der nächsten Jahre ++++
 ++++ Kain: Problem für Abel ++++
 ++++ Kaiser gefällt Kai sehr: Beckenbauer lobt Hafenbeckenbauer ++++
 ++++ Kalenderdiebstahl: Beide Täter bekommen sechs Monate ++++
@@ -1063,6 +1081,7 @@
 ++++ Kann seinem Enkel nicht folgen: Opa versteht Twitter nicht ++++
 ++++ Kann seinem Lehrer nicht mehr unter die Augen treten: Karateschüler hat Hexenschuss ++++
 ++++ Kann sein Glück kaum fassen: Mann verliebt sich in 300-Kilo-Frau ++++
+++++ Kann sich kein Rendezvous leisten: Pfandleiher versetzt seine Freundin ++++
 ++++ Kann sich sehen lassen: Arzt heilt Blinden ++++
 ++++ Kannste vergessen: Haustürschlüssel ++++
 ++++ Kannten sich nur flüchtig: Bonnie und Clyde hatten kaum Zeit für einander ++++
@@ -1081,6 +1100,7 @@
 ++++ Kaum zu fassen: Der springende Punkt ++++
 ++++ Kehrt Wände: Neuer Vertikalbesen bringt Firma aus der Krise ++++
 ++++ Kehrt zum Tatort zurück: Mörder kurz vor Ende der Tagesschau wieder zu Hause ++++
+++++ Kehrt zurück: Straßenfeger hat eine Stelle vergessen ++++
 ++++ Kein Biss: ARD-Intendant unzufrieden mit seinen Dritten ++++
 ++++ Kein Ding: Frau findet Zeugungsunfähigkeit ihres Partners nicht schlimm ++++
 ++++ Keine Ahnung vom Schlittenfahren: Eskimos gehen vor die Hunde ++++
@@ -1168,6 +1188,7 @@
 ++++ Konnte keinem etwas abschlagen: Gutmütiger Henker total ruiniert ++++
 ++++ Konnte niemandem das Wasser reichen: Kellner entlassen ++++
 ++++ Konnte nur schief gehen: Volltrunkener ließ Wagen stehen ++++
+++++ Könnte schief gehen: Arzt vor geplanter Bein-Op skeptisch ++++
 ++++ Konsequent: Boxer haut Siegprämie auf den Kopf ++++
 ++++ Konsequent: Leichenschmaus mit Totenschein bezahlt ++++
 ++++ Konstanz am Bodensee: Wasserqualität seit Jahren auf hohem Level ++++
@@ -1193,6 +1214,7 @@
 ++++ Kriegen endlich die Kurve: Engagierte Ultras spenden für Stadionausbau ++++
 ++++ Kriegt den Hals nicht voll: Tattoo-Junkie gehen die Motiv-Ideen aus ++++
 ++++ Kriegt die Kurve nicht: Rennstall entlässt drogensüchtigen Fahrer ++++
+++++ Kriegt 'ne Gänsehaut: Bauer vor Transplantation aufgeregt ++++
 ++++ Kriegt sein Fett weg: Dicker Mann wegen Schönheits-OP gehänselt ++++
 ++++ Kriminalpolizei warnt: Aufsteller von Altgoldcontainern sind meist Betrüger ++++
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
@@ -1261,6 +1283,7 @@
 ++++ Linksdrall: Frau mit ungleichen Brüsten kann nicht geradeaus gehen ++++
 ++++ Lippenbekenntnis: "Ja, die rote Farbe auf der Zigarettenkippe kommt von mir." ++++
 ++++ Löffelchenstellung nach Knigge: Oberhalb des Tellers ++++
+++++ Los Angeles: Amerikanerin fordert von Gatten dicken Fang ++++
 ++++ Löwe gehorcht nicht: Dompteur sichtlich angefressen ++++
 ++++ Luftnummer: Sex im Flugzeug hält den Erwartungen oft nicht stand ++++
 ++++ Lungenkrebs: Marlboro-Cowboy zog schneller als sein Schatten ++++
@@ -1298,6 +1321,7 @@
 ++++ Mann doch kein Hypochonder: "Ich hatte mir das nur eingebildet" ++++
 ++++ Manni poliert: Frau zwingt Ehemann durch Hypnose zum Putzen ++++
 ++++ Mann, Mann, Mann: CDU nicht offen für neue Beziehungsmodelle ++++
+++++ Mann schafft: Frau empfängt Fußballverein zu Hause ++++
 ++++ Mann stutzte, als er es erfuhr: Frau steht auf Intimrasur ++++
 ++++ Markiert den starken Mann: Mutiger Hund ++++
 ++++ Marktstudie: Rolls Royce immer noch der Rolls Royce unter den Autos ++++
@@ -1314,6 +1338,7 @@
 ++++ Mehr Rechte für Frauen: NPD gründet Datingservice ++++
 ++++ Mehr Tempo: Taschentuchhersteller kauft schnellere Maschinen ++++
 ++++ Mehr Transparenz: Stadionsprecher wollen auf Dressur-WM Ross und Reiter nennen ++++
+++++ "Meine Fresse": Patient muss dummem Zahnarzt Tätigkeitsfeld erklären ++++
 ++++ Meisterschaft im Geräteturnen abgesagt: Veranstalter hatten keinen Bock ++++
 ++++ Method Acting? Einer von David Carradines (†) letzten Filmen hatte den Titel "My Suicide" ++++
 ++++ Métropole: Mann aus Danzig arbeitet bei Pariser U-Bahn ++++
@@ -1324,6 +1349,7 @@
 ++++ Mildes Urteil: Moderate Taliban steinigen Frau mit Watte ++++
 ++++ . . . . . . . . . . . . . . . . . minimal gesunken ++++
 ++++ Minivan: Kleinwüchsiger Russe eröffnet Shuttleservice ++++
+++++ Mischt sich überall ein: Leprapatient macht sich im Kochkurs unbeliebt ++++
 ++++ Misstrauisch: Gärtnerei befürchtet Maulwurf in den eigenen Reihen ++++
 ++++ Missverstanden: Junggeselle fragt verheiratete Britin nach Date ++++
 ++++ Missverständnis im Chemielabor: Mitarbeiter löst Vertrag auf ++++
@@ -1505,6 +1531,7 @@
 ++++ Nur noch bis 2012 gültig: Maya-Kalender-Schlussverkauf läuft an ++++
 ++++ Nutzlos bei Glatteis: Streukäse ++++
 ++++ Obdachlos: Sturm deckt Haus des Bürgermeisters ab ++++
+++++ Objektiv betrachtet: Fachzeitschrift prüft neue Kamera ++++
 ++++ Obwohl er keinen Stich sah: Blinder gewinnt Skat-Turnier ++++
 ++++ Obwohl er krank ist: Schäfer muss Bett hüten ++++
 ++++ Oder umgekehrt: Mann hat dicken Hals, weil ihm der Kragen geplatzt ist ++++
@@ -1522,11 +1549,13 @@
 ++++ "Oje mine!": Soldat trat auf Sprengkörper ++++
 ++++ Olle Kamellen: Gesundheitsamt schließt Bonbonfabrik ++++
 ++++ Oma packt es nicht: Enkel erkennt Geschenk sofort ++++
+++++ OMg: Internetgemeinde begeistert von Sauerstoff-Magnesium-Verbindung ++++
 ++++ Online-Samenspende immer beliebter: ~~~o ~~~o ~~~o ++++
 ++++ Opiumgefahren: Rauschgiftsüchtiger Rentner stirbt bei Verkehrsunfall ++++
 ++++ OP-Unfall: Chirurg rutscht Herz in die Hose ++++
 ++++ Organisiert: Disco-Rausschmeißer gründen Türschutzverein ++++
 ++++ Organismus: Ohne Herz tot ++++
+++++ Originalton: Töpfer "will 2000 Jahre alte Urnen recyclen" ++++
 ++++ Ornithologen sicher: Der Kuckuck ist ein Uhrensohn ++++
 ++++ O-Saft is: Peinliche Panne beim Oktoberfest ++++
 ++++ Osteuropa in Angst: Menschenrechtler wollen Slawerei abschaffen ++++
@@ -1614,6 +1643,7 @@
 ++++ Ramsch: Neuer Stringtanga schon bei erstem Tragen im Arsch ++++
 ++++ Rarität: Albino auf Schwarzmarkt entdeckt ++++
 ++++ Rasieren vergessen: Prostituierte erweist Kunden einen Bärendienst ++++
+++++ Raste mit einem Affenzahn davon: Schmuggler von verbotenen Tierteilen entkommt Zollbeamten ++++
 ++++ Ratlos: Bürgermeister alleine bei Sitzung ++++
 ++++ Rätsel gelöst: Löcher in Barmobiliar von Schluckspechten verursacht ++++
 ++++ Rätselhaft: Rätselheft ++++
@@ -1665,6 +1695,7 @@
 ++++ Riesencoup gelandet: Viehdiebe flogen fettes Rind ins Ausland aus ++++
 ++++ Riesenfetisch: Mann steht auf Stelzen ++++
 ++++ Riesengeschäft: Villeroy & Boch macht in Kloschüsseln ++++
+++++ Riesenschiss vor dem Lehrer: Junge ging trotz Durchfalls in die Schule ++++
 ++++ Riesenspecktakel: Fette Zookrake gefüttert ++++
 ++++ Ringfahndung erfolglos: Polizei dreht sich im Kreis ++++
 ++++ Risiko zu groß: Gesellschaftsspiel darf bei Flug nicht mit ins Handgepäck ++++
@@ -1725,6 +1756,7 @@
 ++++ Schach matt: Alte Spielfiguren haben Glanzzeit hinter sich ++++
 ++++ Schale Cola: Getränk in offenem Behälter schmeckt abgestanden ++++
 ++++ Schaltet sehr langsam: Begriffsstutziger Fahrschüler tut sich schwer ++++
+++++ Schamlos: Barbie macht die Beine breit ++++
 ++++ Schanze nicht genutzt: Führer hätte im Hauptquartier überleben können ++++
 ++++ Scheideweg: Frau vor Geschlechtsumwandlung im Zwiespalt ++++
 ++++ Scheidung einer Hundeehe: Er war Rüde ++++
@@ -1737,6 +1769,8 @@
 ++++ Scheiße: Töpferin hat sich im Ton vergriffen ++++
 ++++ Schenkelklopfer: Preuße versucht, Schuhplattler zu tanzen ++++
 ++++ Schenkelklopfer: Sadist bringt Masochist zum Lachen ++++
+++++ Schenken sich nichts: Christkind glaubt nicht an Osterhasen und umgekehrt ++++
+++++ Scherzkeks: Bäcker verkaufte Wachsgebäck zum 1. April ++++
 ++++ Schick: Lagerfeld macht in Hosen und vertreibt Fliegen ++++
 ++++ Schiebung: Betrug beim Seifenkistenrennen ++++
 ++++ Schief gewickelt: Christo überschätzt sich bei Turmprojekt in Pisa ++++
@@ -1825,6 +1859,7 @@
 ++++ Selbstmord: Projektmanager hinterlässt Abschieds-Powerpoint-Präsentation ++++
 ++++ Selbst Schuld: Hochstapler von weltgrößtem Jenga-Turm erschlagen ++++
 ++++ Selbst schuld: Nekrophile von Scheintotem geschwängert ++++
+++++ Selbstsüchtig: Drogendealer behält großen Teil seiner Ware für Eigenkonsum ++++
 ++++ Selbstüberschätzung: Prostituierte nahm den Mund zu voll ++++
 ++++ Selbstversorger: Kannibale lebt von der Hand in den Mund ++++
 ++++ Selenverwandt: Schwefel ++++
@@ -1862,6 +1897,7 @@
 ++++ Skandal: Britney Spears' Äußerungen zu Playback-Vorwürfen kamen vom Band ++++
 ++++ Skandalös: Academy bekommt verliehene Oscars nicht mehr zurück ++++
 ++++ Skandalös: Deutsche Zeitung verbrät schwache Gags im Newsticker ++++
+++++ Skandinavier: Schwede erteilt Copyshop simplen Auftrag ++++
 ++++ Skandinavischer Mannschaftstresor geplündert: Einbrecher knackten Nordische Kombination ++++
 ++++ Slipknot-Bassist gestorben: Millionen Fans tragen Schwarz ++++
 ++++ Sodomieverdacht: Schäfer steckt in Dilemma ++++
@@ -1899,6 +1935,7 @@
 ++++ Spielt die beleidigte Leberwurst: Schauspieler unzufrieden mit Rolle ++++
 ++++ Spielt einen Streich: Geiger verulkt Publikum mit sehr kurzem Stück ++++
 ++++ Spielt keine Rolle mehr: Tonbandgerät defekt ++++
+++++ Spielt sich meistens nur im Kopf ab: Fellatio ++++
 ++++ Spionasche: Rest von aufgeflogenem Agenten in Heimatland zurückgeschickt ++++
 ++++ Spitzbergen: Norwegische Tierschützer finden vermissten Hund ++++
 ++++ Splatter-Porno: Film zeigt Kannibalen beim Geschlechtsverzehr ++++
@@ -1971,6 +2008,7 @@
 ++++ Stut' gart: Schwabe bereitet Lasagne zu ++++
 ++++ Sucht den Dialog: Vater will mit Sohn über verschwundene Platonausgabe reden ++++
 ++++ Sucht die Nadel im Heuhaufen: Bauer findet sein Fixbesteck nicht mehr ++++
+++++ Sucht geheilt: Ex-Alkoholiker jetzt Schatzgräber ++++
 ++++ Surfen bis der Arzt kommt: WLAN im Wartezimmer ++++
 ++++ Süßwarenfabrik: Mitarbeiter von unzufriedenem Chef gemarsriegelt ++++
 ++++ Tag der Entscheidung: Frau steht kurz vor Geschlechtsumwandlung ++++
@@ -2238,6 +2276,7 @@
 ++++ Wahlschweizer Michael Schumacher fühlt sich vom Konjunkturprogramm übergangen ++++
 ++++ Waldarbeiter zufrieden: Baum gefällt ++++
 ++++ Walnüsse knacken: Neuer Extremsport für Tauchfans ++++
+++++ Wal war gefälscht: Betrugsvorwürfe gegen neuen Greenpeace-Vorsitzenden ++++
 ++++ War ausgezogen: Burgfräulein erwartet Ritter bereits sehnsüchtig ++++
 ++++ War der Gehörnte: Mann erwischt Ehefrau bei Seitensprung mit Satan ++++
 ++++ Wäre auch an der Zeit gewesen: Gesellschaft zur Rettung des Konjunktiv II hätte heute gegründet werden können ++++
@@ -2371,6 +2410,7 @@
 ++++ Ziehen zusammen: Kokainsüchtige gründen Wohngemeinschaft ++++
 ++++ Ziehen zusammen: Pärchen versucht vergeblich, Tür zu gemeinsamer Wohnung zu öffnen ++++
 ++++ Zieh, Sohn: Vater verleitet Stiefkind zum Rauchen ++++
+++++ Zieht alle Register: Beamter kämpft tapfer gegen Langeweile ++++
 ++++ Zieht Leine: Mann hat keine Lust mehr auf Wäscheaufhängen ++++
 ++++ Zieht so gut wie immer: Tee ++++
 ++++ Zielgruppe: Onanist trifft hübsche Frauen ++++
@@ -2402,6 +2442,7 @@
 ++++ Zum Glück keine Verletzten: Computer in Wohngebiet abgestürzt ++++
 ++++ Zum Heulen: Cyberkriminelle hacken Zwiebeln ++++
 ++++ Zum Kuckuck: Zaunkönigweibchen geht fremd ++++
+++++ Zum Nachtisch zu Hause: Soldat dessertiert ++++
 ++++ Zu modern: Gärtner leidet unter Neurosen ++++
 ++++ Zum Schießen: Clown kauft Gewehr ++++
 ++++ Zu nah am Wasser gebaut: Kiffer beweint wegschwimmenden Joint ++++
@@ -2426,6 +2467,7 @@
 ++++ Zwanghaft: Bayrische Kommode tanzt Schubladler ++++
 ++++ Zwangsläufig: Nymphomanin gründet Selbsthilfegruppe ++++
 ++++ Zwangsläufig: Nymphomaninnen ++++
+++++ Zwangsweise: Frau wurde nur durch strenge Erziehung zur Intellektuellen ++++
 ++++ Zwo, eins, Risiko: Darkwing Duck ersteigert Brettspiel auf eBay ++++
 ++++ zynischer Tod einer Werbeikone: Kleiner Hunger an Lebensmittelvergiftung gestorben ++++
 ++++ Zynisch: Vegetarier von fleischfressender Pflanze gefressen ++++
