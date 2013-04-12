@@ -383,6 +383,7 @@
 ++++ Den Studenten stinkt's: Proktologe bringt Lehrstuhl mit in die Vorlesung ++++
 ++++ Depp, adieu!: Franzosen lassen Schauspieler gerne nach Russland ziehen ++++
 ++++ Depressionen: Astronaut empfindet Alltag als düster ++++
+++++ Der gerät in Vergessenheit: Kaum jemand spricht noch über "Döner-Roboter" ++++
 ++++ Der Hammer: Leichtathlet gibt seinem Trainer nach heftigem Diskus die Kugel und verletzt ihn Speer ++++
 ++++ Der hat doch einen an der Waffel: Dummer Mann übersieht Eislöffel ++++
 ++++ Der hat doch einen Schaden: Autofahrer begeht Unfallflucht ++++
@@ -401,6 +402,7 @@
 ++++ Der Spuk ist vorbei: Polizei schnappt Geisterfahrer dank Phantombild ++++
 ++++ Der war geladen: Promi durfte nicht mit Revolver zum VIP-Dinner ++++
 ++++ Der Weg ist das Ziel: Pflasterer höchst motiviert ++++
+++++ Der Wirt schon wieder: Erneut Gast in dubioser Taverne verprügelt ++++
 ++++ Deserteure wehren sich gegen Vorwürfe: Wir haben doch Land gewonnen! ++++
 ++++ Deshalb geht die Welt doch nicht unter: Prophet lag mit Vorhersage falsch ++++
 ++++ Devices: IT-Expertin sieht sofort, was Computer fehlt ++++
@@ -542,6 +544,7 @@
 ++++ Erste Vorteile durch Erderwärmung: Langnese wieder liquide ++++
 ++++ Erst nach x Versuchen: Mathematiker entschlüsselt Formel mit µ und NOT ++++
 ++++ Er sucht sie: Mann verlegt Liste mit Kontaktanzeigen ++++
+++++ Ertrinkende Badegäste ziehen ihn runter: Rettungsschwimmer schlecht gelaunt ++++
 ++++ Er vergab ihm schlechte Noten: Schüler trägt Lehrer nichts nach ++++
 ++++ "Er war viel zu schmutzig": Frau kehrt Mann den Rücken ++++
 ++++ Er wird es weit bringen: Postbote liefert Paket nach Sibirien aus ++++
@@ -780,6 +783,7 @@
 ++++ Guckt dumm aus der Wäsche: Katze im Schleudergang ++++
 ++++ Güllegrube übersehen: Bayern-Tourist versinkt vor Cham im Boden ++++
 ++++ Gummipuppe unehrlich: Organismus nur vorgetäuscht ++++
+++++ Günstiges Auslaufmodell: Wasserbett sorgt bei Schnäppchenjäger für feuchte Träume ++++
 ++++ Gut angezogen: Smoking-Träger leert Cocktail in Rekordzeit ++++
 ++++ Gut aufgelegt: Mann freut sich über Telefonrechnung ++++
 ++++ Gut aufgestellt in der Krise: Zwangsversteigerungsschild ++++
@@ -1706,6 +1710,7 @@
 ++++ Rockerbraut: Bikerin verkauft Bier ihres Mannes ++++
 ++++ Rolle rückwärts: Ellor ++++
 ++++ Romantisch: Mann mit schwerer Kindheit findet seine Trauma-Frau ++++
+++++ Rostocker im Trend: Hanseat stolz auf seine Autofarbe ++++
 ++++ Roth angelaufen: Özdemir ist Rempler äußerst peinlich ++++
 ++++ Rotzeder: Beleidigender Kobold streitet sich mit Schreinermeister über Holzwahl ++++
 ++++ Rotzlöffel: Frecher Junge greift bei Schnupfen ins Besteckfach ++++
@@ -2034,6 +2039,7 @@
 ++++ Teurer Cayenne zerstört: Geländewagen rast ungebremst in Edelgewürzladen ++++
 ++++ Teurer Supermarkt: Joghurt mit Nobelpreis ausgezeichnet ++++
 ++++ The Bronx: New Yorker Polizei warnt vor spontanen Abstechern ++++
+++++ Thema noch nicht gegessen: Erneuter Fleischskandal in Deutschland ++++
 ++++ Tickt nicht richtig: Dealer verrechnet sich ständig ++++
 ++++ Tief getroffen: Fechterin nach verlorenem Finale sehr deprimiert ++++
 ++++ Tierbordell aufgeflogen: Dackelzüchter gründeten Zwingerclub ++++
@@ -2102,6 +2108,7 @@
 ++++ Übers Knie gebrochen: Weltrekordversuch im Wettessen frühzeitig vorbei ++++
 ++++ Überstunden: Am Montagabend am Montageband ++++
 ++++ Überwachungsskandal: Hobby-Angler jahrelang von Baum beschattet ++++
+++++ Überwunden: Unfallchirurg veröffentlicht neues Buch nach Schreibblockade ++++
 ++++ Überzeugt: Mann schiebt Schwächeanfall auf zu viel ungeschützten Sex ++++
 ++++ Überzogen: Mann rutscht wegen Sessel-Restaurierung in die roten Zahlen ++++
 ++++ Übles Verbrechen: Betrunkener kotzt neben Klo ++++
