@@ -134,6 +134,7 @@
 ++++ Auf die Bremse getreten: Liebesbeziehung zwischen Pferd und Insekt merklich abgekühlt ++++
 ++++ Auf die Socken gemacht: Gang zur Toilette endete im Kleiderschrank ++++
 ++++ Auf die Tube gedrückt: Zahnpasta-Behälter im Rekordtempo geleert ++++
+++++ Auf eigene Faust: Mann tätowiert sich selbst die Hand ++++
 ++++ Auf Ex getrunken: Frisch Geschiedener gibt Freunden einen aus ++++
 ++++ Aufgedonnert: Gewitter im Anzug ++++
 ++++ Aufgeflogen: Hühnerdieb macht keine Beute ++++
@@ -379,6 +380,7 @@
 ++++ Delikate Methoden: Umstrittener Koch bereitet Stiergenitalien mit Honigwein zu ++++
 ++++ Dementer Rentner bleibt mit PKW stehen: Nachfolgende Fahrer rufen Pharmalobby ++++
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
+++++ Den Luciano: Bayerische Frauen denken bei Pavarotti-Arien an Oralsex ++++
 ++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
 ++++ Den Studenten stinkt's: Proktologe bringt Lehrstuhl mit in die Vorlesung ++++
 ++++ Depp, adieu!: Franzosen lassen Schauspieler gerne nach Russland ziehen ++++
@@ -418,6 +420,7 @@
 ++++ Die hat sich aber gewaschen: Mieterin erhält hohe Warmwasserrechnung ++++
 ++++ Die Langsamen: Große Spermien kommen später ans Ziel ++++
 ++++ Die Luft war raus: Mann beendet Beziehung mit seiner Gummipuppe ++++
+++++ Die Null muss stehen: Schlechter Torwart bekommt nach Gegentor keinen Sitzplatz im Mannschaftsbus ++++
 ++++ Die Runde geht aufs Haus: Kneipe feiert neue Sat-Schüssel mit Freigetränken ++++
 ++++ Die Sache stinkt zum Himmel: Glücksspieler hat Aas im Ärmel ++++
 ++++ Die Zeiten ändern sich: Olympische Athleten werden immer schneller ++++
@@ -687,6 +690,7 @@
 ++++ Gehört zum guten Ton: Töpfer schließt Lehmsversicherung ab ++++
 ++++ Geht auf keine Kuhhaut: Bulle darf nie richtig ran ++++
 ++++ Geht auf keine Kuhhaut: Rodeoreiter streikt ++++
+++++ Geht das mit rechten Dingen zu?: NPD gründet SS Kinderdorf ++++
 ++++ Geht doch: Beinamputierter übt Laufen auf Händen ++++
 ++++ Geht durch Mark und Bein: Pathologe führt neue Knochensäge vor ++++
 ++++ Geht ihm auf den Sack: Knecht Ruprecht ärgert Nikolaus ++++
@@ -867,6 +871,7 @@
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat jetzt eine heiße Spur: Detektiv macht sich vor Freude in die Hose ++++
+++++ Hat keine Lobby: Hotel verliert öffentliche Ausschreibung ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
 ++++ Hat keinen Bock: Schäfer muss selbst ran ++++
 ++++ Hat lange mit sich gekämpft: Schizophrener Boxer ringt sich zu Therapie durch ++++
@@ -1487,6 +1492,7 @@
 ++++ Nicht rechtzeitig fertig geworden: Schlachter hat Hühnchen mit Lehrling zu rupfen ++++
 ++++ Nicht richtig im Oberstübchen: Patient aus Turmzimmer auf Psychiatrie verlegt ++++
 ++++ Nichts als Rügen: Ostseeinsel-Urlauber unzufrieden ++++
+++++ Nicht schwindelfrei: Artist lügt bei Vorstellungsgespräch ++++
 ++++ Nichts darf passieren: Sicherheitswahn legt Verkehr lahm ++++
 ++++ Nichts dran: Model leugnet Magersucht ++++
 ++++ Nicht sehr berauschend: Mann enttäuscht von schlechtem Koks ++++
@@ -1784,6 +1790,7 @@
 ++++ Schlachtenbummler: Fleischerlehrling trödelt beim Töten von Tieren ++++
 ++++ Schlachtfest: Genmanipulierte Sau lässt sich nicht töten ++++
 ++++ Schlagersänger pleite: Bank weist Blanco-Scheck zurück ++++
+++++ Schlappe fünf Euro: Pantoffeln heute im Sonderangebot ++++
 ++++ Schlecht abgeschnitten: Friseur-Azubi fällt durch Abschlussprüfung ++++
 ++++ Schlecht bestückter Freier: Prostituierte bläst Trübsal ++++
 ++++ Schlechte Deutschkenntnisse: Lotteriefachverkäufer weiß nicht, was Los ist ++++
