@@ -683,6 +683,7 @@
 ++++ Geheilt durch Handauflegen: Mann hat Erektionsstörung jetzt im Griff ++++
 ++++ Geheimnis gelüftet: Vermisstes Dreieck unter Bermuda-Shorts gefunden ++++
 ++++ Geheimsprache: Prostituierte kommunizieren mittels Strichcodes ++++
+++++ Gehen ab: Abiturienten feiern wilde Abschlussfete ++++
 ++++ Gehen gar nicht: Witze über Rollstuhlfahrer ++++
 ++++ Gehen zusammen durch dick und dünn: Darmparasiten sind unzertrennlich ++++
 ++++ Gehheimauftrag: Agent nach Hause geschickt ++++
@@ -870,6 +871,7 @@
 ++++ Hat gute Gründe: Angler verweigert Küstenfischern Zugang zu Privatbucht ++++
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
+++++ Hat ihr schöne Augen gemacht: Patientin verliebt sich in Schönheitschirurgen ++++
 ++++ Hat jetzt eine heiße Spur: Detektiv macht sich vor Freude in die Hose ++++
 ++++ Hat keine Lobby: Hotel verliert öffentliche Ausschreibung ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
@@ -1027,6 +1029,7 @@
 ++++ Isst Jacke wie Hose: Motte bei Nahrungsauswahl nicht wählerisch ++++
 ++++ Ist das Ihr Ernst?: Ehefrau muss Unfallopfer identifizieren ++++
 ++++ Ist doch kein Beinbruch: Oberarzt tröstet jungen Internisten nach Fehldiagnose ++++
+++++ Ist ganz aufgekratzt: Allergiker nervös vor erster dermatologischer Behandlung ++++
 ++++ Ist ganz aufgewühlt: Rentner hat Maulwürfe im Garten ++++
 ++++ Ist gebongt: Kassiererin einverstanden mit Kauf ++++
 ++++ Ist ihm nicht zu billig: Nacktbarbesucher heiratet Frau von der Stange ++++
@@ -1290,6 +1293,7 @@
 ++++ Ließen ihn hängen: Ex-Diktator hoffte vergebens auf seine Freunde ++++
 ++++ Ließ sich breitschlagen: Nervige Fliege summt nicht mehr ++++
 ++++ Linksdrall: Frau mit ungleichen Brüsten kann nicht geradeaus gehen ++++
+++++ Link: Verknüpfung im Internet zeigt auf Virus ++++
 ++++ Lippenbekenntnis: "Ja, die rote Farbe auf der Zigarettenkippe kommt von mir." ++++
 ++++ Löffelchenstellung nach Knigge: Oberhalb des Tellers ++++
 ++++ Los Angeles: Amerikanerin fordert von Gatten dicken Fang ++++
@@ -1377,6 +1381,7 @@
 ++++ Mit Kater erwacht: Katze kann sich an nichts erinnern ++++
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
+++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
 ++++ Mobbing: Hexe hänselt Gretel ++++
 ++++ Moderat: Neue Lifestyle-Zeitschrift eher mittelmäßig ++++
 ++++ Modernisierung: Schäfer kauft Elektroherde ++++
@@ -2343,6 +2348,7 @@
 ++++ Weil sie es nicht können: Pfarrer liest Analphabeten die Leviten ++++
 ++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
+++++ Weiß nicht, was er noch machen soll: Gott komplett fertig mit der Welt ++++
 ++++ Wenigstens einsichtig: Zyklop geht an Karneval doch nicht als Pirat ++++
 ++++ Wenn alle Stricke reißen: Henker hat Axt für Notfälle ++++
 ++++ Wenn das Wörtchen wenn nicht wär: das Wörtchen nicht wär ++++
@@ -2386,6 +2392,7 @@
 ++++ Will nicht mit dem Strom schwimmen: Badegast verlässt bei Gewitter als einziger das Wasser ++++
 ++++ Will sich nicht für Karriere verbiegen müssen: Schlangenmensch kündigt ++++
 ++++ Will sich selbst ein Bild machen: Messebesucher testet neuen Fotoapparat ++++
+++++ Wird Bundeskassler: Metzgerei sieht gute Chancen für Schweinrück ++++
 ++++ Wird ins Auge gehen: Tornadoforscher will mitten in Sturmzentrum ++++
 ++++ Wirft kein gutes Licht auf die Stadt: Schon wieder eine defekte Straßenlaterne ++++
 ++++ Wirft schlechtes Licht auf seinen Charakter: Schauspieler verprügelt Beleuchter ++++
