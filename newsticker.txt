@@ -671,6 +671,7 @@
 ++++ Gatte reicht ihr hinten und vorne nicht: Frau nimmt sich Liebhaber ++++
 ++++ Gauleiter: Seuche rafft immer mehr Pferde dahin ++++
 ++++ Gefahrengut: Mann besteht Tanklasterführerschein ++++
+++++ Gefährliche Nachteile: Studie rät, Heimweg von Kneipe nicht zu überstürzen ++++
 ++++ Gefährlicher Fetisch: Pfarrer hat es mit dem Kreuz ++++
 ++++ Gefährliches Halbwissen: ++++
 ++++ Gefährliches Liedgut: Immer mehr Skinheads haben eine Platte ++++
@@ -773,6 +774,7 @@
 ++++ Grausam: Schlangenbeschwörer gibt seiner Geliebten einen Korb ++++
 ++++ Griff ins Klo: Billige Alternative zur Bürste eher unangenehm ++++
 ++++ Großartig: Hund erledigt sein Geschäft auf Kommando ++++
+++++ Große Dichtkunst: Klempner beschreibt Reparatur in blumigen Worten ++++
 ++++ Große Klappe, nix dahinter: Vermieter stellt versprochenen Müllschlucker nicht fertig ++++
 ++++ Großer Schritt für die Menschheit: Frau bringt Achtlinge zur Welt ++++
 ++++ Großes Fest: Mann feiert überstandene Durchfallerkrankung ++++
@@ -1012,6 +1014,7 @@
 ++++ In der Ruhr liegt die Kraft: Ministerpräsidentin nimmt Sturz in Fluss gelassen ++++
 ++++ In der Truhe liegt der Saft: Tenor findet endlich Hohes C ++++
 ++++ In der Zwickmühle: Müller muss Gattin blaue Flecken erklären ++++
+++++ In die Parade gefahren: Chauffeur ruiniert Kim Jong Uns Heerschau ++++
 ++++ In die Pfanne gehauen: Junge (9) verbrennt sich die Hand ++++
 ++++ In diesem Aufzug unerwünscht: Liftboy verweigert Obdachlosem den Zutritt ++++
 ++++ Industriespionage: Privatdetektiv schnüffelt in Klebstofffabrik ++++
@@ -1194,6 +1197,7 @@
 ++++ Konkurrenz zu groß: Liliputaner verliert Stammplatz in Basketballteam ++++
 ++++ Können sie sich abschminken: Make-Up macht Frauen nicht schöner ++++
 ++++ Konnte doch noch bei ihm landen: Flotte Biene traf ihren alten Schwarm wieder ++++
+++++ Könnte eine Ente sein: Citroën will Model 2CV neu auflegen ++++
 ++++ Konnte einen Teilerfolg erzielen: Moses am Roten Meer ++++
 ++++ Konnte es mit ihm einfach nicht aufnehmen: Schüchterner Musiker entlässt dominanten Tontechniker ++++
 ++++ Konnte ihn damit nicht anmachen: Frau warf Dessous enttäuscht in den Ofen ++++
@@ -1414,6 +1418,7 @@
 ++++ Muss wohl dran glauben: Atheist vor Inquisitionsanhörung ++++
 ++++ Mutprobe: Draufgänger draufgegangen ++++
 ++++ Mutter besorgt: Waise nicht mehr Waise ++++
+++++ Mutter schlecht angezogen: Junger Ingenieur schämt sich ++++
 ++++ Muttersöhnchen: Scientologe lässt sich Gehirn immer noch zu Hause waschen ++++
 ++++ Mut zur Lücke: Wissenschaftler widerlegen Zahnprothese ++++
 ++++ Mysteriös: Bermuda-Dreieck verschwunden ++++
@@ -1454,6 +1459,7 @@
 ++++ Napoli: Italienischer Nudeldieb geht Polizei in die Farfalle ++++
 ++++ Nasen-OP missglückt: Schönheitschirurg befürchtet Gesichtsverlust ++++
 ++++ Nase voll: Popelsammler gibt Hobby auf ++++
+++++ Nase voll von Drogen: Spürhund beendet Schnupperpraktikum ++++
 ++++ Naseweis: Kokainsüchtige werden immer vorlauter ++++
 ++++ Nass geworden: Fußgänger hatte Niederschlag nicht auf dem Schirm ++++
 ++++ Nerven verloren: Neurochirurg hat schlampig gearbeitet ++++
@@ -2272,6 +2278,7 @@
 ++++ Von der Palme gewedelt: Plantagenbesitzer verscheucht onanierende Affen ++++
 ++++ Von documenta ausgeschlossen: Aktionskünstler hätte Rahmen gesprengt ++++
 ++++ Von Kindern verklagt: Holzfäller wegen Baumhausfriedensbruchs vor Gericht ++++
+++++ Von Langer handgeplant: Golfer sattelt um auf Bauzeichner ++++
 ++++ Von langer Hand geplant: Theaterstück war offensichtlich inszeniert ++++
 ++++ Von Mutter vernachlässigt: Schraube hat nichts mehr zum Anziehen ++++
 ++++ Von Tauben beschissen: Statue für naiven Ohrenarzt errichtet ++++
