@@ -798,6 +798,7 @@
 ++++ Gute Lobbyarbeit: Taube verschaffen sich Gehör ++++
 ++++ Gute Partie: Neuer Schachweltmeister mit Liebesbriefen überhäuft ++++
 ++++ Guter Aufhänger: Henker führt gerne Smalltalk über seinen Berufsalltag ++++
+++++ Gute Reclame: Kleine gelbe Bücher verkaufen sich ausgezeichnet ++++
 ++++ Guter Einfall: Atilla mit Hunneninvasion sehr zufrieden ++++
 ++++ Guter Geruchssinn: Lawinensuchhund findet verschütteten Kaffee ++++
 ++++ Guter Rat teuer: Mittelloser Ausländer verzweifelt an Fahrradkauf ++++
@@ -813,6 +814,7 @@
 ++++ Haarschwund: Franzose irrtümlich rektal untersucht ++++
 ++++ Haarspalterei: Sushikoch sehr penibel bei Auswahl des neuen Messers ++++
 ++++ Haar wuchs ihm über den Kopf: Mann trägt lieber wieder Glatze ++++
+++++ Haben ihm übel auf den Magen geschlagen: Kannibale aß verdorbene Kinder ++++
 ++++ Haben ihm übel auf den Magen geschlagen: Kannibale mag keine Kinder mehr ++++
 ++++ Haben sich abgeschossen: Betrunkene Jagdgesellschaft endet in Tragödie ++++
 ++++ Hackfressen: Hässliche Ganoven überfallen Metzgerei ++++
@@ -943,6 +945,7 @@
 ++++ Heuschrecken: Hungrige Kuh ++++
 ++++ Heute schon zum fünften Mal: Arzt diagnostiziert, dass er seinen Beruf nie wieder ausüben kann, weil er mit Alzheimer im Heim sitzt ++++
 ++++ Heute vor 1400 Jahren: Heiliger Bimbam erfindet Kirchenglocke ++++
+++++ Hexen: Alchimist verrät Methode zur Herstellung von ungesättigtem Kohlenwasserstoff ++++
 ++++ Hieb- und Stichfest: Schläger und Messerstecher reichen fundierten Antrag auf eigenen Feiertag ein ++++
 ++++ Hielt nicht, was er versprach: Großmäuliger Torwart von Verein entlassen ++++
 ++++ Hieß Ledger: Heath ++++
@@ -1035,6 +1038,7 @@
 ++++ Ist ganz aufgekratzt: Allergiker nervös vor erster dermatologischer Behandlung ++++
 ++++ Ist ganz aufgewühlt: Rentner hat Maulwürfe im Garten ++++
 ++++ Ist gebongt: Kassiererin einverstanden mit Kauf ++++
+++++ Ist geritzt: Borderliner erhält Zusage für Psychotherapie ++++
 ++++ Ist ihm nicht zu billig: Nacktbarbesucher heiratet Frau von der Stange ++++
 ++++ Ist jetzt auch Wurst: Metzger hat seinen toten Hund verarbeitet ++++
 ++++ Ist jetzt natürlich hart, aber so ist die Regel: Frau verweigert Mann den Sex ++++
@@ -1274,6 +1278,7 @@
 ++++ Lebt über seine Verhältnisse: Heiratsschwindler ++++
 ++++ Lecker: Fleischer hat Gänsehaut ++++
 ++++ Lecker: Kuh beißt ins Gras ++++
+++++ Lecker Kuhchen: Konditor präsentiert Kalbfleischtorte ++++
 ++++ Lecker: Liebhaber uneigennützig ++++
 ++++ Lecker: Schnapsbrenner macht mit Sekretärin Rum ++++
 ++++ Lecker: Zunge schmeckt ++++
@@ -1386,6 +1391,7 @@
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
+++++ Mit Stechschritt zum Arzt: Gardesoldat klagt über Blasenentzündung ++++
 ++++ Mobbing: Hexe hänselt Gretel ++++
 ++++ Moderat: Neue Lifestyle-Zeitschrift eher mittelmäßig ++++
 ++++ Modernisierung: Schäfer kauft Elektroherde ++++
@@ -2272,6 +2278,7 @@
 ++++ Vollkommen überzogen: Schokoladenapfel auf Kirmes kostet 18 Euro ++++
 ++++ Vollpfosten: Stürmer schießt entscheidenden Elfmeter genau ans Aluminium ++++
 ++++ Voll schlecht: Leergut ++++
+++++ Vollständig ausgeliefert: UPS-Fahrer geht nach Feierabend zu Domina ++++
 ++++ Vom Hype genervt: Skateboard-Pionier beklagt zu viele Trittbrettfahrer ++++
 ++++ Vom Teufel geritten: Frau bringt Antichrist zur Welt ++++
 ++++ Von der Leyen: CDUler verweist Kreditanfrage in knappen Worten an Kollegin ++++
