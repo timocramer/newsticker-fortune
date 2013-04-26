@@ -105,6 +105,7 @@
 ++++ Ans Licht gekommen: Glühbirne führte On-Off-Beziehung mit Lichtschalter ++++
 ++++ Ansteckend: Mann leidet unter Pyromanie ++++
 ++++ An und für sich: Kopfhörer ++++
+++++ Arbeitet rund um die Uhr: Kirchenrestaurateur vollkommen erschöpft ++++
 ++++ Arbeitgeberkritik an Zweidrittelstellen: "Nichts Halbes und nichts Ganzes" ++++
 ++++ Arbeitsplatz unerlaubt verlassen: Dachdecker fällt Kollegen in den Rücken ++++
 ++++ Arbeitswillig: Schaffner genießt Leben in vollen Zügen ++++
@@ -209,6 +210,7 @@
 ++++ Bei Drogen-Experiment: Kiffer beißt ins Gras ++++
 ++++ Beifuß: Hund apportiert Heilkraut ++++
 ++++ Bei Großwildjagd: Legolas verliert Elfenbein ++++
+++++ Bei Lichte betrachtet: Dark Room ist auch nur ein Zimmer ++++
 ++++ Beim Shoppen zu wählerisch?: Frau will sich diesen Schuh nicht anziehen ++++
 ++++ Beinahe über den Jordan gegangen: Israeli fiel von Brücke ++++
 ++++ Bei Norditalienbesuch in den Po gestoßen: Papst treibt ab ++++
@@ -232,6 +234,7 @@
 ++++ Beschaffungskriminalität: Kettenraucher bricht bei Juwelier ein ++++
 ++++ Beschissen: Neu gekaufte Kloschüssel war doch gebraucht ++++
 ++++ Beschnitten: Film über Opfer religiöser Praktiken erscheint in Kurzfassung ++++
+++++ Beschützerinstinkt: Leibwächterin wehrt Buttersäureangriff ab ++++
 ++++ Beschwerde: Restaurantgast findet ein H in Buchstabensuppe ++++
 ++++ Beschweren sich ständig: Arbeitsbedingungen liefern Marinetauchern allen Grund ++++
 ++++ Besorgniserregend: Immer mehr Schafstoffe in Wollpullovern ++++
@@ -309,6 +312,7 @@
 ++++ Computer gehackt: Holzfäller verliert sämtliche Daten ++++
 ++++ Crash an der Wallstreet: Taxifahrer missachtete Vorfahrt ++++
 ++++ Dabei hatte er doch extrapoliert: Mathematiker verärgert über unsaubere Statistik ++++
+++++ Da bleibt kein Auge trocken: Taucher finden Grund zum Lachen ++++
 ++++ Da blickt keiner mehr durch: Defektes Teleskop gibt Rätsel auf ++++
 ++++ "Da brat mir einer 'nen Storch!": Kunde überrascht von exotischer Speisekarte ++++
 ++++ Dafür hat er keine Nerven: Querschnittsgelähmter treibt keinen Sport ++++
@@ -1911,6 +1915,7 @@
 ++++ Setzt sich durch: Möbelhauskunde bekommt mangelhaften Sessel erstattet ++++
 ++++ Sexsüchtig: Mann braucht seine tägliche Doris ++++
 ++++ Shared sich zum Teufel: Priester wegen Facebooksucht exkommuniziert ++++
+++++ Shitstorm: Internetgemeinde wütend nach Explosion in Klärwerk ++++
 ++++ Sicher ist sicher: alternder Stuntman lässt sich bei gefährlichen Stunts doubeln ++++
 ++++ Sicher ist sicher: Bitte während der Fahrt nicht mit dem Fahrrad sprechen! ++++
 ++++ Sicher ist sicher: Schweinegrippe lässt sich gegen Menschen impfen ++++
@@ -1924,6 +1929,7 @@
 ++++ Sieht ihm wieder mal ähnlich: Narzisstischer Bildhauer fertigt neue Skulptur an ++++
 ++++ Sieht mitgenommen aus: Mann ist müde vom Trampen ++++
 ++++ Sieht schwarz: Pessimist sicher, dass GEZ ihn früher oder später erwischt ++++
+++++ Sind miteinander nicht warm geworden: Kannibalenopfer werden getrennt gekocht +++
 ++++ Single Malt: Junggeselle zeichnet im Whiskyrausch ++++
 ++++ Singvogel-OP: Tierarzt entfernt Nachtigallensteine ++++
 ++++ Sisyphusarbeit: Österreichische Kaiserin benötigt ständig Pediküren ++++
@@ -2370,6 +2376,7 @@
 ++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
 ++++ Weiß nicht, was er noch machen soll: Gott komplett fertig mit der Welt ++++
+++++ Wenig Arbeit wegen geringer Qualifikation: Folterknecht kann nur Däumchendrehen ++++
 ++++ Wenigstens einsichtig: Zyklop geht an Karneval doch nicht als Pirat ++++
 ++++ Wenn alle Stricke reißen: Henker hat Axt für Notfälle ++++
 ++++ Wenn das Wörtchen wenn nicht wär: das Wörtchen nicht wär ++++
