@@ -218,6 +218,7 @@
 ++++ Bei Prügelei Schuh verloren: Schläger auf freiem Fuß ++++
 ++++ Beispiellos: z. ++++
 ++++ Bekam eine geklebt: Mann überzeugt TÜV-Prüfer mit Nachdruck zu Plakettenvergabe ++++
+++++ Bekam keinen mehr hoch: Dachdecker-Meister hat Nachwuchssorgen ++++
 ++++ Bekommt immer mehr Anhänger: Leistungsstarker neuer Traktor ++++
 ++++ Béla rät die: Fußballkommentator erkennt Spieler nicht ++++
 ++++ Belastungstest für neuen Fußgängersteg: Alle draufgegangen ++++
@@ -435,6 +436,7 @@
 ++++ Doch keine Busen-Freunde: Beste Kumpel outen sich als Pärchen ++++
 ++++ Doch kein Schnäppchen?: Mann zahlt ausgezeichneten Preis ++++
 ++++ Donnerwetter war vorherzusehen: Unfähiger Meteorologe verliert Job ++++
+++++ Dooku: Regisseur dreht Reportage über mächtigen Sith-Lord ++++
 ++++ Doppelagent entlarvt: Falsch herum montierter Türspion arbeitete jahrelang für die Gegenseite ++++
 ++++ Dorn im Auge: Mann kann Rosenstrauch vor seinem Grundstück nicht mehr sehen ++++
 ++++ Dortmund: Biologie-Lehrer zeigt Schulklasse orale Öffnung ++++
@@ -780,6 +782,7 @@
 ++++ Grausam: Messerblock brutal abgestochen ++++
 ++++ Grausam: Schlangenbeschwörer gibt seiner Geliebten einen Korb ++++
 ++++ Griff ins Klo: Billige Alternative zur Bürste eher unangenehm ++++
+++++ Grob überschlagen: ca. 50 % der Besucher fanden Kirmesattraktion zum Kotzen ++++
 ++++ Großartig: Hund erledigt sein Geschäft auf Kommando ++++
 ++++ Große Dichtkunst: Klempner beschreibt Reparatur in blumigen Worten ++++
 ++++ Große Klappe, nix dahinter: Vermieter stellt versprochenen Müllschlucker nicht fertig ++++
@@ -930,6 +933,7 @@
 ++++ Haut ab: Chirurg nach illegaler Beschneidung auf der Flucht ++++
 ++++ Häute im Angebot: Günstige Lederwaren ++++
 ++++ Haut einfach so ab: Epidermis löst sich von Bindegewebe ++++
+++++ Hautstrafend: Die neue Creme für Masochisten ++++
 ++++ Haut voll rein: Neue Seife verspricht perfekte Sauberkeit ++++
 ++++ Health Angels: Neuer Motorrad-Rettungsdienst gegründet ++++
 ++++ Hecktisch: Hinterbänkler verschreibt sich ++++
@@ -980,6 +984,7 @@
 ++++ Hohe Rechenleistung: Gärtner kauft neuen Computer nach Gehaltserhöhung ++++
 ++++ Holzauge sei wachsam: Pinocchio am Lagerfeuer eingeschlafen ++++
 ++++ Hopfen und Malz verloren: Braumeister verzockt sich beim Pokern ++++
+++++ Hotelgäste auf die Palme gebracht: Animateure nach riskanten Party-Spielen in der Kritik ++++
 ++++ Hüftschaden: Kanzlerin Merkel leidet unter Spagat zwischen Interessengruppen ++++
 ++++ Hühner besorgt: Ältere Dame kauft sich Motorrad ++++
 ++++ Huhn erblindet: Korn war selbstgebrannt ++++
@@ -1130,6 +1135,7 @@
 ++++ Kehrt Wände: Neuer Vertikalbesen bringt Firma aus der Krise ++++
 ++++ Kehrt zum Tatort zurück: Mörder kurz vor Ende der Tagesschau wieder zu Hause ++++
 ++++ Kehrt zurück: Straßenfeger hat eine Stelle vergessen ++++
+++++ Kein Absatzmarkt: Schuster verkaufte nur Ballerinas ++++
 ++++ Kein Biss: ARD-Intendant unzufrieden mit seinen Dritten ++++
 ++++ Kein Ding: Frau findet Zeugungsunfähigkeit ihres Partners nicht schlimm ++++
 ++++ Keine Ahnung vom Schlittenfahren: Eskimos gehen vor die Hunde ++++
@@ -2458,6 +2464,7 @@
 ++x+ Doppelpunkt verhaftet Soll Plus umgelegt haben ++++
 ++++ Xenophobie: Miss Universe bisher immer von der Erde ++++
 ++++ Zahlt bei Hunnenüberfall: Brandschatzversicherung ++++
+++++ Zahlt er aus der Portokasse: Sammler ersteigert blaue Mauritius ++++
 ++++ Zeigt Kunden, was eine Harke ist: Baumarkt eröffnet Rechenzentrum ++++
 ++++ Zeitgemäß: Nach Carsharing jetzt auch Urteilen ++++
 ++++ Zerstreut: s o re rP s fo ++++
