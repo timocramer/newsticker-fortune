@@ -43,6 +43,7 @@
 ++++ Albern: Schweizer Hauptstadt soll Vorsilbe erhalten ++++
 ++++ Ali bi: Türkischer Verdächtiger zur Tatzeit in Schwulenbar gesichtet ++++
 ++++ Alk: Liebenswerter Außerirdischer hat große Identitätsprobleme ++++
+++++ À llah carte: Schweineschnitzel ab sofort durch Pute ersetzt ++++
 ++++ Allah ist groß: Auch Götter müssen mal ++++
 ++++ Alle Achtung: General ruft zum Appell ++++
 ++++ Alle Angaben ohne Gewehr: Waffenhändler verschickt fehlerhaftes Angebot ++++
@@ -295,6 +296,7 @@
 ++++ Bringt nichts: Gast brüllt taubem Kellner hinterher ++++
 ++++ Bringt nix: Abholdienst ++++
 ++++ Brotlose Kunst: Stillleben mit Obst und Gemüse ++++
+++++ Brot, Lose, Kunst: Zusammenschluss von Bäcker, Lotterie und Atelier nicht erfolgreich ++++
 ++++ Brotzeit vergessen: Hungriger Maurer verputzte Hauswand ++++
 ++++ Brutaler Geschichtsunterricht: Lehrer erklärt Schülern den Krieg ++++
 ++++ Bulimie unter Freundinnen: Immer mehr Mädchen brechen zusammen ++++
@@ -356,6 +358,7 @@
 ++++ Das hat gesessen: Mädchen kommt geläutert aus dem Gefängnis ++++
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
+++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
 ++++ Das ist nicht ohne: Mit ++++
 ++++ Das kann ja wohl nicht angehen: Elektroinstallateur vergisst Lichtschalter ++++
 ++++ Das kann ja wohl nicht wahr sein: Lügendetektor schon wieder kaputt ++++
@@ -755,6 +758,7 @@
 ++++ Gewagte Behauptung: Arzt will erste Kopftransplantation durchgeführt haben ++++
 ++++ Gewalt am Arbeitsplatz: Grobe Leberwurst verprügelt Fleischer ++++
 ++++ Gewaltiger Anschiss: Empörte Frau beschwert sich lautstark bei Taubenzüchter ++++
+++++ Gewaltiger Maisturm: Unwetter kippt Rekordversuch des Bauernverbandes ++++
 ++++ Gewerkschaft der Clowns will endlich ernstgenommen werden. ++++
 ++++ Gewinnerwartung gestiegen: Hehlerbande meldet Geschäftseinbruch ++++
 ++++ Gezinkt: Meister im Kartenhausbauen als Hochstapler entlarvt ++++
@@ -1258,6 +1262,7 @@
 ++++ Kriegt sein Fett weg: Dicker Mann wegen Schönheits-OP gehänselt ++++
 ++++ Kriminalpolizei warnt: Aufsteller von Altgoldcontainern sind meist Betrüger ++++
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
+++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
 ++++ künstlername: ex-modern-talking-star heißt in wirklichkeit genauso und nicht anders ++++
 ++++ Kurzatmigkeit: Immer mehr Blechbläser leiden an Tubakulose ++++
@@ -1405,6 +1410,7 @@
 ++++ Mit dem Blasebalg vorm Kamin: Ministrant heizt Priester richtig ein ++++
 ++++ Mit dem Falschen angelegt: Bankrotter Boxer verprügelt unfähigen Börsenmakler ++++
 ++++ Mit den Nerven am Ende: Neurologe macht früher Feierabend ++++
+++++ Mit einem Bein im Knast: Pistorius hat Prothese liegenlassen ++++
 ++++ Mit einem Schlag zu Ende: Ehe von Rafael und Sylvie van der Vaart ++++
 ++++ Mit Feldstecher: Liebestolle Frau in Kornfeld entdeckt ++++
 ++++ Mit Hochspannung erwartet: Gemeinde freut sich auf Stromanschluss ++++
@@ -1440,6 +1446,7 @@
 ++++ Muss Privatinkontinenz anmelden: Mann in den Urin getrieben ++++
 ++++ Muss sofort zum Arzt: Frau von Picasso hat blaue Periode ++++
 ++++ Musste eine Schlappe einstecken: Kleptomane mit Hausschuhfetisch rückfällig ++++
+++++ Musste einstecken: Kleptomane von Ladenbesitzer verprügelt ++++
 ++++ Musste mit Bruch rechnen: Turner ohne Mathe schafft Saldo nicht ++++
 ++++ Muss über die Runden kommen: Stuntbiker springt für Weight Watchers ++++
 ++++ Muss um ihren Job bangen: Von Pornodarstellerin wird Gruppensex verlangt ++++
