@@ -156,6 +156,7 @@
 ++++ Aus dem Handel genommen: Dildo ging allen am Arsch vorbei ++++
 ++++ Aus den Augen verloren: Kontaktlinsen ++++
 ++++ Aus der Bahn geworfen: Schaffner kommt nicht über Kündigung hinweg ++++
+++++ Aus der Traum: Neuer Wecker hat keine Schlummertaste ++++
 ++++ Aus dramaturgischen Gründen: Groß-/Kleinschreibung in oben stehender Zeile außer Kraft gesetzt ++++
 ++++ aus dramaturgischen Gründen: Groß-/Kleinschreibung in Zeile drei außer Kraft gesetzt ++++
 ++++ Aus Fersen verletzt: Nummer Zehen muss Fußballen an den Nagel hängen ++++
@@ -890,6 +891,7 @@
 ++++ Hat genug von Stromschlägen: Briefträger weigert sich, E-Mails zuzustellen ++++
 ++++ Hat gestanden: Angeblicher Rollstuhlfahrer gibt Regelverstoß bei Paralympics zu ++++
 ++++ Hat gute Gründe: Angler verweigert Küstenfischern Zugang zu Privatbucht ++++
+++++ Hat hingehauen: Vater züchtigt Kind erfolgreich ++++
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat ihr schöne Augen gemacht: Patientin verliebt sich in Schönheitschirurgen ++++
@@ -1688,6 +1690,7 @@
 ++++ Psychische Beschwerden: Arbeitsloser Hirte leidet unter Schaflosigkeit ++++
 ++++ Pu der Zucker: Märchenbär leidet unter Epilepsie ++++
 ++++ Puffreis: Asiatische Freudenhäuser bieten vermehrt auch Snacks an ++++
+++++ Pumpen hat nicht geholfen: Bodybuilder geht mit Schlauchboot unter ++++
 ++++ Putzfrauenstreik im Speicherkraftwerk: Zu viele Staubecken ++++
 ++++ Qualen hoffentlich bald vorbei: Folterknecht drückt Häftling die Daumen ++++
 ++++ Qualitätsprobleme: Bahlsen befürchtet Worst-Cake-Szenario ++++
@@ -1782,6 +1785,7 @@
 ++++ Rudert zurück: Mann will Ärmelkanal nun doch nur einmal durchschwimmen ++++
 ++++ Rufmord: Lawinenverursacher verurteilt ++++
 ++++ Rührend: Koch kümmert sich um Suppe ++++
+++++ Rührend: Koch muss den Löffel abgeben ++++
 ++++ Rühren Sie das nicht an: Koch rät Lehrling von Tütensuppen ab ++++
 ++++ Ruin für Malermeister: Farbe im Eimer ++++
 ++++ Rum statt Ähre: Piraten feiern Enterdankfest ++++
@@ -2149,6 +2153,7 @@
 ++++ Trotzalter: 90-Jährige kümmert sich um aufmüpfigen Urenkel ++++
 ++++ Trotz ekelhafter Fahne: Alkoholiker gründen eigene Nation ++++
 ++++ Trotzkisten: Revolutionäre verpatzen Umzug ++++
+++++ Türklinke: Anatolische Sozialisten finden Eingang ins Parteiensystem ++++
 ++++ Turniermannschaft bestreitet dritte Partie: "Alles Unsinn, wir haben nur zweimal gespielt!" ++++
 ++++ Tut gut: ADAC empfiehlt lautes Hupen zum Stressabbau ++++
 ++++ Typisch Bahn: Sprengstoffattentat auf ICE verzögert sich um über zwei Stunden ++++
@@ -2255,6 +2260,7 @@
 ++++ Verdient unterm Strich mehr: Ehemalige Prostituierte heuert bei Kanalreinigungsunternehmen an ++++
 ++++ Verdreht Frauen den Kopf: Exorzist-Drehbuchschreiber ++++
 ++++ Verdrückt: Fahrstuhlgast landete versehentlich auf Kannibalen-Etage ++++
+++++ Verfahren eingestellt: Navi-Hersteller muss nicht für Fehlkonfiguration haften ++++
 ++++ Verfahren eingestellt: Richter kauft sich endlich ein Navi ++++
 ++++ Verfahren: Geisterfahrer wird angeklagt ++++
 ++++ Verflogen: Nicht mehr nachweisbarer Geruch irritierte Piloten ++++
@@ -2421,6 +2427,7 @@
 ++++ Wieder gerade: Schönheitschirurg dreht krummes Ding ++++
 ++++ Wieder mal weit abgeschlagen: Unfähiger Golfer weiß nicht, wie man einlocht ++++
 ++++ Wieder mehr Gefreite: Soldatinnen als Ehefrauen begehrt ++++
+++++ Wie er da rauskommt, weiß der Geier: Verirrter Saharatourist halluziniert von sprechenden Tieren ++++
 ++++ Wie geil ist das denn: Kaninchen schon wieder schwanger ++++
 ++++ Wie können die nachts noch ruhig schlafen? Diebe entwenden zwei Paletten Energydrinks ++++
 ++++ Wie konnte er nur?: Armloser verprügelt wehrloses Kleinkind ++++
