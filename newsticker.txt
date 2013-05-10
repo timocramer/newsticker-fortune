@@ -106,6 +106,7 @@
 ++++ Ans Licht gekommen: Glühbirne führte On-Off-Beziehung mit Lichtschalter ++++
 ++++ Ansteckend: Mann leidet unter Pyromanie ++++
 ++++ An und für sich: Kopfhörer ++++
+++++ App-Solution: Vatikan bietet Sündenablass per Smartphone ++++
 ++++ Arbeitet rund um die Uhr: Kirchenrestaurateur vollkommen erschöpft ++++
 ++++ Arbeitgeberkritik an Zweidrittelstellen: "Nichts Halbes und nichts Ganzes" ++++
 ++++ Arbeitsplatz unerlaubt verlassen: Dachdecker fällt Kollegen in den Rücken ++++
@@ -128,6 +129,7 @@
 ++++ "Au Backe!": Patient gibt Zahnarzt undeutliche Schmerzbeschreibung ++++
 ++++ Auf dem falschen Fuß erwischt: Polizei schnappt Prothesendieb ++++
 ++++ Auf dem Laufenden gehalten: Reporter berichtet live von der Huckepack-WM ++++
+++++ Auf dem neuesten Stand: Jäger bekommt Hochsitz mit VDSL-Anschluss ++++
 ++++ Auf den Hund gekommen: Sodomist ++++
 ++++ Auf den Kopf gehauen: Verbrecher versäuft Beute nach Raubüberfall ++++
 ++++ Auf den Weg gemacht: Mann schafft es nicht mehr bis zur Haustür ++++
@@ -173,6 +175,7 @@
 ++++ Ausgelaugt: Bäcker gibt Brezelverkauf auf ++++
 ++++ Ausgenutzt: Rinder sind die Melkkühe der Nation ++++
 ++++ Ausgepackt: zip-Dateien machen sich .rar ++++
+++++ Ausgerastet: Hysterische Frau wollte nach Pause nicht weiterwandern ++++
 ++++ Ausgeräumt: Verdacht auf Wohnungseinbruch ++++
 ++++ Ausgerechnet an Weihnachten Geburtstag: Jesus bekommt nur einmal im Jahr Geschenke ++++
 ++++ Ausgerechnet: Computer kaputt ++++
@@ -784,6 +787,7 @@
 ++++ Gnade vor Recht: Lexikon alphabetisch sortiert ++++
 ++++ Göttliche Fügung: Papst muss dran glauben ++++
 ++++ Gottverdammte Scheiße: Fluchlotsen wollen schon wieder streiken ++++
+++++ Grandiose Partitur: Erfolgreicher Komponist zieht feiernd durch die Clubs ++++
 ++++ Grässlich: Krise zieht kritische Kreise, reißt Chrysler in die Kreide ++++
 ++++ Gratulation: Polizist ergreift rechte Hand von Mafiaboss ++++
 ++++ Grauer Star: Ornithologe traut seinen Augen nicht ++++
@@ -1407,6 +1411,7 @@
 ++++ Mist für ihn: Sohn des Kompostunternehmers erbt einen feuchten Dreck ++++
 ++++ Mistgabel: Bauer verwünscht morsches Werkzeug ++++
 ++++ Mit Ach und Krach: Silvester trotz Verletzungen überstanden ++++
+++++ Mit Ajax: Achilles putzt sein Zelt blitzeblank ++++
 ++++ Mit Autobombe bestückt: Mehrtürer ++++
 ++++ Mit Bußgeld belegt: Pizzabäcker verstieß gegen Hygienevorschriften ++++
 ++++ Mit dem Blasebalg vorm Kamin: Ministrant heizt Priester richtig ein ++++
@@ -1621,6 +1626,7 @@
 ++++ Osteuropa in Angst: Menschenrechtler wollen Slawerei abschaffen ++++
 ++++ Outsourcing: Holzfäller fällt in Afghanistan ++++
 ++++ Özdemir fordert Kopftuchverbot für attraktive Türkinnen ++++
+++++ Packt mit dem Teufel: Satan hilft Mann beim Umzug ++++
 ++++ Page not found: Suche nach Hotelpersonal per Online-Stellenbörse erfolglos ++++
 ++++ Panik im Übergrößenladen: Dicke Frau sucht das Weite ++++
 ++++ Panne auf Fischkutter: Netzteil ging beim Laden kaputt ++++
@@ -1717,6 +1723,7 @@
 ++++ Raufen sich zusammen: Jugendliche Straftäter gründen Boxverein ++++
 ++++ Razzia: Strichmännchen im Haus des Nikolaus festgenommen ++++
 ++++ Realschule soll abgeschafft werden: Unterricht zukünftig virtuell ++++
+++++ Rechnerisch angenähert: Mathematiker entdeckt Formel für erfolgreiches Flirten ++++
 ++++ Rechnet mit dem Schlimmsten: Lehrer übt mit Klassenrabauken ++++
 ++++ Rechnung ohne den Wirt gemacht: Darmparasit verträgt keinen Alkohol ++++
 ++++ Rechter linkte ihn: Linker rächte sich ++++
