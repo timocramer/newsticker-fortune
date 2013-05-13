@@ -127,6 +127,7 @@
 ++++ Astronautinnen auf unbemannter Raumfähre langweilen sich ++++
 ++++ Attentat: Hund jagt Vogelschwarm in die Luft ++++
 ++++ "Au Backe!": Patient gibt Zahnarzt undeutliche Schmerzbeschreibung ++++
+++++ Auf alle Felle Farbe: Anti-Pelz-Aktivisten einigen sich auf Aktionsform ++++
 ++++ Auf dem falschen Fuß erwischt: Polizei schnappt Prothesendieb ++++
 ++++ Auf dem Laufenden gehalten: Reporter berichtet live von der Huckepack-WM ++++
 ++++ Auf dem neuesten Stand: Jäger bekommt Hochsitz mit VDSL-Anschluss ++++
@@ -191,6 +192,7 @@
 ++++ Aus Steuergründen: Millionär geht stiften ++++
 ++++ Aus Überzeugung: China bleibt bei Ein-Kind-Politik ++++
 ++++ Autobiografie: K.I.T.T. veröffentlicht seine Memoiren ++++
+++++ Automaten: Industriell hergestelltes Gemüse kann zu Bauchschmerzen führen ++++
 ++++ Backen leicht gemacht: Neue Kuchendiät strafft den Po ++++
 ++++ Back to the roots: Saatguthersteller besinnt sich aufs Kerngeschäft ++++
 ++++ Badeöl-Unglück: Ente quietscht nicht mehr ++++
@@ -367,6 +369,7 @@
 ++++ Das kann ja wohl nicht angehen: Elektroinstallateur vergisst Lichtschalter ++++
 ++++ Das kann ja wohl nicht wahr sein: Lügendetektor schon wieder kaputt ++++
 ++++ Das kotzt ihn an: Babysitter will nicht mehr auf magenkrankes Kind aufpassen ++++
+++++ Das musste er mit anderen teilen: Moses hatte Spaß am Meer ++++
 ++++ Das nagt an ihm: Mann muss Frettchen leider ins Tierheim geben ++++
 ++++ Das rentiert sich: Weihnachtsmann fliegt klimaneutral ++++
 ++++ Das schwächste Glied in der Kette: SM-Pornostar wegen Impotenz gefeuert ++++
@@ -439,6 +442,7 @@
 ++++ Die Sache stinkt zum Himmel: Glücksspieler hat Aas im Ärmel ++++
 ++++ Die Zeiten ändern sich: Olympische Athleten werden immer schneller ++++
 ++++ Dioptrienskandal: Blindes Huhn findet kein Korn ++++
+++++ Discounterwasser: Neuer Billig-Sprudel überschwemmt die Clubs ++++
 ++++ Diskrete Hilfe für Namenlose: Unbekannter gründet Anonyme Anonyme ++++
 ++++ Distinguierter Killer: Kettensägenmörder tötet mit Stihl ++++
 ++++ Doch keine Busen-Freunde: Beste Kumpel outen sich als Pärchen ++++
@@ -985,6 +989,7 @@
 ++++ Historisch belegt: Schon die alten Römer aßen Pizza ++++
 ++++ Historisches Ereignis: Ganze Schulklasse schreibt Geschichte ++++
 ++++ Hi Sugar: Frau hat neuen Glukosenamen ++++
+++++ Hobbit zum Beruf gemacht: Elijah Wood zufrieden mit seiner Schauspielkarriere ++++
 ++++ Hochaufgelöst: Paparazzo fotografiert trauernde Witwe ++++
 ++++ Hochgeschlafen: Narkoleptikerin im Fahrstuhl ++++
 ++++ Hoch soll er leben: Mann zieht auf ärztlichen Rat in die Alpen ++++
@@ -1269,6 +1274,7 @@
 ++++ Kriminalpolizei warnt: Aufsteller von Altgoldcontainern sind meist Betrüger ++++
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
 ++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
+++++ Krummes Ding gedreht: Bankräuber feiert Coup mit selbstgebauter Zigarette ++++
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
 ++++ künstlername: ex-modern-talking-star heißt in wirklichkeit genauso und nicht anders ++++
 ++++ Kurzatmigkeit: Immer mehr Blechbläser leiden an Tubakulose ++++
@@ -1835,6 +1841,7 @@
 ++++ Schein heilig: Pfarrer plündert Klingelbeutel ++++
 ++++ Scheint ganz gut zu laufen: Kenianer gewinnt dritten Marathon in Folge ++++
 ++++ Scheint gut zu Arbeiten: Werkstattlampe funktioniert einwandfrei ++++
+++++ Scheint zu Stimmen: Probt der Chor, kommt die Sonne raus ++++
 ++++ Scheiß die Wand an: Putzfrau stört's nicht, wenn mal was daneben geht ++++
 ++++ Scheiße: Mann hat doch nicht nur gefurzt ++++
 ++++ Scheiße passiert: Fäkalien in Tomatenmark festgestellt ++++
