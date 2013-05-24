@@ -90,6 +90,7 @@
 ++++ An den Haaren herbeigezogen: Friseur bestreitet gewaltsame Kundenbeschaffung ++++
 ++++ An den Haaren herbeigezogen: Friseur weist Körperverletzungsvorwürfe zurück ++++
 ++++ An den Haaren herbeigezogen: Rapunzel bestreitet, Prinz hereingelassen zu haben ++++
+++++ Andenken: Barbie erinnert sich an ihren gipfelstürmenden Freund in Peru ++++
 ++++ Anders: Alle Norweger heißen gleich ++++
 ++++ An die große Glocke gehängt: Selbstmord von Pfarrer spricht sich schnell herum ++++
 ++++ An die Wand gestellt: Mann wegen öffentlichen Urinierens hingerichtet ++++
@@ -208,6 +209,7 @@
 ++++ Bären aufgebunden: Kind (9) für Lüge drakonisch bestraft ++++
 ++++ Barkasse nicht schwimmfähig: Zuviel Kleingeld ++++
 ++++ Bartwuchs: Ältester Simpson-Sprössling erreicht Pubertät ++++
+++++ Bauchklatscher: Einarmiger applaudiert schlechtem Turmspringer ++++
 ++++ Bäuerchen gemacht: Landwirt ist stolz auf Nachwuchs ++++
 ++++ Bauern horten sie: Bauernhortensie ++++
 ++++ Bauer schlägt Turm: Hand gebrochen ++++
@@ -358,6 +360,7 @@
 ++++ Darauf kannst du einen lassen: Dachdecker von Qualität seiner Arbeit überzeugt ++++
 ++++ Darauf muss man erst mal kommen: Onanie auf einem Kran ++++
 ++++ Darauf steht die Domina: Am Boden liegender Sklave ++++
+++++ Darauf trinken wir: Barhocker zum beliebtesten Möbelstück gekürt ++++
 ++++ Darum dreht sich alles: Alkohol ++++
 ++++ Das arme Schwein: Bäuerin jagt Bauern in den Stall, weil er zu laut schnarcht ++++
 ++++ Da scheiden sich die Geister: Braucht das Jenseits ein Gericht für nachträgliche Eheauflösungen? ++++
@@ -584,6 +587,7 @@
 ++++ Er wird es weit bringen: Postbote liefert Paket nach Sibirien aus ++++
 ++++ Erwischt: Sie bohnert ++++
 ++++ Er wollte nur mal austreten: Esel verletzt Toilettenbenutzer ++++
+++++ Er wuffte zu viel: Hund von Mafiaboss eingeschläfert ++++
 ++++ Es geht um die Wurst: Gesundheitsamt kontrolliert Fleischerei ++++
 ++++ Es gibt Nachttisch: Bibermutter ruft zum Dessert ++++
 ++++ Es isst ein Mädchen!: Kannibalen-Eltern erfreut über Appetit von Neugeborenem ++++
@@ -673,6 +677,7 @@
 ++++ Frivol: Nackter Pfarrer hält Erotikmesse ++++
 ++++ Frosch im Hals: Miss Piggy nach Oralsex total heiser ++++
 ++++ Früher oder später kommt's raus: Frau verschweigt Schwangerschaft ++++
+++++ Frustration: Hungriger Gast wird in 5-Sterne-Restaurant nicht satt ++++
 ++++ Fuck: 48 percent of all Germans cannot speak English - poor bastards! ++++
 ++++ Fühlen sich unverstanden: Menschen aus Fachchina ++++
 ++++ Fühlt sich ausgebeutet: Supermarktkassiererin wird ständig zur Kasse gebeten ++++
@@ -2131,6 +2136,7 @@
 ++++ Tarnung hat versagt: Vogelschwarm aufgeflogen ++++
 ++++ Tasten ab: Blinde PC-Nutzer haben hohen Keyboardverschleiß ++++
 ++++ "Tatar!": Metzger präsentiert neuste Kreation ++++
+++++ Tätowier-WM: Neuer Champion gewann im Stechen ++++
 ++++ Taubenschlag: Züchter tot ++++
 ++++ Tauwetter: Schiffe bleiben im Hafen ++++
 ++++ Teamwork: Konditoren machen gemeinsame Sacher ++++
@@ -2373,6 +2379,7 @@
 ++++ Von Langer handgeplant: Golfer sattelt um auf Bauzeichner ++++
 ++++ Von langer Hand geplant: Theaterstück war offensichtlich inszeniert ++++
 ++++ Von Mutter vernachlässigt: Schraube hat nichts mehr zum Anziehen ++++
+++++ Von Pontius zu Pilatus gelaufen: Marathonläufer kämpft für bessere Streckenmarkierung ++++
 ++++ Von Tauben beschissen: Statue für naiven Ohrenarzt errichtet ++++
 ++++ Von Wegen: Adelstitel war gefälscht ++++
 ++++ Von wegen Mobbing: Homosexueller Rekrut dreht Spieß einfach um ++++
