@@ -301,6 +301,7 @@
 ++++ Brach ein: Sprintstarker Ganove nach Verfolgungsmarathon gefasst ++++
 ++++ Brach in Tränen aus: Entflohenem Häftling fiel der Abschied schwer ++++
 ++++ Brandtstiftung: Nachlass von früherem Kanzler fällt Flammen zum Opfer ++++
+++++ Brät Pitt: Kanibale verspeist Schauspieler ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
@@ -319,6 +320,7 @@
 ++++ Butter bei die Fische: Angler verrät geheime Fangtechnik ++++
 ++++ Chaos im Genlabor: Wissenschaftler zettelt Retortenschlacht an ++++
 ++++ Chapeau!: Mann kennt französisches Wort für Hut ++++
+++++ Charmebolzen: Liebesgott mit durchschlagendem Erfolg auf Armbrust umgestiegen +++
 ++++ Chlorreiche Zukunft: Swimmingpool enthielt zu viele Bakterien ++++
 ++++ Clever: Hässliche Menschen fordern mehr sexuelle Belästigung am Arbeitsplatz ++++
 ++++ Clever: Intellektuelle Prostituierte geht auf den Gedankenstrich ++++
@@ -419,6 +421,7 @@
 ++++ Der hat hier nix zu suchen: Spürhund wieder nach Hause geschickt ++++
 ++++ Der kann was erleben: Polizei sucht Zechpreller im Freizeitpark ++++
 ++++ Der letzte Schrei: Frau fand neue Schuhe zum Sterben schön ++++
+++++ "Der macht doch nur Theater!": Architekt für Opernbau ungeeignet ++++
 ++++ Der macht vielleicht einen Aufstand: Rebellen unzufrieden mit unberechenbarem Anführer ++++
 ++++ Dermatologe bestätigt: Hautreizung war ausschlaggebend ++++
 ++++ Der nächste Wurf muss sitzen: Bauer trainiert Ferkeln gute Tischmanieren an ++++
@@ -1277,6 +1280,7 @@
 ++++ Kostenlos: Schornsteinfeger geht aufs Haus ++++
 ++++ Kostet nichts: Unbezahlter Mundschenk war des Herrschers Tod ++++
 ++++ Kotzte sich die Seele aus dem Leib: Schwabe aß verdorbenes Weißbrotgebäck ++++
+++++ Kraftakt: Nacktgemälde von NRW-Ministerpräsidentin war nur schwer zu verkaufen ++++
 ++++ Krähen zu aggressiv: Hähne vom Hof verjagt ++++
 ++++ Kranke Scheiße: Mann hat Blut im Stuhl ++++
 ++++ Krasser Absturz: Volltrunkener Pilot kann Bord-Computer nicht mehr hochfahren ++++
@@ -1479,6 +1483,7 @@
 ++++ Muss passen: Fussballer kann keine Flanken ++++
 ++++ Muss privat Abstriche machen: Gynäkologe nimmt Arbeit mit nach Hause ++++
 ++++ Muss Privatinkontinenz anmelden: Mann in den Urin getrieben ++++
+++++ Muss sich in der Praxis erst beweisen: Neuer Arzt eingestellt ++++
 ++++ Muss sofort zum Arzt: Frau von Picasso hat blaue Periode ++++
 ++++ Musste eine Schlappe einstecken: Kleptomane mit Hausschuhfetisch rückfällig ++++
 ++++ Musste einstecken: Kleptomane von Ladenbesitzer verprügelt ++++
@@ -1944,6 +1949,7 @@
 ++++ Schwein gehabt: Hungriger Moslem pfeift auf religiöse Vorschriften ++++
 ++++ Schwer auszudrücken: Gefühle und Pickel ++++
 ++++ Schwer auszumachen: Warum Fernseher 21 Jahre lang lief, bleibt Rätsel ++++
+++++ Schwerer Bruch: Mathelehrer nach unfairer Aufgabe verprügelt ++++
 ++++ Schwerer Schritt: Mann entscheidet sich für Penisverkleinerung ++++
 ++++ Schwere Schlappe: Fußballer schiebt Niederlage auf Ausrüstung ++++
 ++++ Schweres Gewürz aufgefahren: Nord- und Südkoriander weiterhin unversöhnlich ++++
@@ -2462,6 +2468,7 @@
 ++++ Wenn das Wörtchen wenn nicht wär: das Wörtchen nicht wär ++++
 ++++ Wenn der kleine Hunger kommt: Spermaspuren in Milchreis entdeckt ++++
 ++++ Wer austeilt, muss auch einstecken können: Zeitungsjunge von Passanten verprügelt ++++
+++++ Wer? Der?!: Norddeutscher Fussballclub überrascht Fans mit neuem Trainer ++++
 ++++ Wer kann da schon Nein sagen: Selbsthilfegruppe für Sprachgestörte gibt Gratisseminare ++++
 ++++ Werkzeugmacher spricht Beileid aus: "Ich schwöre, dass meine Äxte höchsten Qualitätsanforderungen entsprechen!" ++++
 ++++ Westafrikanische Heißgetränke immer beliebter: Kaffee ToGo an jeder Straßenecke erhältlich ++++
