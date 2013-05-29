@@ -238,6 +238,7 @@
 ++++ Belastungstest für neuen Fußgängersteg: Alle draufgegangen ++++
 ++++ Belegt: Brötchenverkäufer zahlt Angestellten Schmiergeld ++++
 ++++ Belegt: Zungenwurstbrot ++++
+++++ Belgrad: Serbischer Lärmforscher entwickelt Hunde-Lautstärkeskala ++++
 ++++ Beliebt bei Ziegen: Günther Leckstein (CSU) ++++
 ++++ Bereit für Abschlussprüfung: Diamantenhändlerazubi kann Karate ++++
 ++++ Bergsteiger nach 10 Stunden Aufstieg empört: "Das ist ja wohl der Gipfel!" ++++
@@ -759,6 +760,7 @@
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
 ++++ Gentechnik-Panne: Labormaus ist ganz Ohr ++++
+++++ Gepunktet: Dalmatiner kann Jury bei Hundeschau überzeugen ++++
 ++++ Gerade fertig: Landebahn eingeweiht ++++
 ++++ Gerammelt voll: Kondom ++++
 ++++ Gerät in Teufels Küche: Gabel ++++
@@ -1297,6 +1299,7 @@
 ++++ Kriminalpolizei warnt: Aufsteller von Altgoldcontainern sind meist Betrüger ++++
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
 ++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
+++++ Krummes Ding: Betrüger ergaunert Banane ++++
 ++++ Krummes Ding gedreht: Bankräuber feiert Coup mit selbstgebauter Zigarette ++++
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
 ++++ künstlername: ex-modern-talking-star heißt in wirklichkeit genauso und nicht anders ++++
@@ -1576,6 +1579,7 @@
 ++++ Nicht mehr ganz dicht: Alkoholiker trinkt zu wenig  ++++
 ++++ Nicht mehr lange: Erfolgreicher Igel führt Leben auf der Überholspur ++++
 ++++ Nicht mit allem Gold der Welt aufzuwiegen: Gleiche Menge an Platin ++++
+++++ Nicht mit Samthandschuhen angefasst: Museum feuert Wärter wegen Fingerabdrücken auf Kunstwerk ++++
 ++++ Nicht rechtzeitig fertig geworden: Schlachter hat Hühnchen mit Lehrling zu rupfen ++++
 ++++ Nicht richtig im Oberstübchen: Patient aus Turmzimmer auf Psychiatrie verlegt ++++
 ++++ Nichts als Rügen: Ostseeinsel-Urlauber unzufrieden ++++
@@ -1641,6 +1645,7 @@
 ++++ Ohne Flachs: Landwirt baut ausschließlich Hanf an ++++
 ++++ Ohne großes Trara: Jäger verzichten auf das Spielen von Jagdhörnern ++++
 ++++ Ohne Mist: Bio-Bauer scheißt auf ökologische Anbaufläche ++++
+++++ Ohne Rückgrat: Patient nimmt Anklage wegen Ärztepfusch wieder zurück ++++
 ++++ Ohne Scheiß: Mann litt drei Wochen unter Verstopfung ++++
 ++++ Ohne Schonung: Gläubiger nehmen Schuldner auch noch sein Waldstück ++++
 ++++ Ohne wenn und aber: Duden 2012 wird zurückgerufen ++++
@@ -1927,6 +1932,7 @@
 ++++ Schraube locker: Mutter dreht durch ++++
 ++++ Schreibblock ade: Dichter fällt nichts mehr ein ++++
 ++++ Schreibtischlampe? Bei Charlotte Roche brennt nachts noch Licht ++++
+++++ Schreibtischtäterin: Neue Al-Qaida-Sekretärin schafft 200 Anschläge pro Minute ++++
 ++++ Schreien, kacken, schlafen: Knigge erforscht Baby-Sitten ++++
 ++++ Schreiner zimmerte ihm ein paar: Kunde hatte nicht mehr alle Latten am Zaun ++++
 ++++ Schreit nach Wiederholung: Trainer klagt lautstark über manipuliertes Spiel ++++
@@ -2506,6 +2512,7 @@
 ++++ Willkommen: Nymphomanin ++++
 ++++ Will nicht mehr die zweite Geige spielen: Orchestermusiker geht flöten ++++
 ++++ Will nicht mit dem Strom schwimmen: Badegast verlässt bei Gewitter als einziger das Wasser ++++
+++++ Will nix Festes: Frau sucht Mann mit Erektionsstörung ++++
 ++++ Will sich nicht für Karriere verbiegen müssen: Schlangenmensch kündigt ++++
 ++++ Will sich selbst ein Bild machen: Messebesucher testet neuen Fotoapparat ++++
 ++++ Wird Bundeskassler: Metzgerei sieht gute Chancen für Schweinrück ++++
