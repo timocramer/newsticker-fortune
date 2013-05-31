@@ -138,6 +138,7 @@
 ++++ Auf dem neuesten Stand: Jäger bekommt Hochsitz mit VDSL-Anschluss ++++
 ++++ Auf den Hund gekommen: Sodomist ++++
 ++++ Auf den Kopf gehauen: Verbrecher versäuft Beute nach Raubüberfall ++++
+++++ Auf den letzten Drücker: Mann gerade noch aus brennender Toilette befreit ++++
 ++++ Auf den Weg gemacht: Mann schafft es nicht mehr bis zur Haustür ++++
 ++++ Auf den Weg gemacht: Straßenreinigung rückt aus ++++
 ++++ Auf der Straße gelandet: Fluggesellschaft feuert unfähigen Piloten ++++
@@ -372,6 +373,7 @@
 ++++ Das gibt ein Donnerwetter: Meteorologe bekommt kein Hoch ++++
 ++++ Das gibt Erker: Bauunternehmen vergisst Dachfenster einzusetzen ++++
 ++++ Das hat gesessen: Mädchen kommt geläutert aus dem Gefängnis ++++
+++++ Das hätte es früher nicht gegeben: Alte Leute regen sich über Computer auf ++++
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
 ++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
@@ -972,6 +974,7 @@
 ++++ Haut ab: Chirurg nach illegaler Beschneidung auf der Flucht ++++
 ++++ Häute im Angebot: Günstige Lederwaren ++++
 ++++ Haut einfach so ab: Epidermis löst sich von Bindegewebe ++++
+++++ Haut nicht hin: Boxer muss Kampf absagen ++++
 ++++ Hautstrafend: Die neue Creme für Masochisten ++++
 ++++ Haut voll rein: Neue Seife verspricht perfekte Sauberkeit ++++
 ++++ Health Angels: Neuer Motorrad-Rettungsdienst gegründet ++++
@@ -1327,6 +1330,7 @@
 ++++ Lässt es raushängen: Reicher Exihibitionist trägt goldene Unterhose ++++
 ++++ Lässt fünfe gerade sein: Chirurg richtet Zehen zum Freundschaftspreis ++++
 ++++ Lässt ihn fallen: General schickt Protégé an die Front ++++
+++++ Lässt ihn ziehen: Mann trennt sich von Weisheitszahn ++++
 ++++ Lässt nichts anbrennen: Nekrophiler steigt in Krematorium ein ++++
 ++++ Lässt noch zu wünschen übrig: Mann geht sparsam mit Feen-Angebot um ++++
 ++++ Lässt sich hängen: Texanischer Sträfling will nicht mehr in Revision gehen ++++
@@ -1510,6 +1514,7 @@
 ++++ Nach Einbruch: Eingetretene Tür braucht Spenderscharniere ++++
 ++++ Nach erfolgreicher Transplantation: Mann sieht die Welt jetzt mit anderen Augen ++++
 ++++ Nach furiosem Sprint übergeben: Staffelläufer holte alles aus sich heraus ++++
+++++ Nachgehwiesen: Stalker lieben große Rasenflächen ++++
 ++++ Nach jahrelangem Hin und Her: Alte Schaukel endlich abgerissen ++++
 ++++ Nach Jahren der Ruhe: Altes Möbelstück wird wegen Renovierungsarbeiten verrückt ++++
 ++++ Nachkommen bei Begräbnis unerwünscht: Die jungen Leute sind immer so unpünktlich ++++
@@ -1914,6 +1919,7 @@
 ++++ Schmerzhaft und empörend: Tätowierer musterte Kundschaft von oben bis unten ++++
 ++++ Schmetterlinge im Bauch: Chamäleon stärkte sich vor Paarung ++++
 ++++ Schmiergeld: Korrupter Kfz-Mechaniker lässt sich Ölwechsel bezahlen ++++
+++++ Schmort jetzt in der Hölle: Böser Sternekoch tot ++++
 ++++ Schnäppchen: Gärtner wirbt mit Rabatten ++++
 ++++ Schnapsidee: Alkoholiker verzichtet künftig auf Bier ++++
 ++++ Schnapszahl: 2,22‰ ++++
@@ -2515,6 +2521,7 @@
 ++++ Will nix Festes: Frau sucht Mann mit Erektionsstörung ++++
 ++++ Will sich nicht für Karriere verbiegen müssen: Schlangenmensch kündigt ++++
 ++++ Will sich selbst ein Bild machen: Messebesucher testet neuen Fotoapparat ++++
+++++ Wirbelsäule verletzt: Schwäbisches Zirkusschweinchen muss Karriere beenden ++++
 ++++ Wird Bundeskassler: Metzgerei sieht gute Chancen für Schweinrück ++++
 ++++ Wird ins Auge gehen: Tornadoforscher will mitten in Sturmzentrum ++++
 ++++ Wirft kein gutes Licht auf die Stadt: Schon wieder eine defekte Straßenlaterne ++++
