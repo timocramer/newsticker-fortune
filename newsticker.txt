@@ -141,6 +141,7 @@
 ++++ Auf den letzten Drücker: Mann gerade noch aus brennender Toilette befreit ++++
 ++++ Auf den Weg gemacht: Mann schafft es nicht mehr bis zur Haustür ++++
 ++++ Auf den Weg gemacht: Straßenreinigung rückt aus ++++
+++++ Auf der ganzen Linie versagt: Probezeit von Busfahrer wird nicht verlängert ++++
 ++++ Auf der Straße gelandet: Fluggesellschaft feuert unfähigen Piloten ++++
 ++++ Auf Diät gesetzt: Dicke Frau zerquetscht Schlankheitsmenü ++++
 ++++ Auf die Bremse getreten: Liebesbeziehung zwischen Pferd und Insekt merklich abgekühlt ++++
@@ -202,6 +203,7 @@
 ++++ Backen leicht gemacht: Neue Kuchendiät strafft den Po ++++
 ++++ Back to the roots: Saatguthersteller besinnt sich aufs Kerngeschäft ++++
 ++++ Badeöl-Unglück: Ente quietscht nicht mehr ++++
+++++ Bad Taste: Wohnzimmer lässt sich auf Knopfdruck in WC umwandeln ++++
 ++++ Ballonfahrer am Boden: "Die Luft ist raus" ++++
 ++++ Bandenwerbung: Hell's Angels werben neue Mitglieder in Fußballstadien ++++
 ++++ Bande wurde ihm zum Verhängnis: Billardspieler eingelocht ++++
@@ -314,6 +316,7 @@
 ++++ Brot, Lose, Kunst: Zusammenschluss von Bäcker, Lotterie und Atelier nicht erfolgreich ++++
 ++++ Brotzeit vergessen: Hungriger Maurer verputzte Hauswand ++++
 ++++ Brutaler Geschichtsunterricht: Lehrer erklärt Schülern den Krieg ++++
+++++ Bucht: Familie will ans Meer ++++
 ++++ Bulimie unter Freundinnen: Immer mehr Mädchen brechen zusammen ++++
 ++++ Bullenschweine: Genversuch durch Polizeieinsatz gestoppt ++++
 ++++ Bummeln: Kreuzung aus Hummel und Biene nicht so schnell wie gedacht ++++
@@ -693,6 +696,7 @@
 ++++ Für alle Felle: Kürschner schließt Diebstahlsversicherung ab ++++
 ++++ Für ihn ist Jesus gestorben: Mann tritt aus Kirche aus ++++
 ++++ Für mehr Prickeln im Internet: Ahoi-Browser-Pulver ++++
+++++ Für'n Arsch: Oral eingenommenes Zäpfchen wirkungslos ++++
 ++++ Fürsorglich: Sächsischer Vater schaut im Zimmer seines Sohnes nach dem Rechten ++++
 ++++ Für zwanzig Riesen: Basketballclub baut größeren Fitnessraum ++++
 ++++ Fussballgott: Thooooooooooooor ++++
@@ -756,6 +760,7 @@
 ++++ Geiler Trip: Heroinjunkies machen Spritztour ++++
 ++++ Geistesblitz: Vier Mitarbeiter einer Hamburger Werbeagentur erleiden Gehirnerschütterung bei Brain-Storming ++++
 ++++ Geistesgegenwart: Schlossbesitzer endeckt neues Geschäftsmodell ++++
+++++ Geknickt: Touristen falten Reiseführer nach langweiligem Rundgang zusammen ++++
 ++++ Gelber Sack: Chinesischer Nachbar trennt seinen Müll nicht ++++
 ++++ Gelöst: Chemiker begießt Kreuzworträtsel mit Säure ++++
 ++++ Gemeine Fangfragen: Mann fällt durch Angelprüfung ++++
@@ -894,6 +899,7 @@
 ++++ Harte Strafe: erfolgloser Selbstmörder zum Leben verurteilt ++++
 ++++ Hart für Xavier & Co.: Söhne Mannheims zur Adoption freigegeben ++++
 ++++ Hat Absatzprobleme: Textverarbeitungsprogramm verkauft sich schlecht ++++
+++++ Hat alle angesteckt: Lachender Pyromane ++++
 ++++ Hat alle vom Hocker gehauen: Skandalöser Freispruch für Kneipenschläger ++++
 ++++ Hat an jedem Event Teil genommen: Ecstasykonsument vom Feiern erschöpft ++++
 ++++ Hat Blut geleckt: Vampirpraktikant von Schnupperwoche begeistert ++++
@@ -2359,6 +2365,7 @@
 ++++ Verzehrte sich nach einer Jungfrau: Kannibale war eindeutig zu gierig ++++
 ++++ Verzogen: Psychologe erreicht kleinen Timmy (9) nicht mehr ++++
 ++++ Verzögerung bei Schiffabfahrt: Programmierer mußte Bug entfernen ++++
+++++ Verzog keine Miene: Schönheitschirurg nimmt Kunstfehlervorwürfe gelassen ++++
 ++++ Vibratoren-Verkäufer stellt fest: Geschäft brummt ++++
 ++++ Viel Rummel um seine Person: Schausteller steht gerne im Mittelpunkt ++++
 ++++ Vielversprechend: Stotterer auf dem Weg der Besserung ++++
