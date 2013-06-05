@@ -402,6 +402,7 @@
 ++++ Das war wohl eine Taube: Stadtvogel überhört herannahenden Bus ++++
 ++++ Das wird kein Kinderspiel: Ravensburger will neues Geschäftsfeld erschließen ++++
 ++++ Das wird teuer: Star-Architekt baut Unfall ++++
+++++ Das Zeitliche gesegnet: Pfarrer stürzt bei Uhreinweihung vom Kirchturm ++++
 ++++ Datenautobahn: Stau auf dem CD-Brenner ++++
 ++++ Dauerhaft: Lebenslänglich ++++
 ++++ Davon kann man sich eine Scheibe abschneiden: Großzügiger Metzger lädt zur Salamiverkostung ++++
@@ -451,6 +452,7 @@
 ++++ Die Chemie stimmt: Junkie-Pärchen glücklich ++++
 ++++ Die dunkle Seide der Macht: Imperator trägt schwarze Robe ++++
 ++++ Die ewigen Jagdgründe: Bock auf Töten und Fleisch ++++
+++++ Die Faxen dicke: Ständig Weight-Watchers-Werbung im Büro ++++
 ++++ Die Figur ist wichtig: Dame wird von Schachspieler versetzt ++++
 ++++ Die Flasche war nicht zu gebrauchen: Brauerei entläßt Designer ++++
 ++++ Die hat sich aber gewaschen: Mieterin erhält hohe Warmwasserrechnung ++++
@@ -1127,6 +1129,7 @@
 ++++ Jetzt Zugreifen: Bahn versteigert Einzelteile defekter Schienenfahrzeuge ++++
 ++++ Joboffensive: Barilla sucht Spaghettiträger ++++
 ++++ juckt den gefängnisdirektor nicht mehr: der gefangene floh ++++
+++++ Junge, Junge: Mutter bekommt schon wieder Zwillinge ++++
 ++++ Junge Talente: Frisch geschlüpfter Wasservogel meidet Berge ++++
 ++++ Jüngstes Gerücht: Das Ende der Welt steht bevor ++++
 ++++ Kabeldiebstahl aufgeklärt: Drahtzieher verhaftet ++++
@@ -1338,6 +1341,7 @@
 ++++ Lässt ihn fallen: General schickt Protégé an die Front ++++
 ++++ Lässt ihn ziehen: Mann trennt sich von Weisheitszahn ++++
 ++++ Lässt nichts anbrennen: Nekrophiler steigt in Krematorium ein ++++
+++++ Lässt noch einen fahren: Rentnerin nimmt lieber den nächsten Bus ++++
 ++++ Lässt noch zu wünschen übrig: Mann geht sparsam mit Feen-Angebot um ++++
 ++++ Lässt sich hängen: Texanischer Sträfling will nicht mehr in Revision gehen ++++
 ++++ Lässt sich nicht lumpen: Mann verschenkt Kunststoffkleidung ++++
@@ -1371,6 +1375,7 @@
 ++++ Letzte Vorkehrungen: Party-Gastgeber reinigt nochmal den Fußboden ++++
 ++++ Libyen: Bauern protestieren gegen Pflugverbotszone ++++
 ++++ Liegt auf der Hand: Nekrophiler bewahrt Leichenteile am liebsten im Bett auf ++++
+++++ Liegt ihm am Herzen: Mann möchte verrutschten Darm operieren lassen ++++
 ++++ Liegt in seiner Natur: Fauler König besucht regelmäßig Residenz im Grünen ++++
 ++++ Ließ alles offen: Bankdirektor hat nach berechtigter Kündigung noch keine Zukunftspläne ++++
 ++++ Ließ das nicht auf sich sitzen: Mann erschlägt ihn stechendes Insekt ++++
@@ -1736,6 +1741,7 @@
 ++++ Präsentation mit Köpfchen: Henker erklärt seinen Beruf mithilfe von Fallbeilspielen ++++
 ++++ Pressemitteilung: Alles zerquetscht ++++
 ++++ Prinz angepisst: Rapunzel ließ Harn herunter ++++
+++++ Probewaise: Eltern lassen Kind allein zuhause ++++
 ++++ Problem aufgetaucht: Mafioso hatte keinen Stein zur Hand ++++
 ++++ Produziert nur noch Flickenteppiche: Schneider leidet an Stoffwechselkrankheit ++++
 ++++ Profilacktisch: Maler setzt bei Einrichtung von neuer Werkstatt sicherheitshalber auf Premiummöbel ++++
@@ -2067,6 +2073,7 @@
 ++++ Spektakuläre Rehkonstruktion: Geschichte der Belagerung Trojas muss neu geschrieben werden ++++
 ++++ Spektakulär: Speck da, Kuh leer ++++
 ++++ Spezifisch: Wassertier gut an Leben in Limonade angepasst ++++
+++++ Spiegelbild der Zeit: Nachrichtenmagazin fusioniert aus Kostengründen mit Boulevardblatt und Wochenzeitung ++++
 ++++ Spielt die beleidigte Leberwurst: Schauspieler unzufrieden mit Rolle ++++
 ++++ Spielt einen Streich: Geiger verulkt Publikum mit sehr kurzem Stück ++++
 ++++ Spielt keine Rolle mehr: Tonbandgerät defekt ++++
