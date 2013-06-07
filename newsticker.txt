@@ -256,6 +256,7 @@
 ++++ Beschützerinstinkt: Leibwächterin wehrt Buttersäureangriff ab ++++
 ++++ Beschwerde: Restaurantgast findet ein H in Buchstabensuppe ++++
 ++++ Beschweren sich ständig: Arbeitsbedingungen liefern Marinetauchern allen Grund ++++
+++++ Besenrein: Darkroom trotz bizarrer Spiele sehr sauber ++++
 ++++ Besorgniserregend: Immer mehr Schafstoffe in Wollpullovern ++++
 ++++ Besorgniserregend: Mann bekommt Magengeschwür aus Angst vor Magengeschwüren ++++
 ++++ Besorgniserregend: Vier von fünf Killerspiele-Spielern sind zu fett für Amoklauf ++++
@@ -327,6 +328,7 @@
 ++++ Chapeau!: Mann kennt französisches Wort für Hut ++++
 ++++ Charmebolzen: Liebesgott mit durchschlagendem Erfolg auf Armbrust umgestiegen +++
 ++++ Chlorreiche Zukunft: Swimmingpool enthielt zu viele Bakterien ++++
+++++ Chuck Norris kommt auch ohne Wortspiel in den Newsticker vom Postillon ++++
 ++++ Clever: Hässliche Menschen fordern mehr sexuelle Belästigung am Arbeitsplatz ++++
 ++++ Clever: Intellektuelle Prostituierte geht auf den Gedankenstrich ++++
 ++++ Clever: Papst rehabilitiert Benedikt XVI. ++++
@@ -674,6 +676,7 @@
 ++++ Fluch der Karibik: Pirat heult Rum ++++
 ++++ Flucht fortgesetzt: Ausbrecher spart nicht mit Kraftausdrücken ++++
 ++++ Flüchtigkeitsfehler: Gefängnisausbruch gescheitert ++++
+++++ Flutlicht: Passau lässt Innenstadt beleuchten ++++
 ++++ Förderung eingestellt: Kohle nicht mehr subventioniert ++++
 ++++ Forscher: Schüchterner Wissenschaftler findet heraus, wie Frauen angesprochen werden müssen ++++
 ++++ Forsch: Wissenschaftler missfällt Umgangston im Labor ++++
@@ -973,6 +976,7 @@
 ++++ Hatte Zeit totzuschlagen: Mann mordete aus Langeweile ++++
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
 ++++ Hat viele verschiedene Frauen: Mormone ist Witwer ++++
+++++ Hat viel um die Ohren: Mann mit Halbglatze schafft es nicht zu Friseurtermin ++++
 ++++ Hat zu viel gekostet: Koch wegen hohem Lebensmittel-Verbrauch entlassen ++++
 ++++ Häufig: Bauer gesteht regelmäßigen Liebesakt in Scheune ++++
 ++++ Hausaufgaben: Soldaten müssen Rückzug aus Wohngebieten üben ++++
@@ -997,6 +1001,7 @@
 ++++ Heiße Spur: Internet-Detektiv nimmt Twitterung auf ++++
 ++++ Heiter bis sonnig: Angekündigter Regen entpuppt sich als Schauermärchen ++++
 ++++ Helfen gegen stumpfe Stifte: Spitzbuben ++++
+++++ Herd der Inge: Neues Hobbit-Restaurant in Mittelerde eröffnet ++++
 ++++ "Her mit der Asche!": Gläubiger fordert Rückstände ++++
 ++++ Herr Schmidt: Altkanzler erklärt direkte Demokratie ++++
 ++++ Hervorragend: Dicke Beule ++++
@@ -2069,6 +2074,7 @@
 ++++ Spaßbremse: TÜV findet in Auto verbauten Scherzartikel nicht lustig ++++
 ++++ Spaß dank Sextanten: Matrosen finden Weg ins Rotlichtviertel ++++
 ++++ Spaß in der Mittagspause: Spiegelkabinett-Besitzer verzerrt sein Pausenbrot ++++
+++++ Spatzenhirn: Mann lässt sich wirkungsloses Naturpotenzmittel aufschwatzen ++++
 ++++ Spätzünder: Selbstmordattentäter werden immer älter ++++
 ++++ Spektakuläre Rehkonstruktion: Geschichte der Belagerung Trojas muss neu geschrieben werden ++++
 ++++ Spektakulär: Speck da, Kuh leer ++++
@@ -2596,6 +2602,7 @@
 ++++ Zufallstreffen in afrikanischem Waisenhaus: Madonna und Angelina Jolie adoptieren sich gegenseitig ++++
 ++++ Zu faul zum Arbeiten: Chef fuhr mit Angestellten Schlitten ++++
 ++++ Zügellos: Reiter hat Pferd nicht unter Kontrolle ++++
+++++ Zügellos: Reitlehrerin nach der Arbeit völlig enthemmt ++++
 ++++ Zu großer Vorsprung: Führender des Wingsuit-Flugwettbewerbs prallt gegen Fels ++++
 ++++ Zu gut: Gewiefter Ladendieb steckt Kaufhausdetektive in die Tasche ++++
 ++++ Zug verpasst: Schachspieler von Turnier ausgeschlossen ++++
