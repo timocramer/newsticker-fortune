@@ -707,6 +707,7 @@
 ++++ Fussballgott: Thooooooooooooor ++++
 ++++ Fußnote: Käse^1 ++++
 ++++ Gab einen Menschenauflauf: Großer Andrang beim Kannibalen-Showcooking ++++
+++++ Gab ihm die Hand: Opfer versöhnt sich mit Kannibalen ++++
 ++++ Gab ihr einen Korb: Weidenflechter verstand verliebte Kundin nicht ++++
 ++++ Gab stets ungefragt seinen Senf dazu: Nerviger Wurstbuden-Azubi gefeuert ++++
 ++++ Galgenhumor: Henker verwendet Bungeeseil ++++
@@ -881,6 +882,7 @@
 ++++ Hahn im Korb: Damenbasketballspiel abgebrochen ++++
 ++++ Hahn im Korb: Schlangenbeschwörer tritt bei Ladies-Night mit Spaßnummer auf ++++
 ++++ Hahn tropft: Huhn verhütete mit Coitus Interruptus ++++
+++++ Haiku: Japaner schreibt Gedicht über amphibisches Fabelwesen ++++
 ++++ Haken verpasst: Boxer schlägt ungeschickte Garderobiere ++++
 ++++ Halb so wild: Gezähmter Tiger ++++
 ++++ Halsabschneider: Henker verlangt Lohnerhöhung ++++
@@ -1050,6 +1052,7 @@
 ++++ Hundesteuerflucht: Deutsche Dogge verlegt Haupthundehütte in die Schweiz ++++
 ++++ Hund zufrieden: Floh abgekratzt ++++
 ++++ Hut ab: Udo Lindenberg geht endlich zum Friseur ++++
+++++ Hütehund: Border Collie steht einfach jede Kopfbedeckung ++++
 ++++ "Ich glaub, mein Schwein pfeift!": Bauer leidet an Tinnitus ++++
 ++++ "Ich glaub, mich knutscht ein Elch": Schwedischer Darkroom anders als erwartet ++++
 ++++ "Ich war ein Cop!": Aussteiger berichtet aus dem Blaulichtmilieu ++++
@@ -1339,6 +1342,7 @@
 ++++ Land gewonnen: Tombolateilnehmer drückt sich vor Preisübergabe ++++
 ++++ Lange Gesichter bei der Fütterung: Pferde bekommen wieder nur Heu ++++
 ++++ Langer Arm der Vogelmafia: Taube auf dem Dach hat Spatz in der Hand ++++
+++++ Lang Lang: Pianist lernt Morsealphabet ++++
 ++++ Langweilig: Gespräch zwischen Dolmetscher und Papagei dreht sich im Kreis ++++
 ++++ Lassen fünfe gerade sein: Faule Mannschaft gibt genau jetzt Basketball auf ++++
 ++++ Lässt es raushängen: Reicher Exihibitionist trägt goldene Unterhose ++++
@@ -1737,6 +1741,7 @@
 ++++ Platzhalter: Hier könnte Ihre Newstickerzeile stehen ++++
 ++++ Platz sieben: Beachvolleyballer müssen zum Straftraining antreten ++++
 ++++ Plötzlicher Wintereinbruch: Eskimo legt Bauvorhaben auf Eis ++++
+++++ Pokal: Gewinner des Imtimrasurwettbewerbs steht fest ++++
 ++++ Polaroid: Eisbär ++++
 ++++ Polizei ermittelt: Friseur unter Verdacht der fahrlässigen Tönung ++++
 ++++ Polizei machtlos: Einbruch der Dunkelheit immer früher ++++
@@ -1809,7 +1814,9 @@
 ++++ Rein aus Neugier: Obdachloser probierte Waschsalon aus ++++
 ++++ Reingelegt: Vermeintliche Leiche im Sarg war gar nicht tot ++++
 ++++ Reis ausgenommen: Chinese verlässt fluchtartig All-You-Can-Eat Party ++++
+++++ Reißt nicht ab: Spott über Klopapier ++++
 ++++ Reißt sogleich alle mit: Charismatischer Bergsteiger springt in Gletscherspalte ++++
+++++ Reitet nicht darauf herum: Frau hat Verständnis für impotenten Liebhaber ++++
 ++++ Rekonvaleszent: Kranker Biber wieder auf dem Damm ++++
 ++++ Rekord gebrochen: Mann kotzt fünf Meter weit ++++
 ++++ Rekord: Kleinste Lupe der Welt nur unter dem Mikroskop erkennbar ++++
