@@ -823,6 +823,7 @@
 ++++ Gleitzeit im Bordell: Angestellte können kommen, wann sie wollen ++++
 ++++ Glück im Unglück: Angefahrener Hund stellt entzückt fest, dass aus seinem gebrochenen Bein ein Knochen ragt ++++
 ++++ Gnade vor Recht: Lexikon alphabetisch sortiert ++++
+++++ Göteborg: Dichter während Schwedenaufenthalt assimiliert ++++
 ++++ Göttliche Fügung: Papst muss dran glauben ++++
 ++++ Gottverdammte Scheiße: Fluchlotsen wollen schon wieder streiken ++++
 ++++ Grandiose Partitur: Erfolgreicher Komponist zieht feiernd durch die Clubs ++++
@@ -1085,6 +1086,7 @@
 ++++ In den falschen Hals bekommen: Frau nach Blowjob schwanger ++++
 ++++ In den Hintergrund getreten: Theater-Schauspieler bekommt nach Wutanfall nur noch kleine Rollen ++++
 ++++ In den höchsten Tönen gelobt: Kastrat begeistert von Arbeit des Chirurgen ++++
+++++ In den Knast gewandert: Nordic-Walking-Gruppe überwindet Gefängnisabsperrung ++++
 ++++ In den Sand gesetzt: Taliban-Offensive scheitert an lauffaulen Gotteskriegern ++++
 ++++ In den Schlaf gewogen: Fleischereifachverkäuferin hat zu lange Arbeitszeiten ++++
 ++++ In der Blüte ihres Lebens: Biene arbeitet sich zu Tode ++++
@@ -1116,6 +1118,7 @@
 ++++ Ist ihm nicht zu billig: Nacktbarbesucher heiratet Frau von der Stange ++++
 ++++ Ist jetzt auch Wurst: Metzger hat seinen toten Hund verarbeitet ++++
 ++++ Ist jetzt natürlich hart, aber so ist die Regel: Frau verweigert Mann den Sex ++++
+++++ Ist jetzt schon bedient: Mann genervt von aufdringlichem Kellner ++++
 ++++ Ist neu in der Szene: Statist läuft bei Pornoreportage durchs Bild ++++
 ++++ Ist noch nicht aus dem Schneider: Textilhandwerker bekommt Tumor entfernt ++++
 ++++ Ist Sean Penn: Schauspieler ging nach hartem Arbeitstag früh ins Bett ++++
@@ -1480,6 +1483,7 @@
 ++++ Mit einem Schlag zu Ende: Ehe von Rafael und Sylvie van der Vaart ++++
 ++++ Mit Feldstecher: Liebestolle Frau in Kornfeld entdeckt ++++
 ++++ Mit Hochspannung erwartet: Gemeinde freut sich auf Stromanschluss ++++
+++++ Mit Kater aufgewacht: Betrunkener Sodomist erlebte Nacht seines Lebens ++++
 ++++ Mit Kater erwacht: Katze kann sich an nichts erinnern ++++
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
@@ -1560,6 +1564,7 @@
 ++++ Nahm davon keine Notiz: Protokollführer verpasste Sitzung ++++
 ++++ Nahm kein Blatt vor den Mund: Redselige Raupe verhungert ++++
 ++++ Nahm sich ein Herz: Mutiger Chirurg zeigt kleptomanischen Kollegen an ++++
+++++ Naomi: Supermodel wird wegen fortgeschrittenen Alters gehänselt ++++
 ++++ Napoli: Italienischer Nudeldieb geht Polizei in die Farfalle ++++
 ++++ Nasen-OP missglückt: Schönheitschirurg befürchtet Gesichtsverlust ++++
 ++++ Nase voll: Popelsammler gibt Hobby auf ++++
@@ -2361,6 +2366,7 @@
 ++++ Verletzung durch Keilerei: Mann mit Schweinehoden verprügelt ++++
 ++++ Vermisst ihn: Schneider führt letzten Auftrag für wegziehenden Stammkunden durch ++++
 ++++ Vermisst in Afrika: Familie kennt Aufenthaltsort von Geodät nicht ++++
+++++ Vermutlich verschleppt: Mann mit schwerer Erkältung nicht mehr aufgetaucht ++++
 ++++ Vernachlässigt: Kettenhund völlig verrostet ++++
 ++++ Vernichtend: Bruder adoptiert Mädchen ++++
 ++++ Vernichtende Worte: Mann tödlich verunglimpft ++++
@@ -2462,6 +2468,7 @@
 ++++ Warm und feucht: Wetter outet sich als schwül ++++
 ++++ War nicht angemessen: Anzug von der Stange ++++
 ++++ War reserviert: Introvertierter Mann bekam keinen Tisch im Restaurant ++++
+++++ War schon eingelaufen: Boxer fiel zu enge Hose erst im Ring auf ++++
 ++++ "Warum funktioniert das Ding nicht?": Rasensprengerverkäufer steht auf dem Schlauch ++++
 ++++ War vorher klar: Kleinkind pinkelt ins Pool-Wasser ++++
 ++++ Wäscherei: defekte Wäschemangel schuld am Wäschemangel ++++
