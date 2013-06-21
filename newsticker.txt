@@ -44,6 +44,7 @@
 ++++ ADAC warnt: Erdbeeren schlecht im Winterreifen ++++
 ++++ Adipös: Hitler als Kind oft wegen übermäßigen Süßigkeitenkonsums gerügt ++++
 ++++ Ähnlich schon dagewesen: Neue High-Five-Variante nur ein billiger Abklatsch ++++
+++++ Ährenrunde: Bauer nutzt Kornkreise zum Jogging ++++
 ++++ Albern: Schweizer Hauptstadt soll Vorsilbe erhalten ++++
 ++++ Ali bi: Türkischer Verdächtiger zur Tatzeit in Schwulenbar gesichtet ++++
 ++++ Alk: Liebenswerter Außerirdischer hat große Identitätsprobleme ++++
@@ -310,6 +311,7 @@
 ++++ Brach in Tränen aus: Entflohenem Häftling fiel der Abschied schwer ++++
 ++++ Brandtstiftung: Nachlass von früherem Kanzler fällt Flammen zum Opfer ++++
 ++++ Brät Pitt: Kanibale verspeist Schauspieler ++++
+++++ Braucht keinen Grund: Stadt sprengt Denkmal aus Spaß ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
@@ -321,6 +323,7 @@
 ++++ Brotzeit vergessen: Hungriger Maurer verputzte Hauswand ++++
 ++++ Brutaler Geschichtsunterricht: Lehrer erklärt Schülern den Krieg ++++
 ++++ Bucht: Familie will ans Meer ++++
+++++ Bügelt gern Perlen: Kreativer Erzieher doch nicht homosexuell ++++
 ++++ Bulimie unter Freundinnen: Immer mehr Mädchen brechen zusammen ++++
 ++++ Bullenschweine: Genversuch durch Polizeieinsatz gestoppt ++++
 ++++ Bummeln: Kreuzung aus Hummel und Biene nicht so schnell wie gedacht ++++
@@ -519,6 +522,7 @@
 ++++ Eine ehrliche Haut: Schlägerin gesteht Gewalttaten ++++
 ++++ Eine Granate im Bett: Soldat sorgt für mehr Spannung im Schlafzimmer ++++
 ++++ Eine Haydn-Arbeit: Diplom-Musiker reicht umfangreiche Dissertation ein ++++
+++++ Eine Niete im Pool: Anfänger bei Billardturnier ins kalte Wasser geworfen ++++
 ++++ Einer muss es ja machen: Stiftung Warentest testet Potenzpillen ++++
 ++++ Eine Runde gedreht: Radfahrer bringt adipöse Frau zu Fall ++++
 ++++ Einfach abgehauen: Henker verlässt Marktplatz wortlos ++++
@@ -1235,6 +1239,7 @@
 ++++ Keine Verbindung mehr zur Außenstelle: Elektriker hat Kontakt abgebrochen ++++
 ++++ Kein Gras mehr da: Entspannter Kiffer macht sich keinen Kopf ++++
 ++++ Kein Mumm: Mann verschweigt vergessenen Sektkauf ++++
+++++ Kein Platz: Hund kann sich nicht hinlegen ++++
 ++++ Kein Spiegelbild: Teenager-Vampirin seit 170 Jahren schlecht geschminkt ++++
 ++++ Kein Sponsor in Sicht: Judo-Meister muss schwarzen Gürtel enger schnallen ++++
 ++++ Kein Tempo: Vettel hat die Nase voll ++++
@@ -1332,6 +1337,7 @@
 ++++ Kriegt die Kurve nicht: Rennstall entlässt drogensüchtigen Fahrer ++++
 ++++ Kriegt 'ne Gänsehaut: Bauer vor Transplantation aufgeregt ++++
 ++++ Kriegt sein Fett weg: Dicker Mann wegen Schönheits-OP gehänselt ++++
+++++ Kriegt sein Fett weg: Sumoringer nach Magenverkleinerung chancenlos ++++
 ++++ Kriminalpolizei warnt: Aufsteller von Altgoldcontainern sind meist Betrüger ++++
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
 ++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
@@ -2216,6 +2222,7 @@
 ++++ Teurer Supermarkt: Joghurt mit Nobelpreis ausgezeichnet ++++
 ++++ The Bronx: New Yorker Polizei warnt vor spontanen Abstechern ++++
 ++++ Thema noch nicht gegessen: Erneuter Fleischskandal in Deutschland ++++
+++++ The odor: Guttenberg stinkt den Amerikanern allmählich ++++
 ++++ Tickt nicht richtig: Dealer verrechnet sich ständig ++++
 ++++ Tief getroffen: Fechterin nach verlorenem Finale sehr deprimiert ++++
 ++++ Tierbordell aufgeflogen: Dackelzüchter gründeten Zwingerclub ++++
