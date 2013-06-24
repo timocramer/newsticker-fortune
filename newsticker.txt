@@ -46,6 +46,7 @@
 ++++ Ähnlich schon dagewesen: Neue High-Five-Variante nur ein billiger Abklatsch ++++
 ++++ Ährenrunde: Bauer nutzt Kornkreise zum Jogging ++++
 ++++ Albern: Schweizer Hauptstadt soll Vorsilbe erhalten ++++
+++++ Albert: Monegassischer Fürst zu Späßen aufgelegt ++++
 ++++ Ali bi: Türkischer Verdächtiger zur Tatzeit in Schwulenbar gesichtet ++++
 ++++ Alk: Liebenswerter Außerirdischer hat große Identitätsprobleme ++++
 ++++ À llah carte: Schweineschnitzel ab sofort durch Pute ersetzt ++++
@@ -108,6 +109,7 @@
 ++++ Angriffsbereit: Indianer hat den Bogen raus ++++
 ++++ Angst vor Hinrichtung: Gefangener bricht in Panik aus ++++
 ++++ Angst vor Niederlage: Bürgermeister von Drückeberg kandidiert nicht mehr ++++
+++++ Anleger enttäuscht: Bootssteghersteller pleite ++++
 ++++ An Nichts interessiert: Nihilismus-Azubi beginnt dreijährige Leere ++++
 ++++ Anrufversuche erfolglos: Billig-Hotel hat keinen Empfang ++++
 ++++ Ans Licht gekommen: Glühbirne führte On-Off-Beziehung mit Lichtschalter ++++
@@ -522,6 +524,7 @@
 ++++ Eine ehrliche Haut: Schlägerin gesteht Gewalttaten ++++
 ++++ Eine Granate im Bett: Soldat sorgt für mehr Spannung im Schlafzimmer ++++
 ++++ Eine Haydn-Arbeit: Diplom-Musiker reicht umfangreiche Dissertation ein ++++
+++++ Einen draufgemacht: Geheimdienstmitarbeiter feiern erfolgreiche Trojanerinstallation ++++
 ++++ Eine Niete im Pool: Anfänger bei Billardturnier ins kalte Wasser geworfen ++++
 ++++ Einer muss es ja machen: Stiftung Warentest testet Potenzpillen ++++
 ++++ Eine Runde gedreht: Radfahrer bringt adipöse Frau zu Fall ++++
@@ -1091,6 +1094,7 @@
 ++++ Immer dasselbe Loch: Gürtel trennt sich von seiner Schnalle ++++
 ++++ Immer der Nase nach: Kokser bleibt seiner Linie treu ++++
 ++++ Immer mehr Gewalt an Schulen: Sorge um Rektorsicherheit ++++
+++++ Immer nur Blasen: Ballerinas zu eng ++++
 ++++ Immer wieder auf die Zwölf: Systemspieler in Casino zusammengeschlagen ++++
 ++++ Im Regen stehengelassen: Zuckerberg völlig aufgelöst ++++
 ++++ Im Sande verlaufen: Suche nach verschwundenen Sahara-Touristen eingestellt ++++
@@ -1107,6 +1111,7 @@
 ++++ In der Cloud: Südasiate hackt Kreditkartendaten ++++
 ++++ In der Ruhr liegt die Kraft: Ministerpräsidentin nimmt Sturz in Fluss gelassen ++++
 ++++ In der Truhe liegt der Saft: Tenor findet endlich Hohes C ++++
+++++ In der Vergangenheit verhaftet: Nostalgischer Verbrecher will wieder in den Knast ++++
 ++++ In der Zwickmühle: Müller muss Gattin blaue Flecken erklären ++++
 ++++ In die Parade gefahren: Chauffeur ruiniert Kim Jong Uns Heerschau ++++
 ++++ In die Pfanne gehauen: Junge (9) verbrennt sich die Hand ++++
@@ -1123,6 +1128,7 @@
 ++++ In Tränen aufgelöst: Heulsuse hat kein Wasser für Brausetablette ++++
 ++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
 ++++ Islam: Muezzin sitzt im Rollstuhl ++++
+++++ Isst Feige: Mann hat Angst vor Datteln ++++
 ++++ Isst Jacke wie Hose: Motte bei Nahrungsauswahl nicht wählerisch ++++
 ++++ Ist das Ihr Ernst?: Ehefrau muss Unfallopfer identifizieren ++++
 ++++ Ist doch kein Beinbruch: Oberarzt tröstet jungen Internisten nach Fehldiagnose ++++
@@ -1397,6 +1403,7 @@
 ++++ "Leck mich doch am Arsch!": Frau genervt, dass sie Sexvorlieben ständig wiederholen muss ++++
 ++++ Leckscreen: Neue iPhone-App ermöglicht interaktives Eisessen ++++
 ++++ Leder zappelt im Netz: Omas in Strapsen spielen Fußball ++++
+++++ Leer ausgegangen: Rennfahrer verliert wegen Loch im Tank ++++
 ++++ Leeres Magazin: Amokläufer löscht Redaktion aus ++++
 ++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
 ++++ Lehnte sich zu weit aus dem Fenster: Copilot behauptete, er könne fliegen ++++
