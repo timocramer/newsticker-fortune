@@ -138,6 +138,7 @@
 ++++ Astronautinnen auf unbemannter Raumfähre langweilen sich ++++
 ++++ Attentat: Hund jagt Vogelschwarm in die Luft ++++
 ++++ "Au Backe!": Patient gibt Zahnarzt undeutliche Schmerzbeschreibung ++++
+++++ Auch Mariechen: Alle Kinder müssen an Schnupperkurs teilnehmen ++++
 ++++ Auf alle Felle Farbe: Anti-Pelz-Aktivisten einigen sich auf Aktionsform ++++
 ++++ Auf dem falschen Fuß erwischt: Polizei schnappt Prothesendieb ++++
 ++++ Auf dem Laufenden gehalten: Reporter berichtet live von der Huckepack-WM ++++
@@ -606,6 +607,7 @@
 ++++ Erstaunlich: Jodler sind besser als ihr Ruf ++++
 ++++ Erste Hilfe: Rettungssanitäter feiert Debüt ++++
 ++++ Erste Vorteile durch Erderwärmung: Langnese wieder liquide ++++
+++++ Erstickt in Arbeit: Proktologe kriegt den Kopf einfach nicht frei ++++
 ++++ Erst nach x Versuchen: Mathematiker entschlüsselt Formel mit µ und NOT ++++
 ++++ Er sucht sie: Mann verlegt Liste mit Kontaktanzeigen ++++
 ++++ Ertrinkende Badegäste ziehen ihn runter: Rettungsschwimmer schlecht gelaunt ++++
@@ -729,6 +731,7 @@
 ++++ Gab ihr einen Korb: Weidenflechter verstand verliebte Kundin nicht ++++
 ++++ Gab stets ungefragt seinen Senf dazu: Nerviger Wurstbuden-Azubi gefeuert ++++
 ++++ Galgenhumor: Henker verwendet Bungeeseil ++++
+++++ Gamsbart gestohlen: Jäger hat damit nichts am Hut ++++
 ++++ Gänsehaut pur: Gourmet begeistert von Delikatesse ++++
 ++++ Gans wie die Mama: Immer am Schnattern ++++
 ++++ Ganzes Wochenende im Arsch: Proktologe muss Samstag und Sonntag arbeiten ++++
@@ -742,6 +745,7 @@
 ++++ Gassenhauer: Neues Papstritual löst Bodenkuss ab ++++
 ++++ Gatte reicht ihr hinten und vorne nicht: Frau nimmt sich Liebhaber ++++
 ++++ Gauleiter: Seuche rafft immer mehr Pferde dahin ++++
+++++ Gebranntes Kind: Vater von Pinocchio möchte tönerne Figur nicht adoptieren ++++
 ++++ Gefahrengut: Mann besteht Tanklasterführerschein ++++
 ++++ Gefährliche Nachteile: Studie rät, Heimweg von Kneipe nicht zu überstürzen ++++
 ++++ Gefährlicher Fetisch: Pfarrer hat es mit dem Kreuz ++++
@@ -1481,6 +1485,7 @@
 ++++ Mathelehrer teilt mit: Schüler kann noch nicht alleine dividieren ++++
 ++++ Mathematisch unmöglich: Viele Städte haben mehr als vier Viertel ++++
 ++++ Meckern auf hohem Niveau: Bauer klagt über mühevolles Melken von Bergziegen ++++
+++++ Meckert: Kunde unzufrieden mit zu kurz gegartem Ziegenfleisch ++++
 ++++ Medaillenspiegel: dloG, rebliS, eznorB ++++
 ++++ Medikamentenskandal: Aufregung um Valium ++++
 ++++ Medium: "Sie werden ein Rindersteak essen" ++++
@@ -1573,6 +1578,7 @@
 ++++ Nach dem Doppelpunkt: vor dem Doppelpunkt ++++
 ++++ Nach Einbruch: Eingetretene Tür braucht Spenderscharniere ++++
 ++++ Nach erfolgreicher Transplantation: Mann sieht die Welt jetzt mit anderen Augen ++++
+++++ Nach Friseurtermin und Maniküre: Mann geht erst mal gepflegt einen trinken ++++
 ++++ Nach furiosem Sprint übergeben: Staffelläufer holte alles aus sich heraus ++++
 ++++ Nachgehwiesen: Stalker lieben große Rasenflächen ++++
 ++++ Nach jahrelangem Hin und Her: Alte Schaukel endlich abgerissen ++++
@@ -1819,6 +1825,7 @@
 ++++ Rachsüchtig: TV-Zuschauer drohen mit Gewalt, falls Restauranttester abgesetzt wird ++++
 ++++ Raffiniert: Erdöl in Benzin umgewandelt ++++
 ++++ Ramsch: Neuer Stringtanga schon bei erstem Tragen im Arsch ++++
+++++ Randale: Britischer Hooligan genießt sein Bier lieber abseits des Geschehens ++++
 ++++ Rarität: Albino auf Schwarzmarkt entdeckt ++++
 ++++ Rasieren vergessen: Prostituierte erweist Kunden einen Bärendienst ++++
 ++++ Raste mit einem Affenzahn davon: Schmuggler von verbotenen Tierteilen entkommt Zollbeamten ++++
