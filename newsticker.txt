@@ -429,6 +429,7 @@
 ++++ Déjà-vu: Déjà-vu ++++
 ++++ Delikate Methoden: Umstrittener Koch bereitet Stiergenitalien mit Honigwein zu ++++
 ++++ Dementer Rentner bleibt mit PKW stehen: Nachfolgende Fahrer rufen Pharmalobby ++++
+++++ Dement sprechend: Verwirrter Mann sucht Synonym für folglich ++++
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
 ++++ Den Luciano: Bayerische Frauen denken bei Pavarotti-Arien an Oralsex ++++
 ++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
@@ -558,6 +559,7 @@
 ++++ Einsame Spitze: Hunde-Datingservice verzeichnet Rekordanmeldezahlen ++++
 ++++ Einsame Spitze: Matterhorn nicht zu Gipfeltreffen eingeladen ++++
 ++++ Einsatzbefehl: Soldaten an der Front zu prägnanter Ausdrucksweise verdonnert ++++
+++++ Eins auf den Deckel gekriegt: Kunstschüler beschmiert Toilettensitz ++++
 ++++ Ein Tag für die Tonne: Müllmann unzufrieden mit seinem Job ++++
 ++++ Ein toller Hecht: Angler fängt großen Raubfisch ++++
 ++++ Ein Witz auf seine Kosten: Masochist kann nur gequält lächeln ++++
@@ -765,6 +767,7 @@
 ++++ Gehen zusammen durch dick und dünn: Darmparasiten sind unzertrennlich ++++
 ++++ Gehheimauftrag: Agent nach Hause geschickt ++++
 ++++ Gehört sich nicht: Sklave hat schlechte Arbeitsmoral ++++
+++++ Gehört übers Knie: Unartige Tochter trägt trotz Verbots weiterhin Minirock ++++
 ++++ Gehört zum guten Ton: Töpfer schließt Lehmsversicherung ab ++++
 ++++ Geht auf keine Kuhhaut: Bulle darf nie richtig ran ++++
 ++++ Geht auf keine Kuhhaut: Rodeoreiter streikt ++++
@@ -862,6 +865,7 @@
 ++++ Große Klappe, nix dahinter: Vermieter stellt versprochenen Müllschlucker nicht fertig ++++
 ++++ Großer Schritt für die Menschheit: Frau bringt Achtlinge zur Welt ++++
 ++++ Großes Fest: Mann feiert überstandene Durchfallerkrankung ++++
+++++ Großes Geschäft gemacht: "2 Girls 1 Cup"-Darstellerinnen haben ausgesorgt ++++
 ++++ Großkotz: Mann prahlt nach Saufgelage mit Menge seines Erbrochenen ++++
 ++++ Großzügige Skandinavier: Betuchte Lappen lassen sich nicht lumpen ++++
 ++++ Grottenkick: Fußballspiel in Tropfsteinhöhle endet 0:0 ++++
@@ -1529,6 +1533,7 @@
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
 ++++ Mit Stechschritt zum Arzt: Gardesoldat klagt über Blasenentzündung ++++
+++++ Mit über 200 Sachen: Schmuggler entkommt Polizei ++++
 ++++ Mobbing: Hexe hänselt Gretel ++++
 ++++ Moderat: Neue Lifestyle-Zeitschrift eher mittelmäßig ++++
 ++++ Modernisierung: Schäfer kauft Elektroherde ++++
@@ -1775,6 +1780,7 @@
 ++++ Pferdekuss: Eifersüchtiger Hengst tritt Nebenbuhler ++++
 ++++ Pfui Spinne: Netzaktivistin frisst Fliege ++++
 ++++ Pfui Teufel: Fürst der Finsternis nicht stubenrein ++++
+++++ Pfusch beim Schönheitschirurgen: Schiefe Nase fällt sofort ins Auge ++++
 ++++ Pfusch: Uhrmacher repariert Minutenzeiger mit Sekundenkleber ++++
 ++++ Philosophen sicher: Sartre hatte von Nichts eine Ahnung ++++
 ++++ Physiker ließen Gläser kollidieren: Hicks-Teilchen in Alkohol entdeckt ++++
@@ -2453,6 +2459,7 @@
 ++++ Vollbeschäftigung im Krankenhaus: Ursula von der Leyen gelingt ihr größter Wurf ++++
 ++++ Voll durch die Lappen gegangen: Amok-Rentier entwischt ++++
 ++++ Volle Deckung: Hündin wirft Welpen ++++
+++++ Voller Rindviecher: Weiden in der Oberpfalz ++++
 ++++ Voll fett: Ghetto-Bauer erntet Gangsta-Raps ++++
 ++++ Völlig aufgelöst: Hinterbliebene von Säureopfer trauern ++++
 ++++ Völlig überwältigt: Gauner zeigte sich bei Festnahme ergriffen ++++
