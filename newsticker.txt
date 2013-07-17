@@ -396,6 +396,7 @@
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
 ++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
 ++++ Das ist nicht ohne: Mit ++++
+++++ Das juckt ihn nicht: Mann sind Mückenstiche bei Ehefrau gleichgültig ++++
 ++++ Das kann ja wohl nicht angehen: Elektroinstallateur vergisst Lichtschalter ++++
 ++++ Das kann ja wohl nicht wahr sein: Lügendetektor schon wieder kaputt ++++
 ++++ Das kotzt ihn an: Babysitter will nicht mehr auf magenkrankes Kind aufpassen ++++
@@ -471,6 +472,7 @@
 ++++ Die Faxen dicke: Ständig Weight-Watchers-Werbung im Büro ++++
 ++++ Die Figur ist wichtig: Dame wird von Schachspieler versetzt ++++
 ++++ Die Flasche war nicht zu gebrauchen: Brauerei entläßt Designer ++++
+++++ Die ganze Zeit nur UNO gespielt: Vertreter der Vereinten Nationen machten ihren Job nicht ++++
 ++++ Die hat sich aber gewaschen: Mieterin erhält hohe Warmwasserrechnung ++++
 ++++ Die Langsamen: Große Spermien kommen später ans Ziel ++++
 ++++ Die Luft war raus: Mann beendet Beziehung mit seiner Gummipuppe ++++
@@ -1339,6 +1341,7 @@
 ++++ Kopflos: Henker haut ab ++++
 ++++ Kopf oder zahl: Verschuldeter Glücksspieler erhält Morddrohung von Gläubiger ++++
 ++++ Kopf verdreht: Mann verliebt sich in Krankenschwester ++++
+++++ Korknabe: Musikschüler baut Fahrradteile aus Müll ++++
 ++++ "Koste es was es wolle": Vater erlaubt Kind, jedes Gericht auf Speisekarte zu probieren ++++
 ++++ Kostenlos: Schornsteinfeger geht aufs Haus ++++
 ++++ Kostet nichts: Unbezahlter Mundschenk war des Herrschers Tod ++++
@@ -2404,6 +2407,7 @@
 ++++ Vampire wissen es längst: Kürbisse sind an Halloween Pflicht ++++
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Veltins Bier: Mann erleidet Unfall bei Brauereibesichtigung ++++
+++++ Verdammt lang hair: Sänger von BAP erinnert sich an seinen letzen Friseurbesuch ++++
 ++++ Verdient unterm Strich mehr: Ehemalige Prostituierte heuert bei Kanalreinigungsunternehmen an ++++
 ++++ Verdreht Frauen den Kopf: Exorzist-Drehbuchschreiber ++++
 ++++ Verdrückt: Fahrstuhlgast landete versehentlich auf Kannibalen-Etage ++++
@@ -2514,6 +2518,7 @@
 ++++ Wäre wohl ein Supergau: NPD fordert Rückkehr zu traditionellen Verwaltungsstrukturen ++++
 ++++ Ware zu heiß: Strauchdieb bei Buschfeuer verbrannt ++++
 ++++ War gut drauf: Mann gewinnt beim Rodeo ++++
+++++ War ihm ans Herz gewachsen: Mann lässt sich Tumor nur widerwillig entfernen ++++
 ++++ War ihm dann doch zu heiß: Mann sieht von Überfall auf Saunaparadies ab ++++
 ++++ War kein Frosch: Nudist von Storch gebissen ++++
 ++++ War Lecker: Schlabbernder Hund landete in der Pfanne ++++
@@ -2540,6 +2545,7 @@
 ++++ Wasserschaden: Anwalt sieht seine Fälle davonschwimmen ++++
 ++++ Wegen Alkoholabhängigkeit: Mann bricht mit bestem Freund ++++
 ++++ Wegen Aufstiegschancen: Profi-Kletterer hängt an seinem Arbeitsplatz ++++
+++++ Wegen Dopings: Radsportler distanziert sich vom Rest des Feldes ++++
 ++++ Wegen fehlender Quallenangabe: Meeresforscher verliert Doktortitel ++++
 ++++ Wegen Finanzkrise: Satire-Aktien verzeichnen hohe Gewinne ++++
 ++++ Wegen Kurzschluss: Kein langer Abspann nach Kinofilm ++++
@@ -2690,6 +2696,7 @@
 ++++ Zum Nachtisch zu Hause: Soldat dessertiert ++++
 ++++ Zu modern: Gärtner leidet unter Neurosen ++++
 ++++ Zum Schießen: Clown kauft Gewehr ++++
+++++ Zum Schleuderpreis: Autos ohne ESP deutlich günstiger zu haben ++++
 ++++ Zu nah am Wasser gebaut: Kiffer beweint wegschwimmenden Joint ++++
 ++++ Zunge gebrochen: Fischers Fritz frischt Fische Fische... Ach verdammt! ++++
 ++++ Zur Schnecke gemacht: Bäcker für gute Teigverarbeitung gelobt ++++
