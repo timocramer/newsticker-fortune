@@ -265,6 +265,7 @@
 ++++ Beschwerde: Restaurantgast findet ein H in Buchstabensuppe ++++
 ++++ Beschweren sich ständig: Arbeitsbedingungen liefern Marinetauchern allen Grund ++++
 ++++ Besenrein: Darkroom trotz bizarrer Spiele sehr sauber ++++
+++++ Besessen: Frau verkaufte Hab und Gut unter Dämoneneinfluss ++++
 ++++ Besorgniserregend: Immer mehr Schafstoffe in Wollpullovern ++++
 ++++ Besorgniserregend: Mann bekommt Magengeschwür aus Angst vor Magengeschwüren ++++
 ++++ Besorgniserregend: Vier von fünf Killerspiele-Spielern sind zu fett für Amoklauf ++++
@@ -410,6 +411,7 @@
 ++++ "Das sind doch nur wilde Spekulationen!": Deutsche-Bank-Chef spielt Risikobanking-Vorwürfe herunter ++++
 ++++ Das sollte ihm eine Lehre sein: Junger Mann verliert Ausbildungsplatz ++++
 ++++ Da steht nix: Buch für impotente Männer enttäuschend ++++
+++++ Das war das letzte Mal: Patient klagt über schmerzhafte Leberfleckentfernung ++++
 ++++ Das wäre ja noch schöner: Krankenkasse zahlt Model kosmetischen Eingriff nicht +++
 ++++ Das war knapp: Dicker Mann hätte T-Shirt beinahe in Größe S gekauft ++++
 ++++ Das war 'ne harte Nuss: Tierarzt setzt Eichhörnchen erfolgreich dritte Zähne ein ++++
@@ -505,6 +507,7 @@
 ++++ Dreisilbig: Einsilbig ++++
 ++++ Dreister Kreditkartenbetrug: Goldene Mastercard in Wahrheit aus Plastik ++++
 ++++ Dreister Ladendiebstahl: Penny-Markt spurlos verschwunden ++++
+++++ Dreister Raub am Buffet: Franzose kam mit den Schnecken davon ++++
 ++++ Dreist: I für Buchstabhochsprung über H missbraucht ++++
 ++++ Dreist: Schiedsrichter raucht Pfeife ++++
 ++++ Drogen-Razzia misslungen: Dealer waren Fixer ++++
@@ -540,6 +543,7 @@
 ++++ Einfach abgehauen: Henker verlässt Marktplatz wortlos ++++
 ++++ Einfach abgehauen: Weihnachtsbaum-Räuber auf der Flucht ++++
 ++++ Einfacher Durchschnitt: Chirurg findet seine Leistung nicht erwähnenswert ++++
+++++ Einfache Rechenaufgabe: Zwei mal zwei Meter Rasenfläche gemäht ++++
 ++++ Einfach nur krank: Nachlässiger Arzt stellt Pauschaldiagnosen ++++
 ++++ Einfach Spitze: Name des höchsten deutschen Bergs soll verkürzt werden ++++
 ++++ Einfach unschlagbar: Geist gewinnt jeden Boxkampf ++++
@@ -558,6 +562,7 @@
 ++++ Ein Herz und eine Seele: Mediziner und Theologe einig über Obduktionsergebnis ++++
 ++++ Ein kleiner Schritt für einen Menschen: Neil Armstrong erwägt Penisvergrößerung ++++
 ++++ Einleuchtend: Proktologe arbeitet mit Helmlampe ++++
+++++ Ein Mann, ein Wort: Psychiater setzt angekündigte Sprechzeitenkürzung durch ++++
 ++++ Ein MegaFLOP: Neuer Großrechner viel zu langsam ++++
 ++++ Ein paar Radler gekippt: Betrunkener Autofahrer verletzt mehrere Verkehrsteilnehmer ++++
 ++++ Einsame Klasse: Wunderkind erhält Privatunterricht ++++
@@ -589,6 +594,7 @@
 ++++ Enthüllung am Nordpol: Weihnachtsmann will endlich auspacken ++++
 ++++ Enthüllungen aus dem Schweinestall: Fleischbranche zittert vor QuiekiLeaks ++++
 ++++ Entlassen: Schmiedelehrling kaute bei der Arbeit an den Nägeln ++++
+++++ Ent spannt: Perverses Baumwesen reagiert gelassen auf Tatvorwurf ++++
 ++++ Enttäuschung steht ihm ins Gesicht geschrieben: Mann wollte andere Tätowierung ++++
 ++++ Entwickelt sich langsam: Säugling hilft schon vorsichtig mit ++++
 ++++ Epidemie: Hunderte in Mülheim an der Ruhr erkrankt ++++
@@ -1079,6 +1085,7 @@
 ++++ Hohlister: Urlauber fällt auf gefälschtes Mode-Label rein ++++
 ++++ Holzauge sei wachsam: Pinocchio am Lagerfeuer eingeschlafen ++++
 ++++ Hopfen und Malz verloren: Braumeister verzockt sich beim Pokern ++++
+++++ Hört Stimmen: Schizophrener Klassikfan zu früh im Konzertsaal ++++
 ++++ Hotelgäste auf die Palme gebracht: Animateure nach riskanten Party-Spielen in der Kritik ++++
 ++++ Hübschräuber: Gutausehender Ganove entkommt mit türkischem Helikopter ++++
 ++++ Hüftschaden: Kanzlerin Merkel leidet unter Spagat zwischen Interessengruppen ++++
@@ -1321,6 +1328,7 @@
 ++++ Kommt vor Gericht: Mann verklagt Ober, weil er keinen Aperitif bekam ++++
 ++++ Kommt vor: Schüler muss Referat halten ++++
 ++++ Komplett verputzt: Handwerker renovierte Innenbereich von Raubtiergehege ++++
+++++ Konischer Typ: Mann behauptet, er sei ein Kegel ++++
 ++++ Konkurrenz für Twitter: Neuer Kurznachrichtendienst mit 139 Zeichen geplant ++++
 ++++ Konkurrenz zu groß: Liliputaner verliert Stammplatz in Basketballteam ++++
 ++++ Können sie sich abschminken: Make-Up macht Frauen nicht schöner ++++
@@ -1705,6 +1713,7 @@
 ++++ Null Block: Volleyballer hat keine Lust mehr ++++
 ++++ Nur am Rande gestreift: Kreuzung von Pferd und Zebra machte keine großen Schlagzeilen ++++
 ++++ Nur an der Leine unterwegs: Hannovers Hunde enttäuscht ++++
+++++ Nur die Hinrichtung im Kopf: Henker verläuft sich auf dem Heimweg ++++
 ++++ Nur die Rosinen herausgepickt: Stollen droht einzustürzen ++++
 ++++ Nur ein alter Schinken: Antikes Metzgerfachbuch enttäuscht ++++
 ++++ Nur ein Bisschen: Angriff von Welpen tat nicht besonders weh ++++
@@ -2039,6 +2048,7 @@
 ++++ Schutzlos ausgeliefert: Pizzabote wegen vergessenen Kartons verprügelt ++++
 ++++ Schwache Leistung: Elektriker installiert die falschen Lampen ++++
 ++++ Schwache Quoten: RTL setzt Pille ab ++++
+++++ Schwachmat: Schachspieler spricht spielentscheidende Stellung falsch aus ++++
 ++++ Schwamm drüber: Fisch ignoriert Angelhaken ++++
 ++++ Schwangerschaft einer Nudistin belegt: Es sind gar nicht Kleider, die Leute machen ++++
 ++++ Schwarzer Afghane und roter Libanese: Amsterdamer Polizei verhaftet radikale Haschprediger ++++
@@ -2192,6 +2202,7 @@
 ++++ Stellenanzeige: Victoria's Secret sucht Spitzenmanager ++++
 ++++ Stellenanzeige: Viehdiebin sucht Partner zum Pferde stehlen ++++
 ++++ "Stellen Sie sich nicht so an": Kassiererin maßregelt Kunden mit Hexenschuß ++++
+++++ Stellt alles andere in den Schatten: Strandbesitzer installiert größten Sonnenschirm der Welt ++++
 ++++ Stellt alles in den Schatten: So einen dummen Azubi hatte Gärtnerei noch nie ++++
 ++++ Stellungnahme: Kamasutra-Leser droht: "Ich kann auch anders!" ++++
 ++++ Stellungskrieg: Verhärtete Fronten bei Soldatenehepaar ++++
@@ -2456,6 +2467,7 @@
 ++++ Vibratoren-Verkäufer stellt fest: Geschäft brummt ++++
 ++++ Viel Rummel um seine Person: Schausteller steht gerne im Mittelpunkt ++++
 ++++ Vielversprechend: Stotterer auf dem Weg der Besserung ++++
+++++ Viel vom Fleisch ab: Leprakranker erfährt starke Gewichtsreduktion ++++
 ++++ Viel Wirbel um Nichts: Messwerte aus Auge des Tornados unspektakulär ++++
 ++++ Viel zu eingebildet: Mann trifft sich nicht mehr mit imaginärem Freund ++++
 ++++ Viel zu flach: Witze über Holland ++++
@@ -2589,6 +2601,7 @@
 ++++ Wie aus dem Ei gepellt: Küken wirft sich in Schale ++++
 ++++ Wieder das Vergessen: Abermals Gedenktag verschwitzt ++++
 ++++ Wieder einer ins Netz gegangen: Phishers Fritz zufrieden ++++
+++++ Wieder ein Jahr Rum: Alkoholiker-Pärchen feiert Jahrestag ++++
 ++++ Wieder ein Ja vorbei: Standesbeamtin schwelgt in Erinnerungen ++++
 ++++ Wieder flüssig: Butter feiert ausgelassen ++++
 ++++ Wieder gerade: Schönheitschirurg dreht krummes Ding ++++
@@ -2727,6 +2740,7 @@
 ++++ Zwangsläufig: Nymphomanin gründet Selbsthilfegruppe ++++
 ++++ Zwangsläufig: Nymphomaninnen ++++
 ++++ Zwangsweise: Frau wurde nur durch strenge Erziehung zur Intellektuellen ++++
+++++ Zwiespältig: Flotter Dreier aus Männersicht ++++
 ++++ Zwo, eins, Risiko: Darkwing Duck ersteigert Brettspiel auf eBay ++++
 ++++ zynischer Tod einer Werbeikone: Kleiner Hunger an Lebensmittelvergiftung gestorben ++++
 ++++ Zynisch: Vegetarier von fleischfressender Pflanze gefressen ++++
