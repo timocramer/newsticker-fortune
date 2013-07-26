@@ -242,6 +242,7 @@
 ++++ Bei Produktionsfehlern: Pattex haftet nicht ++++
 ++++ Bei Prügelei Schuh verloren: Schläger auf freiem Fuß ++++
 ++++ Beispiellos: z. ++++
+++++ Bekam den schwarzen Peter zugeschoben: Unschuldiger wegen Sklavenhandels verurteilt ++++
 ++++ Bekam eine geklebt: Mann überzeugt TÜV-Prüfer mit Nachdruck zu Plakettenvergabe ++++
 ++++ Bekam keinen mehr hoch: Dachdecker-Meister hat Nachwuchssorgen ++++
 ++++ Bekommt immer mehr Anhänger: Leistungsstarker neuer Traktor ++++
@@ -298,6 +299,7 @@
 ++++ Bleibt locker: Formel-1-Pilot startet trotz wackelnden Spoilers ++++
 ++++ Bleibt seiner Linie treu: Schiedrichter-Assistent verweigert Seitenwechsel ++++
 ++++ Blieb eisern: Alchemist weigert sich, wertloses Metall in Gold zu verwandeln ++++
+++++ Blieb gelassen: Mann entschuldigte sich nicht für Furz ++++
 ++++ Blieb sitzen: Schüler traut sich nach Zeugnisvergabe nicht nach Hause ++++
 ++++ Blind: Hufschmied beschlägt Brille ++++
 ++++ Blitzumfrage: Jeder zehnte fährt innerorts gern schneller als 70 ++++
@@ -1146,6 +1148,7 @@
 ++++ Industriespionage: Privatdetektiv schnüffelt in Klebstofffabrik ++++
 ++++ In einem Zug: Fahrgast leert Flasche auf Ex ++++
 ++++ In Grund und Boden gespielt: Maulwurf-Fußballteam feiert deutlichen Heimsieg ++++
+++++ In Hypnose versetzt: Nach dem Aufwachen war Freundin weg ++++
 ++++ In letzter Sekunde aufgehalten: Einbrecher wollten Türe eintreten ++++
 ++++ In See gestochen: Wespe verfehlt Badegast ++++
 ++++ Insekt ertrunken: Schaumwein wurde Fliege zum Verhängnis ++++
@@ -1481,6 +1484,7 @@
 ++++ Macht Nägel mit Köpfen: Kannibale meldet Patent auf Rezept an ++++
 ++++ Macht nichts: Senior Assistant Vice Chief Executive Officer entlassen ++++
 ++++ Machtvoll: Absinth haut den stärksten Mann um ++++
+++++ Mag's bar: Insolvente Baumarktkette akzeptiert keine Kreditkarten mehr ++++
 ++++ Mag sein: Ontologe liebt seinen Beruf ++++
 ++++ Mähen in Black: Schwarzes Schaf aufgeflogen ++++
 ++++ Mahlzeit: Müller arbeitet auch in der Mittagspause ++++
@@ -2576,6 +2580,7 @@
 ++++ Wegen Wäschemangel: Traditioneller Bügelservice muß schließen ++++
 ++++ Wegen weihnachtlichem Umsatzplus: Parfümeriebesitzer singt Eau du Fröhliche ++++
 ++++ Weg ist das Ziel: Frau wirft prügelnden Ehemann von Balkon ++++
+++++ Weg mit Gott: Atheist und Christ versuchen, sich gegenseitig zu bekehren ++++
 ++++ Weichen gestellt: Geschlechtsverkehr kann endlich stattfinden ++++
 ++++ Weihnachtsmann packt aus: Kinder oft zu faul, um Geschenkpapier selbst zu entfernen ++++
 ++++ Weihnachtswunder: Schuldner werden gläubiger ++++
@@ -2629,6 +2634,7 @@
 ++++ Will keine Menschen klonen: Genetiker macht 'ne Fliege ++++
 ++++ Will kein Messi mehr sein: Junge reduziert Fußballtraining und räumt Zimmer auf ++++
 ++++ Willkommen: Nymphomanin ++++
+++++ Will nicht in die Penne: Kind hat Angst vor Schulkoch ++++
 ++++ Will nicht mehr die zweite Geige spielen: Orchestermusiker geht flöten ++++
 ++++ Will nicht mit dem Strom schwimmen: Badegast verlässt bei Gewitter als einziger das Wasser ++++
 ++++ Will nix Festes: Frau sucht Mann mit Erektionsstörung ++++
@@ -2732,6 +2738,7 @@
 ++++ Zu Tränen gerührt: Mann kocht Zwiebelsuppe ++++
 ++++ Zu viel der Ähre: Landwirt gibt Auszeichnung zurück ++++
 ++++ Zu viele Alkopops getrunken: Teenager colabierte ++++
+++++ Zu viele Trolle unterwegs: Hobbits schließen ihr Mittelerde-Forum ++++
 ++++ Zu viel Ouzo: Mann bricht fließend griechisch ++++
 ++++ Zu viel Schnaps: Flachmann übergibt sich in Brusttasche ++++
 ++++ Zu wenig Spielraum: Stadt kann sich Kindergartenausbau nicht leisten ++++
