@@ -394,6 +394,7 @@
 ++++ Das erklärt einiges: Handbuch unter Sofa aufgetaucht ++++
 ++++ Das gibt ein Donnerwetter: Meteorologe bekommt kein Hoch ++++
 ++++ Das gibt Erker: Bauunternehmen vergisst Dachfenster einzusetzen ++++
+++++ Das hat er sich reetlich verdient: Nordfriese schenkt seinem Sohn ein Dach ++++
 ++++ Das hat gesessen: Mädchen kommt geläutert aus dem Gefängnis ++++
 ++++ Das hätte es früher nicht gegeben: Alte Leute regen sich über Computer auf ++++
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
@@ -666,6 +667,7 @@
 ++++ Falsch verbunden: Bondage-Künstler durch Anruf abgelenkt ++++
 ++++ Falsch verstanden: Frühstücksei in Bettpfanne gebraten ++++
 ++++ Fans nach Schumi-Comeback einig: Yes, he Kinn! ++++
+++++ Farn Farn Farn auf der Autobahn: Elektropop-Band kritisiert Straßenqualität ++++
 ++++ Fassungslos: Elektriker kann keine Glühbirne einschrauben ++++
 ++++ Fassungslos: Glühbirne am Boden zerstört ++++
 ++++ Fassung verloren: Juwelier rastet aus. ++++
@@ -853,6 +855,7 @@
 ++++ Ging daneben: Stalker von Opfer erwischt ++++
 ++++ Ging durch Geschosse zu Boden: Mann in herabfahrendem Aufzug erschossen ++++
 ++++ Ging ihm locker von der Hand: Schreiner verliert Finger bei simplen Hobelarbeiten ++++
+++++ Gingko: Boxer mit chinesischem Blättersud behandelt ++++
 ++++ Ging nach hinten los: Tänzer verstaucht sich bei Moonwalk den Fuß ++++
 ++++ Gips nicht: Arzt verweigert Beinbruchpatienten die Behandlung ++++
 ++++ Glanzparade: Festlicher Umzug zu Ehren von Torwart durchgeführt ++++
@@ -946,6 +949,7 @@
 ++++ harte Strafe: erfolgloser Selbstmörder zum Leben verurteilt ++++
 ++++ Harte Strafe: erfolgloser Selbstmörder zum Leben verurteilt ++++
 ++++ Hart für Xavier & Co.: Söhne Mannheims zur Adoption freigegeben ++++
+++++ Hasenfuß: Gast wagt es nicht, neue Spezialität des Hauses zu bestellen ++++
 ++++ Hat Absatzprobleme: Textverarbeitungsprogramm verkauft sich schlecht ++++
 ++++ Hat alle angesteckt: Lachender Pyromane ++++
 ++++ Hat alle vom Hocker gehauen: Skandalöser Freispruch für Kneipenschläger ++++
@@ -989,6 +993,7 @@
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
 ++++ Hat ordentlich getankt: Betrunkener Autofahrer hat Benzinlache nicht verursacht ++++
+++++ Hat ordentlich Holz vor der Hütte: Frau wimmelt aufdringlichen Heizölvertreter ab ++++
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
 ++++ Hat seinen Meister gefunden: Toter Trickbetrüger von Bestatter reingelegt ++++
 ++++ Hat seinen Reiz verloren: Mann hört mit ständiger Husterei auf ++++
@@ -1124,6 +1129,7 @@
 ++++ Immer der Nase nach: Kokser bleibt seiner Linie treu ++++
 ++++ Immer mehr Gewalt an Schulen: Sorge um Rektorsicherheit ++++
 ++++ Immer nur Blasen: Ballerinas zu eng ++++
+++++ Immer Summen im Kopf: Tinnitus bei Mathematikern weit verbreitet ++++
 ++++ Immer wieder auf die Zwölf: Systemspieler in Casino zusammengeschlagen ++++
 ++++ Im Regen stehengelassen: Zuckerberg völlig aufgelöst ++++
 ++++ Im Sande verlaufen: Suche nach verschwundenen Sahara-Touristen eingestellt ++++
@@ -2590,6 +2596,7 @@
 ++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
 ++++ Weiß nicht, was er noch machen soll: Gott komplett fertig mit der Welt ++++
+++++ Wem will er etwas vormachen?: Arbeitsloser Fitnesscoach langweilt sich ++++
 ++++ Wenig Arbeit wegen geringer Qualifikation: Folterknecht kann nur Däumchendrehen ++++
 ++++ Wenigstens einsichtig: Zyklop geht an Karneval doch nicht als Pirat ++++
 ++++ Wenn alle Stricke reißen: Henker hat Axt für Notfälle ++++
