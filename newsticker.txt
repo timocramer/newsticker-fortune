@@ -217,6 +217,7 @@
 ++++ Bande wurde ihm zum Verhängnis: Billardspieler eingelocht ++++
 ++++ Bank of Egypt: Auszug der Israeliten in Drucker stecken geblieben ++++
 ++++ Barde unzufrieden: Laute leise ++++
+++++ Bären aufgebunden: Frau täuscht Mann mit Schamhaar-Toupet ++++
 ++++ Bären aufgebunden: Kind (9) für Lüge drakonisch bestraft ++++
 ++++ Barkasse nicht schwimmfähig: Zuviel Kleingeld ++++
 ++++ Bartwuchs: Ältester Simpson-Sprössling erreicht Pubertät ++++
@@ -642,6 +643,7 @@
 ++++ Es ist soweit: Übergewichtiger schafft es nicht mal mehr zum Kühlschrank ++++
 ++++ Es kann nicht mehr weit sein: Frau fährt ungeduldig zur Scheidenverjüngung ++++
 ++++ "Es knirschte": Spaziergänger wegen Schneckenhausfriendensbruch vor Gericht ++++
+++++ Es kommt ja sowieso raus: Mann gibt chronischen Durchfall zu ++++
 ++++ Es lag am schwachen Nervenkostüm: Neurologe versaut Büttenrede ++++
 ++++ Es lief schon mal besser: Verkaufszahlen von Stephen Kings Kultbuch sinken ++++
 ++++ Esprit: Modefirma patentiert Treibstoff für Elektroautos ++++
@@ -1017,6 +1019,7 @@
 ++++ Hat sofort gehandelt: Broker reagiert auf Börsencrash ++++
 ++++ Hatte einfach zuviel im Kopf: Tumorpatient stirbt wegen verpasstem OP-Termin ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
+++++ Hatte keine Atmosphäre: Erstes Restaurant auf dem Mond wieder geschlossen ++++
 ++++ Hatte keinen Bock mehr: Einsames Schaf begeht Selbstmord ++++
 ++++ Hätte man auch anders lösen können: Mieter entfernt Tapete mit Vorschlaghammer ++++
 ++++ Hatte nur einen Haken: Maler konnte Wandfresko nirgends aufhängen ++++
@@ -1081,6 +1084,7 @@
 ++++ Hobbit zum Beruf gemacht: Elijah Wood zufrieden mit seiner Schauspielkarriere ++++
 ++++ Hochaufgelöst: Paparazzo fotografiert trauernde Witwe ++++
 ++++ Hochgeschlafen: Narkoleptikerin im Fahrstuhl ++++
+++++ Hochkant rausgeflogen: Airline feuert angeberischen Piloten nach Showmanöver ++++
 ++++ Hoch soll er leben: Mann zieht auf ärztlichen Rat in die Alpen ++++
 ++++ Hochstapler: Tausendsassa in Wirklichkeit nur Hundertsassa ++++
 ++++ Höchste Eisenbahn: DB fährt endlich auch zur Zugspitze ++++
@@ -1242,6 +1246,7 @@
 ++++ Kannste vergessen: Haustürschlüssel ++++
 ++++ Kannten sich nur flüchtig: Bonnie und Clyde hatten kaum Zeit für einander ++++
 ++++ Kann warten, bis er schwarz wird: Mann kriegt keinen Termin im Sonnenstudio ++++
+++++ Kann was: Künstler überzeugt mit Leinwand-Maltechnik ++++
 ++++ Kaputter Beckenboden: Poolreiniger schwer gestürzt ++++
 ++++ Karlsruher Richter klagt: "Ich bin in schlechter Verfassung" ++++
 ++++ Karriereende: Pirat allergisch gegen Kapern ++++
@@ -1801,6 +1806,7 @@
 ++++ Perverses Schwein: Friseur lockt Kinder ++++
 ++++ Pervers: Mann mit Sprachfehler ist logopädophil ++++
 ++++ Pervers: Spannbetttuch beobachtet Pärchen aus nächster Nähe beim Geschlechtsverkehr ++++
+++++ Pfand nicht mehr zurück: Verbleib von Leergutsammler unklar ++++
 ++++ Pfeifen auf der Bühne: Langweiliger Auftritt bei Talentwettbewerb ++++
 ++++ Pfeifen: Peter Gagelmann und Wolfgang Stark ++++
 ++++ Pferdekuss: Eifersüchtiger Hengst tritt Nebenbuhler ++++
@@ -2265,6 +2271,7 @@
 ++++ "Tatar!": Metzger präsentiert neuste Kreation ++++
 ++++ Tätowier-WM: Neuer Champion gewann im Stechen ++++
 ++++ Taubenschlag: Züchter tot ++++
+++++ Taube Nuss: Zurückgebliebener Vogelzüchter kreiert Eissorte ++++
 ++++ Tauber Bischof heim: Gehörloser Kleriker zieht zurück nach Baden-Württemberg ++++
 ++++ Tauwetter: Schiffe bleiben im Hafen ++++
 ++++ Teamwork: Konditoren machen gemeinsame Sacher ++++
