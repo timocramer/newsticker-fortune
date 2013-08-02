@@ -46,6 +46,7 @@
 ++++ Adipös: Hitler als Kind oft wegen übermäßigen Süßigkeitenkonsums gerügt ++++
 ++++ Ähnlich schon dagewesen: Neue High-Five-Variante nur ein billiger Abklatsch ++++
 ++++ Ährenrunde: Bauer nutzt Kornkreise zum Jogging ++++
+++++ Aladin: Flaschengeist erfüllt Wunderlampen-Norm ++++
 ++++ Albern: Schweizer Hauptstadt soll Vorsilbe erhalten ++++
 ++++ Albert: Monegassischer Fürst zu Späßen aufgelegt ++++
 ++++ Ali bi: Türkischer Verdächtiger zur Tatzeit in Schwulenbar gesichtet ++++
@@ -565,6 +566,7 @@
 ++++ Eingriff in die Privatsphäre: Datenschützer wollen Männerunterhosen mit Schlitz verbieten ++++
 ++++ Ein Herz und eine Seele: Mediziner und Theologe einig über Obduktionsergebnis ++++
 ++++ Ein kleiner Schritt für einen Menschen: Neil Armstrong erwägt Penisvergrößerung ++++
+++++ Einlauf verpasst: Boxer verspätet sich wegen privater Schlägerei ++++
 ++++ Einleuchtend: Proktologe arbeitet mit Helmlampe ++++
 ++++ Ein Mann, ein Wort: Psychiater setzt angekündigte Sprechzeitenkürzung durch ++++
 ++++ Ein MegaFLOP: Neuer Großrechner viel zu langsam ++++
@@ -1453,6 +1455,7 @@
 ++++ Leichen pflastern seinen Weg: Voodoo-Priester lässt Zombies schuften ++++
 ++++ Leichtgläubig: Naive Menschen sind schwindelerregend ++++
 ++++ Leidet nicht mehr an Krebs: Gläubiger in Heilquelle ertrunken ++++
+++++ Leitender Angestellter: Lehrling bekommt von Elektromeister eine gewischt ++++
 ++++ Letzter Satz: "Von dem Gewitter lasse ich mir doch nicht mein Tennisspiel ruinieren!" ++++
 ++++ Letzter Wunsch: Staubsaugervertreter will, dass seine Asche auf den Teppichen von potentiellen Kunden verstreut wird ++++
 ++++ Letzte Vorkehrungen: Party-Gastgeber reinigt nochmal den Fußboden ++++
@@ -1485,6 +1488,7 @@
 ++++ Machte einen Ollie: Skater feiert Geburt seines ersten Sohnes ++++
 ++++ Macht eine Riesenwelle: Friseur prahlt mit neuem Haardesign ++++
 ++++ Machte in Hosen: Aktienunternehmer bricht riskante Investments ab ++++
+++++ Macht er halt: Diktator hat keine Skrupel bei Wahlfälschung ++++
 ++++ Macht er mit Links: IT-Experte erstellt Homepage problemlos ++++
 ++++ Macht er nicht mit: Pornodarsteller wehrt sich gegen Kondomzwang ++++
 ++++ Machte schnell die Runde: Kettenkarussellunfall sprach sich umgehend herum ++++
@@ -1741,6 +1745,7 @@
 ++++ Nur markiert lesbar: weiß auf weiß ++++
 ++++ Nur noch bis 2012 gültig: Maya-Kalender-Schlussverkauf läuft an ++++
 ++++ Nutzlos bei Glatteis: Streukäse ++++
+++++ Nutznießer: Arzt beutet jahrelang Allergiker aus ++++
 ++++ Obdachlos: Sturm deckt Haus des Bürgermeisters ab ++++
 ++++ Objektiv betrachtet: Fachzeitschrift prüft neue Kamera ++++
 ++++ Obwohl er keinen Stich sah: Blinder gewinnt Skat-Turnier ++++
@@ -2141,6 +2146,7 @@
 ++++ Skandinavier: Schwede erteilt Copyshop simplen Auftrag ++++
 ++++ Skandinavischer Mannschaftstresor geplündert: Einbrecher knackten Nordische Kombination ++++
 ++++ Slipknot-Bassist gestorben: Millionen Fans tragen Schwarz ++++
+++++ Snowden enthüllt: Neue Playboy-Ausgabe findet reißenden Absatz ++++
 ++++ Sodomieverdacht: Schäfer steckt in Dilemma ++++
 ++++ SoDoMi: Tierhandlung nur dreimal pro Woche geöffnet ++++
 ++++ So ein Jammer: Geiger wegen Improvisierens aus Orchester geworfen ++++
@@ -2568,6 +2574,7 @@
 ++++ "Was fällt Ihnen ein?": Alte Menschen empört über Demenz-Befragung ++++
 ++++ Was für ein Finnisch: Sprinter überzeugt mit Fremdsprachenkenntnissen ++++
 ++++ Was für ein Honk: Mann betätigt wiederholt laute Hupe ++++
+++++ Was für ein Horst: Mann erinnert sich nicht mehr an langjährigen Bekannten ++++
 ++++ Was für ein Jammer: Jazzmusiker verstorben ++++
 ++++ Was für ein Loser: Mann zieht nur Nieten ++++
 ++++ Was für ein Riesenarsch: Chef mobbt Mitarbeiterin wegen ihres Hinterns ++++
