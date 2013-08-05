@@ -1223,6 +1223,7 @@
 ++++ Kam nichts bei raus: Fastenbrechen ++++
 ++++ Kampf des Jahres: Wrestler ringt mit dem Tod ++++
 ++++ Kampf gegen Pleite: Griechenland erhebt Steuer auf Schwarzarbeit und Korruption ++++
+++++ Kam zu kurz: Kleiner Junge wird von jedem Fahrgeschäft zurückgewiesen ++++
 ++++ Kann darüber hinwegsehen: Frau ist Kleinwüchsigkeit ihres Mannes egal ++++
 ++++ Kann einpacken: Christo entlässt Lehrling nach Ausbildung ++++
 ++++ Kann endlich Fuß fassen: Migrant als Schuhputzer erfolgreich ++++
@@ -1903,6 +1904,7 @@
 ++++ Reifenhersteller warnen: Bei Glatteis keine Haftung ++++
 ++++ Reif für die Insel: England erhält Käselieferung ++++
 ++++ Rein aus Neugier: Obdachloser probierte Waschsalon aus ++++
+++++ Reingelegt: Bett war nur Attrappe ++++
 ++++ Reingelegt: Vermeintliche Leiche im Sarg war gar nicht tot ++++
 ++++ Reis ausgenommen: Chinese verlässt fluchtartig All-You-Can-Eat Party ++++
 ++++ Reißt nicht ab: Spott über Klopapier ++++
@@ -2057,6 +2059,7 @@
 ++++ Schreien, kacken, schlafen: Knigge erforscht Baby-Sitten ++++
 ++++ Schreiner zimmerte ihm ein paar: Kunde hatte nicht mehr alle Latten am Zaun ++++
 ++++ Schreit nach Wiederholung: Trainer klagt lautstark über manipuliertes Spiel ++++
+++++ Schrieb App: Programmierer unter Plagiatsverdacht ++++
 ++++ Schrieb keine Berichte mehr: Verärgerter Maurermeister wirft Stift aus Fenster ++++
 ++++ Schritt für Schritt: Urologe arbeitet, bis Wartezimmer leer ist ++++
 ++++ Schuh verloren: Fußballspieler muss passen ++++
@@ -2172,6 +2175,7 @@
 ++++ Spannend: Voyeur ++++
 ++++ Spargel: Haarfestiger im Sonderangebot ++++
 ++++ Spaß bei der Arbeit: Nacktputzerin wischt feucht durch ++++
+++++ Spaßbremsen: Insekten mischen Party auf ++++
 ++++ Spaßbremse: TÜV findet in Auto verbauten Scherzartikel nicht lustig ++++
 ++++ Spaß dank Sextanten: Matrosen finden Weg ins Rotlichtviertel ++++
 ++++ Spaß in der Mittagspause: Spiegelkabinett-Besitzer verzerrt sein Pausenbrot ++++
@@ -2406,6 +2410,7 @@
 ++++ Ungeschickt: Paket wurde fallengelassen ++++
 ++++ Ungezogen: Kutscher schimpft mit Pferd ++++
 ++++ Unglaublich: Dompteur macht Elefanten zur Schnecke ++++
+++++ Unglaublicher Wucher: Unkrautentfernung kostet 10.000 € ++++
 ++++ Unglaubwürdig: Wunder Heiler ++++
 ++++ Unglücklich verlaufen: Wandertag war totaler Reinfall ++++
 ++++ Unhaltbar: Stürmer widerlegt Gerüchte um Abschlussschwäche ++++
@@ -2523,6 +2528,7 @@
 ++++ Von der Leyen: CDUler verweist Kreditanfrage in knappen Worten an Kollegin ++++
 ++++ Von der Palme gewedelt: Plantagenbesitzer verscheucht onanierende Affen ++++
 ++++ Von documenta ausgeschlossen: Aktionskünstler hätte Rahmen gesprengt ++++
+++++ Von hinten genommen: Frau vermisst nach Quickie Brieftasche ++++
 ++++ Von ihr fehlt jede Spur: Autobahn auf mysteriöse Weise verschwunden ++++
 ++++ Von Kindern verklagt: Holzfäller wegen Baumhausfriedensbruchs vor Gericht ++++
 ++++ Von Langer handgeplant: Golfer sattelt um auf Bauzeichner ++++
@@ -2648,6 +2654,7 @@
 ++++ Will abbrechen: Koch-Azubi hat keine Lust mehr auf Karottenschneiden ++++
 ++++ Will das jetzt nicht vertiefen: Bürgermeister scheut Diskussion um Hafenbecken ++++
 ++++ Will den Malaien: Fußballclub verpflichtet Asiaten nur für eine Saison ++++
+++++ Will die Mittlere Reife: Realschüler zeigt sich bei Bordellbesuch entschlossen ++++
 ++++ Will diesmal alle Quellen angeben: Guttenberg schreibt Nilreiseführer ++++
 ++++ Will es sich besorgen: Frau plant Kauf von Sexspielzeug ++++
 ++++ "Will Helm, Tell!": Sohn verlangt Kopfschutz ++++
