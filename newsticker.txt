@@ -766,6 +766,7 @@
 ++++ Gassenhauer: Neues Papstritual löst Bodenkuss ab ++++
 ++++ Gatte reicht ihr hinten und vorne nicht: Frau nimmt sich Liebhaber ++++
 ++++ Gauleiter: Seuche rafft immer mehr Pferde dahin ++++
+++++ Gaultier: Modedesigner unzufrieden mit seinem Pferd ++++
 ++++ Gebranntes Kind: Vater von Pinocchio möchte tönerne Figur nicht adoptieren ++++
 ++++ Gefahrengut: Mann besteht Tanklasterführerschein ++++
 ++++ Gefährliche Nachteile: Studie rät, Heimweg von Kneipe nicht zu überstürzen ++++
@@ -929,6 +930,7 @@
 ++++ Hagen entlastet: Siegfried starb an Nibelungenkrebs ++++
 ++++ Hahn im Korb: Damenbasketballspiel abgebrochen ++++
 ++++ Hahn im Korb: Schlangenbeschwörer tritt bei Ladies-Night mit Spaßnummer auf ++++
+++++ Hahn kaputt: Stallhühner tranken verschmutztes Leitungswasser ++++
 ++++ Hahn tropft: Huhn verhütete mit Coitus Interruptus ++++
 ++++ Haiku: Japaner schreibt Gedicht über amphibisches Fabelwesen ++++
 ++++ Haken verpasst: Boxer schlägt ungeschickte Garderobiere ++++
@@ -1321,6 +1323,7 @@
 ++++ Klotz am Bein: Mafia beseitigt Kronzeugen ++++
 ++++ Knall auf Fall: Kriminalbeamter nach Verbrechensaufklärung in psychologischer Behandlung ++++
 ++++ Knappes Ergebnis: Rittergehilfe bilanziert Beinahe-Pleite ++++
+++++ Knappschaft: Krankenkasse zahlt keine Genitalverlängerung ++++
 ++++ Knebelvertrag: Pornodarstellerin muss bei Bondagefilmen mitspielen ++++
 ++++ Knöchel verstaucht: Rockstar kann nicht auftreten ++++
 ++++ Knochenjob: Chiropraktiker klagt über hohe Arbeitsbelastung ++++
@@ -1800,6 +1803,7 @@
 ++++ Passen zusammen: Eber ist dumm wie Sau ++++
 ++++ Passionsfurcht: Mann hat Angst vor Ostern ++++
 ++++ Passt hinten und vorne nicht: Mann unglücklich mit übergroßem Geschlechtsteil ++++
+++++ Pastorisiert: Geistlicher feiert Amtseinführung mit einem Glas Milch ++++
 ++++ Pech für kleinen Timmy: Traum vom eigenen Luftballon geplatzt ++++
 ++++ Peinlich: Herrenausstatter tritt bestem Kunden auf den Schlips ++++
 ++++ Peinlich: Treibsandopfer würde am liebsten im Boden versinken ++++
@@ -1994,6 +1998,7 @@
 ++++ Schaltet sehr langsam: Begriffsstutziger Fahrschüler tut sich schwer ++++
 ++++ Schamlos: Barbie macht die Beine breit ++++
 ++++ Schanze nicht genutzt: Führer hätte im Hauptquartier überleben können ++++
+++++ Schattenwirtschaft: Razzia in illegalem Waldbiergarten ++++
 ++++ Scheideweg: Frau vor Geschlechtsumwandlung im Zwiespalt ++++
 ++++ Scheidung einer Hundeehe: Er war Rüde ++++
 ++++ Schein heilig: Pfarrer plündert Klingelbeutel ++++
@@ -2077,6 +2082,7 @@
 ++++ Schwangerschaft einer Nudistin belegt: Es sind gar nicht Kleider, die Leute machen ++++
 ++++ Schwarzer Afghane und roter Libanese: Amsterdamer Polizei verhaftet radikale Haschprediger ++++
 ++++ Schwarzer Humor: Schreibfehler auf Onkologiebericht sorgt für Heiterkeit ++++
+++++ Schwarze Witwe: Frau aus Ghana verliert Mann nach Spinnenbiss ++++
 ++++ Schwarze Zahlen: Unternehmer in Afrika erfolgreich ++++
 ++++ Schwein gehabt: Hungriger Moslem pfeift auf religiöse Vorschriften ++++
 ++++ Schwer auszudrücken: Gefühle und Pickel ++++
@@ -2744,6 +2750,7 @@
 ++++ Zu langsam: Lucky Luke von Schatten erschossen ++++
 ++++ Zu langsam: Sprinter hofft auf bessere Zeiten ++++
 ++++ Zu laut: Musikschüler machen Haydnlärm ++++
+++++ Zum Ausspannen: Mann fährt mit Frau seines besten Freundes in Wellness-Hotel ++++
 ++++ Zum Glück keine Verletzten: Computer in Wohngebiet abgestürzt ++++
 ++++ Zum Heulen: Cyberkriminelle hacken Zwiebeln ++++
 ++++ Zum Kuckuck: Zaunkönigweibchen geht fremd ++++
