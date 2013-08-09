@@ -676,6 +676,7 @@
 ++++ Fassungslos: Glühbirne am Boden zerstört ++++
 ++++ Fassung verloren: Juwelier rastet aus. ++++
 ++++ Fastnacht: Abend ++++
+++++ Fast nichts mehr an: Frau löst ihr Problem mit aufgeladener Kleidung ++++
 ++++ Faules Pack: Fast 300.000 Deutsche in Kurzarbeit ++++
 ++++ Faul: Schaffner liegt in den letzten Zügen ++++
 ++++ FDP besorgt: Kinder reicher Eltern gegenüber Kindern superreicher Eltern benachteiligt ++++
@@ -1170,6 +1171,7 @@
 ++++ Interessiert ihn nicht die Bohne: Steakhaus-Gast lässt Beilage unangerührt ++++
 ++++ In Teufels Küche gebracht: Koch in Erklärungsnot nach Einsatz von schwarzem Maggi ++++
 ++++ In Tränen aufgelöst: Heulsuse hat kein Wasser für Brausetablette ++++
+++++ Ironie: Punk trägt Vokuhila ++++
 ++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
 ++++ Islam: Muezzin sitzt im Rollstuhl ++++
 ++++ Isst Feige: Mann hat Angst vor Datteln ++++
@@ -1199,6 +1201,7 @@
 ++++ Jetzt geht's ans Eingemachte: Regierung beschließt Einweckpfand ++++
 ++++ Jetzt gehts ans Eingemachte: Wettessen geht in die Entscheidungsphase ++++
 ++++ Jetzt ist die Kacke am Dampfen: Klärwerk-Kühlanlage ausgefallen ++++
+++++ Jetzt ist er im Eimer: Putzfrau drückt Mopp zu fest aus ++++
 ++++ Jetzt ist es passiert: Mittagessen in Mixer gefallen ++++
 ++++ Jetzt schlägt's 13: Gewalttätige Mutter von zwölf Kindern erneut schwanger ++++
 ++++ Jetzt schlägt's 13: Kirchturmuhr auf Digitalzeit umgestellt ++++
@@ -1568,6 +1571,7 @@
 ++++ Mit Kater erwacht: Katze kann sich an nichts erinnern ++++
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
+++++ Mit Pauken und Trompeten durchgefallen: Bauaufsicht bemängelt maroden Fußboden im Orchestergraben ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
 ++++ Mit Stechschritt zum Arzt: Gardesoldat klagt über Blasenentzündung ++++
 ++++ Mit über 200 Sachen: Schmuggler entkommt Polizei ++++
@@ -2560,6 +2564,7 @@
 ++++ Waffenlieferungen: Deutschland macht gute Mine zum bösen Spiel ++++
 ++++ Wahlkampfstress: Frank-Walter Steinmeier hört Zweitstimmen ++++
 ++++ Wahlschweizer Michael Schumacher fühlt sich vom Konjunkturprogramm übergangen ++++
+++++ Wahnsinn: Psychologe stellt Diagnose schon nach zwei Sekunden ++++
 ++++ Waldarbeiter zufrieden: Baum gefällt ++++
 ++++ Walnüsse knacken: Neuer Extremsport für Tauchfans ++++
 ++++ Wal war gefälscht: Betrugsvorwürfe gegen neuen Greenpeace-Vorsitzenden ++++
@@ -2699,6 +2704,7 @@
 ++++ Workaholic: Erster Sopran lobt Chor in höchsten Tönen ++++
 ++++ Wort gebrochen: Buchstabensuppe war schlechter als versprochen ++++
 ++++ Wow: Hund bellt mit amerikanischem Akzent ++++
+++++ Wo zum Henker: Hinzurichtender verzweifelt auf Schafottsuche ++++
 ++++ Wucher: Mann kauft Apfel für 'n Appel und 'n Ei ++++
 ++++ Wunder Po: Erstaunlich, was da alles reingeht ++++
 ++++ Wunschlos glücklich: Fee hat Urlaub ++++
@@ -2759,6 +2765,7 @@
 ++++ Zum Schießen: Clown kauft Gewehr ++++
 ++++ Zum Schleuderpreis: Autos ohne ESP deutlich günstiger zu haben ++++
 ++++ Zu nah am Wasser gebaut: Kiffer beweint wegschwimmenden Joint ++++
+++++ Zündapp: Nostalgischer Programmierer startet Motorrad mit Smartphone ++++
 ++++ Zunge gebrochen: Fischers Fritz frischt Fische Fische... Ach verdammt! ++++
 ++++ Zur Schnecke gemacht: Bäcker für gute Teigverarbeitung gelobt ++++
 ++++ Zur Strafe: Ausreißer muss Heim kehren ++++
