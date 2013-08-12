@@ -340,6 +340,7 @@
 ++++ Bummeln: Kreuzung aus Hummel und Biene nicht so schnell wie gedacht ++++
 ++++ Bundeswehr-Studie: Wachsoldaten schlafen schlecht ++++
 ++++ Burgangreifer hat Pech: Burgverteidiger hat Pech ++++
+++++ Butan: Gasvorkommen in Himalayastaat entdeckt ++++
 ++++ Butter bei die Fische: Angler verrät geheime Fangtechnik ++++
 ++++ Chaos im Genlabor: Wissenschaftler zettelt Retortenschlacht an ++++
 ++++ Chapeau!: Mann kennt französisches Wort für Hut ++++
@@ -562,6 +563,7 @@
 ++++ Eingebildet: Adeliger trägt Kontaktmonokel ++++
 ++++ Eingemachter Mann: Kannibale hält Patent auf Konservierungsmethode ++++
 ++++ Eingenickt: Müder Verteidiger konnte Kopfballtor nicht verhindern ++++
+++++ Eingetreten: Neues Gemeindemitglied zerstört Kirchentür ++++
 ++++ Eingetreten: Vorhergesagter Türschaden +++
 ++++ Eingriff in die Privatsphäre: Datenschützer wollen Männerunterhosen mit Schlitz verbieten ++++
 ++++ Ein Herz und eine Seele: Mediziner und Theologe einig über Obduktionsergebnis ++++
@@ -933,6 +935,7 @@
 ++++ Hahn im Korb: Schlangenbeschwörer tritt bei Ladies-Night mit Spaßnummer auf ++++
 ++++ Hahn kaputt: Stallhühner tranken verschmutztes Leitungswasser ++++
 ++++ Hahn tropft: Huhn verhütete mit Coitus Interruptus ++++
+++++ Haifa, Haifa: Scooter für zwei Gigs in Israel ++++
 ++++ Haiku: Japaner schreibt Gedicht über amphibisches Fabelwesen ++++
 ++++ Haken verpasst: Boxer schlägt ungeschickte Garderobiere ++++
 ++++ Halb so wild: Gezähmter Tiger ++++
@@ -1123,6 +1126,7 @@
 ++++ Idealist: Feministischer Turnlehrer leistet Hilfestellung für Frauenbewegung ++++
 ++++ Ideal zum Abnehmen: Light-Wolf hat gerade mal zwei Kalorien ++++
 ++++ Igitt: Geist von totem Lama spuckt nachts im Zoo ++++
+++++ Ihm sind die Hände gebunden: BDSM-Fetischist kann nichts gegen seine Neigung tun ++++
 ++++ Ihm wurde es zu bunt: Kleinkind zerreißt Malbuch ++++
 ++++ Illegale Feuerwerkskörper: Finger weg ++++
 ++++ Illegal: Schornsteinfeger, Neger und Pfarrer arbeiten schwarz ++++
@@ -1562,6 +1566,7 @@
 ++++ Mit Bußgeld belegt: Pizzabäcker verstieß gegen Hygienevorschriften ++++
 ++++ Mit dem Blasebalg vorm Kamin: Ministrant heizt Priester richtig ein ++++
 ++++ Mit dem Falschen angelegt: Bankrotter Boxer verprügelt unfähigen Börsenmakler ++++
+++++ Mit dem falschen Fuß aufgestanden: Mann nach Amputation schlecht gelaunt ++++
 ++++ Mit den Nerven am Ende: Neurologe macht früher Feierabend ++++
 ++++ Mit einem Bein im Knast: Pistorius hat Prothese liegenlassen ++++
 ++++ Mit einem Schlag zu Ende: Ehe von Rafael und Sylvie van der Vaart ++++
@@ -1668,6 +1673,7 @@
 ++++ Neue Erkenntnisse: Indianer vermehren sich durch Zeltteilung ++++
 ++++ Neue Gymnastikübungen: Beinhalten Beinhalten ++++
 ++++ Neue Hotline bei Computerproblemen: Nerdruf 11000101000110 ++++
+++++ Neuem gegenüber aufgeschlossen: Schlüsseldienst leistet Zugezogenem gerne Nachbarschaftshilfe ++++
 ++++ Neuer Seniorentrend: Omasaufen ++++
 ++++ Neues aus der Ernährungsforschung: Eiweiß ist nicht das Gelbe vom Ei ++++
 ++++ Neue Sexstudie: Stöhnen ist das Ah und Oh ++++
@@ -1737,6 +1743,7 @@
 ++++ Normal: Kettensägenmörder sind meist Durchschnittstypen ++++
 ++++ Notendruck in der Schule: Schülerprojekt gleitet ins Illegale ab ++++
 ++++ NPD steht vor der Pleite: Kann eine Verstaatlichung helfen? ++++
+++++ Nudelauflauf: Männliche Exhibitionisten treffen sich zum Essen ++++
 ++++ Null Block: Volleyballer hat keine Lust mehr ++++
 ++++ Nur am Rande gestreift: Kreuzung von Pferd und Zebra machte keine großen Schlagzeilen ++++
 ++++ Nur an der Leine unterwegs: Hannovers Hunde enttäuscht ++++
