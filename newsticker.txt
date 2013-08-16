@@ -539,6 +539,7 @@
 ++++ Ehepaar komplett verschieden: Beide tot ++++
 ++++ Eher harmlos: Vegetarische Zombies verwüsten Blumenbeet ++++
 ++++ Eierlegende: Hühner erzählen sich Märchen von der Wollmilchsau ++++
+++++ Eier toller: Iranischer Revolutionsführer will nicht immer nur Müsli zum Frühstück ++++
 ++++ Ein bisschen abgehoben: Mann fliegt mit Hubschrauber zum Geldautomaten ++++
 ++++ Eine ehrliche Haut: Schlägerin gesteht Gewalttaten ++++
 ++++ Eine Granate im Bett: Soldat sorgt für mehr Spannung im Schlafzimmer ++++
@@ -1014,6 +1015,7 @@
 ++++ Hat's faustdick hinter den Ohren: Tumorpatient betrügt Krankenkasse ++++
 ++++ Hat sich abgezeichnet: Künstler verlegt sich auf Selbstportraits ++++
 ++++ Hat sich aufgegeben: Depressiver Mann in Post-Paket entdeckt ++++
+++++ Hat sich aufs Ohr gehauen: Masochist schläft nach autoerotischen Handlungen ein ++++
 ++++ Hat sich aus dem Staub gemacht: Künstler kreiert Selbstportrait aus Dreck ++++
 ++++ Hat sich ausgezahlt: Croupier veruntreut Gelder ++++
 ++++ Hat sich den Arsch aufgerissen: Mann gewinnt Kampf gegen Verstopfung ++++
@@ -1076,6 +1078,7 @@
 ++++ Herzlos: Organhändler liefert nicht ++++
 ++++ Herzzerreißend: Briefbombe als Liebesbrief getarnt ++++
 ++++ Heuland: Trockene Wiesen machen Jesus traurig ++++
+++++ Heuschnupfen: Koksallergie zwingt Süchtigen zu Naturprodukten ++++
 ++++ Heuschrecken: Hungrige Kuh ++++
 ++++ Heute schon zum fünften Mal: Arzt diagnostiziert, dass er seinen Beruf nie wieder ausüben kann, weil er mit Alzheimer im Heim sitzt ++++
 ++++ Heute vor 1400 Jahren: Heiliger Bimbam erfindet Kirchenglocke ++++
@@ -1433,6 +1436,7 @@
 ++++ Land gewonnen: Tombolateilnehmer drückt sich vor Preisübergabe ++++
 ++++ Lange Gesichter bei der Fütterung: Pferde bekommen wieder nur Heu ++++
 ++++ Langer Arm der Vogelmafia: Taube auf dem Dach hat Spatz in der Hand ++++
+++++ Lange vor sich hergeschoben: Einsammler von Einkaufswagen kündigt endlich Job ++++
 ++++ Lang Lang: Pianist lernt Morsealphabet ++++
 ++++ Langweilig: Gespräch zwischen Dolmetscher und Papagei dreht sich im Kreis ++++
 ++++ Lassen fünfe gerade sein: Faule Mannschaft gibt genau jetzt Basketball auf ++++
@@ -1757,6 +1761,7 @@
 ++++ Nur die Rosinen herausgepickt: Stollen droht einzustürzen ++++
 ++++ Nur ein alter Schinken: Antikes Metzgerfachbuch enttäuscht ++++
 ++++ Nur ein Bisschen: Angriff von Welpen tat nicht besonders weh ++++
+++++ Nur eine Fußprellung: Mann fällt Stein vom Herzen ++++
 ++++ Nur einen runtergeholt: Flakschütze unehrenhaft entlassen ++++
 ++++ Nur ein kleiner Grazer: Autofahrer, der Österreicher überfahren hat, erleichtert ++++
 ++++ Nur ein Strohmann: Krähen haben keine Angst mehr vor Vogelscheuche ++++
@@ -2140,6 +2145,7 @@
 ++++ Sensation: Längliches, wirbelloses Tier erzeugt Wurmloch ++++
 ++++ Service schlecht: Kaufhaus nimmt kaputtes Geschirr nicht wieder zurück ++++
 ++++ Service: Zahnarzt poliert Patienten die Fresse ++++
+++++ Servus, TV: Österreicher verzichten aufgrund schlechten Privatsenderangebots zunehmend auf Fernsehen ++++
 ++++ Setzen, Sex: Frau bei Schwangerschaftstest durchgefallen ++++
 ++++ Setzt noch einen drauf: Pornoproduzent toppt Gangbang-Movie der Konkurrenz ++++
 ++++ Setzt sich durch: Möbelhauskunde bekommt mangelhaften Sessel erstattet ++++
@@ -2696,6 +2702,7 @@
 ++++ Wirbelsäule verletzt: Schwäbisches Zirkusschweinchen muss Karriere beenden ++++
 ++++ Wird Bundeskassler: Metzgerei sieht gute Chancen für Schweinrück ++++
 ++++ Wird ins Auge gehen: Tornadoforscher will mitten in Sturmzentrum ++++
+++++ Wird zum Emo: Eskimo wurden die Ski weg genommen ++++
 ++++ Wirft kein gutes Licht auf die Stadt: Schon wieder eine defekte Straßenlaterne ++++
 ++++ Wirft schlechtes Licht auf seinen Charakter: Schauspieler verprügelt Beleuchter ++++
 ++++ Wirkt auf den ersten Blick nackt: Schlumpf im Blaumann ++++
