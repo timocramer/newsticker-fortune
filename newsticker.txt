@@ -32,6 +32,7 @@
 ++++ Absehbar: China gewinnt Gold im Reiskunstlauf ++++
 ++++ Absehbar: Lufthansa startet Pilotprojekt ++++
 ++++ Absehbar: Raupe entpuppt sich als Schmetterling ++++
+++++ Ab sofort: Henker bietet künftig Enthauptungen ohne Wartezeit an ++++
 ++++ Absolut nichts in der Birne: Unfähiger Ingenieur baut komplett leere Glühlampe ++++
 ++++ Abstoßend: Torwart ++++
 ++++ Abt verlegt die Bibel: Seine Mönche haben sie schon abgeschrieben ++++
@@ -382,6 +383,7 @@
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
 ++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
+++++ Da muss man erst mal drauf kommen: Sex auf dem Baukran ++++
 ++++ Da muss sie erstmal schlucken: Pornodebütantin bekommt harte Auflagen ++++
 ++++ Danach kräht kein Hahn mehr: Bauer schlachtet noch wie im Mittelalter ++++
 ++++ Danach kräht kein Hahn mehr: Vogelgrippe ++++
@@ -443,6 +445,7 @@
 ++++ Dementer Rentner bleibt mit PKW stehen: Nachfolgende Fahrer rufen Pharmalobby ++++
 ++++ Dement sprechend: Verwirrter Mann sucht Synonym für folglich ++++
 ++++ Den Dicken markiert: Paintballprofi prahlt nach Sieg über korpulenten Gegner ++++
+++++ Den Faden verloren: Frau kann nicht mehr aus Nähkästchen plaudern ++++
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
 ++++ Den Luciano: Bayerische Frauen denken bei Pavarotti-Arien an Oralsex ++++
 ++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
@@ -1035,6 +1038,7 @@
 ++++ Hat sofort gehandelt: Broker reagiert auf Börsencrash ++++
 ++++ Hatte einfach zuviel im Kopf: Tumorpatient stirbt wegen verpasstem OP-Termin ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
+++++ Hatte jeglichen Lebensmut verloren: Katze ging vor die Hunde ++++
 ++++ Hatte keine Atmosphäre: Erstes Restaurant auf dem Mond wieder geschlossen ++++
 ++++ Hatte keinen Bock mehr: Einsames Schaf begeht Selbstmord ++++
 ++++ Hätte man auch anders lösen können: Mieter entfernt Tapete mit Vorschlaghammer ++++
@@ -1307,6 +1311,7 @@
 ++++ Keiner kann ihm das Wasser reichen: Gedopter Radprofi hängt Teamfahrzeug ab ++++
 ++++ Keine Sau ruft ihn an: Bauer unzufrieden mit neuem Stalltelefon ++++
 ++++ Keine Verbindung mehr zur Außenstelle: Elektriker hat Kontakt abgebrochen ++++
+++++ Keine Züge möglich: Schachmeisterschaft in Mainz findet nicht statt ++++
 ++++ Kein Gras mehr da: Entspannter Kiffer macht sich keinen Kopf ++++
 ++++ Kein Mumm: Mann verschweigt vergessenen Sektkauf ++++
 ++++ Kein Platz: Hund kann sich nicht hinlegen ++++
@@ -1996,6 +2001,7 @@
 ++++ Sabbat: Juden läuft beim Gedanken an Freitag Wasser im Munde zusammen ++++
 ++++ Sachbeschädigung: Akrobat schlägt Rad ++++
 ++++ Sahara: Libyscher Vogelkundler macht überraschende Beobachtung ++++
+++++ Sah Brücken: Mann besucht Hauptstadt des kleinsten deutschen Flächenlandes ++++
 ++++ Sah nach Meer aus: Ostsee kleiner als gedacht ++++
 ++++ Sah nie Täter: Rettungsfahrer ist kein hilfreicher Zeuge ++++
 ++++ Sah seine Zukunft in der Glaskugel: Goldfisch findet neues Zuhause mit Hilfe eines Wahrsagers ++++
@@ -2105,6 +2111,7 @@
 ++++ Schwache Leistung: Elektriker installiert die falschen Lampen ++++
 ++++ Schwache Quoten: RTL setzt Pille ab ++++
 ++++ Schwachmat: Schachspieler spricht spielentscheidende Stellung falsch aus ++++
+++++ Schwalbe nicht gesehen: Spieler zeigen Schiedsrichter den Vogel ++++
 ++++ Schwamm drüber: Fisch ignoriert Angelhaken ++++
 ++++ Schwangerschaft einer Nudistin belegt: Es sind gar nicht Kleider, die Leute machen ++++
 ++++ Schwarzer Afghane und roter Libanese: Amsterdamer Polizei verhaftet radikale Haschprediger ++++
