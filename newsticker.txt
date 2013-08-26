@@ -127,6 +127,7 @@
 ++++ Ärger im Zoo: Tiger frisst Löwenanteil des rohen Fleisches ++++
 ++++ Ärgerlich: Somalisches Kind in Minensuchhundkacke getreten ++++
 ++++ Ärgerlich: Weltraumurlauber vergisst, Bügeleisen abzuschalten und kann Haus von oben brennen sehen ++++
+++++ Ärger vorprogrammiert: Firma verkauft Software mit integriertem Virus ++++
 ++++ Arm: Die Kirchenmäuse des Kölner Doms sammeln für eine Käseglocke ++++
 ++++ Armer Schlucker: Callboy verdient nicht gut ++++
 ++++ Arschkalt: Minirock zu kurz ++++
@@ -381,6 +382,7 @@
 ++++ Da könnte ja jeder kommen: Stadt will Billigbordell verhindern ++++
 ++++ Da kullern die Tränen: Leichtathletiktrainer beweint Leistung seiner Hürdenläufer ++++
 ++++ Dame mit Läufer geschlagen: Schachspieler verprügelt überlegene Kontrahentin mit Teppich ++++
+++++ Damit kommen sie vor Gericht nicht durch: Schranke vor Justizgebäude wurde rechtswidrig aufgestellt ++++
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
 ++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
@@ -833,6 +835,7 @@
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
 ++++ Gentechnik-Panne: Labormaus ist ganz Ohr ++++
+++++ Gepard: Raubkatze trächtig ++++
 ++++ Gepunktet: Dalmatiner kann Jury bei Hundeschau überzeugen ++++
 ++++ Gerade fertig: Landebahn eingeweiht ++++
 ++++ Gerammelt voll: Kondom ++++
@@ -1031,6 +1034,7 @@
 ++++ Hat sich eine gefangen: Kidnapper wird von Geisel geohrfeigt ++++
 ++++ Hat sich einen Schnitzer geleistet: Schweizer kann Taschenmesser nicht allein bedienen ++++
 ++++ "Hat sich einfach so ergeben": Polizist beschreibt zufällige Festnahme ++++
+++++ Hat sich richtig reingekniet: Kläranlagenmitarbeiter erhält Gehaltserhöhung ++++
 ++++ Hat sich verschrieben: Arzt trägt versehentlich seinen Namen als Medikament ein +++
 ++++ Hat sich weggeschmissen: Mann fällt vor Lachen in den Müllcontainer ++++
 ++++ Hat sich wieder gefangen: Wankelmütiger Trapper kommt am Morgen gut aus der Falle ++++
@@ -1424,6 +1428,7 @@
 ++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
 ++++ Krummes Ding: Betrüger ergaunert Banane ++++
 ++++ Krummes Ding gedreht: Bankräuber feiert Coup mit selbstgebauter Zigarette ++++
+++++ Kugelt sich vor Lachen: Bekiffter Igel hat Angst vor Pfützen ++++
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
 ++++ künstlername: ex-modern-talking-star heißt in wirklichkeit genauso und nicht anders ++++
 ++++ Kurts Biographie: *1890, viel geschrieben, †1935 ++++
@@ -2028,6 +2033,7 @@
 ++++ Sauerei: Zitronen-Omelette ++++
 ++++ Saugt nicht mehr: Prostituierte wegen defekten Haushaltsgeräts daheim geblieben ++++
 ++++ Saulecker: Sodomist verteidigt Vorliebe ++++
+++++ Saunah: Neues Dampfbad eröffnet in direkter Nachbarschaft ++++
 ++++ Sau-Preis: Hauptgewinn des Rosenheimer Schweinezuchtvereins geht an Zugereisten ++++
 ++++ Sauwetter: Trotz Regen viele Besucher bei Schweinerennen ++++
 ++++ Schaben: So bekommt man plattgehauenes Ungeziefer von der Wand ++++
@@ -2785,6 +2791,7 @@
 ++++ Zu Ende gedacht: Philosoph will sich der Praxis widmen ++++
 ++++ Zufallstreffen in afrikanischem Waisenhaus: Madonna und Angelina Jolie adoptieren sich gegenseitig ++++
 ++++ Zu faul zum Arbeiten: Chef fuhr mit Angestellten Schlitten ++++
+++++ Zu früh gefreut: Medikament gegen Ejaculatio Praecox doch nicht wirksam ++++
 ++++ Zügellos: Reiter hat Pferd nicht unter Kontrolle ++++
 ++++ Zügellos: Reitlehrerin nach der Arbeit völlig enthemmt ++++
 ++++ Zu großer Vorsprung: Führender des Wingsuit-Flugwettbewerbs prallt gegen Fels ++++
