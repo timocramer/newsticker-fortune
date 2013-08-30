@@ -218,6 +218,7 @@
 ++++ Ballonfahrer am Boden: "Die Luft ist raus" ++++
 ++++ Bandenwerbung: Hell's Angels werben neue Mitglieder in Fußballstadien ++++
 ++++ Bande wurde ihm zum Verhängnis: Billardspieler eingelocht ++++
+++++ Bangt um ihr Leben: Metalband mit vorgehaltener Waffe zum Spielen gezwungen ++++
 ++++ Bank of Egypt: Auszug der Israeliten in Drucker stecken geblieben ++++
 ++++ Barde unzufrieden: Laute leise ++++
 ++++ Bären aufgebunden: Frau täuscht Mann mit Schamhaar-Toupet ++++
@@ -327,8 +328,10 @@
 ++++ Braucht keinen Grund: Stadt sprengt Denkmal aus Spaß ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
+++++ Bremsen schon wieder defekt: Auto macht Besitzer rasend ++++
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
 ++++ Brillant: König hat einen in der Krone ++++
+++++ Bringt das Fass zum Überlaufen: Letzter Fehler des Brauerei-Azubis führt zu Kündigung ++++
 ++++ Bringt nichts: Gast brüllt taubem Kellner hinterher ++++
 ++++ Bringt nix: Abholdienst ++++
 ++++ Brotlose Kunst: Stillleben mit Obst und Gemüse ++++
@@ -887,6 +890,7 @@
 ++++ Glaubt noch an den Klapperstorch: Froschpärchen entschließt sich gegen Zeugungsakt ++++
 ++++ Gleichgültig: Phlegmatiker gewinnt Weitsprung im ersten Versuch ++++
 ++++ Gleitzeit im Bordell: Angestellte können kommen, wann sie wollen ++++
+++++ Glied gerissen: Kunde reklamiert Intim-Kettenpiercing ++++
 ++++ Glück im Unglück: Angefahrener Hund stellt entzückt fest, dass aus seinem gebrochenen Bein ein Knochen ragt ++++
 ++++ Gnade vor Recht: Lexikon alphabetisch sortiert ++++
 ++++ Göteborg: Dichter während Schwedenaufenthalt assimiliert ++++
@@ -1004,6 +1008,7 @@
 ++++ Hat Gänsefüßchen: "Gänseküken" ++++
 ++++ Hat ganz schön dran zu knabbern: Salzstangenfabrikant kämpft nach Silvester mit massiver Überproduktion ++++
 ++++ Hat gefunkt: Kommissar hielt Polizeistreife über sein Date auf dem Laufenden ++++
+++++ Hat Geheimnisse: Nachwuchs von Kopflaus gut versteckt ++++
 ++++ Hat genug: Leidenschaftlicher Sammler gibt Hobby auf ++++
 ++++ Hat genug vom Streichen: Geiger pfeift auf Violine ++++
 ++++ Hat genug von Stromschlägen: Briefträger weigert sich, E-Mails zuzustellen ++++
@@ -1465,6 +1470,7 @@
 ++++ Lässt fünfe gerade sein: Chirurg richtet Zehen zum Freundschaftspreis ++++
 ++++ Lässt ihn fallen: General schickt Protégé an die Front ++++
 ++++ Lässt ihn ziehen: Mann trennt sich von Weisheitszahn ++++
+++++ Lässt mal einen springen: Telefonseelsorger lädt Kollegen zum Kaffee ein ++++
 ++++ Lässt nichts anbrennen: Nekrophiler steigt in Krematorium ein ++++
 ++++ Lässt noch einen fahren: Rentnerin nimmt lieber den nächsten Bus ++++
 ++++ Lässt noch zu wünschen übrig: Mann geht sparsam mit Feen-Angebot um ++++
@@ -2099,6 +2105,7 @@
 ++++ Schnauze voll von Buchstabensuppe: Gäste fordern "Zahlen bitte!" ++++
 ++++ Schnee von gestern: Wasser ++++
 ++++ Schneidet gewaltig auf: Chirurg führt angeblich tausend OPs am Tag durch ++++
+++++ Schneidet gut ab: Gemeinde zufrieden mit neuem Rabbi ++++
 ++++ Schneller Brüter: Roadrunner ++++
 ++++ Schnitzeljagdunfall: Jägerschnitzel von Panierraupe überfahren ++++
 ++++ Schock fürs Leben: Defibrillator ++++
