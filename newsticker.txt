@@ -201,6 +201,7 @@
 ++++ Ausgeschlossen: Mann weigert sich, den Schlüsseldienst zu rufen ++++
 ++++ Ausgezeichnet: Karikaturist bricht sich die Hand ++++
 ++++ Ausgezogen: WG zu prüde ++++
+++++ Auskommen im Alter: Nachkommen müssen laut Abkommen vollkommen für Einkommen aufkommen ++++
 ++++ Aussage in Stutenskandal verweigert: Wen will Zuchthengst decken? ++++
 ++++ Ausschlaggebend: Allergiker aß Nüsse ++++
 ++++ Außer Rand und Band: Kamelherde verwüstet Sahara ++++
@@ -997,6 +998,7 @@
 ++++ Hat Dicke gereicht: Kannibalenhäuptling ließ sich bei Festmahl nicht lumpen ++++
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
+++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
 ++++ Hat einen ziehen lassen: Glücksfee wegen Blähungen verhindert ++++
@@ -1409,6 +1411,7 @@
 ++++ Kontaktanzeige: Bäckerin sucht Brototyp ++++
 ++++ Kontra: Musiker wechselt auf die dunkle Saite und wird Bassith ++++
 ++++ Kontraproduktiv: Skat-Spieler geht immer volles Risiko ++++
+++++ Kontrolle: Ruhestörern wird Zutritt zu Fantasy-Treffen verweigert ++++
 ++++ Kopflos: Henker haut ab ++++
 ++++ Kopf oder zahl: Verschuldeter Glücksspieler erhält Morddrohung von Gläubiger ++++
 ++++ Kopf verdreht: Mann verliebt sich in Krankenschwester ++++
@@ -1724,6 +1727,7 @@
 ++++ Nicht auf den Mund gefallen: Kind verpetzt gewalttätige Eltern bei Arztbesuch ++++
 ++++ Nicht aufgegangen: Geschäftsidee mit neuartigem Kuchenrezept floppt ++++
 ++++ Nicht ausgeschlossen: Tür könnte auch nur angelehnt sein ++++
+++++ Nicht besonders schlau: Hausmeister hat die Schule nicht abgeschlossen ++++
 ++++ Nicht der Rede wert: Moderator entlassen ++++
 ++++ Nicht der Rede wert: Peer Steinbrück unzufrieden mit Nebeneinkünften ++++
 ++++ Nicht die feine Art: Kundin schreit Metzgerin wegen falscher Leberwurst an ++++
@@ -1763,6 +1767,7 @@
 ++++ Nicht vorschriftsgemäß angekettet: Baulöwe reißt drei Maurer und einen Zimmermann ++++
 ++++ Nicht zu fassen: Eingeölter Verbrecher entwischt Fahndern ++++
 ++++ Nicht zugelassen: Offene Brandschutztür ++++
+++++ Niedere Motive: Geldgieriger Paparazzo spezialisiert sich auf Promi-Kinder ++++
 ++++ Niederschmetternd: Depressionen sind auch nicht mehr das, was sie mal waren ++++
 ++++ Niederträchtig: Hängebauchschwein geschwängert ++++
 ++++ Niedrige Löhne: Immer häufiger wird der Beruf zum Hobby ++++
@@ -1925,6 +1930,7 @@
 ++++ Racheakt: Maler zeichnet nackte Ex-Frau fetter als sie ist ++++
 ++++ Rachen ist süß: HNO-Ärztin verliebt sich in Patienten ++++
 ++++ Rachsüchtig: TV-Zuschauer drohen mit Gewalt, falls Restauranttester abgesetzt wird ++++
+++++ Raffiniert: ALDI-Nord verkauft Südzucker ++++
 ++++ Raffiniert: Erdöl in Benzin umgewandelt ++++
 ++++ Ramsch: Neuer Stringtanga schon bei erstem Tragen im Arsch ++++
 ++++ Randale: Britischer Hooligan genießt sein Bier lieber abseits des Geschehens ++++
@@ -2015,6 +2021,7 @@
 ++++ Rufmord: Lawinenverursacher verurteilt ++++
 ++++ Rührend: Koch kümmert sich um Suppe ++++
 ++++ Rührend: Koch muss den Löffel abgeben ++++
+++++ Rührend: Konditor und Bäckerin geben Vermehlung bekannt ++++
 ++++ Rühren Sie das nicht an: Koch rät Lehrling von Tütensuppen ab ++++
 ++++ Ruin für Malermeister: Farbe im Eimer ++++
 ++++ Rum statt Ähre: Piraten feiern Enterdankfest ++++
