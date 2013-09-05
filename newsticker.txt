@@ -233,6 +233,7 @@
 ++++ Baumschmuck mit Problemen: Rauschgoldengel hängt an der Nadel ++++
 ++++ Bayern - Barcelona: Philipp Fußlahm hat sich gerade noch rechtzeitig von einer Verballhornung seines Namens wegen einer Wadenverhärtung erholt ++++
 ++++ Bayernfeindlichkeit: Mann in Lederhosen erhält Tracht-Prügel ++++
+++++ Beachtlich: Bushido verdient mehr als 50 Cent ++++
 ++++ Beamte mit vorbildlicher Pflichtauffassung: Chefingenieur Montgomery Scott ++++
 ++++ Beamte nicht: Scotty verweigert Teleport von Staatsdienern ++++
 ++++ Behielt das lieber für sich: Kleptomane verschwieg sein Problem jahrelang ++++
@@ -421,6 +422,7 @@
 ++++ Das kotzt ihn an: Babysitter will nicht mehr auf magenkrankes Kind aufpassen ++++
 ++++ Das musste er mit anderen teilen: Moses hatte Spaß am Meer ++++
 ++++ Das nagt an ihm: Mann muss Frettchen leider ins Tierheim geben ++++
+++++ "Das nehme ich Ihnen nicht ab": Chirurg verweigert hypochondrischem Patienten eine Beinamputation ++++
 ++++ Das rentiert sich: Weihnachtsmann fliegt klimaneutral ++++
 ++++ Das schwächste Glied in der Kette: SM-Pornostar wegen Impotenz gefeuert ++++
 ++++ Das sieht ihm ähnlich: Ehrgeiziger Gentechniker bastelt sich Klon-Kind ++++
@@ -630,6 +632,7 @@
 ++++ Erforschte das Ding an sich: Junger Kant machte Hobby zur Philosophie ++++
 ++++ Erfreut sich großer Beleibtheit: Ottfried Fischer ++++
 ++++ Er hält den Rand: Südafrikanischer Zeuge nahm Schweigegeld ++++
+++++ Er hat einen Vogel: Zoodirektor eröffnet Mini-Tierpark ++++
 ++++ Er hat es gleich hinter sich: Tödliches Reptil nähert sich arglosem Mann an ++++
 ++++ Er hat gestanden: Mann gibt zu, WC verschmutzt zu haben ++++
 ++++ Er hatte keinen Schimmer: Juwelier lässt sich gefälschten Diamanten andrehen ++++
@@ -1960,6 +1963,7 @@
 ++++ Redundanter Pleonasmus: Redundanter Pleonasmus ++++
 ++++ Regionale Vorliebe: Hessische Zombies schwören auf Augebbelwoi ++++
 ++++ Regisseur dreht durch: Pause abgesagt ++++
+++++ Reh animiert: Bambi 3D demnächst in den Kinos ++++
 ++++ Rehgenerationsphase: Hirsch nutzt Brunftzeit zur Entspannung ++++
 ++++ Reiben zwecklos: Wunderlampe hat Geist aufgegeben ++++
 ++++ Reich ins Heim: Wohlhabender Altnazi ist pflegebedürftig ++++
@@ -2159,6 +2163,7 @@
 ++++ Schweres Los: Lotteriegewinner schafft es nicht rechtzeitig zur Annahmestelle ++++
 ++++ Schwer in: Hauptstadt von Mecklenburg-Vorpommern extrem angesagt ++++
 ++++ Schwer vorstellbar: Mann leidet an Begrüßungsphobie ++++
+++++ Schwierigkeiten auf Kreisebene: Kann man mit Pi-Raten wirklich rechnen? ++++
 ++++ Schwindelanfall: Ärzte besorgt um Simulanten ++++
 ++++ Schwindel auf dem Rummelplatz: Karussell dreht sich schneller als angegeben ++++
 ++++ Schwindelerregend: Drehbuch ++++
@@ -2605,6 +2610,7 @@
 ++++ Von den Socken: Mann staunt über Fusseln zwischen den Zehen ++++
 ++++ Von der Leyen: CDUler verweist Kreditanfrage in knappen Worten an Kollegin ++++
 ++++ Von der Palme gewedelt: Plantagenbesitzer verscheucht onanierende Affen ++++
+++++ Von der Stange: Discounter vermittelt günstige Adelstitel ++++
 ++++ Von documenta ausgeschlossen: Aktionskünstler hätte Rahmen gesprengt ++++
 ++++ Von hinten genommen: Frau vermisst nach Quickie Brieftasche ++++
 ++++ Von ihr fehlt jede Spur: Autobahn auf mysteriöse Weise verschwunden ++++
@@ -2710,6 +2716,7 @@
 ++++ Wettkampf im Blätterwald: Espenlaub gewinnt Zitterpartie ++++
 ++++ Widerlich: Vegetarier besteht aus Fleisch ++++
 ++++ Wie aus dem Ei gepellt: Küken wirft sich in Schale ++++
+++++ Wieder abgesprungen: Fallschirm-Novize zieht erneut die Reißleine ++++
 ++++ Wieder das Vergessen: Abermals Gedenktag verschwitzt ++++
 ++++ Wieder einer ins Netz gegangen: Phishers Fritz zufrieden ++++
 ++++ Wieder ein Jahr Rum: Alkoholiker-Pärchen feiert Jahrestag ++++
