@@ -85,6 +85,7 @@
 ++++ Alt genug: Handy geht abends allein aus ++++
 ++++ Alt geworden: Betagte Sopranistin verliert an Stimmhöhe ++++
 ++++ Altglascontainer gestohlen: Recyclingfirma steht vor Scherbenhaufen ++++
+++++ Always Ultra: Weiblicher Fussballfan in der Regel bei jedem Spiel ihres Clubs dabei ++++
 ++++ Alzheimer: Betagter Elektroinstallateur verlegt immer öfter Kabel ++++
 ++++ Am Arsch die Räuber: Bevölkerung nimmt Warnung vor Stringtanga-Dieben nicht ernst ++++
 ++++ Am Arsch: Mann bekommt tödlichen Tumor diagnostiziert ++++
@@ -932,6 +933,7 @@
 ++++ Gut angezogen: Smoking-Träger leert Cocktail in Rekordzeit ++++
 ++++ Gut aufgelegt: Mann freut sich über Telefonrechnung ++++
 ++++ Gut aufgestellt in der Krise: Zwangsversteigerungsschild ++++
+++++ Gut ausgegangen: Waldbrand konnte schnell gelöscht werden ++++
 ++++ Gute Idee: Architekt fällt neues Haus ein ++++
 ++++ Gute Lobbyarbeit: Taube verschaffen sich Gehör ++++
 ++++ Gute Partie: Neuer Schachweltmeister mit Liebesbriefen überhäuft ++++
@@ -996,6 +998,7 @@
 ++++ Hat da nichts zu suchen: Google verzichtet auf Nordkorea-Niederlassung ++++
 ++++ Hat davon Wind bekommen: Frau serviert untreuem Gatten Linseneintopf ++++
 ++++ Hat den Bogen raus: Mann beendet Papierstau im Kopierer ++++
+++++ Hat den Bogen überspannt: Mann muss Verein nach Beschädigung des Trainingsgerätes verlassen ++++
 ++++ Hat den Braten gerochen: Mann kauft defekte Dunstabzugshaube nicht ++++
 ++++ Hat den Vogel abgeschossen: Mafia bringt Witzbold um ++++
 ++++ Hat Dicke gereicht: Kannibalenhäuptling ließ sich bei Festmahl nicht lumpen ++++
@@ -1182,6 +1185,7 @@
 ++++ Immer wieder auf die Zwölf: Systemspieler in Casino zusammengeschlagen ++++
 ++++ Im Regen stehengelassen: Zuckerberg völlig aufgelöst ++++
 ++++ Im Sande verlaufen: Suche nach verschwundenen Sahara-Touristen eingestellt ++++
+++++ "I'm Sorry": Man apologizes for stupid name ++++
 ++++ In aller Munde: Spucke ++++
 ++++ In Bar: Mann bezahlt Drink mit Münzen und Scheinen ++++
 ++++ In Brand gesetzt: Feuerwehrleute testen wasserlose Löschmethode ++++
@@ -1212,6 +1216,7 @@
 ++++ Interessiert ihn nicht die Bohne: Steakhaus-Gast lässt Beilage unangerührt ++++
 ++++ In Teufels Küche gebracht: Koch in Erklärungsnot nach Einsatz von schwarzem Maggi ++++
 ++++ In Tränen aufgelöst: Heulsuse hat kein Wasser für Brausetablette ++++
+++++ Iran: Winner of Teheran Marathon reveals how he won ++++
 ++++ Ironie: Punk trägt Vokuhila ++++
 ++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
 ++++ Islam: Muezzin sitzt im Rollstuhl ++++
@@ -1232,6 +1237,7 @@
 ++++ Ist noch nicht aus dem Schneider: Textilhandwerker bekommt Tumor entfernt ++++
 ++++ Ist Sean Penn: Schauspieler ging nach hartem Arbeitstag früh ins Bett ++++
 ++++ Ist unten durch: Kanalarbeiter macht schon wieder früher Feierabend ++++
+++++ It's about time: Einstein's last book finally published ++++
 ++++ Jacke wie Hose: Overall ++++
 ++++ Jämmerlich im Stich gelassen: Stachel von Biene ++++
 ++++ Japsen gegen Rassismus: Teilnehmer des Tokio-Marathons erlaufen Spendengelder für Toleranzprojekt ++++
@@ -1393,6 +1399,7 @@
 ++++ Kommt vor Gericht: Mann verklagt Ober, weil er keinen Aperitif bekam ++++
 ++++ Kommt vor: Schüler muss Referat halten ++++
 ++++ Komplett verputzt: Handwerker renovierte Innenbereich von Raubtiergehege ++++
+++++ Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner ++++
 ++++ Konischer Typ: Mann behauptet, er sei ein Kegel ++++
 ++++ Konkurrenz für Twitter: Neuer Kurznachrichtendienst mit 139 Zeichen geplant ++++
 ++++ Konkurrenz zu groß: Liliputaner verliert Stammplatz in Basketballteam ++++
@@ -1514,6 +1521,7 @@
 ++++ Letzter Wunsch: Staubsaugervertreter will, dass seine Asche auf den Teppichen von potentiellen Kunden verstreut wird ++++
 ++++ Letzte Vorkehrungen: Party-Gastgeber reinigt nochmal den Fußboden ++++
 ++++ Libyen: Bauern protestieren gegen Pflugverbotszone ++++
+++++ Lider wurden schwer: Musiker trat total übermüdet auf ++++
 ++++ Liegt auf der Hand: Nekrophiler bewahrt Leichenteile am liebsten im Bett auf ++++
 ++++ Liegt ihm am Herzen: Mann möchte verrutschten Darm operieren lassen ++++
 ++++ Liegt in seiner Natur: Fauler König besucht regelmäßig Residenz im Grünen ++++
@@ -1621,6 +1629,7 @@
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mit Pauken und Trompeten durchgefallen: Bauaufsicht bemängelt maroden Fußboden im Orchestergraben ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
+++++ Mit spitzer Feder: Kritiker erledigt Romanautor ++++
 ++++ Mit Stechschritt zum Arzt: Gardesoldat klagt über Blasenentzündung ++++
 ++++ Mit über 200 Sachen: Schmuggler entkommt Polizei ++++
 ++++ Mobbing: Hexe hänselt Gretel ++++
@@ -1720,6 +1729,7 @@
 ++++ Neuer Seniorentrend: Omasaufen ++++
 ++++ Neues aus der Ernährungsforschung: Eiweiß ist nicht das Gelbe vom Ei ++++
 ++++ Neue Sexstudie: Stöhnen ist das Ah und Oh ++++
+++++ Neues Hörgerät nicht bewilligt: Rentner versteht die Welt nicht mehr ++++
 ++++ Neues Krankentransportkonzept: Rollende Trage spielt tragende Rolle ++++
 ++++ Neue Studie: neun von zehn Studien völlig überflüssig ++++
 ++++ Neue Züchtung: Mienensuchhund hilft bei Gesichtsverlust ++++
@@ -2076,6 +2086,7 @@
 ++++ Scheiße: Mann hat doch nicht nur gefurzt ++++
 ++++ Scheiße passiert: Fäkalien in Tomatenmark festgestellt ++++
 ++++ Scheiße: Töpferin hat sich im Ton vergriffen ++++
+++++ Scheißt auf den Boulevard: Pariser Fäkalkünstler trotzt unsachlicher Pressekritik ++++
 ++++ Schenkelklopfer: Preuße versucht, Schuhplattler zu tanzen ++++
 ++++ Schenkelklopfer: Sadist bringt Masochist zum Lachen ++++
 ++++ Schenken sich nichts: Christkind glaubt nicht an Osterhasen und umgekehrt ++++
@@ -2297,6 +2308,7 @@
 ++++ Statt Land Fluss: Überschwemmung ++++
 ++++ Steckt in den Miesen: Pornostar muss nehmen, was er kriegt ++++
 ++++ Steckt noch in den Kinderschuhen: Jungdesigner kann nichts über neues Projekt verraten ++++
+++++ Stehen unter Strom: Autofahrer gestresst von Stau in Elbtunnel ++++
 ++++ Steht auf Messers Schneide: Artist will mit gewagtem Kunststück Zirkus retten ++++
 ++++ Steht auf Messers Schneide: "Rostfrei" ++++
 ++++ Steht auf Rasur: Mediävist bedauert unleserliche Bartschneidechronik ++++
@@ -2322,6 +2334,7 @@
 ++++ Stofftier verschluckt: Schlange würgt ein wenig steiff ++++
 ++++ Stoffwechselprobleme: Junkie verträgt Umstieg von Crack auf Speed nicht ++++
 ++++ Stolz wie Oskar: Gregor Gysi gründet eigene Partei ++++
+++++ Stoned: Muslim woman gets punished after smoking weed ++++
 ++++ Störtebeker: Ex-Tennisprofi von Pirat in Besenkammer überrascht ++++
 ++++ Stoßstange kaputt: Pornodarsteller kommt wegen Verkehrsunfalls nicht auf Arbeit +++
 ++++ St. Pauli: Immer mehr Zeitarbeit in Stundenhotels ++++
@@ -2636,6 +2649,7 @@
 ++++ Vorzeitig nach Hause geschickt: Olympionike hatte keine Disziplin ++++
 ++++ "Wachsmalstift!": Meister bepöbelt kleinwüchsigen Lehrling ++++
 ++++ Waffenlieferungen: Deutschland macht gute Mine zum bösen Spiel ++++
+++++ Wagenknecht: Linke Politikerin beutet Chauffeur schamlos aus ++++
 ++++ Wahlkampfstress: Frank-Walter Steinmeier hört Zweitstimmen ++++
 ++++ Wahlschweizer Michael Schumacher fühlt sich vom Konjunkturprogramm übergangen ++++
 ++++ Wahnsinn: Psychologe stellt Diagnose schon nach zwei Sekunden ++++
@@ -2701,6 +2715,7 @@
 ++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
 ++++ Weiß nicht, was er noch machen soll: Gott komplett fertig mit der Welt ++++
+++++ Well done: Engineer praised for new water supply ++++
 ++++ Wem will er etwas vormachen?: Arbeitsloser Fitnesscoach langweilt sich ++++
 ++++ Wenig Arbeit wegen geringer Qualifikation: Folterknecht kann nur Däumchendrehen ++++
 ++++ Wenigstens einsichtig: Zyklop geht an Karneval doch nicht als Pirat ++++
@@ -2714,6 +2729,7 @@
 ++++ Westafrikanische Heißgetränke immer beliebter: Kaffee ToGo an jeder Straßenecke erhältlich ++++
 ++++ Wetterfühlig: Tonne lässt sich bei Regen immer volllaufen ++++
 ++++ Wettkampf im Blätterwald: Espenlaub gewinnt Zitterpartie ++++
+++++ WHO cares: Nobody interested in work of World Health Organisation ++++
 ++++ Widerlich: Vegetarier besteht aus Fleisch ++++
 ++++ Wie aus dem Ei gepellt: Küken wirft sich in Schale ++++
 ++++ Wieder abgesprungen: Fallschirm-Novize zieht erneut die Reißleine ++++
