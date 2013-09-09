@@ -205,6 +205,7 @@
 ++++ Auskommen im Alter: Nachkommen müssen laut Abkommen vollkommen für Einkommen aufkommen ++++
 ++++ Aussage in Stutenskandal verweigert: Wen will Zuchthengst decken? ++++
 ++++ Ausschlaggebend: Allergiker aß Nüsse ++++
+++++ Außenseiter im Team: Musikalischer Fußballer spielt gerne auf dem Flügel ++++
 ++++ Außer Rand und Band: Kamelherde verwüstet Sahara ++++
 ++++ Außer sich: Wütender Chef entlässt gesamte Belegschaft ++++
 ++++ Aussichtslos: Zimmer hat keine Fenster ++++
@@ -335,6 +336,7 @@
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
 ++++ Brillant: König hat einen in der Krone ++++
 ++++ Bringt das Fass zum Überlaufen: Letzter Fehler des Brauerei-Azubis führt zu Kündigung ++++
+++++ Bringt ihr Herz zum Rasen: Kannibale lädt neue Freundin zum Picknick ein ++++
 ++++ Bringt nichts: Gast brüllt taubem Kellner hinterher ++++
 ++++ Bringt nix: Abholdienst ++++
 ++++ Brotlose Kunst: Stillleben mit Obst und Gemüse ++++
@@ -1098,6 +1100,7 @@
 ++++ Heiße Spur: Internet-Detektiv nimmt Twitterung auf ++++
 ++++ Heiter bis sonnig: Angekündigter Regen entpuppt sich als Schauermärchen ++++
 ++++ Helfen gegen stumpfe Stifte: Spitzbuben ++++
+++++ Henkersmahlzeit verweigert: Häftling möchte vor ein ordentliches Gericht gestellt werden ++++
 ++++ Herabgesetzt: Domina demütigt Kunden zum Schnäppchenpreis ++++
 ++++ Herd der Inge: Neues Hobbit-Restaurant in Mittelerde eröffnet ++++
 ++++ "Her mit der Asche!": Gläubiger fordert Rückstände ++++
@@ -1243,6 +1246,7 @@
 ++++ Japsen gegen Rassismus: Teilnehmer des Tokio-Marathons erlaufen Spendengelder für Toleranzprojekt ++++
 ++++ Jeden Tag eine gute Tat: Pfadfinder bringt kranke Rentnerin um die Ecke ++++
 ++++ Jesus enterbt: Gott schreibt Neues Testament ++++
+++++ Jetzt aber Dalí: Ungeduldiger Kunstsammler stört Auktion durch Zwischenrufe ++++
 ++++ Jetzt aber raus aus den Federn: Hühner werden am Schlachttag früh geweckt ++++
 ++++ Jetzt auf Faithbook: Der Like Christi ++++
 ++++ Jetzt geht's ans Eingemachte: Regierung beschließt Einweckpfand ++++
@@ -1652,6 +1656,7 @@
 ++++ Muss erst mal runterkommen: Mount Everest-Bezwinger völlig euphorisch ++++
 ++++ Muss erst wieder reinkommen: Single hat nach langer Zeit mal wieder Sex ++++
 ++++ Muss kleine Brötchen backen: Bäcker spürt Getreidemangel am eigenen Laib ++++
+++++ Muss künftig kürzer treten: Schlägertyp hat gesundheitliche Probleme ++++
 ++++ Muss man sich auf der Zunge zergehen lassen: In Kot sind Nährstoffe enthalten ++++
 ++++ Muss nicht zum Bund: Hippie kommt ungeschoren davon ++++
 ++++ Muss noch viele Stellen streichen: Malerbetrieb vorerst nicht bankrott ++++
@@ -2312,6 +2317,7 @@
 ++++ Steht auf Messers Schneide: Artist will mit gewagtem Kunststück Zirkus retten ++++
 ++++ Steht auf Messers Schneide: "Rostfrei" ++++
 ++++ Steht auf Rasur: Mediävist bedauert unleserliche Bartschneidechronik ++++
+++++ Steht dazu: Mann pinkelt nicht im Sitzen ++++
 ++++ Steht drauf: Akrobatin ist gerne Spitze der Menschenpyramide ++++
 ++++ Steht in der Gegend: Rum ++++
 ++++ Steht voll im Saft: Junger Weinbauer presst Trauben ohne technische Hilfsmittel ++++
@@ -2764,6 +2770,7 @@
 ++++ Will keine Menschen klonen: Genetiker macht 'ne Fliege ++++
 ++++ Will kein Messi mehr sein: Junge reduziert Fußballtraining und räumt Zimmer auf ++++
 ++++ Willkommen: Nymphomanin ++++
+++++ Willkür: Diktator fordert wahllos Zugaben von Eiskunstläufern ++++
 ++++ Will nicht in die Penne: Kind hat Angst vor Schulkoch ++++
 ++++ Will nicht mehr die zweite Geige spielen: Orchestermusiker geht flöten ++++
 ++++ Will nicht mit dem Strom schwimmen: Badegast verlässt bei Gewitter als einziger das Wasser ++++
