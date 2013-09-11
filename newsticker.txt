@@ -330,6 +330,7 @@
 ++++ Brandtstiftung: Nachlass von früherem Kanzler fällt Flammen zum Opfer ++++
 ++++ Brät Pitt: Kanibale verspeist Schauspieler ++++
 ++++ Braucht keinen Grund: Stadt sprengt Denkmal aus Spaß ++++
+++++ Braucht keine Sau: Zölibatärer Zuchteber ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
 ++++ Bremsen schon wieder defekt: Auto macht Besitzer rasend ++++
@@ -750,6 +751,7 @@
 ++++ Forsch: Wissenschaftler missfällt Umgangston im Labor ++++
 ++++ Förster entlassen: Waldbesitzer kündigte wegen Eichenbedarf ++++
 ++++ Französischer Freund aus Übersee: Ami ++++
+++++ Frau hat ihm zugesagt: Mann freut sich auf zweites Date ++++
 ++++ Frau lag daneben: Mann kann auch alleine Spaß im Bett haben ++++
 ++++ Freunde von an Leukämie gestorbenem Skinhead wollen nichts bemerkt haben ++++
 ++++ Freundin durchgebrannt: Glühbirne trägt ihr Schicksal mit Fassung ++++
@@ -975,6 +977,7 @@
 ++++ Hält den Rekord: Gewichtheber stemmt altes Opel-Modell ++++
 ++++ "Halt die Schnauze!": Überforderter Tierarzt bittet Assistentin um Hilfe ++++
 ++++ Hält ihre Familie über Wasser: Mutter arbeitet halbtags als Deichbauerin ++++
+++++ Hält nichts davon: Torwart boykottiert Elfmeterschießen ++++
 ++++ Hält sich noch im Rahmen: Restaurator sieht keinen Handlungsbedarf bei lädiertem Gemälde ++++
 ++++ Hämmert auf eigene Faust: Hobbybastler hätte besser Profi engagiert ++++
 ++++ Hämorrhoiden-Gefahr: Finnlands Krankenkassen warnen vor Posaunen ++++
@@ -2292,6 +2295,7 @@
 ++++ Sprechschule für Tiere erfolglos: Frösche kommen nicht aus dem Quak ++++
 ++++ Sprengsatz: Militär entwickelt erste Handgranate mit Sprachsteuerung ++++
 ++++ Spricht mit gespaltener Zunge: Häuptlingssohn glaubt Vater nicht, dass man Messer nicht ablecken soll ++++
+++++ Springer auf A7: Schachprofi will sich nach spielentscheidendem Fehlzug von Autobahnbrücke stürzen ++++
 ++++ Springt im Dreieck: Ariane Friedrich in Pyramide eingesperrt ++++
 ++++ Staatsstreich: Regierung lässt Zahnpasta unter Türklinken verteilen ++++
 ++++ Stachen ihm sofort ins Auge: Imker musste diese Bienen haben ++++
@@ -2372,6 +2376,7 @@
 ++++ Tag ein, Tag aus: HTML-Programmierer beklagt monotone Arbeit ++++
 ++++ Tag für Tag: Sprayer macht immer nur das gleiche ++++
 ++++ Taktlos: Dirigent gefeuert ++++
+++++ Taktlos: Rockband spielt auf Beerdigung von Drummer ++++
 ++++ Talk-Star: Englischsprechender Vogel entdeckt ++++
 ++++ Tan-Codes vergeben: Sonnenbank geht online ++++
 ++++ TANs der Vampire: Untote nutzen sicheres Online-Blutbanking ++++
@@ -2681,6 +2686,7 @@
 ++++ War schon eingelaufen: Boxer fiel zu enge Hose erst im Ring auf ++++
 ++++ "Warum funktioniert das Ding nicht?": Rasensprengerverkäufer steht auf dem Schlauch ++++
 ++++ War vorher klar: Kleinkind pinkelt ins Pool-Wasser ++++
+++++ War zu unkonzentriert: Getränkeproduzent stellt faden Orangensaft her ++++
 ++++ Wäscherei: defekte Wäschemangel schuld am Wäschemangel ++++
 ++++ "Was fällt Ihnen ein?": Alte Menschen empört über Demenz-Befragung ++++
 ++++ Was für ein Finnisch: Sprinter überzeugt mit Fremdsprachenkenntnissen ++++
@@ -2702,6 +2708,7 @@
 ++++ Wegen fehlender Quallenangabe: Meeresforscher verliert Doktortitel ++++
 ++++ Wegen Finanzkrise: Satire-Aktien verzeichnen hohe Gewinne ++++
 ++++ Wegen Kurzschluss: Kein langer Abspann nach Kinofilm ++++
+++++ Wegen mangelnder Hyäne: Verdreckter Zookäfig weiterhin unbesetzt ++++
 ++++ Wegen Nadel: Vinyl-Fan hat Platten ++++
 ---- Wegen Newsticker: sämtliche Pluszeichen aufgebraucht ----
 ++++ Wegen Personalmangels: Gericht installiert Freisprechanlage ++++
