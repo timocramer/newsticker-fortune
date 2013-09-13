@@ -214,6 +214,7 @@
 ++++ Aus Überzeugung: China bleibt bei Ein-Kind-Politik ++++
 ++++ Autobiografie: K.I.T.T. veröffentlicht seine Memoiren ++++
 ++++ Automaten: Industriell hergestelltes Gemüse kann zu Bauchschmerzen führen ++++
+++++ Autounfall im Zebragehege: Tiere zum Glück nur gestreift ++++
 ++++ Backen leicht gemacht: Neue Kuchendiät strafft den Po ++++
 ++++ Back to the roots: Saatguthersteller besinnt sich aufs Kerngeschäft ++++
 ++++ Badeöl-Unglück: Ente quietscht nicht mehr ++++
@@ -368,6 +369,7 @@
 ++++ Cola leid: Mann steigt auf Diätprodukte um ++++
 ++++ Computer gehackt: Holzfäller verliert sämtliche Daten ++++
 ++++ Crash an der Wallstreet: Taxifahrer missachtete Vorfahrt ++++
+++++ Crêpiert: Mann erstickt an Pfannkuchen ++++
 ++++ Dabei hatte er doch extrapoliert: Mathematiker verärgert über unsaubere Statistik ++++
 ++++ Da bleibt kein Auge trocken: Taucher finden Grund zum Lachen ++++
 ++++ Da blickt keiner mehr durch: Defektes Teleskop gibt Rätsel auf ++++
@@ -530,6 +532,7 @@
 ++++ Dreht am Rad: Glücksfee ++++
 ++++ Drehte sich beruflich im Kreis: Ballerina beendet Karriere ++++
 ++++ Dreht sich wegen Pfusch von Nachfolger im Grabe um: Lebendig begrabener Leichenbestatter ++++
+++++ Dreifaltigkeit: Neues Toilettenpapier mit christlichen Motiven erschienen ++++
 ++++ Dreisilbig: Einsilbig ++++
 ++++ Dreister Kreditkartenbetrug: Goldene Mastercard in Wahrheit aus Plastik ++++
 ++++ Dreister Ladendiebstahl: Penny-Markt spurlos verschwunden ++++
@@ -913,6 +916,7 @@
 ++++ Grausam: Schlangenbeschwörer gibt seiner Geliebten einen Korb ++++
 ++++ Griff ins Klo: Billige Alternative zur Bürste eher unangenehm ++++
 ++++ Grillen im Trend: Immer häufiger Insekten auf dem Rost ++++
+++++ Grober Schnitzer: Holzkünstler beleidigt kritischen Kunden ++++
 ++++ Grob überschlagen: ca. 50 % der Besucher fanden Kirmesattraktion zum Kotzen ++++
 ++++ Großartig: Hund erledigt sein Geschäft auf Kommando ++++
 ++++ Große Dichtkunst: Klempner beschreibt Reparatur in blumigen Worten ++++
@@ -1164,6 +1168,7 @@
 ++++ Hütehund: Border Collie steht einfach jede Kopfbedeckung ++++
 ++++ "Ich glaub, mein Schwein pfeift!": Bauer leidet an Tinnitus ++++
 ++++ "Ich glaub, mich knutscht ein Elch": Schwedischer Darkroom anders als erwartet ++++
+++++ "Ich traue euch nicht!": Standesbeamter akzeptiert keine Kreditkarte ++++
 ++++ "Ich war ein Cop!": Aussteiger berichtet aus dem Blaulichtmilieu ++++
 ++++ "Ich wurde von A nach B transportiert": Aussteiger berichtet von seiner Busfahrt ++++
 ++++ Ideales Satzzeichen um Newstickerzeilen in zwei Teile zu gliedern: Doppelpunkt ++++
@@ -1399,6 +1404,7 @@
 ++++ Kommt nicht in die Tüte: Kiffer verzichtet auf Tabak ++++
 ++++ Kommt nicht in die Tüte: Mann hat keine Lust auf Kondom ++++
 ++++ Kommt nicht mehr klar: Junkie geht nur noch high zur Arbeit ++++
+++++ Kommt nicht mehr klar: Mann klagt über trübes Ejakulat ++++
 ++++ Kommt nicht unter die Haube: KFZ-Mechaniker hat Übergewicht ++++
 ++++ Kommt nicht zum Tragen: Umzugshelfer ohne gültigen Vertrag ++++
 ++++ Kommt nicht zu Potte: Haschdealer hat Nachschubprobleme ++++
@@ -1763,6 +1769,7 @@
 ++++ Nicht gerecht: Nachbar darf Laub liegen lassen ++++
 ++++ Nicht lange gefackelt: Polizei schnappt Brandstifter in flagranti ++++
 ++++ Nicht lustig: Tauber kann Witze über Taube nicht mehr hören ++++
+++++ Nicht mehr alle Tassen im Schrank: Porzellanhändler wird nach Großdiebstahl wahnsinning ++++
 ++++ Nicht mehr auf der Höhe: Alter Mann zieht ins Tal ++++
 ++++ Nicht mehr ganz dicht: Alkoholiker trinkt zu wenig  ++++
 ++++ Nicht mehr lange: Erfolgreicher Igel führt Leben auf der Überholspur ++++
