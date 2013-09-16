@@ -41,6 +41,7 @@
 ++++ Achmed: Araber fällt ein, was er beim Metzger vergessen hat ++++
 ++++ Achse des Bösen: Grund für Pannenserie bei Toyota endlich gefunden ++++
 ++++ Achtbar: Mountainbiker pumpt viel Luft in seine Reifen ++++
+++++ Achtet auf seine Figur: Schachprofi lässt sich nicht mit Kuchen ablenken ++++
 ++++ Achtlos: Billardturnier versehentlich ohne schwarze Kugel ausgerichtet ++++
 ++++ Ach, wie reizend: Demonstranten entzückt von neuem Bio-Pfefferspray ++++
 ++++ ADAC warnt: Erdbeeren schlecht im Winterreifen ++++
@@ -144,6 +145,7 @@
 ++++ "Au Backe!": Patient gibt Zahnarzt undeutliche Schmerzbeschreibung ++++
 ++++ Auch Mariechen: Alle Kinder müssen an Schnupperkurs teilnehmen ++++
 ++++ Auf alle Felle Farbe: Anti-Pelz-Aktivisten einigen sich auf Aktionsform ++++
+++++ Auf Crack eingelassen: Junkie in Badewanne ertrunken ++++
 ++++ Auf dem falschen Fuß erwischt: Polizei schnappt Prothesendieb ++++
 ++++ Auf dem Laufenden gehalten: Reporter berichtet live von der Huckepack-WM ++++
 ++++ Auf dem neuesten Stand: Jäger bekommt Hochsitz mit VDSL-Anschluss ++++
@@ -294,6 +296,7 @@
 ++++ Bildet sich was drauf ein: Hypochonder stolz auf sein neues Krankenhausbett ++++
 ++++ Bild gemalt: Künstler hängt Arbeit an den Nagel ++++
 ++++ Billige Aushilfe: Spargelernte hilft bei Spargelernte ++++
+++++ Billy Talent: Band beweist Geschick beim Aufbau von Regalen ++++
 ++++ "Bin halt nicht immer in Topform": Dichter gibt Ungereimtheiten in Steuererklärung zu ++++
 ++++ "Bis dass der Tod euch penist": Schwule Paare drängen auf Änderung der Hochzeitsformel ++++
 ++++ Biss auf Granit: Restaurantgast reklamiert sein Essen erfolglos ++++
@@ -1375,6 +1378,7 @@
 ++++ Klappt nicht: Zugbrücke defekt ++++
 ++++ Klar abgehängt: PKW gewinnt ungleiches Rennen gegen Wohnwagen ++++
 ++++ Klasse gehalten: Torhüterleistung verhindert Abstieg ++++
+++++ Klaut vor den Augen ihres Chefs: Kassiererin nimmt sich einiges heraus ++++
 ++++ Klebstoff klebt nicht richtig: Haftbefehl erlassen ++++
 ++++ Klein beigegeben: Swinger lässt sich zu Natursektspielen überreden ++++
 ++++ Kleine Erhebung: Mücke nahm Stichprobe ++++
@@ -1641,6 +1645,7 @@
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mit Pauken und Trompeten durchgefallen: Bauaufsicht bemängelt maroden Fußboden im Orchestergraben ++++
+++++ Mit seinem riesigen Messer: Attentäter stach Passanten sofort ins Auge ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
 ++++ Mit spitzer Feder: Kritiker erledigt Romanautor ++++
 ++++ Mit Stechschritt zum Arzt: Gardesoldat klagt über Blasenentzündung ++++
@@ -2859,6 +2864,7 @@
 ++++ Zu früh gefreut: Medikament gegen Ejaculatio Praecox doch nicht wirksam ++++
 ++++ Zügellos: Reiter hat Pferd nicht unter Kontrolle ++++
 ++++ Zügellos: Reitlehrerin nach der Arbeit völlig enthemmt ++++
+++++ Zugreise: Ältere Menschen oft nicht mehr fit genug für Bahnfahrt ++++
 ++++ Zu großer Vorsprung: Führender des Wingsuit-Flugwettbewerbs prallt gegen Fels ++++
 ++++ Zu gut: Gewiefter Ladendieb steckt Kaufhausdetektive in die Tasche ++++
 ++++ Zug verpasst: Schachspieler von Turnier ausgeschlossen ++++
@@ -2903,6 +2909,7 @@
 ++++ Zwangsläufig: Nymphomanin gründet Selbsthilfegruppe ++++
 ++++ Zwangsläufig: Nymphomaninnen ++++
 ++++ Zwangsweise: Frau wurde nur durch strenge Erziehung zur Intellektuellen ++++
+++++ Zwei Fliegen mit einer Klappe: Tierfilmer gelingt Aufzeichnung von Paarungsakt auf Anhieb ++++
 ++++ Zwiespältig: Flotter Dreier aus Männersicht ++++
 ++++ Zwo, eins, Risiko: Darkwing Duck ersteigert Brettspiel auf eBay ++++
 ++++ zynischer Tod einer Werbeikone: Kleiner Hunger an Lebensmittelvergiftung gestorben ++++
