@@ -102,6 +102,7 @@
 ++++ Andenken: Barbie erinnert sich an ihren gipfelstürmenden Freund in Peru ++++
 ++++ Anders: Alle Norweger heißen gleich ++++
 ++++ An die große Glocke gehängt: Selbstmord von Pfarrer spricht sich schnell herum ++++
+++++ An die Wand gestellt: Mann hatte Diktatorenporträt nicht ordnungsgemäß aufgehängt ++++
 ++++ An die Wand gestellt: Mann wegen öffentlichen Urinierens hingerichtet ++++
 ++++ Anfängerfehler: Junkie verdrückt sich ++++
 ++++ Angeblicher Durchbruch: Gentechniker macht sich zum Affen ++++
@@ -247,6 +248,7 @@
 ++++ Bei Drogen-Experiment: Kiffer beißt ins Gras ++++
 ++++ Beifuß: Hund apportiert Heilkraut ++++
 ++++ Bei Großwildjagd: Legolas verliert Elfenbein ++++
+++++ Bei ihm brechen alle Dämme: Statiker weint hemmungslos über eigene Unfähigkeit ++++
 ++++ Bei Lichte betrachtet: Dark Room ist auch nur ein Zimmer ++++
 ++++ Beim Shoppen zu wählerisch?: Frau will sich diesen Schuh nicht anziehen ++++
 ++++ Beinahe über den Jordan gegangen: Israeli fiel von Brücke ++++
@@ -635,6 +637,7 @@
 ++++ Entwickelt sich langsam: Säugling hilft schon vorsichtig mit ++++
 ++++ Epidemie: Hunderte in Mülheim an der Ruhr erkrankt ++++
 ++++ Erasmus: Student entdeckte Faible für püriertes Obst im Ausland ++++
+++++ Erbanlage: Ungeschickter Enkel kann mit Opas Plattenspieler nichts anfangen ++++
 ++++ Erbärmlich: Geringer Wohlstand geht auf nächste Generation über ++++
 ++++ Erbrechen: Antikes Gartenutensil über 8 Generationen weitergegeben ++++
 ++++ Erdnüsse: Allergiker verliert beide Beine ++++
@@ -865,6 +868,7 @@
 ++++ Gerissen: Gescheiterter Hochspringer täuscht Muskelverletzung vor ++++
 ++++ Gerissen: Raubtier lauerte Beute auf ++++
 ++++ Gerissen: Windiger Extremsportler verkauft defektes Bungeeseil ++++
+++++ Gerlinde ausgedrückt: Brutaler Frauenmord ++++
 ++++ Gerüchen zufolge: Käse stinkt ++++
 ++++ Geruchsarm: Mann vergisst Deo aufzutragen ++++
 ++++ Geschäft erfolgreich: Holzkünstler kann sich einen Schnitzer leisten ++++
@@ -965,6 +969,7 @@
 ++++ Haarschwund: Franzose irrtümlich rektal untersucht ++++
 ++++ Haarspalterei: Sushikoch sehr penibel bei Auswahl des neuen Messers ++++
 ++++ Haar wuchs ihm über den Kopf: Mann trägt lieber wieder Glatze ++++
+++++ "Habe mich an ihr vergriffen": Gitarrist erklärt Saitensprung ++++
 ++++ Haben ihm übel auf den Magen geschlagen: Kannibale aß verdorbene Kinder ++++
 ++++ Haben ihm übel auf den Magen geschlagen: Kannibale mag keine Kinder mehr ++++
 ++++ Haben sich abgeschossen: Betrunkene Jagdgesellschaft endet in Tragödie ++++
@@ -1471,6 +1476,7 @@
 ++++ Kugelt sich vor Lachen: Bekiffter Igel hat Angst vor Pfützen ++++
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
 ++++ künstlername: ex-modern-talking-star heißt in wirklichkeit genauso und nicht anders ++++
+++++ Kunst oder nicht Kunst: Christo hüllt sich in Schweigen ++++
 ++++ Kurts Biographie: *1890, viel geschrieben, †1935 ++++
 ++++ Kurzatmigkeit: Immer mehr Blechbläser leiden an Tubakulose ++++
 ++++ Kurz und bündig: Minirock passt ++++
@@ -2130,6 +2136,7 @@
 ++++ Schlechter Tweed: Twitter-Nutzer lästert über Qualität seines Markensakkos ++++
 ++++ Schlechtes Fell: Scheues Waldtier muss in Rehhaarklinik ++++
 ++++ Schlecht gestimmt: Sarkozy sauer auf Wähler ++++
+++++ Schlechtwetter: Brite tippt auf Sonnenschein ++++
 ++++ Schlösser, Riegel, Sperren: Ex-Wärter hat mit all dem abgeschlossen ++++
 ++++ Schluss mit lustig: Clowns mit Grimassenvernichtungswaffen angegriffen ++++
 ++++ Schluss mit Lustig: Peter wieder solo ++++
