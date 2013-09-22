@@ -565,9 +565,11 @@
 ++++ EHEC-Epidemie: Bakterium war Einzelltäter ++++
 ++++ Ehepaar komplett verschieden: Beide tot ++++
 ++++ Eher harmlos: Vegetarische Zombies verwüsten Blumenbeet ++++
+++++ Eichenartig: Sächsischer Tischler äußert sich verwundert über Holzbeschaffenheit ++++
 ++++ Eierlegende: Hühner erzählen sich Märchen von der Wollmilchsau ++++
 ++++ Eier toller: Iranischer Revolutionsführer will nicht immer nur Müsli zum Frühstück ++++
 ++++ Ein bisschen abgehoben: Mann fliegt mit Hubschrauber zum Geldautomaten ++++
+++++ Einbußen: Stripperin entblößt sich wegen Lohnkürzung nur noch teilweise ++++
 ++++ Eine ehrliche Haut: Schlägerin gesteht Gewalttaten ++++
 ++++ Eine Granate im Bett: Soldat sorgt für mehr Spannung im Schlafzimmer ++++
 ++++ Eine Haydn-Arbeit: Diplom-Musiker reicht umfangreiche Dissertation ein ++++
@@ -635,6 +637,7 @@
 ++++ Ent spannt: Perverses Baumwesen reagiert gelassen auf Tatvorwurf ++++
 ++++ Enttäuschung steht ihm ins Gesicht geschrieben: Mann wollte andere Tätowierung ++++
 ++++ Entwickelt sich langsam: Säugling hilft schon vorsichtig mit ++++
+++++ ɹəʞɔıʇsʍəu ɹəɥɔsılɐɹʇsnɐ :ɟdoʞ ʇɥəʇs ++++
 ++++ Epidemie: Hunderte in Mülheim an der Ruhr erkrankt ++++
 ++++ Erasmus: Student entdeckte Faible für püriertes Obst im Ausland ++++
 ++++ Erbanlage: Ungeschickter Enkel kann mit Opas Plattenspieler nichts anfangen ++++
@@ -1097,6 +1100,7 @@
 ++++ Hausmeister machen das unter sich aus: Keller bleiben dunkel ++++
 ++++ Haus weg: Immobilienmakler stoßen auf Vertragsabschluß an ++++
 ++++ Haut ab: Chirurg nach illegaler Beschneidung auf der Flucht ++++
+++++ Haut auf den Tisch: Möbeldesigner fordert energisch Lederbezug ++++
 ++++ Häute im Angebot: Günstige Lederwaren ++++
 ++++ Haut einfach so ab: Epidermis löst sich von Bindegewebe ++++
 ++++ Haut nicht hin: Boxer muss Kampf absagen ++++
@@ -1243,6 +1247,7 @@
 ++++ Isst Jacke wie Hose: Motte bei Nahrungsauswahl nicht wählerisch ++++
 ++++ Ist das Ihr Ernst?: Ehefrau muss Unfallopfer identifizieren ++++
 ++++ Ist doch kein Beinbruch: Oberarzt tröstet jungen Internisten nach Fehldiagnose ++++
+++++ Ist ein gemachter Mann: Frau verdient nach Geschlechtsumwandlung mehr Geld ++++
 ++++ Ist ganz aufgekratzt: Allergiker nervös vor erster dermatologischer Behandlung ++++
 ++++ Ist ganz aufgewühlt: Rentner hat Maulwürfe im Garten ++++
 ++++ Ist gebongt: Kassiererin einverstanden mit Kauf ++++
@@ -1735,6 +1740,7 @@
 ++++ Nahm davon keine Notiz: Protokollführer verpasste Sitzung ++++
 ++++ Nahm kein Blatt vor den Mund: Redselige Raupe verhungert ++++
 ++++ Nahm sich ein Herz: Mutiger Chirurg zeigt kleptomanischen Kollegen an ++++
+++++ Nahm viel für sich mit: Kleptomane nach Besuch beim Therapeuten zufrieden ++++
 ++++ Naomi: Supermodel wird wegen fortgeschrittenen Alters gehänselt ++++
 ++++ Napoli: Italienischer Nudeldieb geht Polizei in die Farfalle ++++
 ++++ Nasen-OP missglückt: Schönheitschirurg befürchtet Gesichtsverlust ++++
@@ -2313,6 +2319,7 @@
 ++++ Sport mit Dieter: Bowlen ++++
 ++++ Sprechschule für Tiere erfolglos: Frösche kommen nicht aus dem Quak ++++
 ++++ Sprengsatz: Militär entwickelt erste Handgranate mit Sprachsteuerung ++++
+++++ Spricht Bände: Ehemaliger Filmstar vertont jetzt Hörbücher ++++
 ++++ Spricht mit gespaltener Zunge: Häuptlingssohn glaubt Vater nicht, dass man Messer nicht ablecken soll ++++
 ++++ Springer auf A7: Schachprofi will sich nach spielentscheidendem Fehlzug von Autobahnbrücke stürzen ++++
 ++++ Springt im Dreieck: Ariane Friedrich in Pyramide eingesperrt ++++
