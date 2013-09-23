@@ -252,6 +252,7 @@
 ++++ Bei Lichte betrachtet: Dark Room ist auch nur ein Zimmer ++++
 ++++ Beim Shoppen zu wählerisch?: Frau will sich diesen Schuh nicht anziehen ++++
 ++++ Beinahe über den Jordan gegangen: Israeli fiel von Brücke ++++
+++++ Beindruckend: Erster 3D-Printer für künstliche Gliedmaßen vorgestellt ++++
 ++++ Bei Norditalienbesuch in den Po gestoßen: Papst treibt ab ++++
 ++++ Bei Produktionsfehlern: Pattex haftet nicht ++++
 ++++ Bei Prügelei Schuh verloren: Schläger auf freiem Fuß ++++
@@ -339,6 +340,7 @@
 ++++ Braucht keine Sau: Zölibatärer Zuchteber ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
+++++ Bremsen kaputt: Autofahrer rast in Stechmückenschwarm ++++
 ++++ Bremsen schon wieder defekt: Auto macht Besitzer rasend ++++
 ++++ Briefeinwurf: Postbote gewinnt bei Weltmeisterschaft im Präzisionswerfen von Weichkäse ++++
 ++++ Brillant: König hat einen in der Krone ++++
@@ -1608,6 +1610,7 @@
 ++++ Marktstudie: Rolls Royce immer noch der Rolls Royce unter den Autos ++++
 ++++ Masse statt Klasse: Vierte Newstickerzeile absolut entbehrlich ++++
 ++++ Maßlos traurig: Oktoberfestbesucher ist fast schon bedient ++++
+++++ Maßlos übertrieben: Oktoberfestbesucher betrinken sich direkt am Fass ++++
 ++++ Matheklausur abgeschrieben: Schüler rechnet nicht mehr mit Erfolg ++++
 ++++ Mathelehrer teilt mit: Schüler kann noch nicht alleine dividieren ++++
 ++++ Mathematisch unmöglich: Viele Städte haben mehr als vier Viertel ++++
@@ -1907,6 +1910,7 @@
 ++++ Passt hinten und vorne nicht: Mann unglücklich mit übergroßem Geschlechtsteil ++++
 ++++ Pastorisiert: Geistlicher feiert Amtseinführung mit einem Glas Milch ++++
 ++++ Pech für kleinen Timmy: Traum vom eigenen Luftballon geplatzt ++++
+++++ Peer-to-Peer: Steinbrück und Kusmagk tauschen raubkopierte Musik ++++
 ++++ Peinlich: Herrenausstatter tritt bestem Kunden auf den Schlips ++++
 ++++ Peinlich: Treibsandopfer würde am liebsten im Boden versinken ++++
 ++++ Penis zu kurz: Computer nimmt Passworteingabe nicht an ++++
@@ -2365,6 +2369,7 @@
 ++++ Stiftung Warentest: 10 von 10 Haargels kann man sich in die Haare schmieren ++++
 ++++ Stimmt nachdenklich: Geigenvirtuose träumt von Heavy-Metal-Karriere ++++
 ++++ Stimmt nicht: Klavierbauer hat kein gutes Gehör ++++
+++++ Stimmzettel doch ungültig: Nichtwähler macht drei Kreuze ++++
 ++++ Stinkt zum Himmel: Mönche beharren auf Raucherabtei ++++
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
 ++++ Stofftier verschluckt: Schlange würgt ein wenig steiff ++++
@@ -2856,6 +2861,7 @@
 ++++ Ziehen sich magisch an: Zaubererpaar spart morgens Zeit ++++
 ++++ Ziehen zusammen: Kokainsüchtige gründen Wohngemeinschaft ++++
 ++++ Ziehen zusammen: Pärchen versucht vergeblich, Tür zu gemeinsamer Wohnung zu öffnen ++++
+++++ Zieh Leine: Genervter Pilot wirft Fallschirmspringer aus dem Flugzeug ++++
 ++++ Zieh, Sohn: Vater verleitet Stiefkind zum Rauchen ++++
 ++++ Zieht alle Register: Beamter kämpft tapfer gegen Langeweile ++++
 ++++ Zieht Leine: Mann hat keine Lust mehr auf Wäscheaufhängen ++++
@@ -2924,6 +2930,7 @@
 ++++ Zwangsläufig: Nymphomaninnen ++++
 ++++ Zwangsweise: Frau wurde nur durch strenge Erziehung zur Intellektuellen ++++
 ++++ Zwei Fliegen mit einer Klappe: Tierfilmer gelingt Aufzeichnung von Paarungsakt auf Anhieb ++++
+++++ Zwei Stunden Wurzeln gezogen: Mathematiker lenkt sich mit Kopfrechnen von Zahnbehandlung ab ++++
 ++++ Zwiespältig: Flotter Dreier aus Männersicht ++++
 ++++ Zwo, eins, Risiko: Darkwing Duck ersteigert Brettspiel auf eBay ++++
 ++++ zynischer Tod einer Werbeikone: Kleiner Hunger an Lebensmittelvergiftung gestorben ++++
