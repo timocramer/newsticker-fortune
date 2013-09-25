@@ -393,6 +393,7 @@
 ++++ Daher weht der Wind: Meteorologe wollte keinen Sonnenschein vorhersagen ++++
 ++++ Da ist doch was faul: Gemüse unverschämt billig ++++
 ++++ Da ist was im Bush: Ex-Präsident bekommt Gallensteine entfernt ++++
+++++ Da kann er sich auf den Kopf stellen: Suizidgefährdeter darf nicht zum Mount Rushmore ++++
 ++++ Da kann man nur den Kopf schütteln: Metal-Festival völlig überteuert ++++
 ++++ Da kann man schon mal auf Gedanken kommen: Masturbation ++++
 ++++ Da kann nur ein Wunder helfen: Lazarett hat keine Patienten ++++
@@ -764,6 +765,7 @@
 ++++ Forscher: Schüchterner Wissenschaftler findet heraus, wie Frauen angesprochen werden müssen ++++
 ++++ Forsch: Wissenschaftler missfällt Umgangston im Labor ++++
 ++++ Förster entlassen: Waldbesitzer kündigte wegen Eichenbedarf ++++
+++++ Foyer: Eingangshalle brennt ++++
 ++++ Französischer Freund aus Übersee: Ami ++++
 ++++ Frau hat ihm zugesagt: Mann freut sich auf zweites Date ++++
 ++++ Frau lag daneben: Mann kann auch alleine Spaß im Bett haben ++++
@@ -1220,6 +1222,7 @@
 ++++ In den Knast gewandert: Nordic-Walking-Gruppe überwindet Gefängnisabsperrung ++++
 ++++ In den Sand gesetzt: Taliban-Offensive scheitert an lauffaulen Gotteskriegern ++++
 ++++ In den Schlaf gewogen: Fleischereifachverkäuferin hat zu lange Arbeitszeiten ++++
+++++ In den Schwitzkasten genommen: Frau zerrt unwilligen Ehemann in die Sauna ++++
 ++++ In der Blüte ihres Lebens: Biene arbeitet sich zu Tode ++++
 ++++ In der Cloud: Südasiate hackt Kreditkartendaten ++++
 ++++ In der Ruhr liegt die Kraft: Ministerpräsidentin nimmt Sturz in Fluss gelassen ++++
@@ -1723,6 +1726,7 @@
 ++++ Nachkommen bei Begräbnis unerwünscht: Die jungen Leute sind immer so unpünktlich ++++
 ++++ Nach Lampendiebstahl: Polizei tappt immer noch im Dunkeln ++++
 ++++ Nachlässige Verkehrskontrolle: Polizist lässt einen fahren ++++
+++++ Nach Messen angesagt: Pfarrer hat angeblich den Längsten ++++
 ++++ Nach Mundspülung: Bakterien gehen auf dem Zahnfleisch ++++
 ++++ Nach Polterabend: Angehendes Brautpaar steht vor einem Scherbenhaufen ++++
 ++++ Nach Seebestattung: Osama bin Laden erneut untergetaucht ++++
@@ -1829,9 +1833,11 @@
 ++++ Noch geheim: Neuer Öko-VW fährt mit Golfstrom ++++
 ++++ Nochmal ein Auge zugedrückt: Geldeintreiber behandelt Schuldner mit viel Fingerspitzengefühl ++++
 ++++ Nochmal Schwein gehabt: Sodomist wird rückfällig ++++
+++++ Noch nicht rechtskräftig: Halbseitig Gelähmter wartet auf Reha-Bewilligung ++++
 ++++ Noch viel vor heute: Beschneider hat langen Arbeitstag ++++
 ++++ NORA-Abdruck am Hintern: Thomas Anders setzte sich auf seine vier Buchstaben ++++
 ++++ Normal: Kettensägenmörder sind meist Durchschnittstypen ++++
+++++ Notaufnahme: Kranker Musiker spielt Album in Ambulanz ein ++++
 ++++ Notendruck in der Schule: Schülerprojekt gleitet ins Illegale ab ++++
 ++++ NPD steht vor der Pleite: Kann eine Verstaatlichung helfen? ++++
 ++++ Nudelauflauf: Männliche Exhibitionisten treffen sich zum Essen ++++
@@ -2840,6 +2846,7 @@
 ++++ Woolworth beantragt Insolvenz und sichert sich den Namen "Woolworthless" ++++
 ++++ Workaholic: Erster Sopran lobt Chor in höchsten Tönen ++++
 ++++ Wort gebrochen: Buchstabensuppe war schlechter als versprochen ++++
+++++ Wotan: Nordische Gottheit hilflos beim Online-Banking ++++
 ++++ Wow: Hund bellt mit amerikanischem Akzent ++++
 ++++ Wo zum Henker: Hinzurichtender verzweifelt auf Schafottsuche ++++
 ++++ Wucher: Mann kauft Apfel für 'n Appel und 'n Ei ++++
