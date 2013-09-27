@@ -419,6 +419,7 @@
 ++++ Darum dreht sich alles: Alkohol ++++
 ++++ Das arme Schwein: Bäuerin jagt Bauern in den Stall, weil er zu laut schnarcht ++++
 ++++ Da scheiden sich die Geister: Braucht das Jenseits ein Gericht für nachträgliche Eheauflösungen? ++++
+++++ Da schleift der Ständer auf dem Boden: Radfahrer steht auf scharfe Kurven ++++
 ++++ Das Ende vom Lid: Wimpern ++++
 ++++ Das erklärt einiges: Handbuch unter Sofa aufgetaucht ++++
 ++++ Das gibt ein Donnerwetter: Meteorologe bekommt kein Hoch ++++
@@ -571,6 +572,7 @@
 ++++ Eichenartig: Sächsischer Tischler äußert sich verwundert über Holzbeschaffenheit ++++
 ++++ Eierlegende: Hühner erzählen sich Märchen von der Wollmilchsau ++++
 ++++ Eier toller: Iranischer Revolutionsführer will nicht immer nur Müsli zum Frühstück ++++
+++++ Eiland: Hühner gründen Inselstaat ++++
 ++++ Ein bisschen abgehoben: Mann fliegt mit Hubschrauber zum Geldautomaten ++++
 ++++ Einbußen: Stripperin entblößt sich wegen Lohnkürzung nur noch teilweise ++++
 ++++ Eine ehrliche Haut: Schlägerin gesteht Gewalttaten ++++
@@ -981,6 +983,7 @@
 ++++ Haben ihm übel auf den Magen geschlagen: Kannibale mag keine Kinder mehr ++++
 ++++ Haben sich abgeschossen: Betrunkene Jagdgesellschaft endet in Tragödie ++++
 ++++ Hackfressen: Hässliche Ganoven überfallen Metzgerei ++++
+++++ Haftnotizen: Sträfling verfasst Tagebuch auf Post-its ++++
 ++++ Hagen entlastet: Siegfried starb an Nibelungenkrebs ++++
 ++++ Hahn im Korb: Damenbasketballspiel abgebrochen ++++
 ++++ Hahn im Korb: Schlangenbeschwörer tritt bei Ladies-Night mit Spaßnummer auf ++++
@@ -1127,6 +1130,7 @@
 ++++ Herabgesetzt: Domina demütigt Kunden zum Schnäppchenpreis ++++
 ++++ Herd der Inge: Neues Hobbit-Restaurant in Mittelerde eröffnet ++++
 ++++ "Her mit der Asche!": Gläubiger fordert Rückstände ++++
+++++ Heroin: Weiblicher Superheld zerschlägt Rauschgiftring ++++
 ++++ Herr Schmidt: Altkanzler erklärt direkte Demokratie ++++
 ++++ Hervorragend: Dicke Beule ++++
 ++++ Hervorragender Stauraum: Autobahnkreuz ++++
@@ -1192,6 +1196,7 @@
 ++++ Idealist: Feministischer Turnlehrer leistet Hilfestellung für Frauenbewegung ++++
 ++++ Ideal zum Abnehmen: Light-Wolf hat gerade mal zwei Kalorien ++++
 ++++ Igitt: Geist von totem Lama spuckt nachts im Zoo ++++
+++++ Ihm lief das Wasser im Munde zusammen: Mann gesteht Überfall auf Gourmet-Küche erst nach Waterboarding ++++
 ++++ Ihm sind die Hände gebunden: BDSM-Fetischist kann nichts gegen seine Neigung tun ++++
 ++++ Ihm wurde es zu bunt: Kleinkind zerreißt Malbuch ++++
 ++++ Illegale Feuerwerkskörper: Finger weg ++++
@@ -1523,6 +1528,7 @@
 ++++ Lässt sich hängen: Texanischer Sträfling will nicht mehr in Revision gehen ++++
 ++++ Lässt sich nicht lumpen: Mann verschenkt Kunststoffkleidung ++++
 ++++ Lässt tief blicken: Billighotel schenkt dünnen Kaffee aus ++++
+++++ Lauf an der Pegnitz: Mittelfränkischer Langstreckenläufer erhält Trainingstipp ++++
 ++++ Läuft ja wie geschmiert: Bestochener Sprinter verliert ++++
 ++++ Läuft über: Syrischer Rebell manipuliert Assads Toilette ++++
 ++++ Läuft wie geschmiert: Ermittler erkennt Betrüger sofort an der Gangart ++++
@@ -1950,6 +1956,7 @@
 ++++ Plötzlicher Wintereinbruch: Eskimo legt Bauvorhaben auf Eis ++++
 ++++ Pokal: Gewinner des Imtimrasurwettbewerbs steht fest ++++
 ++++ Polaroid: Eisbär ++++
+++++ Polizei ergreift Partei: NPD-Führung verhaftet ++++
 ++++ Polizei ermittelt: Friseur unter Verdacht der fahrlässigen Tönung ++++
 ++++ Polizei machtlos: Einbruch der Dunkelheit immer früher ++++
 ++++ Polnische Bauern zufrieden: "Wir haben viel Boden gut gemacht." ++++
