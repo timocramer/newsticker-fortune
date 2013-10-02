@@ -215,6 +215,7 @@
 ++++ Aus Steuergründen: Millionär geht stiften ++++
 ++++ Austertraum: Edles Meeresfrüchte-Restaurant ist pleite ++++
 ++++ Aus Überzeugung: China bleibt bei Ein-Kind-Politik ++++
+++++ Ausziehtisch: Striplokal bekommt größeres Mobiliar ++++
 ++++ Autobiografie: K.I.T.T. veröffentlicht seine Memoiren ++++
 ++++ Automaten: Industriell hergestelltes Gemüse kann zu Bauchschmerzen führen ++++
 ++++ Autounfall im Zebragehege: Tiere zum Glück nur gestreift ++++
@@ -352,6 +353,7 @@
 ++++ Brot, Lose, Kunst: Zusammenschluss von Bäcker, Lotterie und Atelier nicht erfolgreich ++++
 ++++ Brotzeit vergessen: Hungriger Maurer verputzte Hauswand ++++
 ++++ Brückentag: Sprayer nutzt langes Wochenende für großes Projekt ++++
+++++ B-Rüssel: Elefanten in belgischem Zoo nur zweite Wahl ++++
 ++++ Brutaler Geschichtsunterricht: Lehrer erklärt Schülern den Krieg ++++
 ++++ Bucht: Familie will ans Meer ++++
 ++++ Bügelt gern Perlen: Kreativer Erzieher doch nicht homosexuell ++++
@@ -1153,6 +1155,7 @@
 ++++ Hier isst der Kunde König: Kannibalen-Restaurant serviert Häuptlingsfleisch ++++
 ++++ Hieß Ledger: Heath ++++
 ++++ Hilft gegen Schleimspuren von Kriechtieren: Schneckentempo ++++
+++++ Hindukusch: Afghane verscheucht lästigen indischen Rosenverkäufer ++++
 ++++ Hingen ihm zum Halse raus: Tierarzt findet Bemerkungen über Pferdetritt in seine Hoden langsam nicht mehr lustig ++++
 ++++ Hinter Gitta: Knacki vernascht Frau am Besuchstag in Hündchenstellung ++++
 ++++ Hinterm Berg gehalten: Viehdieb spricht erstmals über geklautes Pferd ++++
@@ -1365,6 +1368,7 @@
 ++++ Keine Ahnung vom Schlittenfahren: Eskimos gehen vor die Hunde ++++
 ++++ Keine Ausdauer: Schiedsrichter pfeift aus dem letzten Loch ++++
 ++++ Keine Basis für eine gute Beziehung: Polarforscher ließ Polarforscherin zu wenig Freiraum ++++
+++++ Keine Chance mehr: Mann verliert beim Kniffel ++++
 ++++ Keine Energie mehr: Perpetuum-Mobile-Forscher geben auf ++++
 ++++ Keine Frage: Wortkarger Reporter ist fehl am Platz ++++
 ++++ Keine gute Figur gemacht: Miserabler Bildhauer muss Atelier schließen ++++
@@ -2787,6 +2791,7 @@
 ++++ Wenn das Wörtchen wenn nicht wär: das Wörtchen nicht wär ++++
 ++++ Wenn der kleine Hunger kommt: Spermaspuren in Milchreis entdeckt ++++
 ++++ Wer austeilt, muss auch einstecken können: Zeitungsjunge von Passanten verprügelt ++++
+++++ Werden zunehmend weniger: Kinder mit Normalgewicht ++++
 ++++ Wer? Der?!: Norddeutscher Fussballclub überrascht Fans mit neuem Trainer ++++
 ++++ Wer kann da schon Nein sagen: Selbsthilfegruppe für Sprachgestörte gibt Gratisseminare ++++
 ++++ Werkzeugmacher spricht Beileid aus: "Ich schwöre, dass meine Äxte höchsten Qualitätsanforderungen entsprechen!" ++++
@@ -2928,6 +2933,8 @@
 ++++ Zu nah am Wasser gebaut: Kiffer beweint wegschwimmenden Joint ++++
 ++++ Zündapp: Nostalgischer Programmierer startet Motorrad mit Smartphone ++++
 ++++ Zunge gebrochen: Fischers Fritz frischt Fische Fische... Ach verdammt! ++++
+++++ Zunichte gemacht: Onkel ruiniert Kindheit seines Neffen ++++
+++++ Zur Sau gemacht: Zauberer bestraft unfähige Assistentin ++++
 ++++ Zur Schnecke gemacht: Bäcker für gute Teigverarbeitung gelobt ++++
 ++++ Zur Strafe: Ausreißer muss Heim kehren ++++
 ++++ Zusammengefahren: Fußgänger von unerwartetem Elektroauto überrascht ++++
