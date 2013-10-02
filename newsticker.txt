@@ -400,6 +400,7 @@
 ++++ Da kannst du Gift drauf nehmen: Vertreter empfiehlt Lebensversicherung ++++
 ++++ Da könnte ja jeder kommen: Stadt will Billigbordell verhindern ++++
 ++++ Da kullern die Tränen: Leichtathletiktrainer beweint Leistung seiner Hürdenläufer ++++
+++++ Da liegt er falsch: Totengräber verwechselt Grabreihe ++++
 ++++ Dame mit Läufer geschlagen: Schachspieler verprügelt überlegene Kontrahentin mit Teppich ++++
 ++++ Damit kommen sie vor Gericht nicht durch: Schranke vor Justizgebäude wurde rechtswidrig aufgestellt ++++
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
@@ -427,6 +428,7 @@
 ++++ Das hat er sich reetlich verdient: Nordfriese schenkt seinem Sohn ein Dach ++++
 ++++ Das hat gesessen: Mädchen kommt geläutert aus dem Gefängnis ++++
 ++++ Das hätte es früher nicht gegeben: Alte Leute regen sich über Computer auf ++++
+++++ Das ist der Hammer: Mann zieht freiwillig in westfälische Stadt ++++
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
 ++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
@@ -834,6 +836,7 @@
 ++++ Gehen langsam aus: Alte Gigolos ++++
 ++++ Gehen zusammen durch dick und dünn: Darmparasiten sind unzertrennlich ++++
 ++++ Gehheimauftrag: Agent nach Hause geschickt ++++
+++++ Gehört jetzt zum alten Eisen: Betagter Magnet verliert seine Anziehungskraft ++++
 ++++ Gehört sich nicht: Sklave hat schlechte Arbeitsmoral ++++
 ++++ Gehört übers Knie: Unartige Tochter trägt trotz Verbots weiterhin Minirock ++++
 ++++ Gehört zum guten Ton: Töpfer schließt Lehmsversicherung ab ++++
@@ -940,6 +943,7 @@
 ++++ Großer Schritt für die Menschheit: Frau bringt Achtlinge zur Welt ++++
 ++++ Großes Fest: Mann feiert überstandene Durchfallerkrankung ++++
 ++++ Großes Geschäft gemacht: "2 Girls 1 Cup"-Darstellerinnen haben ausgesorgt ++++
+++++ Großes Plus: Flagge steigert Beliebtheit der Schweiz ++++
 ++++ Großkotz: Mann prahlt nach Saufgelage mit Menge seines Erbrochenen ++++
 ++++ Großzügige Skandinavier: Betuchte Lappen lassen sich nicht lumpen ++++
 ++++ Grottenkick: Fußballspiel in Tropfsteinhöhle endet 0:0 ++++
@@ -1122,6 +1126,7 @@
 ++++ Heiliger Stuhl nicht mehr flüssig: Papst von Durchfallerkrankung genesen ++++
 ++++ Heil überstanden: Zeitzeuge berichtet über Holocaust ++++
 ++++ Heineken: Betrunkener Aquariumsbesucher ärgert Knorpelfisch ++++
+++++ Heißes Netzteil: Frau überzeugt Ehemann den Fernseher abzuschalten ++++
 ++++ Heißes Pflaster: Apotheke auf der Reeperbahn abgebrannt ++++
 ++++ Heiße Spur: Internet-Detektiv nimmt Twitterung auf ++++
 ++++ Heiter bis sonnig: Angekündigter Regen entpuppt sich als Schauermärchen ++++
@@ -1210,6 +1215,7 @@
 ++++ Immer al dente: Zahnpasta ++++
 ++++ "Immer auf dem Teppich bleiben!": Anfänger erhalten Tipps von erfahrenem Fakir ++++
 ++++ Immer dasselbe Loch: Gürtel trennt sich von seiner Schnalle ++++
+++++ Immer dasselbe Strickmuster: Serienbankräuber am Pullover identifiziert ++++
 ++++ Immer der Nase nach: Kokser bleibt seiner Linie treu ++++
 ++++ Immer mehr Gewalt an Schulen: Sorge um Rektorsicherheit ++++
 ++++ Immer nur Blasen: Ballerinas zu eng ++++
@@ -2214,6 +2220,7 @@
 ++++ Schwarzer Humor: Schreibfehler auf Onkologiebericht sorgt für Heiterkeit ++++
 ++++ Schwarze Witwe: Frau aus Ghana verliert Mann nach Spinnenbiss ++++
 ++++ Schwarze Zahlen: Unternehmer in Afrika erfolgreich ++++
+++++ Schweine ausgenommen: Schlachtfest begeisterte fast alle ++++
 ++++ Schwein gehabt: Hungriger Moslem pfeift auf religiöse Vorschriften ++++
 ++++ Schwer auszudrücken: Gefühle und Pickel ++++
 ++++ Schwer auszumachen: Warum Fernseher 21 Jahre lang lief, bleibt Rätsel ++++
