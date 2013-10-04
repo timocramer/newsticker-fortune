@@ -1025,6 +1025,7 @@
 ++++ Hat Absatzprobleme: Textverarbeitungsprogramm verkauft sich schlecht ++++
 ++++ Hat alle angesteckt: Lachender Pyromane ++++
 ++++ Hat alle vom Hocker gehauen: Skandalöser Freispruch für Kneipenschläger ++++
+++++ Hat an den falschen Polen rumgefummelt: Warschauer Elektriker bekommt eine gewischt ++++
 ++++ Hat an jedem Event Teil genommen: Ecstasykonsument vom Feiern erschöpft ++++
 ++++ Hat Blut geleckt: Vampirpraktikant von Schnupperwoche begeistert ++++
 ++++ Hat dafür keine Lorbeeren geerntet: Italiener baute nur Wein an ++++
@@ -1140,6 +1141,7 @@
 ++++ Heroin: Weiblicher Superheld zerschlägt Rauschgiftring ++++
 ++++ Herr Schmidt: Altkanzler erklärt direkte Demokratie ++++
 ++++ Hervorragend: Dicke Beule ++++
+++++ Hervorragende Kundenbindung: Domina arbeitet erfolgreich ++++
 ++++ Hervorragender Stauraum: Autobahnkreuz ++++
 ++++ Herzinfarkt: Priester stirbt beim Versuch, Springteufel zu exorzieren ++++
 ++++ Herzlos: Organhändler liefert nicht ++++
@@ -1239,6 +1241,7 @@
 ++++ In den Schwitzkasten genommen: Frau zerrt unwilligen Ehemann in die Sauna ++++
 ++++ In der Blüte ihres Lebens: Biene arbeitet sich zu Tode ++++
 ++++ In der Cloud: Südasiate hackt Kreditkartendaten ++++
+++++ In der Regel nicht zu schaffen: Triathlon-Schwimmstrecke von Piranhas bewohnt ++++
 ++++ In der Ruhr liegt die Kraft: Ministerpräsidentin nimmt Sturz in Fluss gelassen ++++
 ++++ In der Truhe liegt der Saft: Tenor findet endlich Hohes C ++++
 ++++ In der Vergangenheit verhaftet: Nostalgischer Verbrecher will wieder in den Knast ++++
@@ -1372,6 +1375,7 @@
 ++++ Keine Energie mehr: Perpetuum-Mobile-Forscher geben auf ++++
 ++++ Keine Frage: Wortkarger Reporter ist fehl am Platz ++++
 ++++ Keine gute Figur gemacht: Miserabler Bildhauer muss Atelier schließen ++++
+++++ Keine Knete: Kindergarten fehlt Geld für Bastelmaterial ++++
 ++++ Keine Kohle: Grill abgebrannt ++++
 ++++ Keine Kohle mehr: Bergmann kann Zeche nicht zahlen ++++
 ++++ Keine Kröten mehr: Biologen fehlt Geld für weitere Versuchstiere ++++
@@ -1817,6 +1821,7 @@
 ++++ Nicht mit Samthandschuhen angefasst: Museum feuert Wärter wegen Fingerabdrücken auf Kunstwerk ++++
 ++++ Nicht rechtzeitig fertig geworden: Schlachter hat Hühnchen mit Lehrling zu rupfen ++++
 ++++ Nicht richtig im Oberstübchen: Patient aus Turmzimmer auf Psychiatrie verlegt ++++
+++++ Nichtsahnend: Arbeiter verheimlichen Molkereiboss defekte Rahmzentrifuge ++++
 ++++ Nichts als Rügen: Ostseeinsel-Urlauber unzufrieden ++++
 ++++ Nicht schwindelfrei: Artist lügt bei Vorstellungsgespräch ++++
 ++++ Nichts darf passieren: Sicherheitswahn legt Verkehr lahm ++++
@@ -1855,6 +1860,7 @@
 ++++ Normal: Kettensägenmörder sind meist Durchschnittstypen ++++
 ++++ Notaufnahme: Kranker Musiker spielt Album in Ambulanz ein ++++
 ++++ Notendruck in der Schule: Schülerprojekt gleitet ins Illegale ab ++++
+++++ Not kennt kein Gebot: Mundraub bei Lebensmittelauktion ++++
 ++++ NPD steht vor der Pleite: Kann eine Verstaatlichung helfen? ++++
 ++++ Nudelauflauf: Männliche Exhibitionisten treffen sich zum Essen ++++
 ++++ Null Block: Volleyballer hat keine Lust mehr ++++
@@ -2098,6 +2104,7 @@
 ++++ Rühren Sie das nicht an: Koch rät Lehrling von Tütensuppen ab ++++
 ++++ Ruin für Malermeister: Farbe im Eimer ++++
 ++++ Rum statt Ähre: Piraten feiern Enterdankfest ++++
+++++ Rund gemacht: Modell kritisiert Künstler nach völlig verfehltem Aktportrait ++++
 ++++ Rundungsfehler: Brust-OP schief gegangen ++++
 ++++ Rüstungsinnovation: Neue Rakete schlägt ein wie eine Bombe ++++
 ++++ Sabbat: Juden läuft beim Gedanken an Freitag Wasser im Munde zusammen ++++
