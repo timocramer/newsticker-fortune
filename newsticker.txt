@@ -284,6 +284,7 @@
 ++++ Beschützerinstinkt: Leibwächterin wehrt Buttersäureangriff ab ++++
 ++++ Beschwerde: Restaurantgast findet ein H in Buchstabensuppe ++++
 ++++ Beschweren sich ständig: Arbeitsbedingungen liefern Marinetauchern allen Grund ++++
+++++ Beschwerte sich vergeblich: Lebensmüder nach Brückensprung gerettet ++++
 ++++ Besenrein: Darkroom trotz bizarrer Spiele sehr sauber ++++
 ++++ Besessen: Frau verkaufte Hab und Gut unter Dämoneneinfluss ++++
 ++++ Besorgniserregend: Immer mehr Schafstoffe in Wollpullovern ++++
@@ -785,6 +786,7 @@
 ++++ Frisch gestrichen: Supermarkt bietet während Renovierung nur Konserven ++++
 ++++ Frisch verliebt: Extremsportler kauft Paraglidecreme ++++
 ++++ Frivol: Nackter Pfarrer hält Erotikmesse ++++
+++++ Frohlockend: Frisuermeisterin ist stets gut gelaunt ++++
 ++++ Frosch im Hals: Miss Piggy nach Oralsex total heiser ++++
 ++++ Früher oder später kommt's raus: Frau verschweigt Schwangerschaft ++++
 ++++ Frustration: Hungriger Gast wird in 5-Sterne-Restaurant nicht satt ++++
@@ -872,6 +874,7 @@
 ++++ Gelber Sack: Chinesischer Nachbar trennt seinen Müll nicht ++++
 ++++ Gelöst: Chemiker begießt Kreuzworträtsel mit Säure ++++
 ++++ Gemeine Fangfragen: Mann fällt durch Angelprüfung ++++
+++++ Genau nach seiner Vorstellung: Bewerber wird sofort eingestellt ++++
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
 ++++ Gentechnik-Panne: Labormaus ist ganz Ohr ++++
@@ -1464,6 +1467,7 @@
 ++++ Konnte doch noch bei ihm landen: Flotte Biene traf ihren alten Schwarm wieder ++++
 ++++ Könnte eine Ente sein: Citroën will Model 2CV neu auflegen ++++
 ++++ Konnte einen Teilerfolg erzielen: Moses am Roten Meer ++++
+++++ Konnte er ihm nicht ausschlagen: Zahnarzt zog Zahn auf Bitte des Patienten dann doch ++++
 ++++ Konnte er nicht durchgehen lassen: Türsteher verprügelt frechen Discogast ++++
 ++++ Konnte es mit ihm einfach nicht aufnehmen: Schüchterner Musiker entlässt dominanten Tontechniker ++++
 ++++ Konnte ihn damit nicht anmachen: Frau warf Dessous enttäuscht in den Ofen ++++
@@ -1913,6 +1917,7 @@
 ++++ Olle Kamellen: Gesundheitsamt schließt Bonbonfabrik ++++
 ++++ Oma packt es nicht: Enkel erkennt Geschenk sofort ++++
 ++++ OMg: Internetgemeinde begeistert von Sauerstoff-Magnesium-Verbindung ++++
+++++ O'Neal: Ehemaliger Basketballprofi schreibt Hymne an ägyptischen Fluss ++++
 ++++ Online-Samenspende immer beliebter: ~~~o ~~~o ~~~o ++++
 ++++ Opiumgefahren: Rauschgiftsüchtiger Rentner stirbt bei Verkehrsunfall ++++
 ++++ Optisch ansprechend: Chirurg erfreut über neue Arbeitsunterlage ++++
@@ -2631,6 +2636,7 @@
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Veltins Bier: Mann erleidet Unfall bei Brauereibesichtigung ++++
 ++++ Verdammte Axt: Holzfäller hackt sich ins Bein ++++
+++++ Verdammt: Holland von Anstieg des Meeresspiegels nicht betroffen ++++
 ++++ Verdammt lang hair: Sänger von BAP erinnert sich an seinen letzen Friseurbesuch ++++
 ++++ Verdient unterm Strich mehr: Ehemalige Prostituierte heuert bei Kanalreinigungsunternehmen an ++++
 ++++ Verdreht Frauen den Kopf: Exorzist-Drehbuchschreiber ++++
@@ -2718,6 +2724,7 @@
 ++++ Von Mutter vernachlässigt: Schraube hat nichts mehr zum Anziehen ++++
 ++++ Von Pontius zu Pilatus gelaufen: Marathonläufer kämpft für bessere Streckenmarkierung ++++
 ++++ Von Tauben beschissen: Statue für naiven Ohrenarzt errichtet ++++
+++++ Von Voyeurismus erregt: Frau findet Perversen spannend ++++
 ++++ Von Wegen: Adelstitel war gefälscht ++++
 ++++ Von wegen Mobbing: Homosexueller Rekrut dreht Spieß einfach um ++++
 ++++ Von wegen prägnant: Frau braucht neun Monate um etwas auszudrücken ++++
