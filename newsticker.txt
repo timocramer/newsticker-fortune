@@ -133,6 +133,7 @@
 ++++ Ärger vorprogrammiert: Firma verkauft Software mit integriertem Virus ++++
 ++++ Arm: Die Kirchenmäuse des Kölner Doms sammeln für eine Käseglocke ++++
 ++++ Armer Schlucker: Callboy verdient nicht gut ++++
+++++ Armselig: Geistlicher bereichert sich durch die Segnung von Gliedmaßen ++++
 ++++ Arschkalt: Minirock zu kurz ++++
 ++++ Artemis: Kultursender langweilt mit griechischer Mythologie ++++
 ++++ Artgerechte Untersuchungshaft: Sauerlandbomber sitzen in Terrorzellen ++++
@@ -1014,6 +1015,7 @@
 ++++ Hängen sich gern an Kleinigkeiten auf: Lebensmüde Liliputaner ++++
 ++++ Hängen zusammen im Keller ab: Jugendliche helfen bei der Wäsche ++++
 ++++ Hängt es an die große Glocke: Angeberischer Handwerker erneuert Zugseil ++++
+++++ Han im Korps: Einziger Mann in anti-imperialer Rebellenarmee ist Solo ++++
 ++++ Hanoi: Schwabe bucht trotz mehrfachen Widerspruchs Reise nach Vietnam ++++
 ++++ Hart an der Grenze: Reise-Ratgeber zur Vermeidung von Erektionen bei Körperkontrollen veröffentlicht ++++
 ++++ Harter Job: Bahnmitarbeiter bringt Fahrgäste zur Strecke ++++
@@ -1246,6 +1248,7 @@
 ++++ In der Truhe liegt der Saft: Tenor findet endlich Hohes C ++++
 ++++ In der Vergangenheit verhaftet: Nostalgischer Verbrecher will wieder in den Knast ++++
 ++++ In der Zwickmühle: Müller muss Gattin blaue Flecken erklären ++++
+++++ In die Eier getreten: Jähzorniger Geflügelfarmer bestraft unvorsichtigen Knecht ++++
 ++++ In die Parade gefahren: Chauffeur ruiniert Kim Jong Uns Heerschau ++++
 ++++ In die Pfanne gehauen: Junge (9) verbrennt sich die Hand ++++
 ++++ In diesem Aufzug unerwünscht: Liftboy verweigert Obdachlosem den Zutritt ++++
@@ -1613,6 +1616,7 @@
 ++++ Macht Liebe blind?: Einäugiger wirft Auge auf junge Frau ++++
 ++++ Macht Nägel mit Köpfen: Kannibale meldet Patent auf Rezept an ++++
 ++++ Macht nichts: Senior Assistant Vice Chief Executive Officer entlassen ++++
+++++ Macht Riesen Spaß: Zwergenweitwurf ++++
 ++++ Machtvoll: Absinth haut den stärksten Mann um ++++
 ++++ Mag's bar: Insolvente Baumarktkette akzeptiert keine Kreditkarten mehr ++++
 ++++ Mag sein: Ontologe liebt seinen Beruf ++++
@@ -1934,6 +1938,7 @@
 ++++ Parkinson: Kranker Vater überreicht Sohn Auto- und Garagenschlüssel ++++
 ++++ Parlamentarier: NPD-Abgeordneter glaubt, allen anderen überlegen zu sein ++++
 ++++ Passen zusammen: Eber ist dumm wie Sau ++++
+++++ Passiert Halt: Bus lässt Fahrgäste stehen ++++
 ++++ Passionsfurcht: Mann hat Angst vor Ostern ++++
 ++++ Passt hinten und vorne nicht: Mann unglücklich mit übergroßem Geschlechtsteil ++++
 ++++ Pastorisiert: Geistlicher feiert Amtseinführung mit einem Glas Milch ++++
@@ -2739,11 +2744,13 @@
 ++++ War gut drauf: Mann gewinnt beim Rodeo ++++
 ++++ War ihm ans Herz gewachsen: Mann lässt sich Tumor nur widerwillig entfernen ++++
 ++++ War ihm dann doch zu heiß: Mann sieht von Überfall auf Saunaparadies ab ++++
+++++ War ihm zu mächtig: Kim Jong-Un lässt Buttercremetorte verbieten ++++
 ++++ War kein Frosch: Nudist von Storch gebissen ++++
 ++++ War Lecker: Schlabbernder Hund landete in der Pfanne ++++
 ++++ Wärmstens zu empfehlen: Glühwein ++++
 ++++ Warm und feucht: Wetter outet sich als schwül ++++
 ++++ War nicht angemessen: Anzug von der Stange ++++
+++++ War nur ein kleiner Fisch: Ermittlungen gegen Tierschmuggler wegen Geringfügigkeit eingestellt ++++
 ++++ War reserviert: Introvertierter Mann bekam keinen Tisch im Restaurant ++++
 ++++ War schon eingelaufen: Boxer fiel zu enge Hose erst im Ring auf ++++
 ++++ "Warum funktioniert das Ding nicht?": Rasensprengerverkäufer steht auf dem Schlauch ++++
