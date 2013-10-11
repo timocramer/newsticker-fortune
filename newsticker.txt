@@ -95,6 +95,7 @@
 ++++ Am Boden: Frau zutiefst unglücklich über ihre Hängebrüste ++++
 ++++ Am Boden: Turner beim Handstand gestürzt ++++
 ++++ Am Boden zerstört: Selbstmordattentäter konnte Flugzeug nicht starten ++++
+++++ Am laufenden Band: Menstruierende Frau erkennt, dass sie schon wieder Tampon wechseln muss ++++
 ++++ Analanalphabet: Mann kann seine eigenen vier Buchstaben nicht lesen ++++
 ++++ An den Haaren herbeigezogen: Friseur bestreitet gewaltsame Kundenbeschaffung ++++
 ++++ An den Haaren herbeigezogen: Friseur weist Körperverletzungsvorwürfe zurück ++++
@@ -204,6 +205,7 @@
 ++++ Ausgerechnet: Computer kaputt ++++
 ++++ Ausgerechnet: Mathematikgenie stirbt bei Routine-Wurzelbehandlung ++++
 ++++ Ausgeschlossen: Mann weigert sich, den Schlüsseldienst zu rufen ++++
+++++ Ausgesprochen schwierig: Wortwitze, die Schriftform benötigen ++++
 ++++ Ausgezeichnet: Karikaturist bricht sich die Hand ++++
 ++++ Ausgezogen: WG zu prüde ++++
 ++++ Auskommen im Alter: Nachkommen müssen laut Abkommen vollkommen für Einkommen aufkommen ++++
@@ -467,6 +469,7 @@
 ++++ Da wird er Augen machen: Mann bekommt Arbeitsplatz in Kuscheltiermanufaktur gezeigt ++++
 ++++ Dax im Keller: Frau ruft Kammerjäger ++++
 ++++ Dazu braucht man Eier: Mann backt Kuchen in freier Wildnis ++++
+++++ Dealen Knarren: Waffenhändler wollen neuen Holzfußboden im Hauptquartier ++++
 ++++ Defektes Sicherheitsnetz: Hochseilakrobat unten durch ++++
 ++++ Déjà-vu: 50% der Leser meinen, diese Tickerzeile schon einmal gelesen zu haben ++++
 ++++ Déjà-vu: Déjà-vu ++++
@@ -1504,6 +1507,7 @@
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
 ++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
 ++++ Krummes Ding: Betrüger ergaunert Banane ++++
+++++ Krummes Ding gedreht: Banane fährt Karussell ohne zu bezahlen ++++
 ++++ Krummes Ding gedreht: Bankräuber feiert Coup mit selbstgebauter Zigarette ++++
 ++++ Kugelt sich vor Lachen: Bekiffter Igel hat Angst vor Pfützen ++++
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
@@ -1686,6 +1690,7 @@
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mit Pauken und Trompeten durchgefallen: Bauaufsicht bemängelt maroden Fußboden im Orchestergraben ++++
+++++ Mit Rappen zum Millionär: Schweizer Straßenmusiker setzt sich zur Ruhe ++++
 ++++ Mit seinem riesigen Messer: Attentäter stach Passanten sofort ins Auge ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
 ++++ Mit spitzer Feder: Kritiker erledigt Romanautor ++++
@@ -2147,6 +2152,7 @@
 ++++ Schamlos: Barbie macht die Beine breit ++++
 ++++ Schanze nicht genutzt: Führer hätte im Hauptquartier überleben können ++++
 ++++ Schattenwirtschaft: Razzia in illegalem Waldbiergarten ++++
+++++ Schätzt das Risiko: Mutiger Statistiker verzichtet auf genaue Berechnungen ++++
 ++++ Scheideweg: Frau vor Geschlechtsumwandlung im Zwiespalt ++++
 ++++ Scheidung einer Hundeehe: Er war Rüde ++++
 ++++ Schein heilig: Pfarrer plündert Klingelbeutel ++++
@@ -2624,6 +2630,7 @@
 ++++ Vampire wissen es längst: Kürbisse sind an Halloween Pflicht ++++
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Veltins Bier: Mann erleidet Unfall bei Brauereibesichtigung ++++
+++++ Verdammte Axt: Holzfäller hackt sich ins Bein ++++
 ++++ Verdammt lang hair: Sänger von BAP erinnert sich an seinen letzen Friseurbesuch ++++
 ++++ Verdient unterm Strich mehr: Ehemalige Prostituierte heuert bei Kanalreinigungsunternehmen an ++++
 ++++ Verdreht Frauen den Kopf: Exorzist-Drehbuchschreiber ++++
