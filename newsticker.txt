@@ -410,6 +410,7 @@
 ++++ Dame mit Läufer geschlagen: Schachspieler verprügelt überlegene Kontrahentin mit Teppich ++++
 ++++ Damit kommen sie vor Gericht nicht durch: Schranke vor Justizgebäude wurde rechtswidrig aufgestellt ++++
 ++++ Damit konnte niemand rechnen: Abakus kaputt ++++
+++++ Damit konnte niemand rechnen: Bundeswehr sucht Mathematiker für mehrere Divisionen ++++
 ++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
 ++++ Da muss man erst mal drauf kommen: Sex auf dem Baukran ++++
@@ -483,9 +484,11 @@
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
 ++++ Den Luciano: Bayerische Frauen denken bei Pavarotti-Arien an Oralsex ++++
 ++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
+++++ Den Plunder geraubt: Klaus störte Bäcker bei der Arbeit ++++
 ++++ Den Studenten stinkt's: Proktologe bringt Lehrstuhl mit in die Vorlesung ++++
 ++++ Depp, adieu!: Franzosen lassen Schauspieler gerne nach Russland ziehen ++++
 ++++ Depressionen: Astronaut empfindet Alltag als düster ++++
+++++ Der gefällt ihr nicht: Kundin will anderen Artikel ++++
 ++++ Der gerät in Vergessenheit: Kaum jemand spricht noch über "Döner-Roboter" ++++
 ++++ Der Hammer: Leichtathlet gibt seinem Trainer nach heftigem Diskus die Kugel und verletzt ihn Speer ++++
 ++++ Der hat doch einen an der Waffel: Dummer Mann übersieht Eislöffel ++++
@@ -1087,6 +1090,7 @@
 ++++ Hat sich aufs Ohr gehauen: Masochist schläft nach autoerotischen Handlungen ein ++++
 ++++ Hat sich aus dem Staub gemacht: Künstler kreiert Selbstportrait aus Dreck ++++
 ++++ Hat sich ausgezahlt: Croupier veruntreut Gelder ++++
+++++ Hat sich breit schlagen lassen: Freunde überreden Kiffer zu Dominabesuch ++++
 ++++ Hat sich den Arsch aufgerissen: Mann gewinnt Kampf gegen Verstopfung ++++
 ++++ Hat sich die Hörner abgestoßen: Junger Dämon bei Junggesellenabschied schwer verletzt ++++
 ++++ Hat sich eine gefangen: Kidnapper wird von Geisel geohrfeigt ++++
@@ -1214,6 +1218,7 @@
 ++++ Idealist: Feministischer Turnlehrer leistet Hilfestellung für Frauenbewegung ++++
 ++++ Ideal zum Abnehmen: Light-Wolf hat gerade mal zwei Kalorien ++++
 ++++ Igitt: Geist von totem Lama spuckt nachts im Zoo ++++
+++++ Ihm fehlen die Worte: Texter entlassen ++++
 ++++ Ihm lief das Wasser im Munde zusammen: Mann gesteht Überfall auf Gourmet-Küche erst nach Waterboarding ++++
 ++++ Ihm sind die Hände gebunden: BDSM-Fetischist kann nichts gegen seine Neigung tun ++++
 ++++ Ihm wurde es zu bunt: Kleinkind zerreißt Malbuch ++++
@@ -1707,6 +1712,7 @@
 ++++ Modischer Knastbruder: PKK-Führer Öcalan trägt Kurdhosen ++++
 ++++ Monoton: Musikstudent paukt fürs Examen ++++
 ++++ Mord im Dark Room: Polizei tappt im Dunkeln ++++
+++++ Mordkompott: Ehefrau und ihr Geliebter töten Mann mit vergiftetem Obstmus ++++
 ++++ Mordprozess: Strafverteidiger überzeugt mit Totschlagargument ++++
 ++++ Morgens angenehm feucht in der Nase: Tauziehen ++++
 ++++ Muckefuck: Genervter Discobesucher wirft Kaffetasse auf DJ ++++
@@ -2780,6 +2786,7 @@
 ++++ Was für ein Riesenarsch: Chef mobbt Mitarbeiterin wegen ihres Hinterns ++++
 ++++ Was für ein Spaten: Dummer Gärtner prahlt mit seinem Arbeitsgerät ++++
 ++++ Was für Fotzen!: Verfickter Tourettungswagen kommt zu spät ++++
+++++ "Was geht ab?": Junger Tapezierer versteht Reklamation nicht ++++
 ++++ Was gibt es zu Kapern?: Ratlose Piraten in der Kombüse ++++
 ++++ Was ihn da wohl geritten hat: Mann behauptet Sex mit Alien ++++
 ++++ Was ist nur in ihn gefahren?: Mann will Unfallflüchtigen auf eigene Faust schnappen ++++
