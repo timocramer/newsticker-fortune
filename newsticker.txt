@@ -340,6 +340,7 @@
 ++++ Boxer stolz: Sohn schlägt sich gut in der Schule ++++
 ++++ Brach ein: Sprintstarker Ganove nach Verfolgungsmarathon gefasst ++++
 ++++ Brach in Tränen aus: Entflohenem Häftling fiel der Abschied schwer ++++
+++++ Brand durch Fette verursacht: Teilnehmer von Weight-Watchers-Kochkurs unachtsam ++++
 ++++ Brandtstiftung: Nachlass von früherem Kanzler fällt Flammen zum Opfer ++++
 ++++ Brät Pitt: Kanibale verspeist Schauspieler ++++
 ++++ Braucht keinen Grund: Stadt sprengt Denkmal aus Spaß ++++
@@ -418,6 +419,7 @@
 ++++ Da muss sie erstmal schlucken: Pornodebütantin bekommt harte Auflagen ++++
 ++++ Danach kräht kein Hahn mehr: Bauer schlachtet noch wie im Mittelalter ++++
 ++++ Danach kräht kein Hahn mehr: Vogelgrippe ++++
+++++ "Danke, aber mich zerreisst's gleich!": Taliban lehnt Gratissnack in US-Botschaft ab ++++
 ++++ Daran führt kein Weg vorbei: Drive-In-Lokal muss Insolvenz anmelden ++++
 ++++ Darauf ein Hoch: Wetterkarte ++++
 ++++ Darauf kann man seinen Arsch verwetten: Croupier nimmt jeden Einsatz an ++++
@@ -445,6 +447,7 @@
 ++++ Das kann ja wohl nicht angehen: Elektroinstallateur vergisst Lichtschalter ++++
 ++++ Das kann ja wohl nicht wahr sein: Lügendetektor schon wieder kaputt ++++
 ++++ Das kotzt ihn an: Babysitter will nicht mehr auf magenkrankes Kind aufpassen ++++
+++++ Das muss man ihm lassen: Schuldner kennt sich im Pfändungsrecht exzellent aus ++++
 ++++ Das musste er mit anderen teilen: Moses hatte Spaß am Meer ++++
 ++++ Das nagt an ihm: Mann muss Frettchen leider ins Tierheim geben ++++
 ++++ "Das nehme ich Ihnen nicht ab": Chirurg verweigert hypochondrischem Patienten eine Beinamputation ++++
@@ -454,6 +457,7 @@
 ++++ Das sind Aldehyde: CHO-Verbindungen schon sehr lange bekannt ++++
 ++++ "Das sind doch nur wilde Spekulationen!": Deutsche-Bank-Chef spielt Risikobanking-Vorwürfe herunter ++++
 ++++ Das sollte ihm eine Lehre sein: Junger Mann verliert Ausbildungsplatz ++++
+++++ Das Spiel gedreht: Schachprofi gewinnt durch geschicktes Manöver doch noch ++++
 ++++ Da steht nix: Buch für impotente Männer enttäuschend ++++
 ++++ Das war das letzte Mal: Patient klagt über schmerzhafte Leberfleckentfernung ++++
 ++++ Das wäre ja noch schöner: Krankenkasse zahlt Model kosmetischen Eingriff nicht +++
@@ -1438,6 +1442,7 @@
 ++++ Kleine Tochter hat ihm die Augen geöffnet: Auch am Wochenende kann man schon um 6 Uhr aufstehen ++++
 ++++ Kleinkariert: Lehrerin bestraft Musterschüler ++++
 ++++ Kleinkind am Boden zerstört: Schäferhund zog Leine ++++
+++++ "Klingt komisch, isst aber so!": Frau verteidigt schmatzenden Mann ++++
 ++++ Klopft auf Holz: Lebend Begrabener hofft, zeitnah bemerkt zu werden ++++
 ++++ Klotz am Bein: Mafia beseitigt Kronzeugen ++++
 ++++ Knall auf Fall: Kriminalbeamter nach Verbrechensaufklärung in psychologischer Behandlung ++++
@@ -1732,6 +1737,7 @@
 ++++ Muss erst wieder reinkommen: Single hat nach langer Zeit mal wieder Sex ++++
 ++++ Muss kleine Brötchen backen: Bäcker spürt Getreidemangel am eigenen Laib ++++
 ++++ Muss künftig kürzer treten: Schlägertyp hat gesundheitliche Probleme ++++
+++++ Muss man alles aus der Nase ziehen: Wortkarger Ägyptologe erklärt Mumifizierung ++++
 ++++ Muss man sich auf der Zunge zergehen lassen: In Kot sind Nährstoffe enthalten ++++
 ++++ Muss nicht zum Bund: Hippie kommt ungeschoren davon ++++
 ++++ Muss noch viele Stellen streichen: Malerbetrieb vorerst nicht bankrott ++++
@@ -2005,6 +2011,7 @@
 ++++ Polnische Bauern zufrieden: "Wir haben viel Boden gut gemacht." ++++
 ++++ Pony geschnitten: Tierquäler mit neuer Frisur noch grausamer ++++
 ++++ Pony und Kleid: Gangsterpärchen lebt merkwürdigen Fetisch aus ++++
+++++ Prägnant: Englisches Wort für "schwanger" leicht zu merken ++++
 ++++ Praktisch: Fliesenleger macht seiner Angebeteten den Hof ++++
 ++++ Präsentation mit Köpfchen: Henker erklärt seinen Beruf mithilfe von Fallbeilspielen ++++
 ++++ Pressemitteilung: Alles zerquetscht ++++
