@@ -781,6 +781,7 @@
 ++++ Flucht fortgesetzt: Ausbrecher spart nicht mit Kraftausdrücken ++++
 ++++ Flüchtigkeitsfehler: Gefängnisausbruch gescheitert ++++
 ++++ Flutlicht: Passau lässt Innenstadt beleuchten ++++
+++++ Folgerichtig: Beliebter Stalker-Ratgeber wird neu aufgelegt ++++
 ++++ Förderung eingestellt: Kohle nicht mehr subventioniert ++++
 ++++ Forellen: Englischer Fischer widmet Fang seiner Freundin ++++
 ++++ Forscher: Schüchterner Wissenschaftler findet heraus, wie Frauen angesprochen werden müssen ++++
@@ -885,6 +886,7 @@
 ++++ Gelöst: Chemiker begießt Kreuzworträtsel mit Säure ++++
 ++++ Gemeine Fangfragen: Mann fällt durch Angelprüfung ++++
 ++++ Genau nach seiner Vorstellung: Bewerber wird sofort eingestellt ++++
+++++ Gendarm: Französischer Polizist enthüllt Fleischskandal ++++
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
 ++++ Gentechnik-Panne: Labormaus ist ganz Ohr ++++
@@ -1077,6 +1079,7 @@
 ++++ Hat Hand und Fuß: Genexperiment mit Blindschleiche geglückt ++++
 ++++ Hat hingehauen: Vater züchtigt Kind erfolgreich ++++
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
+++++ Hat ihm gezeigt, was 'ne Harke ist: Mann total genervt von Nachbar mit Laubbläser ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat ihr schöne Augen gemacht: Patientin verliebt sich in Schönheitschirurgen ++++
 ++++ Hat jetzt eine heiße Spur: Detektiv macht sich vor Freude in die Hose ++++
@@ -1198,6 +1201,7 @@
 ++++ Hochzeit: Eheschließung bei stabiler Wetterlage ++++
 ++++ Hohe Durchfallquote: 9 von 10 Schreinerlehrlingen verkacken bei Stuhlprobe ++++
 ++++ Hohe Ehrung: Nobelpreiskomitee erhält Sondernobelpreis für Coolness ++++
+++++ Hohe Marge: Simpsons-Macher verdienen viel Geld mit überteuerter lebensgroßer Puppe ++++
 ++++ Hohe Rechenleistung: Gärtner kauft neuen Computer nach Gehaltserhöhung ++++
 ++++ Hohlister: Urlauber fällt auf gefälschtes Mode-Label rein ++++
 ++++ Holzauge sei wachsam: Pinocchio am Lagerfeuer eingeschlafen ++++
@@ -2349,6 +2353,7 @@
 ++++ So ein Schlitzohr: Friseur versteckt kleines Malheur gekonnt unter Dauerwelle ++++
 ++++ So ein Schweinehund: Kreuzung bei Rot überfahren ++++
 ++++ So ein Twixer: Mr. Tom snickert Kit-Kat an den Mars und bekommt voll in die Nuts ++++
+++++ Sofort Latte bekommen: Kunden gefällt Starbucks-Kellnerin ++++
 ++++ So gut wie nie: Lob für Mitarbeiter ++++
 ++++ So kann es nicht weitergehen: Bauer schläfert lahmendes Pferd ein ++++
 ++++ So lala: Neues Musical erhält mittelmäßige Kritiken ++++
@@ -2682,6 +2687,7 @@
 ++++ Verputzt: Kannibale bestraft unfähige Reinigungskraft ++++
 ++++ Verrückt: Hochschwangere verschiebt Klavier ohne Hilfe ++++
 ++++ Verrückt: Psychiater blockiert Praxistür mit Sofa ++++
+++++ Versäumt viel: Näherin konzentriert sich ganz auf ihre Arbeit ++++
 ++++ Verschluckt sich ständig: Vampir klagt über zu hohen Blutdruck ++++
 ++++ Verschluckungsgefahr: Krokodile nicht für Kleinkinder geeignet ++++
 ++++ Verschossen: Schütze trifft Offizier ++++
@@ -2963,6 +2969,7 @@
 ++++ Zu großer Vorsprung: Führender des Wingsuit-Flugwettbewerbs prallt gegen Fels ++++
 ++++ Zu gut: Gewiefter Ladendieb steckt Kaufhausdetektive in die Tasche ++++
 ++++ Zug verpasst: Schachspieler von Turnier ausgeschlossen ++++
+++++ Zu hoch gepokert: Bergsteigergruppe erfriert bei Kartenspiel ++++
 ++++ Zu klein geraten: Mann schätzt Eiffelturm auf 290 Meter ++++
 ++++ Zu klein: Zwerg Zugang zum Riesenrad verwehrt ++++
 ++++ Zu komisch: Clown in Lachhaft genommen ++++
