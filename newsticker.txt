@@ -543,6 +543,7 @@
 ++++ Discounterwasser: Neuer Billig-Sprudel überschwemmt die Clubs ++++
 ++++ Diskrete Hilfe für Namenlose: Unbekannter gründet Anonyme Anonyme ++++
 ++++ Distinguierter Killer: Kettensägenmörder tötet mit Stihl ++++
+++++ Dixieland: Mobilklolager mit Südstaatenkapelle eröffnet ++++
 ++++ Doch kein Druckfehler: Frühreife Jugendliche von Oraniermarsch enttäuscht ++++
 ++++ Doch keine Busen-Freunde: Beste Kumpel outen sich als Pärchen ++++
 ++++ Doch kein Schnäppchen?: Mann zahlt ausgezeichneten Preis ++++
@@ -723,6 +724,7 @@
 ++++ Faden verloren: Puppenspieler unkonzentriert ++++
 ++++ Fährt einen heißen Reifen: Sanitäter bringt Sean Connery ins Krankenhaus ++++
 ++++ Fake: Sushi-Bar serviert keinen echten Reiswein ++++
+++++ Fällt aus allen Wolken: Fallschirmspringer entsetzt über dreisten Diebstahl ++++
 ++++ Fällt aus allen Wolken: Wüstenbewohner erstaunt über Regen ++++
 ++++ Fällt ins Auge: Lidschatten ++++
 ++++ Falsche Einstellung: Neuer Mitarbeiter will nicht arbeiten ++++
@@ -892,6 +894,7 @@
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
 ++++ Gentechnik-Panne: Labormaus ist ganz Ohr ++++
 ++++ Gepard: Raubkatze trächtig ++++
+++++ Geprellt: Patient mit Hämatom zahlte Arztrechnung nicht ++++
 ++++ Gepunktet: Dalmatiner kann Jury bei Hundeschau überzeugen ++++
 ++++ Gerade fertig: Landebahn eingeweiht ++++
 ++++ Gerammelt voll: Kondom ++++
@@ -1005,6 +1008,7 @@
 ++++ Haarspalterei: Sushikoch sehr penibel bei Auswahl des neuen Messers ++++
 ++++ Haar wuchs ihm über den Kopf: Mann trägt lieber wieder Glatze ++++
 ++++ "Habe mich an ihr vergriffen": Gitarrist erklärt Saitensprung ++++
+++++ Haben fast alles zugegeben: Weinpanscher legen Geständnis ab ++++
 ++++ Haben ihm übel auf den Magen geschlagen: Kannibale aß verdorbene Kinder ++++
 ++++ Haben ihm übel auf den Magen geschlagen: Kannibale mag keine Kinder mehr ++++
 ++++ Haben sich abgeschossen: Betrunkene Jagdgesellschaft endet in Tragödie ++++
@@ -1309,6 +1313,7 @@
 ++++ Ist jetzt schon bedient: Mann genervt von aufdringlichem Kellner ++++
 ++++ Ist neu in der Szene: Statist läuft bei Pornoreportage durchs Bild ++++
 ++++ Ist noch nicht aus dem Schneider: Textilhandwerker bekommt Tumor entfernt ++++
+++++ Ist schon gespannt: Mann auf Streckbank neugierig, wie es weiter geht ++++
 ++++ Ist Sean Penn: Schauspieler ging nach hartem Arbeitstag früh ins Bett ++++
 ++++ Ist unten durch: Kanalarbeiter macht schon wieder früher Feierabend ++++
 ++++ It's about time: Einstein's last book finally published ++++
@@ -1922,6 +1927,7 @@
 ++++ Objektiv betrachtet: Fachzeitschrift prüft neue Kamera ++++
 ++++ Obwohl er keinen Stich sah: Blinder gewinnt Skat-Turnier ++++
 ++++ Obwohl er krank ist: Schäfer muss Bett hüten ++++
+++++ Obwohl er sich für Frauen stark gemacht hat: Bodybuilder kommt bei Feministinnen nicht gut an ++++
 ++++ Oder umgekehrt: Mann hat dicken Hals, weil ihm der Kragen geplatzt ist ++++
 ++++ Ödes Boxtraining: Wladimir Klitschko schlägt Zeit tot ++++
 ++++ Oft platt: Norddeutsche Witze werden anderswo kaum goutiert ++++
@@ -2105,6 +2111,7 @@
 ++++ Restrukturierungsmaßnahmen: Bauchladen sucht neuen Geschäftsführer ++++
 ++++ Resultate vom Ritter Sport: Drei gebrochene Rippen und ein Schokomund ++++
 ++++ Resultat vom Erbsenzählen: 12.494 (eigentlich 12.493, weil sich eine Linse darunter befand) ++++
+++++ Rhetorische Frage: Braucht man sie wirklich? ++++
 ++++ Rheuma: Rentner trotz Gelenkschmerzen zum Schneeschippen aufgefordert ++++
 ++++ Riecht gar nicht mehr gut: Trüffelschwein tot ++++
 ++++ Riecht komisch: Geheimnis muss mal wieder gelüftet werden ++++
