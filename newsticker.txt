@@ -72,6 +72,7 @@
 ++++ Alles in Butter: Angst vor angebranntem Schnitzel gänzlich unbegründet ++++
 ++++ Alles in Butter: Molkereichef durch kluge Investition reich geworden ++++
 ++++ Alles muss raus: Abführmittel bis zu 30 % reduziert ++++
+++++ Alles noch im Rahmen: Schaden durch Kunstraub niedriger als befürchtet ++++
 ++++ Alles nur heiße Luft: Ballonfahrer hat doch keine Superkräfte ++++
 ++++ Alles reserviert: In Lokal wird Reh serviert ++++
 ++++ Alles umsonst: Ungewöhnliche Preisstrategie kann Firma nicht retten ++++
@@ -1275,6 +1276,7 @@
 ++++ In die Parade gefahren: Chauffeur ruiniert Kim Jong Uns Heerschau ++++
 ++++ In die Pfanne gehauen: Junge (9) verbrennt sich die Hand ++++
 ++++ In diesem Aufzug unerwünscht: Liftboy verweigert Obdachlosem den Zutritt ++++
+++++ In die Wolle geraten: Sperma auf Pullover führt zu Ehekrach ++++
 ++++ Industriespionage: Privatdetektiv schnüffelt in Klebstofffabrik ++++
 ++++ In einem Zug: Fahrgast leert Flasche auf Ex ++++
 ++++ In Grund und Boden gespielt: Maulwurf-Fußballteam feiert deutlichen Heimsieg ++++
@@ -2112,6 +2114,7 @@
 ++++ Riesengeschäft: Villeroy & Boch macht in Kloschüsseln ++++
 ++++ Riesenschiss vor dem Lehrer: Junge ging trotz Durchfalls in die Schule ++++
 ++++ Riesenspecktakel: Fette Zookrake gefüttert ++++
+++++ Riesen-Spoiler: Details zum neuen "Fast and Furious" im Internet geleakt ++++
 ++++ Ringfahndung erfolglos: Polizei dreht sich im Kreis ++++
 ++++ Risiko zu groß: Gesellschaftsspiel darf bei Flug nicht mit ins Handgepäck ++++
 ++++ Riskantes Hobby: Wieder vier Spieler beim Poolbillard ertrunken ++++
@@ -2144,6 +2147,7 @@
 ++++ Rum statt Ähre: Piraten feiern Enterdankfest ++++
 ++++ Rund gemacht: Modell kritisiert Künstler nach völlig verfehltem Aktportrait ++++
 ++++ Rundungsfehler: Brust-OP schief gegangen ++++
+++++ Rüsselsheim: Neue Herrenunterwäschekollektion vorgestellt ++++
 ++++ Rüstungsinnovation: Neue Rakete schlägt ein wie eine Bombe ++++
 ++++ Sabbat: Juden läuft beim Gedanken an Freitag Wasser im Munde zusammen ++++
 ++++ Sachbeschädigung: Akrobat schlägt Rad ++++
@@ -2441,6 +2445,7 @@
 ++++ Stiftung Warentest: 10 von 10 Haargels kann man sich in die Haare schmieren ++++
 ++++ Stimmt nachdenklich: Geigenvirtuose träumt von Heavy-Metal-Karriere ++++
 ++++ Stimmt nicht: Klavierbauer hat kein gutes Gehör ++++
+++++ Stimmt so: Mathematiker bestätigt Rechnung und gibt kein Trinkgeld ++++
 ++++ Stimmzettel doch ungültig: Nichtwähler macht drei Kreuze ++++
 ++++ Stinkt zum Himmel: Mönche beharren auf Raucherabtei ++++
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
@@ -2514,6 +2519,7 @@
 ++++ Toll für aufgeweckte Kinder: "Die Sendung mit der Fledermaus" jetzt immer um Mitternacht ++++
 ++++ Toll: Kirsche ++++
 ++++ Tonangebend: Praktikant in Ziegelbrennerei muss Chef vertreten ++++
+++++ Torflaute: Matschige Geräusche stören Elfmeterschützen in der Konzentration ++++
 ++++ Tor nicht zugelassen: Fans stehlen schusseligem Schiedsrichter Auto aus der Garage ++++
 ++++ Total daneben: Mann verärgert über Tankstelle auf Nachbargrundstück ++++
 ++++ Total verbohrt: Zahnarzt gesteht Kunstfehler nicht ein ++++
@@ -2543,6 +2549,7 @@
 ++++ Treibt es auf die Spitze: Reinhold Messner will nochmal Achttausender besteigen ++++
 ++++ Trend: Immer mehr Gürteltiere schwören auf Hosenträger ++++
 ++++ Tretminen-Skandal: Hund entpuppt sich als skrupelloser Geschäftemacher ++++
+++++ Trick 17: Donald Ducks Neffe kauft Bier mit gefälschtem Personalausweis ++++
 ++++ Trickdieb: Max Mustermann wegen millionenfachen Scheckbetrugs gesucht ++++
 ++++ Trieb ab: Baum verliert Nachwuchs ++++
 ++++ Trink ich: Essig ++++
