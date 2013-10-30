@@ -65,6 +65,7 @@
 ++++ Alles abgeschrieben: Mann übernimmt Steuererklärung eines Kollegen wörtlich ++++
 ++++ Alles abgestaubt: Reinigungskraft gewinnt sämtliche Preise bei Putzwettbewerb ++++
 ++++ Alles auf den Kopf gehauen: Lottogewinner besorgt sich Luxus-Toupet ++++
+++++ Alles aus der Luft gegriffen: Frisbee-Weltmeister bestreitet Doping ++++
 ++++ Alles bleibt beim Alten: Kinder wollen nicht ausziehen ++++
 ++++ Alles für den Arsch: Frau verliert in Scheidungsprozeß komplettes Vermögen ++++
 ++++ Alles für die Leidenschaft: Mann erträgt Schaftleiden ++++
@@ -741,6 +742,7 @@
 ++++ Fassung verloren: Juwelier rastet aus. ++++
 ++++ Fastnacht: Abend ++++
 ++++ Fast nichts mehr an: Frau löst ihr Problem mit aufgeladener Kleidung ++++
+++++ Fauler Hund: Straßenarbeiter will Tierkadaver nicht wegräumen ++++
 ++++ Faules Pack: Fast 300.000 Deutsche in Kurzarbeit ++++
 ++++ Faul: Schaffner liegt in den letzten Zügen ++++
 ++++ FDP besorgt: Kinder reicher Eltern gegenüber Kindern superreicher Eltern benachteiligt ++++
@@ -1156,6 +1158,7 @@
 ++++ Heiliger Stuhl nicht mehr flüssig: Papst von Durchfallerkrankung genesen ++++
 ++++ Heil überstanden: Zeitzeuge berichtet über Holocaust ++++
 ++++ Heineken: Betrunkener Aquariumsbesucher ärgert Knorpelfisch ++++
+++++ Heiße Maronen: Standbesitzer auf dem Weihnachtsmarkt stellt sich jedem Kunden persönlich vor ++++
 ++++ Heißes Netzteil: Frau überzeugt Ehemann den Fernseher abzuschalten ++++
 ++++ Heißes Pflaster: Apotheke auf der Reeperbahn abgebrannt ++++
 ++++ Heiße Spur: Internet-Detektiv nimmt Twitterung auf ++++
@@ -1514,6 +1517,7 @@
 ++++ Korknabe: Musikschüler baut Fahrradteile aus Müll ++++
 ++++ "Koste es was es wolle": Vater erlaubt Kind, jedes Gericht auf Speisekarte zu probieren ++++
 ++++ Kostenlos: Schornsteinfeger geht aufs Haus ++++
+++++ Kostenvoranschlag: Sprengstoff zu teuer ++++
 ++++ Kostet nichts: Unbezahlter Mundschenk war des Herrschers Tod ++++
 ++++ Kotzte sich die Seele aus dem Leib: Schwabe aß verdorbenes Weißbrotgebäck ++++
 ++++ Kraftakt: Nacktgemälde von NRW-Ministerpräsidentin war nur schwer zu verkaufen ++++
@@ -1529,6 +1533,7 @@
 ++++ Kriegen endlich die Kurve: Engagierte Ultras spenden für Stadionausbau ++++
 ++++ Kriegt den Hals nicht voll: Tattoo-Junkie gehen die Motiv-Ideen aus ++++
 ++++ Kriegt die Kurve nicht: Rennstall entlässt drogensüchtigen Fahrer ++++
+++++ Kriegt er nicht gebacken: Neue Rezeptur zu anspruchsvoll für Konditor ++++
 ++++ Kriegt 'ne Gänsehaut: Bauer vor Transplantation aufgeregt ++++
 ++++ Kriegt sein Fett weg: Dicker Mann wegen Schönheits-OP gehänselt ++++
 ++++ Kriegt sein Fett weg: Sumoringer nach Magenverkleinerung chancenlos ++++
@@ -2455,6 +2460,7 @@
 ++++ Stimmt so: Mathematiker bestätigt Rechnung und gibt kein Trinkgeld ++++
 ++++ Stimmzettel doch ungültig: Nichtwähler macht drei Kreuze ++++
 ++++ Stinkt zum Himmel: Mönche beharren auf Raucherabtei ++++
+++++ Stockdunkel: Licht fällt auf ganzer Etage aus ++++
 ++++ Stock sauer: Alle Verbindungen zu Baum abgebrochen ++++
 ++++ Stofftier verschluckt: Schlange würgt ein wenig steiff ++++
 ++++ Stoffwechselprobleme: Junkie verträgt Umstieg von Crack auf Speed nicht ++++
@@ -2697,6 +2703,7 @@
 ++++ Vernichtende Worte: Mann tödlich verunglimpft ++++
 ++++ Vernissage abgesagt: Bilder fielen aus dem Rahmen ++++
 ++++ Verpfiffen: Schiedsrichter zeigt Kollegen wegen Spielmanipulation an ++++
+++++ Verprügeln half nichts: Streber redet jetzt noch geschwollener ++++
 ++++ Verpuppung: Planierraupe verwandelt sich in wunderschönen Planierschmetterling ++++
 ++++ Verputzt: Kannibale bestraft unfähige Reinigungskraft ++++
 ++++ Verrückt: Hochschwangere verschiebt Klavier ohne Hilfe ++++
