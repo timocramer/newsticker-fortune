@@ -1491,6 +1491,7 @@
 ++++ Kommt nur langsam darüber hinweg: Mann hat Angst vor Schlaglöchern ++++
 ++++ Kommt vor Gericht: Mann verklagt Ober, weil er keinen Aperitif bekam ++++
 ++++ Kommt vor: Schüler muss Referat halten ++++
+++++ Komplett überarbeitet: Neuauflage von Burnout-Ratgeber erschienen ++++
 ++++ Komplett verputzt: Handwerker renovierte Innenbereich von Raubtiergehege ++++
 ++++ Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner ++++
 ++++ Konischer Typ: Mann behauptet, er sei ein Kegel ++++
@@ -1607,6 +1608,7 @@
 ++++ "Leck mich doch am Arsch!": Frau genervt, dass sie Sexvorlieben ständig wiederholen muss ++++
 ++++ Leckscreen: Neue iPhone-App ermöglicht interaktives Eisessen ++++
 ++++ Leder zappelt im Netz: Omas in Strapsen spielen Fußball ++++
+++++ LED Zeppelin: Fluggerät mit innovativer Beleuchtung auf Rockkonzert präsentiert ++++
 ++++ Leer ausgegangen: Rennfahrer verliert wegen Loch im Tank ++++
 ++++ Leeres Magazin: Amokläufer löscht Redaktion aus ++++
 ++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
@@ -1662,6 +1664,7 @@
 ++++ Macht nichts: Senior Assistant Vice Chief Executive Officer entlassen ++++
 ++++ Macht Riesen Spaß: Zwergenweitwurf ++++
 ++++ Machtvoll: Absinth haut den stärksten Mann um ++++
+++++ Magerquark: Mutter unsicher über Sohnemanns Mittagstisch ++++
 ++++ Mag's bar: Insolvente Baumarktkette akzeptiert keine Kreditkarten mehr ++++
 ++++ Mag sein: Ontologe liebt seinen Beruf ++++
 ++++ Mähen in Black: Schwarzes Schaf aufgeflogen ++++
@@ -2124,6 +2127,7 @@
 ++++ Resultat vom Erbsenzählen: 12.494 (eigentlich 12.493, weil sich eine Linse darunter befand) ++++
 ++++ Rhetorische Frage: Braucht man sie wirklich? ++++
 ++++ Rheuma: Rentner trotz Gelenkschmerzen zum Schneeschippen aufgefordert ++++
+++++ Richter genervt: Angeklagter hat ständig das letzte Wort ++++
 ++++ Riecht gar nicht mehr gut: Trüffelschwein tot ++++
 ++++ Riecht komisch: Geheimnis muss mal wieder gelüftet werden ++++
 ++++ Riecht komisch: Verwester Clown ++++
@@ -2279,6 +2283,7 @@
 ++++ Schule geschwänzt: Jugendlicher malt überdimensionalen Penis auf Dach von Lehranstalt ++++
 ++++ Schüler mit Interesse dabei: Physiklehrer erhöht Spannung ++++
 ++++ Schulter an Schulter: Metzger protestieren geschlossen gegen überfüllte Kühlhäuser ++++
+++++ Schund: Gentechniker enttäuscht von Kreuzung aus Schaf und Hund ++++
 ++++ Schusselig: Handwerker verlegt 100 Quadratmeter Fliesen ++++
 ++++ Schuss in den Ofen: Mordanschlag auf Pizzabäcker geht fehl ++++
 ++++ Schüttelt noch per Hand: Barkeeper befriedigt seinen Arbeitgeber ++++
@@ -2293,6 +2298,7 @@
 ++++ Schwarzer Humor: Schreibfehler auf Onkologiebericht sorgt für Heiterkeit ++++
 ++++ Schwarze Witwe: Frau aus Ghana verliert Mann nach Spinnenbiss ++++
 ++++ Schwarze Zahlen: Unternehmer in Afrika erfolgreich ++++
+++++ Schwarz vor Augen: SPD-Abgeordneter bricht bei Koalitionsverhandlungen zusammen ++++
 ++++ Schweine ausgenommen: Schlachtfest begeisterte fast alle ++++
 ++++ Schwein gehabt: Hungriger Moslem pfeift auf religiöse Vorschriften ++++
 ++++ Schwer auszudrücken: Gefühle und Pickel ++++
@@ -2363,6 +2369,7 @@
 ++++ Sitzt auf dem Trockenen: Verarmter Weinhändler bringt Ware nicht los ++++
 ++++ Skandal beim Casting: Dicke bekommen nur Speckrollen ++++
 ++++ Skandal: Britney Spears' Äußerungen zu Playback-Vorwürfen kamen vom Band ++++
+++++ Skandal in Grundschule: Kinder werden wie Schüler zweiter Klasse behandelt ++++
 ++++ Skandalös: Academy bekommt verliehene Oscars nicht mehr zurück ++++
 ++++ Skandalös: Deutsche Zeitung verbrät schwache Gags im Newsticker ++++
 ++++ Skandinavier: Schwede erteilt Copyshop simplen Auftrag ++++
