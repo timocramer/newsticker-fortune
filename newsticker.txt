@@ -317,6 +317,7 @@
 ++++ Bis zum Anschlag: Terrorist entspannt zu lauter Musik ++++
 ++++ Bis zum Umfallen: Team baut zehn Tage und Nächte an Domino-Parcours ++++
 ++++ Bitte nicht mehr füttern: Förster warnen vor Platzhirschen ++++
+++++ Bittere Schlappe auf Süßwarenmesse: Hausschuh aus Herrenschokolade schmeckt nicht ++++
 ++++ Bitter: Narkoleptiker kann seit sieben Jahren nicht einschlafen ++++
 ++++ Bitte zurückbleiben: Bahnkunden zu intelligent ++++
 ++++ Bizarr: Russischer Monarch steht auf Frauen und Männer ++++
@@ -367,6 +368,7 @@
 ++++ Brutaler Geschichtsunterricht: Lehrer erklärt Schülern den Krieg ++++
 ++++ Bucht: Familie will ans Meer ++++
 ++++ Bügelt gern Perlen: Kreativer Erzieher doch nicht homosexuell ++++
+++++ "Buh, Kacke!": Zuschauer empört über japanisches Pornotheater ++++
 ++++ Buko Haram: Islamistische Splittergruppe ächtet Streichkäse als "unrein" ++++
 ++++ Bulimie unter Freundinnen: Immer mehr Mädchen brechen zusammen ++++
 ++++ Bullenschweine: Genversuch durch Polizeieinsatz gestoppt ++++
@@ -475,6 +477,7 @@
 ++++ Das wird teuer: Star-Architekt baut Unfall ++++
 ++++ Das Zeitliche gesegnet: Pfarrer stürzt bei Uhreinweihung vom Kirchturm ++++
 ++++ Datenautobahn: Stau auf dem CD-Brenner ++++
+++++ Dauerbrenner: Witze über Phosphor ++++
 ++++ Dauerhaft: Lebenslänglich ++++
 ++++ Davon kann man sich eine Scheibe abschneiden: Großzügiger Metzger lädt zur Salamiverkostung ++++
 ++++ Da wird er Augen machen: Mann bekommt Arbeitsplatz in Kuscheltiermanufaktur gezeigt ++++
@@ -969,6 +972,7 @@
 ++++ Großartig: Hund erledigt sein Geschäft auf Kommando ++++
 ++++ Große Dichtkunst: Klempner beschreibt Reparatur in blumigen Worten ++++
 ++++ Große Klappe, nix dahinter: Vermieter stellt versprochenen Müllschlucker nicht fertig ++++
+++++ Großer Lauchangriff: Wanzen in Gemüse entdeckt ++++
 ++++ Großer Schritt für die Menschheit: Frau bringt Achtlinge zur Welt ++++
 ++++ Großes Fest: Mann feiert überstandene Durchfallerkrankung ++++
 ++++ Großes Geschäft gemacht: "2 Girls 1 Cup"-Darstellerinnen haben ausgesorgt ++++
@@ -1072,6 +1076,7 @@
 ++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
+++++ Hat einen üblen Kater: Hexe zechte die Nacht mit ihrem Haustier durch ++++
 ++++ Hat einen ziehen lassen: Glücksfee wegen Blähungen verhindert ++++
 ++++ Hat ein Händchen für sowas: Kannibale bereitet Kinderteller zu ++++
 ++++ Hat ein Signal gesetzt: Terroristischer Bahnmitarbeiter läßt Zug entgleisen ++++
@@ -1091,6 +1096,7 @@
 ++++ Hat hingehauen: Vater züchtigt Kind erfolgreich ++++
 ++++ Hat ihm den Arsch gerettet: Frau schickt ihren Mann zum Proktologen ++++
 ++++ Hat ihm gezeigt, was 'ne Harke ist: Mann total genervt von Nachbar mit Laubbläser ++++
+++++ Hat ihn verhauen: Junge lässt Frust über Mathetest an Mitschüler aus ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat ihr schöne Augen gemacht: Patientin verliebt sich in Schönheitschirurgen ++++
 ++++ Hat jetzt eine heiße Spur: Detektiv macht sich vor Freude in die Hose ++++
@@ -1829,6 +1835,7 @@
 ++++ Nase voll von Drogen: Spürhund beendet Schnupperpraktikum ++++
 ++++ Naseweis: Kokainsüchtige werden immer vorlauter ++++
 ++++ Nass geworden: Fußgänger hatte Niederschlag nicht auf dem Schirm ++++
+++++ Naturalien: Außerirdischer in Bio-Laden gesichtet ++++
 ++++ Nerven verloren: Neurochirurg hat schlampig gearbeitet ++++
 ++++ Nervig: Zecke geht Mann auf den Sack ++++
 ++++ Nette Einlage: Artistin entblößt bei Spagat versehentlich ihre Binde ++++
