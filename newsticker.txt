@@ -626,6 +626,7 @@
 ++++ Eingebildet: Adeliger trägt Kontaktmonokel ++++
 ++++ Eingemachter Mann: Kannibale hält Patent auf Konservierungsmethode ++++
 ++++ Eingenickt: Müder Verteidiger konnte Kopfballtor nicht verhindern ++++
+++++ Eingestampft: Tragischer Tod von Kameramann beendet Elefanten-Doku vorzeitig ++++
 ++++ Eingetreten: Neues Gemeindemitglied zerstört Kirchentür ++++
 ++++ Eingetreten: Vorhergesagter Türschaden +++
 ++++ Eingriff in die Privatsphäre: Datenschützer wollen Männerunterhosen mit Schlitz verbieten ++++
@@ -1675,6 +1676,7 @@
 ++++ Mag sein: Ontologe liebt seinen Beruf ++++
 ++++ Mähen in Black: Schwarzes Schaf aufgeflogen ++++
 ++++ Mahlzeit: Müller arbeitet auch in der Mittagspause ++++
+++++ Maisonette: Dichter schreibt in Galeriewohnung Vierzehnzeiler über Frühlingsmonat ++++
 ++++ Malen nach Zahlen: Geschäft für Künstlerbedarf lässt nicht anschreiben ++++
 ++++ Malt den Teufel an die Wand: Pessimistischer Priester befürchtet Kündigung ++++
 ++++ Malware: Hacker nutzen Sicherheitslücke in Paint ++++
@@ -1845,6 +1847,7 @@
 ++++ Neue Gymnastikübungen: Beinhalten Beinhalten ++++
 ++++ Neue Hotline bei Computerproblemen: Nerdruf 11000101000110 ++++
 ++++ Neuem gegenüber aufgeschlossen: Schlüsseldienst leistet Zugezogenem gerne Nachbarschaftshilfe ++++
+++++ Neuer Bundestag zusammengetreten: 631 Verletzte ++++
 ++++ Neuer Seniorentrend: Omasaufen ++++
 ++++ Neues aus der Ernährungsforschung: Eiweiß ist nicht das Gelbe vom Ei ++++
 ++++ Neue Sexstudie: Stöhnen ist das Ah und Oh ++++
@@ -2329,6 +2332,7 @@
 ++++ Seine: Sarkozy erhebt Anspruch auf Flusslandschaft ++++
 ++++ Seine Stunde hat geschlagen: Kuckuck völlig aus dem Häuschen ++++
 ++++ "Seine Uhren gingen immer vor!": Frau von Uhrmacher lässt sich scheiden ++++
+++++ Sein oder nicht Sein: Finanzamt fordert von Hamlet lückenlose Vermögensaufstellung ++++
 ++++ Selbstentfaltung: Immer mehr Frauen spritzen sich Botox ++++
 ++++ Selbstläufer: Neuartiger Rollstuhl verkauft sich gut ++++
 ++++ Selbstmord: 3D-Grafikdesigner sah keine Perspektive mehr ++++
@@ -2553,6 +2557,7 @@
 ++++ Toll für aufgeweckte Kinder: "Die Sendung mit der Fledermaus" jetzt immer um Mitternacht ++++
 ++++ Toll: Kirsche ++++
 ++++ Tonangebend: Praktikant in Ziegelbrennerei muss Chef vertreten ++++
+++++ Top informiert: Frau lässt sich Nachrichten auf Oberteil drucken ++++
 ++++ Torflaute: Matschige Geräusche stören Elfmeterschützen in der Konzentration ++++
 ++++ Tor nicht zugelassen: Fans stehlen schusseligem Schiedsrichter Auto aus der Garage ++++
 ++++ Total daneben: Mann verärgert über Tankstelle auf Nachbargrundstück ++++
@@ -2701,6 +2706,7 @@
 ++++ Vampire wissen es längst: Kürbisse sind an Halloween Pflicht ++++
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Veltins Bier: Mann erleidet Unfall bei Brauereibesichtigung ++++
+++++ Venedig: Gondoliere hat Krampfadern ++++
 ++++ Verdammte Axt: Holzfäller hackt sich ins Bein ++++
 ++++ Verdammt: Holland von Anstieg des Meeresspiegels nicht betroffen ++++
 ++++ Verdammt lang hair: Sänger von BAP erinnert sich an seinen letzen Friseurbesuch ++++
@@ -3048,6 +3054,7 @@
 ++++ Zu viele Alkopops getrunken: Teenager colabierte ++++
 ++++ Zu viele Trolle unterwegs: Hobbits schließen ihr Mittelerde-Forum ++++
 ++++ Zu viel Ouzo: Mann bricht fließend griechisch ++++
+++++ Zu viel Pils: Betrunkener Koch versaut Jägerschnitzel ++++
 ++++ Zu viel Schnaps: Flachmann übergibt sich in Brusttasche ++++
 ++++ Zu wenig Spielraum: Stadt kann sich Kindergartenausbau nicht leisten ++++
 ++++ Zu wenig Stoff: Erotikfilmprojekt kurzfristig abgeblasen ++++
