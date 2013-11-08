@@ -589,6 +589,7 @@
 ++++ Durchgefallen: Dachdecker-Lehrling versagt bei Praxisprüfung ++++
 ++++ Durchgefallen: Falltür hat Test bestanden ++++
 ++++ Durchgeknallt: Mann schläft mit Irrer ++++
+++++ Dürfen nicht eingeführt werden: Ausländische Zäpfchen ohne EU-Zulassung ++++
 ++++ Echt jetzt: Radfahrer hat Licht nur zum Schein ++++
 ++++ Effektiv: Wilderer verwendet pandabrechende Munition ++++
 ++++ Egelerregend: Offene Wunden ++++
@@ -668,6 +669,7 @@
 ++++ Entlassen: Schmiedelehrling kaute bei der Arbeit an den Nägeln ++++
 ++++ Ent spannt: Perverses Baumwesen reagiert gelassen auf Tatvorwurf ++++
 ++++ Enttäuschung steht ihm ins Gesicht geschrieben: Mann wollte andere Tätowierung ++++
+++++ Entwarnung auf der Autobahn: Mysteriöses Baumwesen befindet sich nicht mehr auf der A66 ++++
 ++++ Entwickelt sich langsam: Säugling hilft schon vorsichtig mit ++++
 ++++ ɹəʞɔıʇsʍəu ɹəɥɔsılɐɹʇsnɐ :ɟdoʞ ʇɥəʇs ++++
 ++++ Epidemie: Hunderte in Mülheim an der Ruhr erkrankt ++++
@@ -724,6 +726,7 @@
 ++++ Es war eine Ente: Zeitungen berichteten über fliegende Kuh ++++
 ++++ Es wird Ernst: Jury wählt Vornamen des Jahres ++++
 ++++ Es wird Tote geben: Rechtschreibfehler verursacht Panik auf Geburtstagsfeier ++++
+++++ Ewok: Bewohner Endors entwickelt neues Kochgerät ++++
 ++++ Exhibitionismus-Vorwurf: Verdächtiger packt aus ++++
 ++++ Existenzkrise: Imaginärer Freund erhängt sich mit WLAN-Kabel ++++
 ++++ Ex-Post: Filiale hätte doch nicht geschlossen werden sollen ++++
@@ -846,6 +849,7 @@
 ++++ Gatte reicht ihr hinten und vorne nicht: Frau nimmt sich Liebhaber ++++
 ++++ Gauleiter: Seuche rafft immer mehr Pferde dahin ++++
 ++++ Gaultier: Modedesigner unzufrieden mit seinem Pferd ++++
+++++ Gebrannte Mandeln: Feuerschlucker schult nach Unfall um ++++
 ++++ Gebranntes Kind: Vater von Pinocchio möchte tönerne Figur nicht adoptieren ++++
 ++++ Gefahrengut: Mann besteht Tanklasterführerschein ++++
 ++++ Gefährliche Nachteile: Studie rät, Heimweg von Kneipe nicht zu überstürzen ++++
@@ -1173,6 +1177,7 @@
 ++++ Heißes Netzteil: Frau überzeugt Ehemann den Fernseher abzuschalten ++++
 ++++ Heißes Pflaster: Apotheke auf der Reeperbahn abgebrannt ++++
 ++++ Heiße Spur: Internet-Detektiv nimmt Twitterung auf ++++
+++++ Heiße Ware: Kaffee schwarz verkauft ++++
 ++++ Heiter bis sonnig: Angekündigter Regen entpuppt sich als Schauermärchen ++++
 ++++ Helfen gegen stumpfe Stifte: Spitzbuben ++++
 ++++ Henkersmahlzeit verweigert: Häftling möchte vor ein ordentliches Gericht gestellt werden ++++
@@ -1456,6 +1461,7 @@
 ++++ Kinderwunsch: Eltern sollen vor dem Beischlaf bitte Zimmertür schließen ++++
 ++++ Kippen vergessen: LKW-Fahrer muss zur Deponie zurück ++++
 ++++ Kirche in Flammen: Übereifrige Putzfrau verursachte Fegefeuer ++++
+++++ kitirK fua tßöts rekciT rednefual sträwkcüR :nehcastaT eid therdreV ++++
 ++++ Klang ziemlich abgehackt: Iran überträgt erstmals Enthauptung im Radio ++++
 ++++ Klappt nicht: Zugbrücke defekt ++++
 ++++ Klar abgehängt: PKW gewinnt ungleiches Rennen gegen Wohnwagen ++++
@@ -1856,6 +1862,7 @@
 ++++ Neue Studie: neun von zehn Studien völlig überflüssig ++++
 ++++ Neue Züchtung: Mienensuchhund hilft bei Gesichtsverlust ++++
 ++++ Neugierig: Wissenschaftler sezieren Wissenschaftler, um mehr über Wissenschaftler herauszufinden ++++
+++++ Neunmalklug: Besserwisser scheitert in Quizshow an der zehnten Frage ++++
 ++++ Neurose: Frau muss sich jeden Tag frische Blume kaufen ++++
 ++++ Nicht abgeschlossen: Student verpasst letzte Klausur wegen Fahrradklaus ++++
 ++++ Nicht anders als andere Frauen: Angelina Jolie denkt beim Sex an Brad Pitt ++++
