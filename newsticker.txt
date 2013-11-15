@@ -334,6 +334,7 @@
 ++++ Blitzumfrage: Jeder zehnte fährt innerorts gern schneller als 70 ++++
 ++++ Blöde Schnepfe: Streitbare Ornithologin spricht Vogelart Intelligenz ab ++++
 ++++ Blödes Wortspiel: Scrabble ++++
+++++ Blutige Anfängerinnen: Umgang mit Tampon fällt Frauen anfangs oft schwer ++++
 ++++ "Boa!": Mann bestaunt Würgeschlange ++++
 ++++ Bock geschossen: Jäger zielte eigentlich auf Ziege ++++
 ++++ Bodybuilding für Arme: Hanteltraining ++++
@@ -911,6 +912,7 @@
 ++++ Gepard: Raubkatze trächtig ++++
 ++++ Geprellt: Patient mit Hämatom zahlte Arztrechnung nicht ++++
 ++++ Gepunktet: Dalmatiner kann Jury bei Hundeschau überzeugen ++++
+++++ Gerade ausverkauft: Trikots mit Rückennummern 2,4,6 und 8 im Fanshop nicht erhältlich ++++
 ++++ Gerade fertig: Landebahn eingeweiht ++++
 ++++ Gerammelt voll: Kondom ++++
 ++++ Gerät in Teufels Küche: Gabel ++++
@@ -1307,6 +1309,7 @@
 ++++ In die Wolle geraten: Sperma auf Pullover führt zu Ehekrach ++++
 ++++ Industriespionage: Privatdetektiv schnüffelt in Klebstofffabrik ++++
 ++++ In einem Zug: Fahrgast leert Flasche auf Ex ++++
+++++ Information: Zugvögel fliegen gen Süden ++++
 ++++ In Grund und Boden gespielt: Maulwurf-Fußballteam feiert deutlichen Heimsieg ++++
 ++++ In Hypnose versetzt: Nach dem Aufwachen war Freundin weg ++++
 ++++ In letzter Sekunde aufgehalten: Einbrecher wollten Türe eintreten ++++
@@ -1485,6 +1488,7 @@
 ++++ Knappes Ergebnis: Rittergehilfe bilanziert Beinahe-Pleite ++++
 ++++ Knappschaft: Krankenkasse zahlt keine Genitalverlängerung ++++
 ++++ Knebelvertrag: Pornodarstellerin muss bei Bondagefilmen mitspielen ++++
+++++ Kneift: Koch nimmt Hummer lieber wieder von der Speisekarte ++++
 ++++ Knöchel verstaucht: Rockstar kann nicht auftreten ++++
 ++++ Knochenjob: Chiropraktiker klagt über hohe Arbeitsbelastung ++++
 ++++ Kocht auch nur mit Wasser: Wasserkocher ++++
@@ -1570,6 +1574,7 @@
 ++++ Kündigung: Ziegenhirte ertrug ständiges Gemeckere nicht mehr ++++
 ++++ künstlername: ex-modern-talking-star heißt in wirklichkeit genauso und nicht anders ++++
 ++++ Kunst oder nicht Kunst: Christo hüllt sich in Schweigen ++++
+++++ Kurios: Neues Rehabetriebssystem von Apple ++++
 ++++ Kurts Biographie: *1890, viel geschrieben, †1935 ++++
 ++++ Kurzatmigkeit: Immer mehr Blechbläser leiden an Tubakulose ++++
 ++++ Kurz und bündig: Minirock passt ++++
@@ -2206,6 +2211,7 @@
 ++++ Saiten gewechselt: Gitarrist von Konkurrenzprodukt überzeugt ++++
 ++++ Saldo Mortale: Artist stürzt sich nach Blick auf seinen Kontoauszug in den Tod ++++
 ++++ Salonfähig: Friseur stellt Azubi mit guten Manieren ein ++++
+++++ Salzgitter: Niedersächsischer Häftling leckt sich in Freiheit ++++
 ++++ Sammelte Kronleuchter: Bankrotter Adliger hängt an seinem Hobby ++++
 ++++ Sauber abgeschüttelt: Dieb entwischt Polizei auf der Herrentoilette ++++
 ++++ Sauber: Formel 1-Team zufrieden mit neuer Putzkraft ++++
@@ -2251,6 +2257,7 @@
 ++++ Schier unerschöpflich: Achselhöhlenforscher auf Schweißvorkommen gestoßen ++++
 ++++ Schier unmöglich: Fettarme Fettarme ++++
 ++++ Schier unmöglich: Langläufer schimpft über Ausrüstung ++++
+++++ Schiss vor der Arbeit: Mann geht täglich um halb 8 aufs Klo ++++
 ++++ Schlachtenbummler: Fleischerlehrling trödelt beim Töten von Tieren ++++
 ++++ Schlachtfest: Genmanipulierte Sau lässt sich nicht töten ++++
 ++++ Schlagersänger pleite: Bank weist Blanco-Scheck zurück ++++
