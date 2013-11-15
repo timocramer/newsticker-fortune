@@ -112,6 +112,7 @@
 ++++ Andy Warhol: Amerikanischer Künstler nicht so klug wie vermutet ++++
 ++++ Anfängerfehler: Junkie verdrückt sich ++++
 ++++ Angeblicher Durchbruch: Gentechniker macht sich zum Affen ++++
+++++ Angebohren: Elefant prahlt mit riesigen Lauschern ++++
 ++++ Angeeckt: Balldesigner sorgt mit neuem Entwurf für Empörung ++++
 ++++ Angelausflug: Merkel trifft Obama in Washington ++++
 ++++ Angelverkäufer gesteht: "Meine Produkte haben alle einen Haken" ++++
@@ -179,6 +180,7 @@
 ++++ Auf Nummer sicher: Prostitutierte benutzt Kondom ++++
 ++++ Auf Pfennigabsätzen: Frau gibt Fersengeld ++++
 ++++ Aufs falsche Pferd gesetzt: Texaner erschossen ++++
+++++ Auf sich gestellt: Artist scheitert beim Versuch einer Ein-Mann-Pyramide ++++
 ++++ Aufstrich: Prostituierte gönnt sich Pausenbrot ++++
 ++++ Auf Teufel komm raus: Satanist versucht alles, um Fürsten der Finsternis zu beschwören ++++
 ++++ Aufzug: Im Brandfalle Brandfalle ++++
@@ -1352,6 +1354,7 @@
 ++++ Jetzt aber Dalí: Ungeduldiger Kunstsammler stört Auktion durch Zwischenrufe ++++
 ++++ Jetzt aber raus aus den Federn: Hühner werden am Schlachttag früh geweckt ++++
 ++++ Jetzt auf Faithbook: Der Like Christi ++++
+++++ Jetzt bloß nicht nuscheln: Kermit will Geburtstag mit Froschenkeln feiern ++++
 ++++ Jetzt geht's ans Eingemachte: Regierung beschließt Einweckpfand ++++
 ++++ Jetzt gehts ans Eingemachte: Wettessen geht in die Entscheidungsphase ++++
 ++++ Jetzt ist die Kacke am Dampfen: Klärwerk-Kühlanlage ausgefallen ++++
@@ -1644,6 +1647,7 @@
 ++++ Letzter Satz: "Von dem Gewitter lasse ich mir doch nicht mein Tennisspiel ruinieren!" ++++
 ++++ Letzter Wunsch: Staubsaugervertreter will, dass seine Asche auf den Teppichen von potentiellen Kunden verstreut wird ++++
 ++++ Letzte Vorkehrungen: Party-Gastgeber reinigt nochmal den Fußboden ++++
+++++ Leuchtet allen ein: Neuer superheller Scheinwerfer verkauft sich blendend ++++
 ++++ Libyen: Bauern protestieren gegen Pflugverbotszone ++++
 ++++ Lider wurden schwer: Musiker trat total übermüdet auf ++++
 ++++ Liegt auf der Hand: Nekrophiler bewahrt Leichenteile am liebsten im Bett auf ++++
@@ -1677,6 +1681,7 @@
 ++++ Machte in Hosen: Aktienunternehmer bricht riskante Investments ab ++++
 ++++ Macht er halt: Diktator hat keine Skrupel bei Wahlfälschung ++++
 ++++ Macht er mit Links: IT-Experte erstellt Homepage problemlos ++++
+++++ Macht er mit links: Masturbation für Einarmigen überhaupt kein Problem ++++
 ++++ Macht er nicht mit: Pornodarsteller wehrt sich gegen Kondomzwang ++++
 ++++ Machte schnell die Runde: Kettenkarussellunfall sprach sich umgehend herum ++++
 ++++ Macht es ohne Gummi: Bungee-Springer lebt gefährlich ++++
@@ -2049,6 +2054,7 @@
 ++++ Pianisten begeistert: Steinway verleiht jetzt auch Flügel ++++
 ++++ Pi mal Daumen: Chinesischer Künstler erhält ungenauen Zeichenauftrag ++++
 ++++ Pipifax: Chef will vor Gang zur Toilette schriftlich benachrichtigt werden ++++
+++++ Pipi in den Augen: Ergreifender Abschied vom Vorsitzenden des Natursektverbandes ++++
 ++++ Pissnelken: Gärtnerlehrlinge urinieren ins Beet ++++
 ++++ Plädoyer für legalen Organhandel: Tauber verschafft sich Gehör ++++
 ++++ Plan geht voll auf: Angeleinter Hund läuft wie am Schnürchen ++++
@@ -2792,6 +2798,7 @@
 ++++ Voller Rindviecher: Weiden in der Oberpfalz ++++
 ++++ Voll fett: Ghetto-Bauer erntet Gangsta-Raps ++++
 ++++ Völlig aufgelöst: Hinterbliebene von Säureopfer trauern ++++
+++++ Völlig isoliert: Elektriker sucht Kontakte ++++
 ++++ Völlig überwältigt: Gauner zeigte sich bei Festnahme ergriffen ++++
 ++++ Völlig überzogen: Teebeutel zwei Stunden in Tasse gelassen ++++
 ++++ Völlig untergegangen: Niemand nahm Notiz von sinkendem Boot ++++
