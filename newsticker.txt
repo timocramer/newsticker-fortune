@@ -48,6 +48,7 @@
 ++++ Adipös: Hitler als Kind oft wegen übermäßigen Süßigkeitenkonsums gerügt ++++
 ++++ Ähnlich schon dagewesen: Neue High-Five-Variante nur ein billiger Abklatsch ++++
 ++++ Ährenrunde: Bauer nutzt Kornkreise zum Jogging ++++
+++++ Akademisches Viertel: Interessent an Wohnung in Uni-Nähe kommt zu spät zur Besichtigung ++++
 ++++ Aladin: Flaschengeist erfüllt Wunderlampen-Norm ++++
 ++++ Albern: Schweizer Hauptstadt soll Vorsilbe erhalten ++++
 ++++ Albert: Monegassischer Fürst zu Späßen aufgelegt ++++
@@ -137,6 +138,7 @@
 ++++ Ärgerlich: Weltraumurlauber vergisst, Bügeleisen abzuschalten und kann Haus von oben brennen sehen ++++
 ++++ Ärger vorprogrammiert: Firma verkauft Software mit integriertem Virus ++++
 ++++ Arm: Die Kirchenmäuse des Kölner Doms sammeln für eine Käseglocke ++++
+++++ Arm dran: Versicherter Pianist in Geldnot scheitert an Selbstamputation ++++
 ++++ Armer Schlucker: Callboy verdient nicht gut ++++
 ++++ Armselig: Geistlicher bereichert sich durch die Segnung von Gliedmaßen ++++
 ++++ Arschkalt: Minirock zu kurz ++++
@@ -822,6 +824,7 @@
 ++++ Fünf vor zwölf: Sieben ++++
 ++++ Für 20 Euro verkloppt: Räuber verkauft Geldbörse von zusammengeschlagenem Opfer ++++
 ++++ Für alle Felle: Kürschner schließt Diebstahlsversicherung ab ++++
+++++ Für Gleichberechtigung im Bundestag: Linke Frauen fordern mehr Rechte ++++
 ++++ Für ihn ist Jesus gestorben: Mann tritt aus Kirche aus ++++
 ++++ Für mehr Prickeln im Internet: Ahoi-Browser-Pulver ++++
 ++++ Für'n Arsch: Oral eingenommenes Zäpfchen wirkungslos ++++
@@ -1088,6 +1091,7 @@
 ++++ Hat endlich aufgehört zu rauchen: Nikotinsüchtiger kam bei Brand ums Leben ++++
 ++++ Hat er nicht gerafft: Hausmann hängt Gardinen falsch auf ++++
 ++++ Hat es in sich: Kurier verrät Drogenversteck ++++
+++++ Hat Früchte getragen: Kraftsportler erzielt mit neuer Trainingsmethode Erfolge ++++
 ++++ Hat Gänsefüßchen: "Gänseküken" ++++
 ++++ Hat ganz schön dran zu knabbern: Salzstangenfabrikant kämpft nach Silvester mit massiver Überproduktion ++++
 ++++ Hat gefunkt: Kommissar hielt Polizeistreife über sein Date auf dem Laufenden ++++
@@ -1624,6 +1628,7 @@
 ++++ LED Zeppelin: Fluggerät mit innovativer Beleuchtung auf Rockkonzert präsentiert ++++
 ++++ Leer ausgegangen: Rennfahrer verliert wegen Loch im Tank ++++
 ++++ Leeres Magazin: Amokläufer löscht Redaktion aus ++++
+++++ Legende: Hühner können in ihrem Leben angeblich nur 1000 Eier produzieren ++++
 ++++ Lego senkt Produktionskosten: Chef staunt Bauklötze ++++
 ++++ Lehnte sich zu weit aus dem Fenster: Copilot behauptete, er könne fliegen ++++
 ++++ Leichen pflastern seinen Weg: Voodoo-Priester lässt Zombies schuften ++++
@@ -1862,6 +1867,7 @@
 ++++ Neue Studie: neun von zehn Studien völlig überflüssig ++++
 ++++ Neue Züchtung: Mienensuchhund hilft bei Gesichtsverlust ++++
 ++++ Neugierig: Wissenschaftler sezieren Wissenschaftler, um mehr über Wissenschaftler herauszufinden ++++
+++++ Neumodische Spinnerei: Textilarbeiter finden neuen Webserver unnötig ++++
 ++++ Neunmalklug: Besserwisser scheitert in Quizshow an der zehnten Frage ++++
 ++++ Neurose: Frau muss sich jeden Tag frische Blume kaufen ++++
 ++++ Nicht abgeschlossen: Student verpasst letzte Klausur wegen Fahrradklaus ++++
@@ -2544,6 +2550,7 @@
 ++++ Teenager hatte lautere Absichten: Stimmbruch machte sie leider zunichte ++++
 ++++ Teenager: Immer mehr Jugendliche haben verfärbte Zähne ++++
 ++++ Tehcnishce Panen beim Psotillon: Neswtikcer-Gerät defket ++++
+++++ Teheran: Ajatollah verlangt nach Heißgetränk ++++
 ++++ Telefonisch bestätigt: Sumoringer gesteht, er habe abgenommen ++++
 ++++ Telekinese: Asiatischer Fernsehmoderator besitzt unglaubliche Geisteskraft ++++
 ++++ Teuer: Glaserei nur einen Steinwurf entfernt ++++
