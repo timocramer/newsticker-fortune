@@ -18,6 +18,7 @@
 ++++ Abgefahren: Schaffner verpasst Zug ++++
 ++++ Abgehört: Schäuble wusste bereits vorher, dass er den Big-Brother-Award erhält ++++
 ++++ Abgekartetes Spiel: Bube legt seine Herzdame aufs Kreuz ++++
+++++ Abgekratzt: Rubbellos-Spieler erleidet Herzinfarkt nach Hauptgewinn ++++
 ++++ Abgekratzt: Straßendienstmitarbeiter entfernt überfahrenen Igel ++++
 ++++ Abgelaufen: Garantie auf Schuhsohle ++++
 ++++ Abgemacht: Angelina Jolie einigte sich mit Ärzten auf Brustamputation ++++
@@ -317,6 +318,7 @@
 ++++ Billige Aushilfe: Spargelernte hilft bei Spargelernte ++++
 ++++ Billy Talent: Band beweist Geschick beim Aufbau von Regalen ++++
 ++++ "Bin halt nicht immer in Topform": Dichter gibt Ungereimtheiten in Steuererklärung zu ++++
+++++ Biolek: Fernsehmoderator erfindet Lutscher ohne künstliche Zusätze ++++
 ++++ "Bis dass der Tod euch penist": Schwule Paare drängen auf Änderung der Hochzeitsformel ++++
 ++++ Biss auf Granit: Restaurantgast reklamiert sein Essen erfolglos ++++
 ++++ Biss Mark: Hering ++++
@@ -1066,6 +1068,7 @@
 ++++ Hängt es an die große Glocke: Angeberischer Handwerker erneuert Zugseil ++++
 ++++ Han im Korps: Einziger Mann in anti-imperialer Rebellenarmee ist Solo ++++
 ++++ Hanoi: Schwabe bucht trotz mehrfachen Widerspruchs Reise nach Vietnam ++++
+++++ Harakiri: Hahn mit Sprachstörung begeht Selbstmord ++++
 ++++ Hart an der Grenze: Reise-Ratgeber zur Vermeidung von Erektionen bei Körperkontrollen veröffentlicht ++++
 ++++ Harter Job: Bahnmitarbeiter bringt Fahrgäste zur Strecke ++++
 ++++ Hartes Los: Stahlarbeiter zieht Niete ++++
@@ -1391,6 +1394,7 @@
 ++++ Kampf des Jahres: Wrestler ringt mit dem Tod ++++
 ++++ Kampf gegen Pleite: Griechenland erhebt Steuer auf Schwarzarbeit und Korruption ++++
 ++++ Kam zu kurz: Kleiner Junge wird von jedem Fahrgeschäft zurückgewiesen ++++
+++++ Kann daneben gehen: Mann verweigert Ehefrau die Mitfahrt im Auto ++++
 ++++ Kann darüber hinwegsehen: Frau ist Kleinwüchsigkeit ihres Mannes egal ++++
 ++++ Kann einpacken: Christo entlässt Lehrling nach Ausbildung ++++
 ++++ Kann endlich Fuß fassen: Migrant als Schuhputzer erfolgreich ++++
@@ -1661,6 +1665,7 @@
 ++++ Ließ alles offen: Bankdirektor hat nach berechtigter Kündigung noch keine Zukunftspläne ++++
 ++++ Ließ das nicht auf sich sitzen: Mann erschlägt ihn stechendes Insekt ++++
 ++++ Ließen ihn hängen: Ex-Diktator hoffte vergebens auf seine Freunde ++++
+++++ Ließ ihn alt aussehen: Schönheitschirurg verarscht Kunden ++++
 ++++ Ließ sich breitschlagen: Nervige Fliege summt nicht mehr ++++
 ++++ Linksdrall: Frau mit ungleichen Brüsten kann nicht geradeaus gehen ++++
 ++++ Link: Verknüpfung im Internet zeigt auf Virus ++++
@@ -2360,6 +2365,7 @@
 ++++ Seele verschwunden: Toter außer sich ++++
 ++++ Seeräuber ermordet: Polizei drückt Auge zu ++++
 ++++ Sehr entgegenkommend: Geisterfahrer mit Warnblinker ++++
+++++ Sehr gay: Russe wegen vermeintlich schwulen Vornamens gemobbt ++++
 ++++ "Sei kein Frosch": Märchenprinzessin voller Hoffnung ++++
 ++++ Seine: Sarkozy erhebt Anspruch auf Flusslandschaft ++++
 ++++ Seine Stunde hat geschlagen: Kuckuck völlig aus dem Häuschen ++++
@@ -2672,6 +2678,7 @@
 ++++ Umsonst gebacken: Pustekuchen ++++
 ++++ Umständlich: Autofahrer führt vor Einstellung des Sitzes jedesmal Vorstellungsgespräch ++++
 ++++ Unangebracht: Fehlende Kleiderhaken in Nobel-Restaurant ++++
+++++ Unangemessener Tonfall: Anwohner wirft Blumentopf nach schimpfendem Passanten ++++
 ++++ Unangenehm: Französischer Räuber muss zur Gendarmspiegelung ++++
 ++++ Unangenehm für Käpt'n Iglo: Verbraucherschützer stellen die Grätchenfrage ++++
 ++++ Unangenehm: Mann leidet an Niespulverallergie ++++
