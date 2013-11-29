@@ -260,6 +260,7 @@
 ++++ Beamte nicht: Scotty verweigert Teleport von Staatsdienern ++++
 ++++ Behielt das lieber für sich: Kleptomane verschwieg sein Problem jahrelang ++++
 ++++ Beide Beine amputiert: Gogo-Tänzerin jetzt Rollroll-Tänzerin ++++
+++++ Bei der CDU wird betrogen: Wolfgang Schäuble hat gestanden ++++
 ++++ Bei der Stange gehalten: Prostituierte ergreift Maßnahmen zur Kundenbindung ++++
 ++++ Bei Drogen-Experiment: Kiffer beißt ins Gras ++++
 ++++ Beifuß: Hund apportiert Heilkraut ++++
@@ -1096,6 +1097,7 @@
 ++++ Hat Dicke gereicht: Kannibalenhäuptling ließ sich bei Festmahl nicht lumpen ++++
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
+++++ Hat ein dickes Fell: Model beharrt auf unrasierten Beinen ++++
 ++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
@@ -1960,6 +1962,7 @@
 ++++ Nochmal ein Auge zugedrückt: Geldeintreiber behandelt Schuldner mit viel Fingerspitzengefühl ++++
 ++++ Nochmal Schwein gehabt: Sodomist wird rückfällig ++++
 ++++ Noch nicht rechtskräftig: Halbseitig Gelähmter wartet auf Reha-Bewilligung ++++
+++++ Noch nie passiert: Schifffahrtskanal zu schmal konstruiert ++++
 ++++ Noch viel vor heute: Beschneider hat langen Arbeitstag ++++
 ++++ NORA-Abdruck am Hintern: Thomas Anders setzte sich auf seine vier Buchstaben ++++
 ++++ Normal: Kettensägenmörder sind meist Durchschnittstypen ++++
@@ -2295,6 +2298,7 @@
 ++++ Schlechte Dichtung: Günter Grass macht sich nass ++++
 ++++ Schlechte Rahmenbedingungen: Louvre muss Gemälde restaurieren ++++
 ++++ Schlechter Ruf: Kinofilm nicht angesehen ++++
+++++ Schlechter Ruf: Umstrittener Schauspieler scheitert bei Tarzan-Casting ++++
 ++++ Schlechter Stil: Besenverkäufer verschweigt Produktfehler ++++
 ++++ Schlechter Tweed: Twitter-Nutzer lästert über Qualität seines Markensakkos ++++
 ++++ Schlechtes Fell: Scheues Waldtier muss in Rehhaarklinik ++++
@@ -2594,6 +2598,7 @@
 ++++ Teufelskreis: Frau vergisst jedes Mal, neue Einkaufszettel zu besorgen ++++
 ++++ Teurer Cayenne zerstört: Geländewagen rast ungebremst in Edelgewürzladen ++++
 ++++ Teurer Supermarkt: Joghurt mit Nobelpreis ausgezeichnet ++++
+++++ Teures Pflaster: Arzt auf Sylt behandelt nur noch privat ++++
 ++++ The Bronx: New Yorker Polizei warnt vor spontanen Abstechern ++++
 ++++ Thema noch nicht gegessen: Erneuter Fleischskandal in Deutschland ++++
 ++++ The odor: Guttenberg stinkt den Amerikanern allmählich ++++
@@ -2736,6 +2741,7 @@
 ++++ Unsportlich: Waldarbeiter fällt Kollegen in den Rücken ++++
 ++++ Unten durch: Liebhaber blamiert sich mit zu kurzem Vorspiel ++++
 ++++ Unten durch: Radrennfahrer bei Abkürzung durch Tunnel erwischt ++++
+++++ Unter Allah Sau: Blasphemische Karikatur zeigt auf Schwein reitenden Gott ++++
 ++++ Unter aller Sau: Angehender Melker besteht Prüfung nicht ++++
 ++++ Unter aller Sau: Ferkel ++++
 ++++ Unterbelichtet: Dummer Fotograf vergeigt Foto ++++
@@ -2893,6 +2899,7 @@
 ++++ Warm und feucht: Wetter outet sich als schwül ++++
 ++++ War nicht angemessen: Anzug von der Stange ++++
 ++++ War nur ein kleiner Fisch: Ermittlungen gegen Tierschmuggler wegen Geringfügigkeit eingestellt ++++
+++++ War nur kurz angebunden: SM-Studio-Besucher enttäuscht von wortkarger Domina ++++
 ++++ War reserviert: Introvertierter Mann bekam keinen Tisch im Restaurant ++++
 ++++ Warschauer packt: Militärbündnis entlässt letzten Mitarbeiter ++++
 ++++ War schon eingelaufen: Boxer fiel zu enge Hose erst im Ring auf ++++
