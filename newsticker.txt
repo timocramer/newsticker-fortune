@@ -927,6 +927,7 @@
 ++++ Gerade ausverkauft: Trikots mit Rückennummern 2,4,6 und 8 im Fanshop nicht erhältlich ++++
 ++++ Gerade fertig: Landebahn eingeweiht ++++
 ++++ Gerammelt voll: Kondom ++++
+++++ Gerät im Arsch: Italiener fischt Handy aus dem Po ++++
 ++++ Gerät in Teufels Küche: Gabel ++++
 ++++ Gerät in Teufels Küche: Satansbraten ++++
 ++++ Gerät in Teufels Küche: Spülmaschinenvertreter schließt Pakt mit Satan ++++
@@ -1447,6 +1448,7 @@
 ++++ Kehrt zurück: Straßenfeger hat eine Stelle vergessen ++++
 ++++ Kein Absatzmarkt: Schuster verkaufte nur Ballerinas ++++
 ++++ Kein Biss: ARD-Intendant unzufrieden mit seinen Dritten ++++
+++++ Kein Bock mehr: Skatspieler steigt nach Regeländerung aus ++++
 ++++ Kein Ding: Frau findet Zeugungsunfähigkeit ihres Partners nicht schlimm ++++
 ++++ Keine Ahnung vom Schlittenfahren: Eskimos gehen vor die Hunde ++++
 ++++ Keine Ausdauer: Schiedsrichter pfeift aus dem letzten Loch ++++
@@ -1614,6 +1616,7 @@
 ++++ Laichen im Keller: Geschäftsmann betreibt illegale Fischzucht ++++
 ++++ La-Le-Lu: Pädophiler Außerirdischer beobachtet Kleinkinder beim Schlafen ++++
 ++++ Länderspiel: Wales und Ballack geschlagen ++++
+++++ Landet auf dem Podest: Skispringer macht das Beste aus schlechten Windverhältnissen ++++
 ++++ Land gewonnen: Tombolateilnehmer drückt sich vor Preisübergabe ++++
 ++++ Lange Gesichter bei der Fütterung: Pferde bekommen wieder nur Heu ++++
 ++++ Langer Arm der Vogelmafia: Taube auf dem Dach hat Spatz in der Hand ++++
@@ -1998,6 +2001,7 @@
 ++++ Oder umgekehrt: Mann hat dicken Hals, weil ihm der Kragen geplatzt ist ++++
 ++++ Ödes Boxtraining: Wladimir Klitschko schlägt Zeit tot ++++
 ++++ Oft platt: Norddeutsche Witze werden anderswo kaum goutiert ++++
+++++ Ohm ein Gott: Bizarrer Kult um Physiker entstanden ++++
 ++++ "Oh na, nie!": Bayer bestreitet Masturbationsvorwürfe ++++
 ++++ Ohne Anlass: Auto startet nicht mehr ++++
 ++++ Ohne Flachs: Landwirt baut ausschließlich Hanf an ++++
@@ -2530,6 +2534,7 @@
 ++++ Stellungskrieg: Verhärtete Fronten bei Soldatenehepaar ++++
 ++++ Stichproben bestätigt: Messer schneiden im Test besser ab als Löffel ++++
 ++++ Stichprobe: Neues Messer von Mörder funktioniert ausgezeichnet ++++
+++++ Sticht aus der Masse heraus: Innovative Plätzchenform ++++
 ++++ Stiernacken: Bodybuilder grillt ++++
 ++++ Stiftung Warentest: 10 von 10 Haargels kann man sich in die Haare schmieren ++++
 ++++ Stimmt nachdenklich: Geigenvirtuose träumt von Heavy-Metal-Karriere ++++
@@ -2717,6 +2722,7 @@
 ++++ Ungebunden: Junggeselle zu blöd für Krawatten ++++
 ++++ Ungeeignet: U-Boot-Schleudersitz-Test endet in Fiasko ++++
 ++++ Ungehalten: Wütende Frau lässt Handtasche fallen ++++
+++++ Ungeheuer langweilig: Kirmesbesucher von Geisterbahn enttäuscht ++++
 ++++ Ungehobelt: Schreiner kassiert für schludrige Arbeit ++++
 ++++ Ungeschickt: Mann gehen die Briefmarken aus ++++
 ++++ Ungeschickt: Paket wurde fallengelassen ++++
@@ -2845,6 +2851,7 @@
 ++++ Vollständig ausgeliefert: UPS-Fahrer geht nach Feierabend zu Domina ++++
 ++++ Vom Hype genervt: Skateboard-Pionier beklagt zu viele Trittbrettfahrer ++++
 ++++ Vom Teufel geritten: Frau bringt Antichrist zur Welt ++++
+++++ Von allen geschätzt: Beliebte Kollegin weigert sich, ihr Gewicht bekanntzugeben ++++
 ++++ Von den Socken: Mann staunt über Fusseln zwischen den Zehen ++++
 ++++ Von der Leyen: CDUler verweist Kreditanfrage in knappen Worten an Kollegin ++++
 ++++ Von der Palme gewedelt: Plantagenbesitzer verscheucht onanierende Affen ++++
