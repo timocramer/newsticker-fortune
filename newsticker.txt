@@ -1118,6 +1118,7 @@
 ++++ Hat genug vom Streichen: Geiger pfeift auf Violine ++++
 ++++ Hat genug von Stromschlägen: Briefträger weigert sich, E-Mails zuzustellen ++++
 ++++ Hat gestanden: Angeblicher Rollstuhlfahrer gibt Regelverstoß bei Paralympics zu ++++
+++++ Hat Gnu gesehen: Afrikatourist bricht Safari ab ++++
 ++++ Hat gute Gründe: Angler verweigert Küstenfischern Zugang zu Privatbucht ++++
 ++++ Hat Hand und Fuß: Genexperiment mit Blindschleiche geglückt ++++
 ++++ Hat hingehauen: Vater züchtigt Kind erfolgreich ++++
@@ -1160,6 +1161,7 @@
 ++++ Hat sie nicht mehr alle: Psychiatrische Klinik meldet Ausbrecher ++++
 ++++ Hat sofort gehandelt: Broker reagiert auf Börsencrash ++++
 ++++ Hatte einfach zuviel im Kopf: Tumorpatient stirbt wegen verpasstem OP-Termin ++++
+++++ Hatte ein Händchen für Tiere: Kind streichelte Löwen im Zoo ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
 ++++ Hatte jeglichen Lebensmut verloren: Katze ging vor die Hunde ++++
 ++++ Hatte keine Atmosphäre: Erstes Restaurant auf dem Mond wieder geschlossen ++++
@@ -1277,6 +1279,7 @@
 ++++ Idealist: Feministischer Turnlehrer leistet Hilfestellung für Frauenbewegung ++++
 ++++ Ideal zum Abnehmen: Light-Wolf hat gerade mal zwei Kalorien ++++
 ++++ Igitt: Geist von totem Lama spuckt nachts im Zoo ++++
+++++ Ihm fällt nichts ein: Schriftsteller wird Architekt ++++
 ++++ Ihm fehlen die Worte: Texter entlassen ++++
 ++++ Ihm lief das Wasser im Munde zusammen: Mann gesteht Überfall auf Gourmet-Küche erst nach Waterboarding ++++
 ++++ Ihm sind die Hände gebunden: BDSM-Fetischist kann nichts gegen seine Neigung tun ++++
@@ -1296,12 +1299,14 @@
 ++++ Immer dasselbe Strickmuster: Serienbankräuber am Pullover identifiziert ++++
 ++++ Immer der Nase nach: Kokser bleibt seiner Linie treu ++++
 ++++ Immer mehr Gewalt an Schulen: Sorge um Rektorsicherheit ++++
+++++ Immer mehr weg: Kioskbesitzer klagt über Pfandflaschendiebstahl ++++
 ++++ Immer nur Blasen: Ballerinas zu eng ++++
 ++++ Immer Summen im Kopf: Tinnitus bei Mathematikern weit verbreitet ++++
 ++++ Immer wieder auf die Zwölf: Systemspieler in Casino zusammengeschlagen ++++
 ++++ Im Regen stehengelassen: Zuckerberg völlig aufgelöst ++++
 ++++ Im Sande verlaufen: Suche nach verschwundenen Sahara-Touristen eingestellt ++++
 ++++ "I'm Sorry": Man apologizes for stupid name ++++
+++++ Im Stich gelassen: Arzt entfernt Insektenstachel nicht ++++
 ++++ In aller Munde: Spucke ++++
 ++++ In Bar: Mann bezahlt Drink mit Münzen und Scheinen ++++
 ++++ In Brand gesetzt: Feuerwehrleute testen wasserlose Löschmethode ++++
@@ -1938,6 +1943,7 @@
 ++++ Nichts dran: Model leugnet Magersucht ++++
 ++++ Nicht sehr berauschend: Mann enttäuscht von schlechtem Koks ++++
 ++++ Nicht sein Bier: Braumeister ist Konkurrenz egal ++++
+++++ Nicht sein Ding: Eunuch tauscht Penisattrappe wieder um ++++
 ++++ Nicht sein Tag: Graffitikünstler wegen fremder Schmierereien verhaftet ++++
 ++++ Nichts hat geklappt: Mann reklamiert faltbare Gartenmöbel ++++
 ++++ Nichts leichter als das: Chemiker kennt Element mit geringster Dichte ++++
@@ -2084,6 +2090,7 @@
 ++++ Pipifax: Chef will vor Gang zur Toilette schriftlich benachrichtigt werden ++++
 ++++ Pipi in den Augen: Ergreifender Abschied vom Vorsitzenden des Natursektverbandes ++++
 ++++ Pissnelken: Gärtnerlehrlinge urinieren ins Beet ++++
+++++ Piste: Skifahrer erleichterte sich an unpassender Stelle ++++
 ++++ Plädoyer für legalen Organhandel: Tauber verschafft sich Gehör ++++
 ++++ Plan geht voll auf: Angeleinter Hund läuft wie am Schnürchen ++++
 ++++ Platzhalter: Hier könnte eine witzige Tickerzeile stehen ++++
