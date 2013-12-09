@@ -159,6 +159,7 @@
 ++++ Auch Mariechen: Alle Kinder müssen an Schnupperkurs teilnehmen ++++
 ++++ Auf alle Felle Farbe: Anti-Pelz-Aktivisten einigen sich auf Aktionsform ++++
 ++++ Auf Crack eingelassen: Junkie in Badewanne ertrunken ++++
+++++ Auf dem falschen Feld stehengeblieben: Läufer von Bauern geschlagen ++++
 ++++ Auf dem falschen Fuß erwischt: Polizei schnappt Prothesendieb ++++
 ++++ Auf dem Laufenden gehalten: Reporter berichtet live von der Huckepack-WM ++++
 ++++ Auf dem neuesten Stand: Jäger bekommt Hochsitz mit VDSL-Anschluss ++++
@@ -1103,6 +1104,7 @@
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
 ++++ Hat ein dickes Fell: Model beharrt auf unrasierten Beinen ++++
+++++ Hat eine Nacht drüber geschlafen: Tourist will doch lieber das Parterrezimmer ++++
 ++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
@@ -1654,6 +1656,7 @@
 ++++ Laus: Chinese versucht, Parasiten zu verscheuchen ++++
 ++++ Laus über Leber gelaufen: Arzt verärgert über Hygienezustände in Krankenhaus ++++
 ++++ Lauterbach tobt: Schauspieler stört Fließgewässer vor seinem Fenster ++++
+++++ Lebensaufgabe: Depressiver plant Suizid seit Jahrzehnten ++++
 ++++ Lebensretter: Pistolenkugel in Brusttasche lenkt geworfene Bibel ab ++++
 ++++ Lebt über seine Verhältnisse: Heiratsschwindler ++++
 ++++ Lecker: Fleischer hat Gänsehaut ++++
@@ -1698,6 +1701,7 @@
 ++++ Los Angeles: Amerikanerin fordert von Gatten dicken Fang ++++
 ++++ Löwe gehorcht nicht: Dompteur sichtlich angefressen ++++
 ++++ Luftnummer: Sex im Flugzeug hält den Erwartungen oft nicht stand ++++
+++++ Lügt, dass sich die Balken biegen: Schreiner verbreitet Unwahrheiten über die Elastizität seiner Produkte ++++
 ++++ Lungenkrebs: Marlboro-Cowboy zog schneller als sein Schatten ++++
 ++++ Lustig gefunden: Mann googelt sich vor Lachen ++++
 ++++ Luxuriös: Hautpilz lebt auf großem Fuß ++++
@@ -2447,6 +2451,7 @@
 ++++ Sind miteinander nicht warm geworden: Kannibalenopfer werden getrennt gekocht +++
 ++++ Single Malt: Junggeselle zeichnet im Whiskyrausch ++++
 ++++ Singvogel-OP: Tierarzt entfernt Nachtigallensteine ++++
+++++ Sinnloser Satz: Spiele verliert Tennisprofi hintereinander sechs ++++
 ++++ Sisyphusarbeit: Österreichische Kaiserin benötigt ständig Pediküren ++++
 ++++ Sitz Platz Aus: Keine Eintrittskarten für Hundeshow mehr verfügbar ++++
 ++++ Sitzt auf dem Trockenen: Verarmter Weinhändler bringt Ware nicht los ++++
@@ -2676,6 +2681,7 @@
 ++++ Trotzalter: 90-Jährige kümmert sich um aufmüpfigen Urenkel ++++
 ++++ Trotz ekelhafter Fahne: Alkoholiker gründen eigene Nation ++++
 ++++ Trotzkisten: Revolutionäre verpatzen Umzug ++++
+++++ Tunten Auto: Homosexuelle in aufgemotztem Wagen unterwegs ++++
 ++++ Türklinke: Anatolische Sozialisten finden Eingang ins Parteiensystem ++++
 ++++ Turniermannschaft bestreitet dritte Partie: "Alles Unsinn, wir haben nur zweimal gespielt!" ++++
 ++++ Tut gut: ADAC empfiehlt lautes Hupen zum Stressabbau ++++
@@ -3048,6 +3054,7 @@
 ++++ Witzig: Mann ma... Jetzt weiterlesen bei PostillonPlus für nur 0,99 € ++++
 ++++ Wo die Liebe hinfällt: Sportlerpärchen traf sich auf Hindernisparcour ++++
 ++++ Wollen mehr Geld: Prostituierte gehen für ihre Sache auf die Straße ++++
+++++ Wollte alle Boxen: Halbstarker randaliert in Elektronikmarkt ++++
 ++++ Wollte die Rinde nicht essen: Biberkind geht ohne Nachtisch schlafen ++++
 ++++ Wollten den Dax manipulieren: Betrüger wanderten in den Bau ++++
 ++++ Wollte nicht mehr: Bauer verkauft unrentables Schaf ++++
