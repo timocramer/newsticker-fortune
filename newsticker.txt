@@ -120,6 +120,7 @@
 ++++ Angelverkäufer gesteht: "Meine Produkte haben alle einen Haken" ++++
 ++++ Angepisst: Betrunkener auf Herrentoilette eingeschlafen ++++
 ++++ Angeschmiert: Naiver Mann geht Plakatierer auf den Leim ++++
+++++ Angestellte ausgenommen: Geplante Steuererhöhung betrifft doch nicht alle ++++
 ++++ Angeturnt: Fabian Hambüchen beeindruckt Frau mit Saltos ++++
 ++++ Angriffsbereit: Indianer hat den Bogen raus ++++
 ++++ Angst vor Hinrichtung: Gefangener bricht in Panik aus ++++
@@ -1172,6 +1173,7 @@
 ++++ Hätte schlimmer kommen können: Optimist in halbvoller Badewanne ertrunken ++++
 ++++ Hatte Schwimmflügel: Pianist einziger Überlebender bei Schiffsunglück ++++
 ++++ Hatte Zeit totzuschlagen: Mann mordete aus Langeweile ++++
+++++ Hat Trick: Stürmerstar verrät, wie er drei Tore in Folge schoss ++++
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
 ++++ Hat viele verschiedene Frauen: Mormone ist Witwer ++++
 ++++ Hat viel um die Ohren: Mann mit Halbglatze schafft es nicht zu Friseurtermin ++++
@@ -1406,6 +1408,7 @@
 ++++ Kampf des Jahres: Wrestler ringt mit dem Tod ++++
 ++++ Kampf gegen Pleite: Griechenland erhebt Steuer auf Schwarzarbeit und Korruption ++++
 ++++ Kam zu kurz: Kleiner Junge wird von jedem Fahrgeschäft zurückgewiesen ++++
+++++ Kann alleine nichts ausrichten: Fernsehtechniker zu schwach, um Sat-Schüssel zu justieren ++++
 ++++ Kann daneben gehen: Mann verweigert Ehefrau die Mitfahrt im Auto ++++
 ++++ Kann darüber hinwegsehen: Frau ist Kleinwüchsigkeit ihres Mannes egal ++++
 ++++ Kann einpacken: Christo entlässt Lehrling nach Ausbildung ++++
@@ -2169,6 +2172,7 @@
 ++++ Regisseur dreht durch: Pause abgesagt ++++
 ++++ Reh animiert: Bambi 3D demnächst in den Kinos ++++
 ++++ Rehgenerationsphase: Hirsch nutzt Brunftzeit zur Entspannung ++++
+++++ Reh touchiert: Photoshopexperte verkauft Auto trotz Wildschaden ++++
 ++++ Reiben zwecklos: Wunderlampe hat Geist aufgegeben ++++
 ++++ Reich ins Heim: Wohlhabender Altnazi ist pflegebedürftig ++++
 ++++ Reicht nicht mehr: Butler kündigt wegen zu niedrigen Gehalts ++++
@@ -2408,6 +2412,7 @@
 ++++ Selbstversorger: Kannibale lebt von der Hand in den Mund ++++
 ++++ Selenverwandt: Schwefel ++++
 ++++ Seltsam: Quizsendungen sind ohne Frage sehr beliebt ++++
+++++ Senegal: Kurzsichtiger Westafrikaner will keine Brille tragen ++++
 ++++ Seniorensport: Hochspringerin (92) erhält künstliches Hüpfgelenk ++++
 ++++ Sensationelle Entwicklung: Indische Brauereien schaffen das Kastensystem ab ++++
 ++++ Sensation: Hubble-Teleskop entdeckt Zimtstern ++++
@@ -3052,8 +3057,10 @@
 ++++ Wunder Po: Erstaunlich, was da alles reingeht ++++
 ++++ Wunschlos glücklich: Fee hat Urlaub ++++
 ++++ Wurde auch Zeit: Lebensmittelkontrolleur sieht sich die Radieschen von unten an ++++
+++++ Wurde ihr in den Mund gelegt: Frau hat nie behauptet, gerne zu blasen ++++
 ++++ Wurden auf Eis gelegt: Ermittlungen wegen gefälschter Pinguineier ++++
 ++++ Würden träger: Bischöfe dürfen nicht kiffen ++++
+++++ Würdevoll sterben: Todkranker Alkoholiker wünscht sich Schnapsflasche ++++
 ++++ Würgte den Lurch: Tierpfleger auf frischer Tat ertappt ++++
 ++++ Wusste weder ein noch aus: Elektriker-Azubi verzweifelt an Abschlussprüfung ++++
 ++x+ Doppelpunkt verhaftet Soll Plus umgelegt haben ++++
