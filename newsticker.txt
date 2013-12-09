@@ -363,6 +363,7 @@
 ++++ Braucht keinen Grund: Stadt sprengt Denkmal aus Spaß ++++
 ++++ Braucht keine Sau: Zölibatärer Zuchteber ++++
 ++++ Braucht's Mal wieder: Frau hat Leberfleckfetisch ++++
+++++ Braut im Hochzeitskleid: Frau stellt während eigener Trauung Bier her ++++
 ++++ Breite Mehrheit: Koalitionsverhandlungen erwiesen sich als Schnapsidee ++++
 ++++ Bremsen kaputt: Autofahrer rast in Stechmückenschwarm ++++
 ++++ Bremsen schon wieder defekt: Auto macht Besitzer rasend ++++
@@ -540,6 +541,7 @@
 ++++ Deshalb geht die Welt doch nicht unter: Prophet lag mit Vorhersage falsch ++++
 ++++ Devices: IT-Expertin sieht sofort, was Computer fehlt ++++
 ++++ Diarrhoe: Elefant trötet komisch nach Durchfallerkrankung ++++
+++++ Dicke danken: Sind frei ++++
 ++++ Dickes Ding: Dildo zu groß für Otto Analverbraucher ++++
 ++++ Dick im Geschäft: Elefant im Porzellanladen ++++
 ++++ Diebstahl: Kleiner dicker Hund mit plattem Gesicht gemopst ++++
@@ -976,6 +978,7 @@
 ++++ Glatt gelogen: Werbeversprechen für Faltencreme sorgt für Stirnrunzeln ++++
 ++++ Glaubt noch an den Klapperstorch: Froschpärchen entschließt sich gegen Zeugungsakt ++++
 ++++ Gleichgültig: Phlegmatiker gewinnt Weitsprung im ersten Versuch ++++
+++++ Gleich setzt es was: Eltern erwischen ihr Kind im Casino ++++
 ++++ Gleitzeit im Bordell: Angestellte können kommen, wann sie wollen ++++
 ++++ Glied gerissen: Kunde reklamiert Intim-Kettenpiercing ++++
 ++++ Glück im Unglück: Angefahrener Hund stellt entzückt fest, dass aus seinem gebrochenen Bein ein Knochen ragt ++++
@@ -2218,6 +2221,7 @@
 ++++ Rock am Ring: Festivalbesucherin verheddert sich mit ihrem Intimpiercing ++++
 ++++ Rockerbraut: Bikerin verkauft Bier ihres Mannes ++++
 ++++ Rolle rückwärts: Ellor ++++
+++++ Romantisch: Frau bekommt Lesepult geschenkt ++++
 ++++ Romantisch: Mann mit schwerer Kindheit findet seine Trauma-Frau ++++
 ++++ Rostocker im Trend: Hanseat stolz auf seine Autofarbe ++++
 ++++ Roth angelaufen: Özdemir ist Rempler äußerst peinlich ++++
@@ -2467,6 +2471,7 @@
 ++++ So lala: Neues Musical erhält mittelmäßige Kritiken ++++
 ++++ Soll Daten verkaufen: Bundeswehr gibt persönliche Informationen an Dritte weiter ++++
 ++++ Soll keine Anstalten machen: Stadt kündigt Vertrag mit Bauunternehmen ++++
+++++ Soll mal die Luft anhalten: Apnoetaucher prahlt mit unbewiesener Leistungsfähigkeit ++++
 ++++ Soll mehr kuschen: Rechtschreibfehler in Liebesbrief treibt Paar auseinander ++++
 ++++ Soll nicht sein: Bankkunde beschwert sich über fehlerhafte Abbuchung ++++
 ++++ Sollte den Kopf nicht hängen lassen: Henker-Azubi scharf zurechtgewiesen ++++
@@ -2810,6 +2815,7 @@
 ++++ Verprügeln half nichts: Streber redet jetzt noch geschwollener ++++
 ++++ Verpuppung: Planierraupe verwandelt sich in wunderschönen Planierschmetterling ++++
 ++++ Verputzt: Kannibale bestraft unfähige Reinigungskraft ++++
+++++ Verrät einiges über seinen Charakter: Serien-Darsteller pfeift auf Konventionalstrafe ++++
 ++++ Verrückt: Hochschwangere verschiebt Klavier ohne Hilfe ++++
 ++++ Verrückt: Psychiater blockiert Praxistür mit Sofa ++++
 ++++ Versäumt viel: Näherin konzentriert sich ganz auf ihre Arbeit ++++
@@ -3060,6 +3066,7 @@
 ++++ Wurde ihr in den Mund gelegt: Frau hat nie behauptet, gerne zu blasen ++++
 ++++ Wurden auf Eis gelegt: Ermittlungen wegen gefälschter Pinguineier ++++
 ++++ Würden träger: Bischöfe dürfen nicht kiffen ++++
+++++ Wurde unnötig aufgebauscht: Wattehersteller weist Kritik an hohen Lagerbeständen zurück ++++
 ++++ Würdevoll sterben: Todkranker Alkoholiker wünscht sich Schnapsflasche ++++
 ++++ Würgte den Lurch: Tierpfleger auf frischer Tat ertappt ++++
 ++++ Wusste weder ein noch aus: Elektriker-Azubi verzweifelt an Abschlussprüfung ++++
