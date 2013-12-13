@@ -14,6 +14,7 @@
 ++++ "Aaah!", "Iiih!", "Da!": Panik nach Rattenplage auf Kreuzfahrtschiff ++++
 ++++ Abfahrt verpasst: Skisportler erscheint zu spät zum Turnier ++++
 ++++ Abfall vom Glauben: Kirche nach Messe völlig verdreckt ++++
+++++ Abgebrühte Teenager: Jugendliche bereiten Heißgetränk aus Mäusen zu ++++
 ++++ Abgebrüht: Serienmörder kocht seine Opfer ++++
 ++++ Abgefahren: Schaffner verpasst Zug ++++
 ++++ Abgehört: Schäuble wusste bereits vorher, dass er den Big-Brother-Award erhält ++++
@@ -26,6 +27,7 @@
 ++++ Abgeschrieben: Insider zweifeln an politischer Zukunft von Annette Schavan ++++
 ++++ Abgesoffen: New Yorker bekommt sein Auto nicht mehr gestartet ++++
 ++++ Abgesprochen: Ende des Hollywoodfilms "The Wrestler" stand bereits vorher fest ++++
+++++ Abgestürzt: Bergsteiger-App unzuverlässig ++++
 ++++ Abgewürgt: Mann erdrosselt Ehefrau wegen schlechten Fahrstils ++++
 ++++ Abreibung verpasst: Bandenmitglied kam zu spät ++++
 ++++ Absatzprobleme: Damenschuh verkauft sich schlecht ++++
@@ -614,6 +616,7 @@
 ++++ Ehepaar komplett verschieden: Beide tot ++++
 ++++ Eher harmlos: Vegetarische Zombies verwüsten Blumenbeet ++++
 ++++ Eichenartig: Sächsischer Tischler äußert sich verwundert über Holzbeschaffenheit ++++
+++++ Eieiei: Mann entdeckt dritten Hoden ++++
 ++++ Eierlegende: Hühner erzählen sich Märchen von der Wollmilchsau ++++
 ++++ Eier toller: Iranischer Revolutionsführer will nicht immer nur Müsli zum Frühstück ++++
 ++++ Eiland: Hühner gründen Inselstaat ++++
@@ -749,6 +752,7 @@
 ++++ Ex-Post: Filiale hätte doch nicht geschlossen werden sollen ++++
 ++++ Fackelt nicht lange: Strohfeuer ++++
 ++++ Faden verloren: Puppenspieler unkonzentriert ++++
+++++ Fährt als Anhalter: Sachse gibt beim Trampen falsche Herkunft an ++++
 ++++ Fährt einen heißen Reifen: Sanitäter bringt Sean Connery ins Krankenhaus ++++
 ++++ Fake: Sushi-Bar serviert keinen echten Reiswein ++++
 ++++ Fällt aus allen Wolken: Fallschirmspringer entsetzt über dreisten Diebstahl ++++
@@ -920,6 +924,7 @@
 ++++ Gelber Sack: Chinesischer Nachbar trennt seinen Müll nicht ++++
 ++++ Gelöst: Chemiker begießt Kreuzworträtsel mit Säure ++++
 ++++ Gemeine Fangfragen: Mann fällt durch Angelprüfung ++++
+++++ Gemischte Reaktion: Gelächter und Entsetzen nach Explosion im Chemieunterricht ++++
 ++++ Genau nach seiner Vorstellung: Bewerber wird sofort eingestellt ++++
 ++++ Gendarm: Französischer Polizist enthüllt Fleischskandal ++++
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
@@ -1623,6 +1628,7 @@
 ++++ Lackritzschnecke: Domina fügt gegen Bezahlung mit Süßem auch Narben zu ++++
 ++++ Ladehemmungen: Schüchterner Computer muss zum Psychiater ++++
 ++++ Ladenhüter: Wachhund passt auf schwer verkäufliche Ware auf ++++
+++++ Ladung noch schnell vor Feierabend gelöscht: Trinkfreudige Hafenarbeiter hatten großen Brand ++++
 ++++ Lag auf dem Weg: Autofahrer bringt Selbstmörder zur Nervenheilanstalt zurück ++++
 ++++ Lag tot im Gleisbett: Mitglied von Zugräuber-Bande wollte offenbar aussteigen ++++
 ++++ Lahm gelegt: Böses Foul stoppt deutschen Verteidiger ++++
@@ -3084,6 +3090,7 @@
 ++++ Zeigt Kunden, was eine Harke ist: Baumarkt eröffnet Rechenzentrum ++++
 ++++ Zeitgemäß: Nach Carsharing jetzt auch Urteilen ++++
 ++++ Zerstreut: s o re rP s fo ++++
+++++ "Zieh ab!": Mathematiker will mit seiner Frau nicht alles teilen ++++
 ++++ Ziehen nicht mehr: Witze über Lungenkrebskranke ++++
 ++++ Ziehen sich magisch an: Zaubererpaar spart morgens Zeit ++++
 ++++ Ziehen zusammen: Kokainsüchtige gründen Wohngemeinschaft ++++
