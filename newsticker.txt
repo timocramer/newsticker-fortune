@@ -509,6 +509,7 @@
 ++++ Dement sprechend: Verwirrter Mann sucht Synonym für folglich ++++
 ++++ Den Dicken markiert: Paintballprofi prahlt nach Sieg über korpulenten Gegner ++++
 ++++ Den Faden verloren: Frau kann nicht mehr aus Nähkästchen plaudern ++++
+++++ Den ganzen Tag geknipst: Fotograf dokumentiert Alltag eines Schaffners ++++
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
 ++++ Den Luciano: Bayerische Frauen denken bei Pavarotti-Arien an Oralsex ++++
 ++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
@@ -713,6 +714,7 @@
 ++++ Erlebte ein Donnerwetter: Nasser Ehegatte versaut neuen Wohnzimmerteppich ++++
 ++++ Ernster Wasserschaden: Klempner geht zu Lachen in den Keller ++++
 ++++ Ernüchternd: 1,0 Promille erst nach 10 Stunden abgebaut ++++
+++++ Er pfeift drauf: Mann weigert sich, bei "Wind of change" mitzusingen ++++
 ++++ Erregnis besorgend: Blaue Pillen ++++
 ++++ Erschütternd: Erdbeben in Indonesien ++++
 ++++ Erstaunlich: Jodler sind besser als ihr Ruf ++++
@@ -747,6 +749,7 @@
 ++++ Es wird Ernst: Jury wählt Vornamen des Jahres ++++
 ++++ Es wird Tote geben: Rechtschreibfehler verursacht Panik auf Geburtstagsfeier ++++
 ++++ Ewok: Bewohner Endors entwickelt neues Kochgerät ++++
+++++ Exakt: Künstler erstellt detailgetreues Nacktportrait von ehemaliger Partnerin ++++
 ++++ Exhibitionismus-Vorwurf: Verdächtiger packt aus ++++
 ++++ Existenzkrise: Imaginärer Freund erhängt sich mit WLAN-Kabel ++++
 ++++ Ex-Post: Filiale hätte doch nicht geschlossen werden sollen ++++
@@ -796,6 +799,7 @@
 ++++ Fieser Ziegenpeter: Heidi wochenlang ans Bett gefesselt ++++
 ++++ Figurbewusst: Zombie schwört auf Schlankheitspupillen ++++
 ++++ Figurprobleme: Adipöses Tanzpaar verpatzt Tango ++++
+++++ Filialleiter muss einräumen: Supermarkt hat zu wenige Mitarbeiter ++++
 ++++ Filmriss: Betrunkener Fotograf ruiniert Hochzeitsfotos ++++
 ++++ Filzstift: Auszubildender lernt Vetternwirtschaft ++++
 ++++ Finanzieller Vorteil: Dresden spart sich Weltkulturerbschaftssteuer ++++
@@ -1215,6 +1219,7 @@
 ++++ Heiße Spur: Internet-Detektiv nimmt Twitterung auf ++++
 ++++ Heiße Ware: Kaffee schwarz verkauft ++++
 ++++ Heiter bis sonnig: Angekündigter Regen entpuppt sich als Schauermärchen ++++
+++++ Heizwerk: Kleinwüchsiger e.on-Mitarbeiter verspottet ++++
 ++++ Helfen gegen stumpfe Stifte: Spitzbuben ++++
 ++++ Henkersmahlzeit verweigert: Häftling möchte vor ein ordentliches Gericht gestellt werden ++++
 ++++ Herabgesetzt: Domina demütigt Kunden zum Schnäppchenpreis ++++
@@ -1256,6 +1261,7 @@
 ++++ Hochgeschlafen: Narkoleptikerin im Fahrstuhl ++++
 ++++ Hochkant rausgeflogen: Airline feuert angeberischen Piloten nach Showmanöver ++++
 ++++ Hoch soll er leben: Mann zieht auf ärztlichen Rat in die Alpen ++++
+++++ Hochstapler: Arzt in Wahrheit Lagerist ++++
 ++++ Hochstapler: Tausendsassa in Wirklichkeit nur Hundertsassa ++++
 ++++ Höchste Eisenbahn: DB fährt endlich auch zur Zugspitze ++++
 ++++ Hochtrabend: Reiter wohnt auf Berg ++++
@@ -3048,6 +3054,7 @@
 ++++ Wird ins Auge gehen: Tornadoforscher will mitten in Sturmzentrum ++++
 ++++ Wird zum Emo: Eskimo wurden die Ski weg genommen ++++
 ++++ Wirft kein gutes Licht auf die Stadt: Schon wieder eine defekte Straßenlaterne ++++
+++++ Wirft nicht genug ab: Rodeopferd sattelt beruflich um ++++
 ++++ Wirft schlechtes Licht auf seinen Charakter: Schauspieler verprügelt Beleuchter ++++
 ++++ Wirkt auf den ersten Blick nackt: Schlumpf im Blaumann ++++
 ++++ Wirkt gefasst: Verbrecher nach Flucht wieder hinter Gittern ++++
