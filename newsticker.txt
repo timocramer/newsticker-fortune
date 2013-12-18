@@ -1146,6 +1146,7 @@
 ++++ Hat keine Lobby: Hotel verliert öffentliche Ausschreibung ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
 ++++ Hat keinen Bock: Schäfer muss selbst ran ++++
+++++ Hat keine Rechte: Iranische Boxerin erfolglos ++++
 ++++ Hat lange mit sich gekämpft: Schizophrener Boxer ringt sich zu Therapie durch ++++
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
@@ -1177,6 +1178,7 @@
 ++++ Hat sofort gehandelt: Broker reagiert auf Börsencrash ++++
 ++++ Hatte einfach zuviel im Kopf: Tumorpatient stirbt wegen verpasstem OP-Termin ++++
 ++++ Hatte ein Händchen für Tiere: Kind streichelte Löwen im Zoo ++++
+++++ Hatte es im Rücken: Genialer Schmuggler muss aus gesundheitlichen Gründen aufhören ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
 ++++ Hatte jeglichen Lebensmut verloren: Katze ging vor die Hunde ++++
 ++++ Hatte keine Atmosphäre: Erstes Restaurant auf dem Mond wieder geschlossen ++++
@@ -1250,6 +1252,7 @@
 ++++ Hinterm Berg gehalten: Viehdieb spricht erstmals über geklautes Pferd ++++
 ++++ Hin- und hergerissen: Löwe begeistert von Gazelle ++++
 ++++ Hinweis: Urlauber kommen gebräunt zurück ++++
+++++ Hi Pa, Hi Pa: H.P. Baxxter bekommt Zwillinge ++++
 ++++ Historiker besorgt: Ausgrabungen zur Tortenschlacht bei Leipzig geraten zur Farce ++++
 ++++ Historiker bestätigen: Innerdeutsche Grenze war D-Markationslinie ++++
 ++++ Historiker rätseln: Starb Goebbels an Hetzinfarkt? ++++
@@ -1360,6 +1363,7 @@
 ++++ Interessiert ihn nicht die Bohne: Steakhaus-Gast lässt Beilage unangerührt ++++
 ++++ In Teufels Küche gebracht: Koch in Erklärungsnot nach Einsatz von schwarzem Maggi ++++
 ++++ In Tränen aufgelöst: Heulsuse hat kein Wasser für Brausetablette ++++
+++++ In vollen Zügen: Pendler genießt Zigarette im Berufsverkehr ++++
 ++++ Iran: Winner of Teheran Marathon reveals how he won ++++
 ++++ Ironie: Punk trägt Vokuhila ++++
 ++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
@@ -1548,6 +1552,7 @@
 ++++ Kommt ihm gut gelegen: Almbauer hat einen Hang zum Skifahren ++++
 ++++ Kommt nach der Mutter: Sohn mit Ödipuskomplex ist sehr ausdauernd ++++
 ++++ Kommt nicht gut rüber: Stabhochspringer erscheint betrunken zum Wettkampf ++++
+++++ Kommt nicht in die Gänge: Darsteller verzögert Dreharbeiten bei Büro-Porno ++++
 ++++ Kommt nicht in die Tüte: Kiffer verzichtet auf Tabak ++++
 ++++ Kommt nicht in die Tüte: Mann hat keine Lust auf Kondom ++++
 ++++ Kommt nicht mehr klar: Junkie geht nur noch high zur Arbeit ++++
@@ -1689,6 +1694,7 @@
 ++++ Leichen pflastern seinen Weg: Voodoo-Priester lässt Zombies schuften ++++
 ++++ Leichtgläubig: Naive Menschen sind schwindelerregend ++++
 ++++ Leidet nicht mehr an Krebs: Gläubiger in Heilquelle ertrunken ++++
+++++ Leif: Skandinavischer Nachrichtensprecher geht auf Sendung ++++
 ++++ Leitender Angestellter: Lehrling bekommt von Elektromeister eine gewischt ++++
 ++++ Leiter an die Wand gestellt: Gefängnisdirektor wegen Fluchthilfe erschossen ++++
 ++++ Letzter Satz: "Von dem Gewitter lasse ich mir doch nicht mein Tennisspiel ruinieren!" ++++
@@ -3094,6 +3100,7 @@
 ++++ Xenophobie: Miss Universe bisher immer von der Erde ++++
 ++++ Zahlt bei Hunnenüberfall: Brandschatzversicherung ++++
 ++++ Zahlt er aus der Portokasse: Sammler ersteigert blaue Mauritius ++++
+++++ Zahnpastatube: Neues Videoportal zur Mundhygiene geht online ++++
 ++++ Zeigt Kunden, was eine Harke ist: Baumarkt eröffnet Rechenzentrum ++++
 ++++ Zeitgemäß: Nach Carsharing jetzt auch Urteilen ++++
 ++++ Zerstreut: s o re rP s fo ++++
