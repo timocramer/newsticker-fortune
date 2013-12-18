@@ -95,6 +95,7 @@
 ++++ Alt geworden: Betagte Sopranistin verliert an Stimmhöhe ++++
 ++++ Altglascontainer gestohlen: Recyclingfirma steht vor Scherbenhaufen ++++
 ++++ Always Ultra: Weiblicher Fussballfan in der Regel bei jedem Spiel ihres Clubs dabei ++++
+++++ Alzheimer: ++++
 ++++ Alzheimer: Betagter Elektroinstallateur verlegt immer öfter Kabel ++++
 ++++ Am Arsch die Räuber: Bevölkerung nimmt Warnung vor Stringtanga-Dieben nicht ernst ++++
 ++++ Am Arsch: Mann bekommt tödlichen Tumor diagnostiziert ++++
@@ -1115,6 +1116,7 @@
 ++++ Hat ein dickes Fell: Model beharrt auf unrasierten Beinen ++++
 ++++ Hat eine Nacht drüber geschlafen: Tourist will doch lieber das Parterrezimmer ++++
 ++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
+++++ Hat eine neue Flamme: Pyromane befriedigt ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
 ++++ Hat einen üblen Kater: Hexe zechte die Nacht mit ihrem Haustier durch ++++
@@ -1250,6 +1252,7 @@
 ++++ Hingen ihm zum Halse raus: Tierarzt findet Bemerkungen über Pferdetritt in seine Hoden langsam nicht mehr lustig ++++
 ++++ Hinter Gitta: Knacki vernascht Frau am Besuchstag in Hündchenstellung ++++
 ++++ Hinterm Berg gehalten: Viehdieb spricht erstmals über geklautes Pferd ++++
+++++ Hinter schwedischen Gardinen: Flüchtiger wählte zu einfaches Versteck ++++
 ++++ Hin- und hergerissen: Löwe begeistert von Gazelle ++++
 ++++ Hinweis: Urlauber kommen gebräunt zurück ++++
 ++++ Hi Pa, Hi Pa: H.P. Baxxter bekommt Zwillinge ++++
@@ -1634,6 +1637,7 @@
 ++++ Labellos: Musiker verkauft jetzt Lippenpflege ++++
 ++++ Laborleiter sauer: pH-Wert schon wieder zu niedrig ++++
 ++++ Lachnummer: Behörde will Reihenfolge von Witzen besser organisieren ++++
+++++ Lachs gehandhabt: Arbeiter in Fischfabrik nimmt Hygienevorschriften nicht ernst ++++
 ++++ Lacht sich schlapp: Mann muss Geschlechtsverkehr während Comedysendung abbrechen ++++
 ++++ Lackdose-Intoleranz: Sprayer muss Pinsel nehmen ++++
 ++++ Lackritzschnecke: Domina fügt gegen Bezahlung mit Süßem auch Narben zu ++++
@@ -2706,6 +2710,7 @@
 ++++ Typisch Bahn: Sprengstoffattentat auf ICE verzögert sich um über zwei Stunden ++++
 ++++ Übel aufgestoßen: Rülps-Wettbewerb führt zu Nachbarschaftsklage ++++
 ++++ Übel: Blinder Passagier ist sehkrank ++++
+++++ Übel mitgespielt: Kind erbricht in Sandkasten ++++
 ++++ Überascht: Legasthenikerdorf nach Vulkanausbruch verschüttet ++++
 ++++ Über den Haufen gefahren: Autofahrer übt Rache an rücksichtslosem Hundebesitzer ++++
 ++++ Über den Tisch gezogen: Teller am Boden zerstört ++++
@@ -2867,6 +2872,7 @@
 ++++ Viel zu eingebildet: Mann trifft sich nicht mehr mit imaginärem Freund ++++
 ++++ Viel zu flach: Witze über Holland ++++
 ++++ Viel zu langsam: Autoschieberbande von Polizei erwischt ++++
+++++ Vier beinah: Hündin wirft drei Welpen ++++
 ++++ Villa in Tornadogebiet gekauft: Millionär lebt in Saus und Braus ++++
 ++++ Villenlos: Verarmtem Millionär ist egal, auf welcher Parkbank er schläft ++++
 ++++ Vitamin B: Kumpel von Arzt kommt leicht an Nährstoffpräparat ++++
@@ -3049,6 +3055,7 @@
 ++++ Will kein Messi mehr sein: Junge reduziert Fußballtraining und räumt Zimmer auf ++++
 ++++ Willkommen: Nymphomanin ++++
 ++++ Willkür: Diktator fordert wahllos Zugaben von Eiskunstläufern ++++
+++++ Will lieber Grafiken: Andre Agassi von Tabellenkalkulationsprogramm gelangweilt ++++
 ++++ Will nicht in die Penne: Kind hat Angst vor Schulkoch ++++
 ++++ Will nicht mehr die zweite Geige spielen: Orchestermusiker geht flöten ++++
 ++++ Will nicht mit dem Strom schwimmen: Badegast verlässt bei Gewitter als einziger das Wasser ++++
