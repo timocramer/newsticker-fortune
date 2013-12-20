@@ -596,6 +596,7 @@
 ++++ Dreist: Schiedsrichter raucht Pfeife ++++
 ++++ Drittes Standbein: Gut bestückter Mann prostituiert sich nebenberuflich ++++
 ++++ Drogen-Razzia misslungen: Dealer waren Fixer ++++
+++++ Dröhnen: Sächsische Bevölkerung befürchtet Lärm durch Amazon-Fluggeräte ++++
 ++++ Drückend überlegen: Mann löst auch schwierigste Kreuzworträtsel auf der Toilette ++++
 ++++ Drücken sich vor der Arbeit: Familientherapeuten ++++
 ++++ Dumm gelaufen: Model umgeknickt ++++
@@ -1604,6 +1605,7 @@
 ++++ Kraftakt: Nacktgemälde von NRW-Ministerpräsidentin war nur schwer zu verkaufen ++++
 ++++ Krähen zu aggressiv: Hähne vom Hof verjagt ++++
 ++++ Kranke Scheiße: Mann hat Blut im Stuhl ++++
+++++ Krankgeschrieben: Journalist arbeitsunfähig ++++
 ++++ Krasser Absturz: Volltrunkener Pilot kann Bord-Computer nicht mehr hochfahren ++++
 ++++ Krass: Günters Nachname jahrzehntelang falsch geschrieben ++++
 ++++ Krebserregend: Kräftige Scheren, knackige Schale, sexy Seitwärtsgang ++++
@@ -1658,6 +1660,7 @@
 ++++ Lang Lang: Pianist lernt Morsealphabet ++++
 ++++ Langweilig: Gespräch zwischen Dolmetscher und Papagei dreht sich im Kreis ++++
 ++++ Lassen fünfe gerade sein: Faule Mannschaft gibt genau jetzt Basketball auf ++++
+++++ Lässt alle Hüllen fallen: Mitarbeiterin aus Videothek entlassen ++++
 ++++ Lässt es raushängen: Reicher Exihibitionist trägt goldene Unterhose ++++
 ++++ Lässt fünfe gerade sein: Chirurg richtet Zehen zum Freundschaftspreis ++++
 ++++ Lässt ihn fallen: General schickt Protégé an die Front ++++
@@ -1822,6 +1825,7 @@
 ++++ Mit Monet und Picasso auf der Flucht: Bayerischer Kunstdieb wählt Guatemala ++++
 ++++ Mitnichten: Inzestvorwürfe relativiert ++++
 ++++ Mit Pauken und Trompeten durchgefallen: Bauaufsicht bemängelt maroden Fußboden im Orchestergraben ++++
+++++ Mit Pauken und Trompeten durchgefallen: Erfolgloser Musiker versucht Abschlussprüfung jetzt mit Violine ++++
 ++++ Mit Rappen zum Millionär: Schweizer Straßenmusiker setzt sich zur Ruhe ++++
 ++++ Mit seinem riesigen Messer: Attentäter stach Passanten sofort ins Auge ++++
 ++++ Mit Spannung erwartet: Delinquent auf dem Weg zum elektrischen Stuhl ++++
@@ -2185,6 +2189,7 @@
 ++++ Rauchzeichen: Indianer spricht durch Loch im Hals ++++
 ++++ Raufen sich zusammen: Jugendliche Straftäter gründen Boxverein ++++
 ++++ Razzia: Strichmännchen im Haus des Nikolaus festgenommen ++++
+++++ Reallöhne sinken: Verkäuferinnen wechseln zu Edeka ++++
 ++++ Realschule soll abgeschafft werden: Unterricht zukünftig virtuell ++++
 ++++ Rechnerisch angenähert: Mathematiker entdeckt Formel für erfolgreiches Flirten ++++
 ++++ Rechnet mit dem Schlimmsten: Lehrer übt mit Klassenrabauken ++++
@@ -2288,6 +2293,7 @@
 ++++ Salonfähig: Friseur stellt Azubi mit guten Manieren ein ++++
 ++++ Salzgitter: Niedersächsischer Häftling leckt sich in Freiheit ++++
 ++++ Sammelte Kronleuchter: Bankrotter Adliger hängt an seinem Hobby ++++
+++++ Satan: Leibhaftiger spioniert Online-Banking aus ++++
 ++++ Sauber abgeschüttelt: Dieb entwischt Polizei auf der Herrentoilette ++++
 ++++ Sauber: Formel 1-Team zufrieden mit neuer Putzkraft ++++
 ++++ Sauber gemacht: Putzfrau wird vom Chef gelobt ++++
@@ -3000,6 +3006,7 @@
 ++++ Weihwasserexzess: Pfarrer beim Komataufen erwischt ++++
 ++++ Weil am Rhein: Stadt profitiert von Schifffahrt ++++
 ++++ Weil sie es nicht können: Pfarrer liest Analphabeten die Leviten ++++
+++++ Weiß der Geier: Albinovogel gibt Rätsel auf ++++
 ++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
 ++++ Weiß nicht, was er noch machen soll: Gott komplett fertig mit der Welt ++++
