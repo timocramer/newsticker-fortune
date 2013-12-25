@@ -105,6 +105,7 @@
 ++++ Am Boden: Turner beim Handstand gestürzt ++++
 ++++ Am Boden zerstört: Selbstmordattentäter konnte Flugzeug nicht starten ++++
 ++++ Am laufenden Band: Menstruierende Frau erkennt, dass sie schon wieder Tampon wechseln muss ++++
+++++ Am Sack erkannt: Weihnachtsmann fällt in Sauna auf ++++
 ++++ Analanalphabet: Mann kann seine eigenen vier Buchstaben nicht lesen ++++
 ++++ An den Haaren herbeigezogen: Friseur bestreitet gewaltsame Kundenbeschaffung ++++
 ++++ An den Haaren herbeigezogen: Friseur weist Körperverletzungsvorwürfe zurück ++++
@@ -844,6 +845,7 @@
 ++++ Frohlockend: Frisuermeisterin ist stets gut gelaunt ++++
 ++++ Frosch im Hals: Miss Piggy nach Oralsex total heiser ++++
 ++++ Früher oder später kommt's raus: Frau verschweigt Schwangerschaft ++++
+++++ Früher war mehr Lamm-Mett da: Dönerverkäufer spart an der Fleischeinlage ++++
 ++++ Frustration: Hungriger Gast wird in 5-Sterne-Restaurant nicht satt ++++
 ++++ Fuck: 48 percent of all Germans cannot speak English - poor bastards! ++++
 ++++ Fühlen sich unverstanden: Menschen aus Fachchina ++++
@@ -1623,9 +1625,11 @@
 ++++ Kriegt die Kurve nicht: Rennstall entlässt drogensüchtigen Fahrer ++++
 ++++ Kriegt er nicht gebacken: Neue Rezeptur zu anspruchsvoll für Konditor ++++
 ++++ Kriegt 'ne Gänsehaut: Bauer vor Transplantation aufgeregt ++++
+++++ Kriegt 'nen Föhn: Mann von Geschenk enttäuscht ++++
 ++++ Kriegt sein Fett weg: Dicker Mann wegen Schönheits-OP gehänselt ++++
 ++++ Kriegt sein Fett weg: Sumoringer nach Magenverkleinerung chancenlos ++++
 ++++ Kriminalpolizei warnt: Aufsteller von Altgoldcontainern sind meist Betrüger ++++
+++++ Krippenplatz garantiert: Maria und Josef erhalten frohe Botschaft ++++
 ++++ Krisenstab: Mann holt sich Tipps, um knifflige Mikadosituation zu lösen ++++
 ++++ Kritiker lassen sich nicht kleinkriegen: Schrottplatz kämpft mit schlechter Presse ++++
 ++++ Krummes Ding: Betrüger ergaunert Banane ++++
@@ -1666,6 +1670,7 @@
 ++++ Langweilig: Gespräch zwischen Dolmetscher und Papagei dreht sich im Kreis ++++
 ++++ Lassen fünfe gerade sein: Faule Mannschaft gibt genau jetzt Basketball auf ++++
 ++++ Lässt alle Hüllen fallen: Mitarbeiterin aus Videothek entlassen ++++
+++++ Lässt die Katze aus dem Sack: Weihnachtsmann outet sich als Liebhaber von Lebend-Geschenken ++++
 ++++ Lässt es raushängen: Reicher Exihibitionist trägt goldene Unterhose ++++
 ++++ Lässt fünfe gerade sein: Chirurg richtet Zehen zum Freundschaftspreis ++++
 ++++ Lässt ihn fallen: General schickt Protégé an die Front ++++
@@ -2680,6 +2685,7 @@
 ++++ Total verbohrt: Zahnarzt gesteht Kunstfehler nicht ein ++++
 ++++ Total verklemmt: Schüchterner Mann kam jahrelang nicht vor die Tür ++++
 ++++ Total verspant: Pinocchio hat Rückenschmerzen ++++
+++++ Toy Toy Toy: Britischer Junge hofft auf mindestens 3 Spielsachen zu Weihnachten ++++
 ++++ Trachten nach dem Tod: Bayerische Profikiller möchten in traditioneller Kleidung bestattet werden ++++
 ++++ Tragikomisch: Zigarettenpausenclown an Lungenkrebs gestorben ++++
 ++++ Tragischer Arbeitsunfall II: Veitstanzlehrer stirbt an Erschöpfung ++++
@@ -3013,6 +3019,7 @@
 ++++ Weihwasserexzess: Pfarrer beim Komataufen erwischt ++++
 ++++ Weil am Rhein: Stadt profitiert von Schifffahrt ++++
 ++++ Weil sie es nicht können: Pfarrer liest Analphabeten die Leviten ++++
+++++ Wein achten: Glühweinverkäufer wollen mehr Aufmerksamkeit ++++
 ++++ Weiß der Geier: Albinovogel gibt Rätsel auf ++++
 ++++ Weißer Riese: Dirk Nowitzki wirbt jetzt für Waschmittel ++++
 ++++ Weiß nicht so recht: Bauherr hätte lieber gelbe oder hellblaue Fassaden ++++
