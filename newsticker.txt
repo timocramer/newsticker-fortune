@@ -222,6 +222,7 @@
 ++++ Ausgeschlossen: Mann weigert sich, den Schlüsseldienst zu rufen ++++
 ++++ Ausgesprochen schwierig: Wortwitze, die Schriftform benötigen ++++
 ++++ Ausgezeichnet: Karikaturist bricht sich die Hand ++++
+++++ Ausgezeichnet: Maler stirbt bei Preisverleihung ++++
 ++++ Ausgezogen: WG zu prüde ++++
 ++++ Auskommen im Alter: Nachkommen müssen laut Abkommen vollkommen für Einkommen aufkommen ++++
 ++++ Aussage in Stutenskandal verweigert: Wen will Zuchthengst decken? ++++
@@ -399,6 +400,7 @@
 ++++ Chapeau!: Mann kennt französisches Wort für Hut ++++
 ++++ Charmebolzen: Liebesgott mit durchschlagendem Erfolg auf Armbrust umgestiegen +++
 ++++ Chlorreiche Zukunft: Swimmingpool enthielt zu viele Bakterien ++++
+++++ Christkind: Frau überrascht Mann zu Weihnachten mit Schwangerschaftsbotschaft ++++
 ++++ Chuck Norris kommt auch ohne Wortspiel in den Newsticker vom Postillon ++++
 ++++ Clever: Hässliche Menschen fordern mehr sexuelle Belästigung am Arbeitsplatz ++++
 ++++ Clever: Intellektuelle Prostituierte geht auf den Gedankenstrich ++++
@@ -1263,6 +1265,7 @@
 ++++ Historisch belegt: Schon die alten Römer aßen Pizza ++++
 ++++ Historisches Ereignis: Ganze Schulklasse schreibt Geschichte ++++
 ++++ Hi Sugar: Frau hat neuen Glukosenamen ++++
+++++ Hitzige Forumsdiskussion beendet: Wallone hatte keine Lust mehr auf Flamen ++++
 ++++ Hobbit zum Beruf gemacht: Elijah Wood zufrieden mit seiner Schauspielkarriere ++++
 ++++ Hochaufgelöst: Paparazzo fotografiert trauernde Witwe ++++
 ++++ Hochgeschlafen: Narkoleptikerin im Fahrstuhl ++++
@@ -1332,6 +1335,7 @@
 ++++ Im Sande verlaufen: Suche nach verschwundenen Sahara-Touristen eingestellt ++++
 ++++ "I'm Sorry": Man apologizes for stupid name ++++
 ++++ Im Stich gelassen: Arzt entfernt Insektenstachel nicht ++++
+++++ Im Zweifel noch einmal nachschlagen: Karateschüler zieht Handbuch zu Rate ++++
 ++++ In aller Munde: Spucke ++++
 ++++ In Bar: Mann bezahlt Drink mit Münzen und Scheinen ++++
 ++++ In Brand gesetzt: Feuerwehrleute testen wasserlose Löschmethode ++++
@@ -1582,6 +1586,7 @@
 ++++ Konnte es mit ihm einfach nicht aufnehmen: Schüchterner Musiker entlässt dominanten Tontechniker ++++
 ++++ Konnte ihn damit nicht anmachen: Frau warf Dessous enttäuscht in den Ofen ++++
 ++++ Konnte keinem etwas abschlagen: Gutmütiger Henker total ruiniert ++++
+++++ Konnte nicht auf Strich gehen: Prostituierte nach Alkoholtest in Ausnüchterungszelle gesteckt ++++
 ++++ Konnte niemandem das Wasser reichen: Kellner entlassen ++++
 ++++ Konnte nur schief gehen: Volltrunkener ließ Wagen stehen ++++
 ++++ Könnte schief gehen: Arzt vor geplanter Bein-Op skeptisch ++++
@@ -2824,6 +2829,7 @@
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Veltins Bier: Mann erleidet Unfall bei Brauereibesichtigung ++++
 ++++ Venedig: Gondoliere hat Krampfadern ++++
+++++ Verdacht: Philosoph glaubt, falsche Schlüsse zu ziehen ++++
 ++++ Verdammte Axt: Holzfäller hackt sich ins Bein ++++
 ++++ Verdammt: Holland von Anstieg des Meeresspiegels nicht betroffen ++++
 ++++ Verdammt lang hair: Sänger von BAP erinnert sich an seinen letzen Friseurbesuch ++++
@@ -2965,6 +2971,7 @@
 ++++ Warschauer packt: Militärbündnis entlässt letzten Mitarbeiter ++++
 ++++ War schon eingelaufen: Boxer fiel zu enge Hose erst im Ring auf ++++
 ++++ "Warum funktioniert das Ding nicht?": Rasensprengerverkäufer steht auf dem Schlauch ++++
+++++ War vereist: Polarforscher nicht zu erreichen ++++
 ++++ War vorher klar: Kleinkind pinkelt ins Pool-Wasser ++++
 ++++ War zu unkonzentriert: Getränkeproduzent stellt faden Orangensaft her ++++
 ++++ Wäscherei: defekte Wäschemangel schuld am Wäschemangel ++++
