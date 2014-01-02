@@ -729,6 +729,7 @@
 ++++ Erstickt in Arbeit: Proktologe kriegt den Kopf einfach nicht frei ++++
 ++++ Erst nach x Versuchen: Mathematiker entschlüsselt Formel mit µ und NOT ++++
 ++++ Er sucht sie: Mann verlegt Liste mit Kontaktanzeigen ++++
+++++ Erträgt es nicht mehr: Möbelpacker kündigt fristlos ++++
 ++++ Ertrinkende Badegäste ziehen ihn runter: Rettungsschwimmer schlecht gelaunt ++++
 ++++ Er vergab ihm schlechte Noten: Schüler trägt Lehrer nichts nach ++++
 ++++ "Er war viel zu schmutzig": Frau kehrt Mann den Rücken ++++
@@ -1087,6 +1088,7 @@
 ++++ Hält ihre Familie über Wasser: Mutter arbeitet halbtags als Deichbauerin ++++
 ++++ Hält nichts davon: Torwart boykottiert Elfmeterschießen ++++
 ++++ Hält sich noch im Rahmen: Restaurator sieht keinen Handlungsbedarf bei lädiertem Gemälde ++++
+++++ Hammerhigh: Fünf Kilo Kokain in Bauch von Meeresräuber gefunden ++++
 ++++ Hämmert auf eigene Faust: Hobbybastler hätte besser Profi engagiert ++++
 ++++ Hämorrhoiden-Gefahr: Finnlands Krankenkassen warnen vor Posaunen ++++
 ++++ Hand salzig: Ziege startet Ableckungsmanöver ++++
@@ -1356,6 +1358,7 @@
 ++++ In der Cloud: Südasiate hackt Kreditkartendaten ++++
 ++++ In der Regel nicht zu schaffen: Triathlon-Schwimmstrecke von Piranhas bewohnt ++++
 ++++ In der Ruhr liegt die Kraft: Ministerpräsidentin nimmt Sturz in Fluss gelassen ++++
+++++ Indertat: Polizeisprecher bestätigt asiatische Herkunft von Verdächtigem ++++
 ++++ In der Truhe liegt der Saft: Tenor findet endlich Hohes C ++++
 ++++ In der Vergangenheit verhaftet: Nostalgischer Verbrecher will wieder in den Knast ++++
 ++++ In der Zwickmühle: Müller muss Gattin blaue Flecken erklären ++++
@@ -1371,6 +1374,7 @@
 ++++ In Hypnose versetzt: Nach dem Aufwachen war Freundin weg ++++
 ++++ In letzter Sekunde aufgehalten: Einbrecher wollten Türe eintreten ++++
 ++++ In See gestochen: Wespe verfehlt Badegast ++++
+++++ In Seenot geraten: Schiffbrüchige vertreiben sich Zeit bis zur Rettung mit Quiz ++++
 ++++ Insekt ertrunken: Schaumwein wurde Fliege zum Verhängnis ++++
 ++++ Inselweite Fahndung: Vulkan auf Island ausgebrochen ++++
 ++++ Insider packt aus: Edward Snowdens Umzugskartons in Moskau eingetroffen ++++
@@ -1405,6 +1409,7 @@
 ++++ Jacke wie Hose: Overall ++++
 ++++ Jämmerlich im Stich gelassen: Stachel von Biene ++++
 ++++ Japsen gegen Rassismus: Teilnehmer des Tokio-Marathons erlaufen Spendengelder für Toleranzprojekt ++++
+++++ Jeden Tag eine gute Tarte: Französischer Konditor fasst guten Vorsatz ++++
 ++++ Jeden Tag eine gute Tat: Pfadfinder bringt kranke Rentnerin um die Ecke ++++
 ++++ Jesus enterbt: Gott schreibt Neues Testament ++++
 ++++ Jetzt aber Dalí: Ungeduldiger Kunstsammler stört Auktion durch Zwischenrufe ++++
@@ -1852,6 +1857,7 @@
 ++++ Modernisierung: Schäfer kauft Elektroherde ++++
 ++++ Modern modern: Karteileichen bei Facebook ++++
 ++++ Modischer Knastbruder: PKK-Führer Öcalan trägt Kurdhosen ++++
+++++ Monopol: Magnethersteller bekommt Patent auf neue Erfindung zugesprochen ++++
 ++++ Monoton: Musikstudent paukt fürs Examen ++++
 ++++ Mord im Dark Room: Polizei tappt im Dunkeln ++++
 ++++ Mordkompott: Ehefrau und ihr Geliebter töten Mann mit vergiftetem Obstmus ++++
@@ -1977,6 +1983,7 @@
 ++++ Nicht gerade mit Rum bekleckert: Pirat trinkt zurückhaltend ++++
 ++++ Nicht gerade praktisch: Krummsäbel ++++
 ++++ Nicht gerecht: Nachbar darf Laub liegen lassen ++++
+++++ Nicht im Bilde: Dummer Maler vergisst wichtigsten Teil von Selbstportrait ++++
 ++++ Nicht in der Verfassung: Kaiserenkel kann Thron nicht besteigen ++++
 ++++ Nicht lange gefackelt: Polizei schnappt Brandstifter in flagranti ++++
 ++++ Nicht lustig: Tauber kann Witze über Taube nicht mehr hören ++++
