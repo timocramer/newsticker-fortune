@@ -468,6 +468,7 @@
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
 ++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
+++++ "Das ist nicht mein Bier": Mann sind K.o.-Tropfen im Glas seiner Frau egal ++++
 ++++ Das ist nicht ohne: Mit ++++
 ++++ Das juckt ihn nicht: Mann sind Mückenstiche bei Ehefrau gleichgültig ++++
 ++++ Das kann ja wohl nicht angehen: Elektroinstallateur vergisst Lichtschalter ++++
@@ -811,6 +812,7 @@
 ++++ Finden Speichel lecker: Speichellecker ++++
 ++++ Findet den Kö nich: Billardspieler steigt auf Schach um ++++
 ++++ Findet einfach keine Worte: Mann ließ sich leeren Duden andrehen ++++
+++++ Findet ein frühes Grab: Archäologe stürzt in prähistorische Bestattungsstätte ++++
 ++++ Findet keinen Angelköder: Den Fänger wurmt der frühe Vogel ++++
 ++++ Findet reißenden Absatz: Neuartiger Schuhfehler-Detektor verkauft sich gut ++++
 ++++ Fingerfertig: Prothesenhersteller erfüllt Auftrag früher als geplant ++++
@@ -1059,6 +1061,7 @@
 ++++ Gynäkologen warnen: Intimrasur führt meist zu Nachwuchs ++++
 ++++ Haarschwund: Franzose irrtümlich rektal untersucht ++++
 ++++ Haarspalterei: Sushikoch sehr penibel bei Auswahl des neuen Messers ++++
+++++ Haart am Limit: Athlet verliert Toupet auf der Zielgeraden ++++
 ++++ Haar wuchs ihm über den Kopf: Mann trägt lieber wieder Glatze ++++
 ++++ "Habe mich an ihr vergriffen": Gitarrist erklärt Saitensprung ++++
 ++++ Haben fast alles zugegeben: Weinpanscher legen Geständnis ab ++++
@@ -1214,6 +1217,7 @@
 ++++ Hautstrafend: Die neue Creme für Masochisten ++++
 ++++ Haut voll rein: Neue Seife verspricht perfekte Sauberkeit ++++
 ++++ Health Angels: Neuer Motorrad-Rettungsdienst gegründet ++++
+++++ Hearts 4: Neue Version des Spieleklassikers bei Arbeitslosen sehr beliebt ++++
 ++++ Hecktisch: Hinterbänkler verschreibt sich ++++
 ++++ Heidenarbeit: Missionar hat viel zu tun ++++
 ++++ Heidenreich: Literaturkritikerin empört über hohe Zahl Religionsloser in Deutschland ++
@@ -1667,6 +1671,7 @@
 ++++ Langer Arm der Vogelmafia: Taube auf dem Dach hat Spatz in der Hand ++++
 ++++ Lange vor sich hergeschoben: Einsammler von Einkaufswagen kündigt endlich Job ++++
 ++++ Lang Lang: Pianist lernt Morsealphabet ++++
+++++ Lang Lang: Star-Pianist morst ein "M" ++++
 ++++ Langweilig: Gespräch zwischen Dolmetscher und Papagei dreht sich im Kreis ++++
 ++++ Lassen fünfe gerade sein: Faule Mannschaft gibt genau jetzt Basketball auf ++++
 ++++ Lässt alle Hüllen fallen: Mitarbeiterin aus Videothek entlassen ++++
@@ -1972,6 +1977,7 @@
 ++++ Nicht gerade mit Rum bekleckert: Pirat trinkt zurückhaltend ++++
 ++++ Nicht gerade praktisch: Krummsäbel ++++
 ++++ Nicht gerecht: Nachbar darf Laub liegen lassen ++++
+++++ Nicht in der Verfassung: Kaiserenkel kann Thron nicht besteigen ++++
 ++++ Nicht lange gefackelt: Polizei schnappt Brandstifter in flagranti ++++
 ++++ Nicht lustig: Tauber kann Witze über Taube nicht mehr hören ++++
 ++++ Nicht mehr alle Tassen im Schrank: Porzellanhändler wird nach Großdiebstahl wahnsinning ++++
@@ -3203,6 +3209,7 @@
 ++++ Zu viel Ouzo: Mann bricht fließend griechisch ++++
 ++++ Zu viel Pils: Betrunkener Koch versaut Jägerschnitzel ++++
 ++++ Zu viel Schnaps: Flachmann übergibt sich in Brusttasche ++++
+++++ Zu wenig Netto vom Brutto: Supermarkt-Kassiererin verlangt mehr Brutto vom Netto ++++
 ++++ Zu wenig Spielraum: Stadt kann sich Kindergartenausbau nicht leisten ++++
 ++++ Zu wenig Stoff: Erotikfilmprojekt kurzfristig abgeblasen ++++
 ++++ Zwanghaft: Bayrische Kommode tanzt Schubladler ++++
