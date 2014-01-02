@@ -415,6 +415,7 @@
 ++++ Da bleibt kein Auge trocken: Taucher finden Grund zum Lachen ++++
 ++++ Da blickt keiner mehr durch: Defektes Teleskop gibt Rätsel auf ++++
 ++++ "Da brat mir einer 'nen Storch!": Kunde überrascht von exotischer Speisekarte ++++
+++++ Dachgeschoss: Obermieter installiert Flak ++++
 ++++ Dafür hat er keine Nerven: Querschnittsgelähmter treibt keinen Sport ++++
 ++++ Dafür legt er seine Hand ins Feuer: Einarmiger schwört auf Prothesen als Brennmaterial ++++
 ++++ Dafür musste er weit ausholen: Kugelstoßer erzählt von seinem ersten Wettkampf ++++
@@ -943,6 +944,7 @@
 ++++ Generalüberholt: Vorgesetzter auch im modernisierten Panzer noch zu langsam ++++
 ++++ Genossen: Anwesende mit Parteitag sehr zufrieden ++++
 ++++ Gentechnik-Panne: Labormaus ist ganz Ohr ++++
+++++ Genua: Italienierin lässt Mann bereitwillig ziehen ++++
 ++++ Gepard: Raubkatze trächtig ++++
 ++++ Geprellt: Patient mit Hämatom zahlte Arztrechnung nicht ++++
 ++++ Gepunktet: Dalmatiner kann Jury bei Hundeschau überzeugen ++++
@@ -1042,6 +1044,7 @@
 ++++ Gut angezogen: Smoking-Träger leert Cocktail in Rekordzeit ++++
 ++++ Gut aufgelegt: Mann freut sich über Telefonrechnung ++++
 ++++ Gut aufgestellt in der Krise: Zwangsversteigerungsschild ++++
+++++ Gut ausgedrückt: Hautarzt hält preisgekrönten Vortrag zur Aknebehandlung ++++
 ++++ Gut ausgegangen: Waldbrand konnte schnell gelöscht werden ++++
 ++++ Gute Idee: Architekt fällt neues Haus ein ++++
 ++++ Gute Lobbyarbeit: Taube verschaffen sich Gehör ++++
@@ -1386,6 +1389,7 @@
 ++++ Ironie: Punk trägt Vokuhila ++++
 ++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
 ++++ Islam: Muezzin sitzt im Rollstuhl ++++
+++++ ISS: Astronaut muss Hungerstreik beenden ++++
 ++++ Isst Feige: Mann hat Angst vor Datteln ++++
 ++++ Isst Jacke wie Hose: Motte bei Nahrungsauswahl nicht wählerisch ++++
 ++++ Ist das Ihr Ernst?: Ehefrau muss Unfallopfer identifizieren ++++
@@ -2049,6 +2053,7 @@
 ++++ Nur eine Fußprellung: Mann fällt Stein vom Herzen ++++
 ++++ Nur einen runtergeholt: Flakschütze unehrenhaft entlassen ++++
 ++++ Nur ein kleiner Grazer: Autofahrer, der Österreicher überfahren hat, erleichtert ++++
+++++ Nur ein Stern: Sonnensystem erhält miserable Bewertungen von Weltraumtouristen ++++
 ++++ Nur ein Strohmann: Krähen haben keine Angst mehr vor Vogelscheuche ++++
 ++++ Nur ein Tropfen auf den heißen Stein: Sauna-Aufguß eher enttäuschend ++++
 ++++ Nur gegen Vorkasse: Pfarrer traut Pärchen nicht ++++
@@ -2378,6 +2383,7 @@
 ++++ Schlechtes Fell: Scheues Waldtier muss in Rehhaarklinik ++++
 ++++ Schlecht gestimmt: Sarkozy sauer auf Wähler ++++
 ++++ Schlechtwetter: Brite tippt auf Sonnenschein ++++
+++++ Schlimmer Finger: Mann täuscht Handverletzung vor, um Ärztin anzubaggern ++++
 ++++ Schlösser, Riegel, Sperren: Ex-Wärter hat mit all dem abgeschlossen ++++
 ++++ Schluss mit lustig: Clowns mit Grimassenvernichtungswaffen angegriffen ++++
 ++++ Schluss mit Lustig: Peter wieder solo ++++
@@ -2819,6 +2825,7 @@
 ++++ Unnütz: Solarbetriebene Sternenwarte eingeweiht ++++
 ++++ Unorthodox: Griechischer Bischof tritt zum Katholizismus über ++++
 ++++ Unpraktisch: Schöpfer des Himmels und der Erde nicht für Suppe geeignet ++++
+++++ Unruhe gestiftet: Ungewöhnliche Spende irritiert Kunstszene ++++
 ++++ Unsanft ausgeladen: Umzugshelfer bei Einweihungsparty nicht willkommen ++++
 ++++ Unsportlich: Waldarbeiter fällt Kollegen in den Rücken ++++
 ++++ Unten durch: Liebhaber blamiert sich mit zu kurzem Vorspiel ++++
