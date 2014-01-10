@@ -589,6 +589,7 @@
 ++++ Draufgegangen: Kleiner Timmy (9) trat auf Tellermine ++++
 ++++ Drauf geschissen: Schüler isst Pausenbrot trotz Taubenkot ++++
 ++++ Dreck am Stecken: Männer duschen zu selten ++++
+++++ Drecksau: Malerische Flusslandschaft über Nacht verunreinigt ++++
 ++++ Dreht am Rad: Glücksfee ++++
 ++++ Drehte sich beruflich im Kreis: Ballerina beendet Karriere ++++
 ++++ Dreht sich wegen Pfusch von Nachfolger im Grabe um: Lebendig begrabener Leichenbestatter ++++
@@ -924,6 +925,7 @@
 ++++ Geht leichter: Steuerberater empfiehlt Servolenkung ++++
 ++++ Geht nicht in Ordnung: Mann hinterlässt nach Trennung unaufgeräumte Wohnung ++++
 ++++ Geht runter wie Øl: Dänisches Bier ++++
+++++ Geht schleppend voran: Mann wenig motiviert bei Einkaufsbummel mit Freundin ++++
 ++++ Geht's noch? Mann testet sein Fernsehgerät alle 5 Minuten ++++
 ++++ Geht über Laichen: Skrupelloser Fischzüchter verrät Geheimnis seines Erfolgs ++++
 ++++ Geht vielen am Arsch vorbei: Tanga mit neuer Passform setzt sich nicht durch ++++
@@ -1605,6 +1607,7 @@
 ++++ Konnte niemandem das Wasser reichen: Kellner entlassen ++++
 ++++ Konnte nur schief gehen: Volltrunkener ließ Wagen stehen ++++
 ++++ Könnte schief gehen: Arzt vor geplanter Bein-Op skeptisch ++++
+++++ Konnte sich nicht halten: Bergsteiger stürzt nach Witz ab ++++
 ++++ Konsequent: Boxer haut Siegprämie auf den Kopf ++++
 ++++ Konsequent: Leichenschmaus mit Totenschein bezahlt ++++
 ++++ Konstanz am Bodensee: Wasserqualität seit Jahren auf hohem Level ++++
@@ -1815,6 +1818,7 @@
 ++++ Mehr Tempo: Taschentuchhersteller kauft schnellere Maschinen ++++
 ++++ Mehr Transparenz: Stadionsprecher wollen auf Dressur-WM Ross und Reiter nennen ++++
 ++++ "Meine Fresse": Patient muss dummem Zahnarzt Tätigkeitsfeld erklären ++++
+++++ Mein Eid: "Ich schwöre, nicht zu lügen" ++++
 ++++ Meisterschaft im Geräteturnen abgesagt: Veranstalter hatten keinen Bock ++++
 ++++ Method Acting? Einer von David Carradines (†) letzten Filmen hatte den Titel "My Suicide" ++++
 ++++ Métropole: Mann aus Danzig arbeitet bei Pariser U-Bahn ++++
@@ -2995,6 +2999,7 @@
 ++++ War nur kurz angebunden: SM-Studio-Besucher enttäuscht von wortkarger Domina ++++
 ++++ War reserviert: Introvertierter Mann bekam keinen Tisch im Restaurant ++++
 ++++ Warschauer packt: Militärbündnis entlässt letzten Mitarbeiter ++++
+++++ Warschauer: Pole kommt völlig durchnässt nach Hause ++++
 ++++ War schon eingelaufen: Boxer fiel zu enge Hose erst im Ring auf ++++
 ++++ "Warum funktioniert das Ding nicht?": Rasensprengerverkäufer steht auf dem Schlauch ++++
 ++++ War vereist: Polarforscher nicht zu erreichen ++++
@@ -3137,6 +3142,7 @@
 ++++ Wunder Po: Erstaunlich, was da alles reingeht ++++
 ++++ Wunschlos glücklich: Fee hat Urlaub ++++
 ++++ Wurde auch Zeit: Lebensmittelkontrolleur sieht sich die Radieschen von unten an ++++
+++++ Wurde ihm in die Schuhe geschoben: Mann hat Lammfellsohle gar nicht geklaut ++++
 ++++ Wurde ihr in den Mund gelegt: Frau hat nie behauptet, gerne zu blasen ++++
 ++++ Wurden auf Eis gelegt: Ermittlungen wegen gefälschter Pinguineier ++++
 ++++ Würden träger: Bischöfe dürfen nicht kiffen ++++
@@ -3201,6 +3207,7 @@
 ++++ Zu modern: Gärtner leidet unter Neurosen ++++
 ++++ Zum Schießen: Clown kauft Gewehr ++++
 ++++ Zum Schleuderpreis: Autos ohne ESP deutlich günstiger zu haben ++++
+++++ Zum Teufel damit: Verärgerter Kunde sendet defektes Soundsystem an Hersteller zurück ++++
 ++++ Zu nah am Wasser gebaut: Kiffer beweint wegschwimmenden Joint ++++
 ++++ Zündapp: Nostalgischer Programmierer startet Motorrad mit Smartphone ++++
 ++++ Zunge gebrochen: Fischers Fritz frischt Fische Fische... Ach verdammt! ++++
