@@ -187,6 +187,7 @@
 ++++ Auflockerung an deutschen Hochschulen: Uni-Sex-Toiletten eingeführt ++++
 ++++ Auf Nummer sicher: Prostitutierte benutzt Kondom ++++
 ++++ Auf Pfennigabsätzen: Frau gibt Fersengeld ++++
+++++ Auf Schadensersatz verklagt: Schönheitschirurg machte blödes Gesicht ++++
 ++++ Aufs falsche Pferd gesetzt: Texaner erschossen ++++
 ++++ Auf sich gestellt: Artist scheitert beim Versuch einer Ein-Mann-Pyramide ++++
 ++++ Aufstrich: Prostituierte gönnt sich Pausenbrot ++++
@@ -742,6 +743,7 @@
 ++++ Eselsohr: Mafia sendet grausame Nachricht an Buchliebhaber ++++
 ++++ Es geht um die Wurst: Gesundheitsamt kontrolliert Fleischerei ++++
 ++++ Es gibt Nachttisch: Bibermutter ruft zum Dessert ++++
+++++ "Es gibt Seuche und Seuche": Epidemiologe differenziert ++++
 ++++ Es isst ein Mädchen!: Kannibalen-Eltern erfreut über Appetit von Neugeborenem ++++
 ++++ Es ist der Oberarm: Kellner kann Orthopäden nicht bezahlen ++++
 ++++ Es ist noch alles offen: Chirurg macht nach zwölf Stunden Herz-OP erstmal Pause ++++
@@ -817,6 +819,7 @@
 ++++ Findet einfach keine Worte: Mann ließ sich leeren Duden andrehen ++++
 ++++ Findet ein frühes Grab: Archäologe stürzt in prähistorische Bestattungsstätte ++++
 ++++ Findet keinen Angelköder: Den Fänger wurmt der frühe Vogel ++++
+++++ Findet nicht zu sich selbst: Mann verirrt sich auf dem Heimweg vom Meditationskurs ++++
 ++++ Findet reißenden Absatz: Neuartiger Schuhfehler-Detektor verkauft sich gut ++++
 ++++ Fingerfertig: Prothesenhersteller erfüllt Auftrag früher als geplant ++++
 ++++ Finger verbrannt: Engländer hatte einen im Tee ++++
@@ -1595,6 +1598,7 @@
 ++++ Konkurrenz für Twitter: Neuer Kurznachrichtendienst mit 139 Zeichen geplant ++++
 ++++ Konkurrenz zu groß: Liliputaner verliert Stammplatz in Basketballteam ++++
 ++++ Können sie sich abschminken: Make-Up macht Frauen nicht schöner ++++
+++++ Könnte die ganze Welt umarmen: Gefolterter in letzter Sekunde von Streckbank geflohen ++++
 ++++ Konnte doch noch bei ihm landen: Flotte Biene traf ihren alten Schwarm wieder ++++
 ++++ Könnte eine Ente sein: Citroën will Model 2CV neu auflegen ++++
 ++++ Konnte einen Teilerfolg erzielen: Moses am Roten Meer ++++
@@ -2374,6 +2378,7 @@
 ++++ Schlachtenbummler: Fleischerlehrling trödelt beim Töten von Tieren ++++
 ++++ Schlachtfest: Genmanipulierte Sau lässt sich nicht töten ++++
 ++++ Schlagersänger pleite: Bank weist Blanco-Scheck zurück ++++
+++++ Schlägt dem Fass den Boden aus: Gieriger Alkoholiker randaliert in Weinkeller ++++
 ++++ Schlappe fünf Euro: Pantoffeln heute im Sonderangebot ++++
 ++++ Schlecht abgeschnitten: Friseur-Azubi fällt durch Abschlussprüfung ++++
 ++++ Schlecht bestückter Freier: Prostituierte bläst Trübsal ++++
@@ -2397,6 +2402,7 @@
 ++++ Schmerzhaft und empörend: Tätowierer musterte Kundschaft von oben bis unten ++++
 ++++ Schmetterlinge im Bauch: Chamäleon stärkte sich vor Paarung ++++
 ++++ Schmiergeld: Korrupter Kfz-Mechaniker lässt sich Ölwechsel bezahlen ++++
+++++ Schmirgelt: Schleiferei unter Bestechungsverdacht ++++
 ++++ Schmort jetzt in der Hölle: Böser Sternekoch tot ++++
 ++++ Schnäppchen: Gärtner wirbt mit Rabatten ++++
 ++++ Schnapsidee: Alkoholiker verzichtet künftig auf Bier ++++
@@ -3155,6 +3161,7 @@
 ++++ Zahlt bei Hunnenüberfall: Brandschatzversicherung ++++
 ++++ Zahlt er aus der Portokasse: Sammler ersteigert blaue Mauritius ++++
 ++++ Zahnpastatube: Neues Videoportal zur Mundhygiene geht online ++++
+++++ Zehn Gebote: Mose versteigert alte Steintafeln ++++
 ++++ Zeigt Kunden, was eine Harke ist: Baumarkt eröffnet Rechenzentrum ++++
 ++++ Zeitgemäß: Nach Carsharing jetzt auch Urteilen ++++
 ++++ Zerstreut: s o re rP s fo ++++
