@@ -162,6 +162,7 @@
 ++++ "Au Backe!": Patient gibt Zahnarzt undeutliche Schmerzbeschreibung ++++
 ++++ Auch Mariechen: Alle Kinder müssen an Schnupperkurs teilnehmen ++++
 ++++ Auf alle Felle Farbe: Anti-Pelz-Aktivisten einigen sich auf Aktionsform ++++
+++++ Aufatmen im Hallenbad: Kind endlich wieder aufgetaucht ++++
 ++++ Auf Crack eingelassen: Junkie in Badewanne ertrunken ++++
 ++++ Auf dem falschen Feld stehengeblieben: Läufer von Bauern geschlagen ++++
 ++++ Auf dem falschen Fuß erwischt: Polizei schnappt Prothesendieb ++++
@@ -777,6 +778,7 @@
 ++++ Ex-Post: Filiale hätte doch nicht geschlossen werden sollen ++++
 ++++ Fackelt nicht lange: Strohfeuer ++++
 ++++ Faden verloren: Puppenspieler unkonzentriert ++++
+++++ Fahrer schäumte: Cabrioverdeck öffnete sich ungewollt in Waschanlage ++++
 ++++ Fährt als Anhalter: Sachse gibt beim Trampen falsche Herkunft an ++++
 ++++ Fährt einen heißen Reifen: Sanitäter bringt Sean Connery ins Krankenhaus ++++
 ++++ Fake: Sushi-Bar serviert keinen echten Reiswein ++++
@@ -1238,6 +1240,7 @@
 ++++ Haus weg: Immobilienmakler stoßen auf Vertragsabschluß an ++++
 ++++ Haut ab: Chirurg nach illegaler Beschneidung auf der Flucht ++++
 ++++ Haut auf den Tisch: Möbeldesigner fordert energisch Lederbezug ++++
+++++ Haute Cousine: Französischer Spitzenkoch muss mit Anzeige rechnen ++++
 ++++ Häute im Angebot: Günstige Lederwaren ++++
 ++++ Haut einfach so ab: Epidermis löst sich von Bindegewebe ++++
 ++++ Haut nicht hin: Boxer muss Kampf absagen ++++
@@ -1589,6 +1592,7 @@
 ++++ Knappschaft: Krankenkasse zahlt keine Genitalverlängerung ++++
 ++++ Knebelvertrag: Pornodarstellerin muss bei Bondagefilmen mitspielen ++++
 ++++ Kneift: Koch nimmt Hummer lieber wieder von der Speisekarte ++++
+++++ Knipste Knospen: Streit zwischen Gärtner und Fotograf eskaliert ++++
 ++++ Knöchel verstaucht: Rockstar kann nicht auftreten ++++
 ++++ Knochenjob: Chiropraktiker klagt über hohe Arbeitsbelastung ++++
 ++++ Kocht auch nur mit Wasser: Wasserkocher ++++
@@ -1726,6 +1730,7 @@
 ++++ Lässt sich nicht lumpen: Mann verschenkt Kunststoffkleidung ++++
 ++++ Lässt tief blicken: Billighotel schenkt dünnen Kaffee aus ++++
 ++++ Lauf an der Pegnitz: Mittelfränkischer Langstreckenläufer erhält Trainingstipp ++++
+++++ Laufbahn ruiniert: Platzwart fristlos entlassen ++++
 ++++ Läuft ja wie geschmiert: Bestochener Sprinter verliert ++++
 ++++ Läuft über: Syrischer Rebell manipuliert Assads Toilette ++++
 ++++ Läuft wie geschmiert: Ermittler erkennt Betrüger sofort an der Gangart ++++
@@ -2466,6 +2471,7 @@
 ++++ Schulter an Schulter: Metzger protestieren geschlossen gegen überfüllte Kühlhäuser ++++
 ++++ Schund: Gentechniker enttäuscht von Kreuzung aus Schaf und Hund ++++
 ++++ Schusselig: Handwerker verlegt 100 Quadratmeter Fliesen ++++
+++++ Schussel: Werbetexter für Geschirr vergisst Ü-Punkte ++++
 ++++ Schuss in den Ofen: Mordanschlag auf Pizzabäcker geht fehl ++++
 ++++ Schüttelt noch per Hand: Barkeeper befriedigt seinen Arbeitgeber ++++
 ++++ Schutzlos ausgeliefert: Pizzabote wegen vergessenen Kartons verprügelt ++++
@@ -2527,6 +2533,7 @@
 ++++ Service: Zahnarzt poliert Patienten die Fresse ++++
 ++++ Servus, TV: Österreicher verzichten aufgrund schlechten Privatsenderangebots zunehmend auf Fernsehen ++++
 ++++ Setzen, Sex: Frau bei Schwangerschaftstest durchgefallen ++++
+++++ Setzte ein Zeichen: Schriftsteller überrascht mit minimaler Interpunktion ++++
 ++++ Setzt noch einen drauf: Pornoproduzent toppt Gangbang-Movie der Konkurrenz ++++
 ++++ Setzt sich durch: Möbelhauskunde bekommt mangelhaften Sessel erstattet ++++
 ++++ Sexsüchtig: Mann braucht seine tägliche Doris ++++
