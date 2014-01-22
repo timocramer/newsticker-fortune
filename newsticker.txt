@@ -255,6 +255,7 @@
 ++++ Barde unzufrieden: Laute leise ++++
 ++++ Bären aufgebunden: Frau täuscht Mann mit Schamhaar-Toupet ++++
 ++++ Bären aufgebunden: Kind (9) für Lüge drakonisch bestraft ++++
+++++ Barkasse: Auf hoher See keine Kartenzahlung möglich ++++
 ++++ Barkasse nicht schwimmfähig: Zuviel Kleingeld ++++
 ++++ Bartwuchs: Ältester Simpson-Sprössling erreicht Pubertät ++++
 ++++ Bauchklatscher: Einarmiger applaudiert schlechtem Turmspringer ++++
@@ -685,6 +686,7 @@
 ++++ Ein Tag für die Tonne: Müllmann unzufrieden mit seinem Job ++++
 ++++ Ein toller Hecht: Angler fängt großen Raubfisch ++++
 ++++ Ein Witz auf seine Kosten: Masochist kann nur gequält lächeln ++++
+++++ Einwohnern wird's zu bunt: Dorfgemeinde nimmt keine Landstreicher mehr auf ++++
 ++++ Eisernes Kreuz: Arzt bekommt Orden für erfolgreiche Rückentransplantation ++++
 ++++ Eis gebrochen: Verdorbenes Dessert brachte Mann und Frau einander näher ++++
 ++++ Eiskalt: Mann legt Schal um ++++
@@ -972,6 +974,7 @@
 ++++ Gerät in Teufels Küche: Satansbraten ++++
 ++++ Gerät in Teufels Küche: Spülmaschinenvertreter schließt Pakt mit Satan ++++
 ++++ Gerettet: Schauspieler bekommt Rolle seines Lebens unter der Klotür durchgereicht ++++
+++++ Gerissener Pariser: Hollande vertuscht Schwangerschaft seiner Geliebten ++++
 ++++ Gerissen: Gescheiterter Hochspringer täuscht Muskelverletzung vor ++++
 ++++ Gerissen: Raubtier lauerte Beute auf ++++
 ++++ Gerissen: Windiger Extremsportler verkauft defektes Bungeeseil ++++
@@ -2343,6 +2346,7 @@
 ++++ Rüstungsinnovation: Neue Rakete schlägt ein wie eine Bombe ++++
 ++++ Sabbat: Juden läuft beim Gedanken an Freitag Wasser im Munde zusammen ++++
 ++++ Sachbeschädigung: Akrobat schlägt Rad ++++
+++++ Saftladen: Kunde über begrenzte Produktpalette von Getränkemarkt verärgert ++++
 ++++ Sahara: Libyscher Vogelkundler macht überraschende Beobachtung ++++
 ++++ Sah Brücken: Mann besucht Hauptstadt des kleinsten deutschen Flächenlandes ++++
 ++++ Sah nach Meer aus: Ostsee kleiner als gedacht ++++
@@ -2583,6 +2587,7 @@
 ++++ Sozial: Feuerwehr gründet Brandstiftung für Pyromanen ++++
 ++++ Spaltet die Gesellschaft: Axtmörder besucht Hochzeit ++++
 ++++ Spannend: Voyeur ++++
+++++ Spannend: Was macht die Nachbarin wohl als nächstes? ++++
 ++++ Spargel: Haarfestiger im Sonderangebot ++++
 ++++ Spart an allen Enden: Fleischerei knotet Würstchen nicht mehr zu ++++
 ++++ Spaß bei der Arbeit: Nacktputzerin wischt feucht durch ++++
@@ -2844,6 +2849,7 @@
 ++++ Ungehalten: Wütende Frau lässt Handtasche fallen ++++
 ++++ Ungeheuer langweilig: Kirmesbesucher von Geisterbahn enttäuscht ++++
 ++++ Ungehobelt: Schreiner kassiert für schludrige Arbeit ++++
+++++ Un geliebter Führer: Nordkoreanisches Volk bekennt sich zu Staatsoberhaupt ++++
 ++++ Ungeschickt: Mann gehen die Briefmarken aus ++++
 ++++ Ungeschickt: Paket wurde fallengelassen ++++
 ++++ Ungezogen: Kind weigert sich, bei Kartentrick zu assistieren ++++
@@ -3280,6 +3286,7 @@
 ++++ Zwangsläufig: Nymphomaninnen ++++
 ++++ Zwangsweise: Frau wurde nur durch strenge Erziehung zur Intellektuellen ++++
 ++++ Zwei Fliegen mit einer Klappe: Tierfilmer gelingt Aufzeichnung von Paarungsakt auf Anhieb ++++
+++++ Zwei linke Hände: Chirurg verpatzt Transplantation ++++
 ++++ Zwei Stunden Wurzeln gezogen: Mathematiker lenkt sich mit Kopfrechnen von Zahnbehandlung ab ++++
 ++++ Zwiespältig: Flotter Dreier aus Männersicht ++++
 ++++ Zwo, eins, Risiko: Darkwing Duck ersteigert Brettspiel auf eBay ++++
