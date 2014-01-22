@@ -222,6 +222,7 @@
 ++++ Ausgerechnet: Computer kaputt ++++
 ++++ Ausgerechnet: Mathematikgenie stirbt bei Routine-Wurzelbehandlung ++++
 ++++ Ausgeschlossen: Mann weigert sich, den Schlüsseldienst zu rufen ++++
+++++ Ausgesprochen gefährlich: Böser Fluch ++++
 ++++ Ausgesprochen schwierig: Wortwitze, die Schriftform benötigen ++++
 ++++ Ausgezeichnet: Karikaturist bricht sich die Hand ++++
 ++++ Ausgezeichnet: Maler stirbt bei Preisverleihung ++++
@@ -474,6 +475,7 @@
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
 ++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
+++++ Das ist Musik in seinen Ohren: Mann erfährt, dass er doch keinen Tinnitus hat ++++
 ++++ "Das ist nicht mein Bier": Mann sind K.o.-Tropfen im Glas seiner Frau egal ++++
 ++++ Das ist nicht ohne: Mit ++++
 ++++ Das juckt ihn nicht: Mann sind Mückenstiche bei Ehefrau gleichgültig ++++
@@ -524,6 +526,7 @@
 ++++ Den Kürzeren gezogen: Mann wird am Urinal um Längen geschlagen ++++
 ++++ Den Luciano: Bayerische Frauen denken bei Pavarotti-Arien an Oralsex ++++
 ++++ Den Müll kauft ihm keiner ab: Erfolgloser Schrotthändler liebt angeblich seinen Job ++++
+++++ Denn is' rot, Mann: Ex-NBA-Star bekommt erklärt, weshalb er Straße nicht überqueren sollte ++++
 ++++ Den Plunder geraubt: Klaus störte Bäcker bei der Arbeit ++++
 ++++ Den Studenten stinkt's: Proktologe bringt Lehrstuhl mit in die Vorlesung ++++
 ++++ Depp, adieu!: Franzosen lassen Schauspieler gerne nach Russland ziehen ++++
@@ -1176,6 +1179,7 @@
 ++++ Hat lange mit sich gekämpft: Schizophrener Boxer ringt sich zu Therapie durch ++++
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
+++++ Hat ordentlich gebaggert: Kleiner Junge beeindruckt Mädchen im Sandkasten ++++
 ++++ Hat ordentlich getankt: Betrunkener Autofahrer hat Benzinlache nicht verursacht ++++
 ++++ Hat ordentlich Holz vor der Hütte: Frau wimmelt aufdringlichen Heizölvertreter ab ++++
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
@@ -2246,6 +2250,7 @@
 ++++ Recycling-Tipp: Gebrauchte Sprengstoffgürtel gehören in die al-Qaida-Sammlung ++++
 ++++ Recycling-Tipp: Leere Luftpumpen können im Sauerstoffzelt wiederbefüllt werden ++++
 ++++ Redaktion befallen Computervirus von: tickt richtig nicht Newsticker ++++
+++++ Red Bull verleiht Flügel: Salzburg gibt beide Außenstürmer ab ++++
 ++++ Redundanter Pleonasmus: Redundanter Pleonasmus ++++
 ++++ Regionale Vorliebe: Hessische Zombies schwören auf Augebbelwoi ++++
 ++++ Regisseur dreht durch: Pause abgesagt ++++
@@ -2997,6 +3002,7 @@
 ++++ Waldarbeiter zufrieden: Baum gefällt ++++
 ++++ Walnüsse knacken: Neuer Extremsport für Tauchfans ++++
 ++++ Wal war gefälscht: Betrugsvorwürfe gegen neuen Greenpeace-Vorsitzenden ++++
+++++ War angetrunken: Kneipengast lässt Bier zurückgehen ++++
 ++++ War ausgezogen: Burgfräulein erwartet Ritter bereits sehnsüchtig ++++
 ++++ War der Gehörnte: Mann erwischt Ehefrau bei Seitensprung mit Satan ++++
 ++++ Wäre auch an der Zeit gewesen: Gesellschaft zur Rettung des Konjunktiv II hätte heute gegründet werden können ++++
@@ -3044,6 +3050,7 @@
 ++++ Wegen Dopings: Radsportler distanziert sich vom Rest des Feldes ++++
 ++++ Wegen fehlender Quallenangabe: Meeresforscher verliert Doktortitel ++++
 ++++ Wegen Finanzkrise: Satire-Aktien verzeichnen hohe Gewinne ++++
+++++ Wegen guter Führung: Museumspädagoge vorzeitig aus Haft entlassen ++++
 ++++ Wegen Kurzschluss: Kein langer Abspann nach Kinofilm ++++
 ++++ Wegen mangelnder Hyäne: Verdreckter Zookäfig weiterhin unbesetzt ++++
 ++++ Wegen Nadel: Vinyl-Fan hat Platten ++++
