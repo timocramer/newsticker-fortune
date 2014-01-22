@@ -788,6 +788,7 @@
 ++++ Falschrum: Zuckerrohrschnaps hat 04% statt 40% ++++
 ++++ Falsch verbunden: Bondage-Künstler durch Anruf abgelenkt ++++
 ++++ Falsch verstanden: Frühstücksei in Bettpfanne gebraten ++++
+++++ Fangfrage: Beißen Sie? ++++
 ++++ Fans nach Schumi-Comeback einig: Yes, he Kinn! ++++
 ++++ Farfan: Schalker Stürmer verirrt sich auf dem Weg zum Training ++++
 ++++ Farn Farn Farn auf der Autobahn: Elektropop-Band kritisiert Straßenqualität ++++
@@ -1011,6 +1012,7 @@
 ++++ Ging nach hinten los: Tänzer verstaucht sich bei Moonwalk den Fuß ++++
 ++++ Gips nicht: Arzt verweigert Beinbruchpatienten die Behandlung ++++
 ++++ Glanzparade: Festlicher Umzug zu Ehren von Torwart durchgeführt ++++
+++++ Glas ist halb voll: Uschi optimistisch, ihren Alkoholismus in den Griff zu bekommen ++++
 ++++ Glatt gelogen: Werbeversprechen für Faltencreme sorgt für Stirnrunzeln ++++
 ++++ Glaubt noch an den Klapperstorch: Froschpärchen entschließt sich gegen Zeugungsakt ++++
 ++++ Gleichgültig: Phlegmatiker gewinnt Weitsprung im ersten Versuch ++++
@@ -1470,6 +1472,7 @@
 ++++ Kam nichts bei raus: Fastenbrechen ++++
 ++++ Kampf des Jahres: Wrestler ringt mit dem Tod ++++
 ++++ Kampf gegen Pleite: Griechenland erhebt Steuer auf Schwarzarbeit und Korruption ++++
+++++ Kam um Bär: Mann in Weichkäse-Kostüm schleicht erfolgreich an Raubtier vorbei ++++
 ++++ Kam zu kurz: Kleiner Junge wird von jedem Fahrgeschäft zurückgewiesen ++++
 ++++ Kann alleine nichts ausrichten: Fernsehtechniker zu schwach, um Sat-Schüssel zu justieren ++++
 ++++ Kann daneben gehen: Mann verweigert Ehefrau die Mitfahrt im Auto ++++
@@ -1971,6 +1974,7 @@
 ++++ Nase voll von Drogen: Spürhund beendet Schnupperpraktikum ++++
 ++++ Naseweis: Kokainsüchtige werden immer vorlauter ++++
 ++++ Nass geworden: Fußgänger hatte Niederschlag nicht auf dem Schirm ++++
+++++ Natreen: Diabetiker findet heraus, wie man Saftflasche öffnet ++++
 ++++ Naturalien: Außerirdischer in Bio-Laden gesichtet ++++
 ++++ Nerven verloren: Neurochirurg hat schlampig gearbeitet ++++
 ++++ Nervig: Zecke geht Mann auf den Sack ++++
@@ -2257,6 +2261,7 @@
 ++++ Redaktion befallen Computervirus von: tickt richtig nicht Newsticker ++++
 ++++ Red Bull verleiht Flügel: Salzburg gibt beide Außenstürmer ab ++++
 ++++ Redundanter Pleonasmus: Redundanter Pleonasmus ++++
+++++ Reederei half nicht: Geschwätziger Kapitän bekam Schiff alleine nicht mehr flott ++++
 ++++ Regionale Vorliebe: Hessische Zombies schwören auf Augebbelwoi ++++
 ++++ Regisseur dreht durch: Pause abgesagt ++++
 ++++ Reh animiert: Bambi 3D demnächst in den Kinos ++++
@@ -2496,6 +2501,7 @@
 ++++ Seine Stunde hat geschlagen: Kuckuck völlig aus dem Häuschen ++++
 ++++ "Seine Uhren gingen immer vor!": Frau von Uhrmacher lässt sich scheiden ++++
 ++++ Sein oder nicht Sein: Finanzamt fordert von Hamlet lückenlose Vermögensaufstellung ++++
+++++ Seitensprung: Mann rettet sich gerade noch vor wütender Ehefrau ++++
 ++++ Selbstentfaltung: Immer mehr Frauen spritzen sich Botox ++++
 ++++ Selbstläufer: Neuartiger Rollstuhl verkauft sich gut ++++
 ++++ Selbstmord: 3D-Grafikdesigner sah keine Perspektive mehr ++++
@@ -2887,6 +2893,7 @@
 ++++ Vegetarische Alternative: Blumentopferdesalami ++++
 ++++ Veltins Bier: Mann erleidet Unfall bei Brauereibesichtigung ++++
 ++++ Venedig: Gondoliere hat Krampfadern ++++
+++++ Verbringt den Tag mit Fugen: Fliesenleger hört Bach bei der Arbeit ++++
 ++++ Verdacht: Philosoph glaubt, falsche Schlüsse zu ziehen ++++
 ++++ Verdammte Axt: Holzfäller hackt sich ins Bein ++++
 ++++ Verdammt: Holland von Anstieg des Meeresspiegels nicht betroffen ++++
