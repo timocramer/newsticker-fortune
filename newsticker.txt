@@ -390,6 +390,7 @@
 ++++ Brot, Lose, Kunst: Zusammenschluss von Bäcker, Lotterie und Atelier nicht erfolgreich ++++
 ++++ Brotzeit vergessen: Hungriger Maurer verputzte Hauswand ++++
 ++++ Brückentag: Sprayer nutzt langes Wochenende für großes Projekt ++++
+++++ Brunchstifter: Feuerwehrmann spendiert Essen zu 100. Löscheinsatz des Jahres ++++
 ++++ B-Rüssel: Elefanten in belgischem Zoo nur zweite Wahl ++++
 ++++ Brutaler Geschichtsunterricht: Lehrer erklärt Schülern den Krieg ++++
 ++++ Bucht: Familie will ans Meer ++++
@@ -821,6 +822,7 @@
 ++++ Ferndiagnose: Urologe erhält Pipifax ++++
 ++++ Festnahme: Proktologe wollte Schmuggelware einführen ++++
 ++++ Fett im Geschäft: Molkerei sahnt bei Lieferungen ab ++++
+++++ Fiel ihm in den Rücken: Sparschwein von Münze enttäuscht ++++
 ++++ Fiel niemandem auf: Zahlendreher bei Kloschild-Montage ++++
 ++++ Fieser Ziegenpeter: Heidi wochenlang ans Bett gefesselt ++++
 ++++ Figurbewusst: Zombie schwört auf Schlankheitspupillen ++++
@@ -855,6 +857,7 @@
 ++++ Forscher: Schüchterner Wissenschaftler findet heraus, wie Frauen angesprochen werden müssen ++++
 ++++ Forsch: Wissenschaftler missfällt Umgangston im Labor ++++
 ++++ Förster entlassen: Waldbesitzer kündigte wegen Eichenbedarf ++++
+++++ Fotogen: Model hat Talent von Mutter geerbt ++++
 ++++ Foyer: Eingangshalle brennt ++++
 ++++ Französischer Freund aus Übersee: Ami ++++
 ++++ Frau hat ihm zugesagt: Mann freut sich auf zweites Date ++++
@@ -2079,6 +2082,7 @@
 ++++ Notendruck in der Schule: Schülerprojekt gleitet ins Illegale ab ++++
 ++++ Not kennt kein Gebot: Mundraub bei Lebensmittelauktion ++++
 ++++ NPD steht vor der Pleite: Kann eine Verstaatlichung helfen? ++++
+++++ NRW: Franzose genervt von deutschem Bundesland ++++
 ++++ Nudelauflauf: Männliche Exhibitionisten treffen sich zum Essen ++++
 ++++ Null Block: Volleyballer hat keine Lust mehr ++++
 ++++ Nur am Rande gestreift: Kreuzung von Pferd und Zebra machte keine großen Schlagzeilen ++++
@@ -2425,6 +2429,7 @@
 ++++ Schlechter Stil: Besenverkäufer verschweigt Produktfehler ++++
 ++++ Schlechter Tweed: Twitter-Nutzer lästert über Qualität seines Markensakkos ++++
 ++++ Schlechtes Fell: Scheues Waldtier muss in Rehhaarklinik ++++
+++++ Schlechte Witterung: Spürhund versagt bei Regen ++++
 ++++ Schlecht gestimmt: Sarkozy sauer auf Wähler ++++
 ++++ Schlechtwetter: Brite tippt auf Sonnenschein ++++
 ++++ Schlimmer Finger: Mann täuscht Handverletzung vor, um Ärztin anzubaggern ++++
@@ -2709,6 +2714,7 @@
 ++++ Tag für Tag: Sprayer macht immer nur das gleiche ++++
 ++++ Taktlos: Dirigent gefeuert ++++
 ++++ Taktlos: Rockband spielt auf Beerdigung von Drummer ++++
+++++ Tal-IBAN: Milizen vereinheitlichen Geldtransfers in afghanische Tiefebenen ++++
 ++++ Talk-Star: Englischsprechender Vogel entdeckt ++++
 ++++ Tan-Codes vergeben: Sonnenbank geht online ++++
 ++++ TANs der Vampire: Untote nutzen sicheres Online-Blutbanking ++++
@@ -2954,6 +2960,7 @@
 ++++ Verzogen: Psychologe erreicht kleinen Timmy (9) nicht mehr ++++
 ++++ Verzögerung bei Schiffabfahrt: Programmierer mußte Bug entfernen ++++
 ++++ Verzog keine Miene: Schönheitschirurg nimmt Kunstfehlervorwürfe gelassen ++++
+++++ Via Twitter: Römischer Bürgermeister verkündet Straßenbenennung zu Ehren von Internetdienst ++++
 ++++ Vibratoren-Verkäufer stellt fest: Geschäft brummt ++++
 ++++ Viel Rummel um seine Person: Schausteller steht gerne im Mittelpunkt ++++
 ++++ Vielversprechend: Stotterer auf dem Weg der Besserung ++++
