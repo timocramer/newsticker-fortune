@@ -483,6 +483,7 @@
 ++++ Das ist doch zum Mäusemelken: Winziger Schemel ++++
 ++++ "Das ist mein größtes Laster": Fernfahrer will nicht richtig Deutsch lernen ++++
 ++++ Das ist Musik in seinen Ohren: Mann erfährt, dass er doch keinen Tinnitus hat ++++
+++++ Das ist natürlich doof: Quizshowteilnehmer hält Stan Laurel für dick ++++
 ++++ "Das ist nicht mein Bier": Mann sind K.o.-Tropfen im Glas seiner Frau egal ++++
 ++++ Das ist nicht ohne: Mit ++++
 ++++ Das juckt ihn nicht: Mann sind Mückenstiche bei Ehefrau gleichgültig ++++
@@ -982,6 +983,7 @@
 ++++ Gepunktet: Dalmatiner kann Jury bei Hundeschau überzeugen ++++
 ++++ Gerade ausverkauft: Trikots mit Rückennummern 2,4,6 und 8 im Fanshop nicht erhältlich ++++
 ++++ Gerade fertig: Landebahn eingeweiht ++++
+++++ Gerade noch gut gegangen: Motorradfahrer verunglückt in Kurve ++++
 ++++ Gerammelt voll: Kondom ++++
 ++++ Gerät im Arsch: Italiener fischt Handy aus dem Po ++++
 ++++ Gerät in Teufels Küche: Gabel ++++
@@ -1018,6 +1020,7 @@
 ++++ Gibt ein schönes Par ab: Gemischtes Golf-Duo spielt 72er-Runde ++++
 ++++ Gibt weiter Rätsel auf: Verschwundener Sudoku-Autor ++++
 ++++ Gießen: Hessischer Botaniker findet heraus, wie Pflanzen länger leben ++++
+++++ Ging allen auf den Keks: Bahlsen kündigt Angestelltem ++++
 ++++ Ging an die Decke: Frau verärgert über Sauerei, die ihr Mann beim Onanieren angerichtet hat ++++
 ++++ Ging auf dem Zahnfleisch: Akrobat nach großer Welttournee völlig erschöpft ++++
 ++++ Ging auf keine Kuhhaut: Milka kürzt umstrittenen Werbeslogan ++++
@@ -1419,6 +1422,7 @@
 ++++ In Grund und Boden gespielt: Maulwurf-Fußballteam feiert deutlichen Heimsieg ++++
 ++++ In Hypnose versetzt: Nach dem Aufwachen war Freundin weg ++++
 ++++ In letzter Sekunde aufgehalten: Einbrecher wollten Türe eintreten ++++
+++++ Inneneinrichter: Architekt wäre von Herzen gern Jurist geworden ++++
 ++++ In See gestochen: Wespe verfehlt Badegast ++++
 ++++ In Seenot geraten: Schiffbrüchige vertreiben sich Zeit bis zur Rettung mit Quiz ++++
 ++++ Insekt ertrunken: Schaumwein wurde Fliege zum Verhängnis ++++
@@ -1842,6 +1846,7 @@
 ++++ Mag sein: Ontologe liebt seinen Beruf ++++
 ++++ Mähen in Black: Schwarzes Schaf aufgeflogen ++++
 ++++ Mahlzeit: Müller arbeitet auch in der Mittagspause ++++
+++++ Mahlzeit!: Müllermeister beendet Gesellen-Mittagspause abrupt ++++
 ++++ Maisonette: Dichter schreibt in Galeriewohnung Vierzehnzeiler über Frühlingsmonat ++++
 ++++ Malen nach Zahlen: Geschäft für Künstlerbedarf lässt nicht anschreiben ++++
 ++++ Malt den Teufel an die Wand: Pessimistischer Priester befürchtet Kündigung ++++
@@ -2009,6 +2014,7 @@
 ++++ Nass geworden: Fußgänger hatte Niederschlag nicht auf dem Schirm ++++
 ++++ Natreen: Diabetiker findet heraus, wie man Saftflasche öffnet ++++
 ++++ Naturalien: Außerirdischer in Bio-Laden gesichtet ++++
+++++ Nee, Klischee: Nicht jede Frau mag transparente Nachthemdchen ++++
 ++++ Nerven verloren: Neurochirurg hat schlampig gearbeitet ++++
 ++++ Nervig: Zecke geht Mann auf den Sack ++++
 ++++ Nette Einlage: Artistin entblößt bei Spagat versehentlich ihre Binde ++++
@@ -2587,6 +2593,7 @@
 ++++ Sieht mitgenommen aus: Mann ist müde vom Trampen ++++
 ++++ Sieht schwarz: Pessimist sicher, dass GEZ ihn früher oder später erwischt ++++
 ++++ Sie liegt ihm auf der Zunge: Mann ist Bezeichnung von Oralsex-Position entfallen ++++
+++++ "Sie Nuss!": Mathematikprofessor beleidigt Studenten, weil er die Winkelfunktionen verwechselt ++++
 ++++ Sind miteinander nicht warm geworden: Kannibalenopfer werden getrennt gekocht +++
 ++++ Single Malt: Junggeselle zeichnet im Whiskyrausch ++++
 ++++ Singvogel-OP: Tierarzt entfernt Nachtigallensteine ++++
