@@ -154,6 +154,7 @@
 ++++ Armer Schlucker: Callboy verdient nicht gut ++++
 ++++ Armselig: Geistlicher bereichert sich durch die Segnung von Gliedmaßen ++++
 ++++ Arschkalt: Minirock zu kurz ++++
+++++ Arschlöscher: Hessische Feuerwehrleute halten Wasserstrahl absichtlich auf Hintern ++++
 ++++ Artemis: Kultursender langweilt mit griechischer Mythologie ++++
 ++++ Artgerechte Untersuchungshaft: Sauerlandbomber sitzen in Terrorzellen ++++
 ++++ Arthrose: Frankensteins Monster erhält natürliches Hüftgelenk ++++
@@ -256,6 +257,7 @@
 ++++ Bad in der Menge genommen: Exhibitionist genießt Aufmerksamkeit auf Sanitärfachmesse ++++
 ++++ Bad Taste: Wohnzimmer lässt sich auf Knopfdruck in WC umwandeln ++++
 ++++ Ballonfahrer am Boden: "Die Luft ist raus" ++++
+++++ Baltrum: Urlaub auf Nordseeinsel dauert nicht mehr lange ++++
 ++++ Bandenwerbung: Hell's Angels werben neue Mitglieder in Fußballstadien ++++
 ++++ Bande wurde ihm zum Verhängnis: Billardspieler eingelocht ++++
 ++++ Bangt um ihr Leben: Metalband mit vorgehaltener Waffe zum Spielen gezwungen ++++
@@ -559,6 +561,7 @@
 ++++ Der hat doch einen Schaden: Autofahrer begeht Unfallflucht ++++
 ++++ Der hat doch einen Vogel: Haustierbesitzer schafft Katze an ++++
 ++++ Der hat hier nix zu suchen: Spürhund wieder nach Hause geschickt ++++
+++++ Der Herr is'n Ford: Han-Solo-Darsteller spielt in Transformers 4 mit ++++
 ++++ Der kann was erleben: Polizei sucht Zechpreller im Freizeitpark ++++
 ++++ Der letzte Schrei: Frau fand neue Schuhe zum Sterben schön ++++
 ++++ "Der macht doch nur Theater!": Architekt für Opernbau ungeeignet ++++
@@ -1259,6 +1262,7 @@
 ++++ Hat sich eine gefangen: Kidnapper wird von Geisel geohrfeigt ++++
 ++++ Hat sich einen Schnitzer geleistet: Schweizer kann Taschenmesser nicht allein bedienen ++++
 ++++ "Hat sich einfach so ergeben": Polizist beschreibt zufällige Festnahme ++++
+++++ Hat sich in Schale geworfen: Einsiedlerkrebs ist bereit für erstes Date ++++
 ++++ Hat sich richtig reingekniet: Kläranlagenmitarbeiter erhält Gehaltserhöhung ++++
 ++++ Hat sich verschrieben: Arzt trägt versehentlich seinen Namen als Medikament ein +++
 ++++ Hat sich weggeschmissen: Mann fällt vor Lachen in den Müllcontainer ++++
@@ -1516,6 +1520,7 @@
 ++++ Jetzt ist die Kacke am Dampfen: Klärwerk-Kühlanlage ausgefallen ++++
 ++++ Jetzt ist er im Eimer: Putzfrau drückt Mopp zu fest aus ++++
 ++++ Jetzt ist es passiert: Mittagessen in Mixer gefallen ++++
+++++ Jetzt muss er sitzen: Verdächtiger hat gestanden ++++
 ++++ Jetzt schlägt's 13: Gewalttätige Mutter von zwölf Kindern erneut schwanger ++++
 ++++ Jetzt schlägt's 13: Kirchturmuhr auf Digitalzeit umgestellt ++++
 ++++ Jetzt wird abgerechnet: Kellner macht reinen Tisch ++++
@@ -2500,6 +2505,7 @@
 ++++ Schier unmöglich: Fettarme Fettarme ++++
 ++++ Schier unmöglich: Langläufer schimpft über Ausrüstung ++++
 ++++ Schimmel in den Wänden: Gutachter findet eingemauertes Pferd ++++
+++++ Schinkenspicker: Sechstklässer schreibt Lösungen für Klassenarbeit auf Wurstscheibe ++++
 ++++ Schiss vor der Arbeit: Mann geht täglich um halb 8 aufs Klo ++++
 ++++ Schlachtenbummler: Fleischerlehrling trödelt beim Töten von Tieren ++++
 ++++ Schlachtfest: Genmanipulierte Sau lässt sich nicht töten ++++
@@ -3003,6 +3009,7 @@
 ++++ Unzufrieden: Mann mit Tourette-Syndrom verflucht sein Schicksal ++++
 ++++ Urinstinkt: Mann putzt WC freiwillig ++++
 ++++ Urkunde: Mann erhält Zertifikat für 50-jährige Supermarkt-Treue ++++
+++++ Urteil: Finder darf Dinosaurierpenis behalten ++++
 ++++ Usain Bowlt: Jamaikanischer Sprinter wechselt die Sportart ++++
 ++++ Václav got to do with it: Tschechischer Urheber für Tina-Turner-Song gefunden ++++
 ++++ Vampire wissen es längst: Kürbisse sind an Halloween Pflicht ++++
