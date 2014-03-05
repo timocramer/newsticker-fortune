@@ -603,6 +603,7 @@
 ++++ Drama in Augsburger Puppenkiste: Leben von querschnittsgelähmter Marionette hängt an einem seidenen Faden ++++
 ++++ Drama in Teebeutel-Familie: Vater lässt Sohn ziehen ++++
 ++++ Draufgegangen: Kleiner Timmy (9) trat auf Tellermine ++++
+++++ Drauf geschissen: Mann ist es egal, dass Klodeckel klemmt ++++
 ++++ Drauf geschissen: Schüler isst Pausenbrot trotz Taubenkot ++++
 ++++ Dreck am Stecken: Männer duschen zu selten ++++
 ++++ Drecksau: Malerische Flusslandschaft über Nacht verunreinigt ++++
@@ -706,6 +707,7 @@
 ++++ Endgültiges Aus: Lichtschalter kriegt sich nicht mehr ein ++++
 ++++ Endlich die richtige Kreuzung gefunden: Rosenzüchter kommt gerade noch rechtzeitig zur Preisverleihung ++++
 ++++ Endlich eine Reaktion: Chemiker melden Erfolg nach zwölf Wochen im Labor ++++
+++++ Endlich eingezogen: Letzter Wehrpflichtiger richtet Kasernenstube gemütlich ein ++++
 ++++ Endlich gen Italien: Familie freut sich auf FKK-Urlaub ++++
 ++++ Endlich Heil: Nazi kann gebrochenen rechten Arm wieder heben ++++
 ++++ Endlich trocken: Alkoholiker gibt Geist auf ++++
@@ -1142,6 +1144,7 @@
 ++++ Harte Strafe: erfolgloser Selbstmörder zum Leben verurteilt ++++
 ++++ Hart für Xavier & Co.: Söhne Mannheims zur Adoption freigegeben ++++
 ++++ Hasenfuß: Gast wagt es nicht, neue Spezialität des Hauses zu bestellen ++++
+++++ Hasste mal 'nen Euro: AfD-Politiker wird Bettler ++++
 ++++ Hat Absatzprobleme: Textverarbeitungsprogramm verkauft sich schlecht ++++
 ++++ Hat alle angesteckt: Lachender Pyromane ++++
 ++++ Hat alle seine Deutsch-Bücher geliest: Klammer Student will seine Grammatik verbessern ++++
@@ -1163,6 +1166,7 @@
 ++++ Hat ein dickes Fell: Model beharrt auf unrasierten Beinen ++++
 ++++ Hat eine Nacht drüber geschlafen: Tourist will doch lieber das Parterrezimmer ++++
 ++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
+++++ Hat einen Doktor in Medizin: Arzt ertränkt Kollegen in Hustensaft ++++
 ++++ Hat eine neue Flamme: Pyromane befriedigt ++++
 ++++ Hat einen Narren an Karneval gefressen: Kannibale mag Prunksitzungen ++++
 ++++ Hat einen stehen lassen: Stinkender Busfahrer ignoriert aus Scham wartenden Fahrgast ++++
@@ -2286,6 +2290,7 @@
 ++++ Rechnung ohne den Wirt gemacht: Darmparasit verträgt keinen Alkohol ++++
 ++++ Rechter linkte ihn: Linker rächte sich ++++
 ++++ Rechte verletzt: Polizei verprügelt Neonazis ++++
+++++ Rechtsanwalt: Jurist weiß, wo das Forsthaus liegt ++++
 ++++ Recht so: Kanzlei-Homepage hat links Rechtslinks, rechts Linkrecht ++++
 ++++ Recht umfassend: Dickes Lehrbuch für Juristen ++++
 ++++ Recycling-Tipp: Gebrauchte Sprengstoffgürtel gehören in die al-Qaida-Sammlung ++++
@@ -2433,6 +2438,7 @@
 ++++ Schier unerschöpflich: Achselhöhlenforscher auf Schweißvorkommen gestoßen ++++
 ++++ Schier unmöglich: Fettarme Fettarme ++++
 ++++ Schier unmöglich: Langläufer schimpft über Ausrüstung ++++
+++++ Schimmel in den Wänden: Gutachter findet eingemauertes Pferd ++++
 ++++ Schiss vor der Arbeit: Mann geht täglich um halb 8 aufs Klo ++++
 ++++ Schlachtenbummler: Fleischerlehrling trödelt beim Töten von Tieren ++++
 ++++ Schlachtfest: Genmanipulierte Sau lässt sich nicht töten ++++
@@ -3103,6 +3109,7 @@
 ++++ Was gibt es zu Kapern?: Ratlose Piraten in der Kombüse ++++
 ++++ Was ihn da wohl geritten hat: Mann behauptet Sex mit Alien ++++
 ++++ Was ist nur in ihn gefahren?: Mann will Unfallflüchtigen auf eigene Faust schnappen ++++
+++++ "Wassa bi...": Gast bringt nach scharfem Essen Wunsch nach Durstlöscher nicht mehr heraus ++++
 ++++ Wasserabweisend: Mann will lieber Bier ++++
 ++++ Wasserschaden: Anwalt sieht seine Fälle davonschwimmen ++++
 ++++ Wegen Alkoholabhängigkeit: Mann bricht mit bestem Freund ++++
