@@ -783,6 +783,7 @@
 ++++ Es ist der Oberarm: Kellner kann Orthopäden nicht bezahlen ++++
 ++++ Es ist noch alles offen: Chirurg macht nach zwölf Stunden Herz-OP erstmal Pause ++++
 ++++ Es ist soweit: Übergewichtiger schafft es nicht mal mehr zum Kühlschrank ++++
+++++ e skaliert: Großer Tumult bei Mathematiker-Kongress ++++
 ++++ Es kann nicht mehr weit sein: Frau fährt ungeduldig zur Scheidenverjüngung ++++
 ++++ "Es knirschte": Spaziergänger wegen Schneckenhausfriendensbruch vor Gericht ++++
 ++++ Es kommt ja sowieso raus: Mann gibt chronischen Durchfall zu ++++
@@ -869,6 +870,7 @@
 ++++ Fleischersatz: "Tofu ist Scheiße!" ++++
 ++++ Fliege entsetzt: Froschschutzmittel wirkungslos ++++
 ++++ Flinte ins Korn geworfen: Bauer gibt Suche nach verlorener Waffe auf ++++
+++++ Flotter Dreier: Studenten haben Spaß im BMW von Papa ++++
 ++++ Fluch der Karibik: Pirat heult Rum ++++
 ++++ Flucht fortgesetzt: Ausbrecher spart nicht mit Kraftausdrücken ++++
 ++++ Flüchtigkeitsfehler: Gefängnisausbruch gescheitert ++++
@@ -1175,6 +1177,7 @@
 ++++ Hat Blut geleckt: Vampirpraktikant von Schnupperwoche begeistert ++++
 ++++ Hat dafür keine Lorbeeren geerntet: Italiener baute nur Wein an ++++
 ++++ Hat da nichts zu suchen: Google verzichtet auf Nordkorea-Niederlassung ++++
+++++ Hat das Zeug zum Sieg: Sportler mit neuem Dopingmittel noch besser ++++
 ++++ Hat davon Wind bekommen: Frau serviert untreuem Gatten Linseneintopf ++++
 ++++ Hat den Bogen raus: Mann beendet Papierstau im Kopierer ++++
 ++++ Hat den Bogen überspannt: Mann muss Verein nach Beschädigung des Trainingsgerätes verlassen ++++
@@ -1218,6 +1221,7 @@
 ++++ Hat ihn verhauen: Junge lässt Frust über Mathetest an Mitschüler aus ++++
 ++++ Hat ihr Herz im Sturm erobert: Mario Gomez hat neue Freundin ++++
 ++++ Hat ihr schöne Augen gemacht: Patientin verliebt sich in Schönheitschirurgen ++++
+++++ Hat immer ein offenes Ohr: Mann mit blutigem Ekzem als guter Zuhörer bekannt ++++
 ++++ Hat jetzt eine heiße Spur: Detektiv macht sich vor Freude in die Hose ++++
 ++++ Hat keine Lobby: Hotel verliert öffentliche Ausschreibung ++++
 ++++ Hat keinen Anschluss gefunden: Einsames LAN-Party-Mitglied den Tränen nahe ++++
@@ -1308,6 +1312,7 @@
 ++++ Heiter bis sonnig: Angekündigter Regen entpuppt sich als Schauermärchen ++++
 ++++ Heizwerk: Kleinwüchsiger e.on-Mitarbeiter verspottet ++++
 ++++ Helfen gegen stumpfe Stifte: Spitzbuben ++++
+++++ Hemd eingegangen: Mann platzt der Kragen ++++
 ++++ Henkersmahlzeit verweigert: Häftling möchte vor ein ordentliches Gericht gestellt werden ++++
 ++++ Herabgesetzt: Domina demütigt Kunden zum Schnäppchenpreis ++++
 ++++ Herd der Inge: Neues Hobbit-Restaurant in Mittelerde eröffnet ++++
@@ -1741,11 +1746,13 @@
 ++++ Kurzatmigkeit: Immer mehr Blechbläser leiden an Tubakulose ++++
 ++++ Kurzschlussreaktion: Mann schlägt unfähigen Elektriker ++++
 ++++ Kurz und bündig: Minirock passt ++++
+++++ Kurz vor knapp: Duden-Redaktion bemerkt Fehler erst in letzter Sekunde ++++
 ++++ Kurz vor Redaktionsschluss: Suizidfachmagazin fehlt noch ein Aufhänger ++++
 ++++ Labellos: Musiker verkauft jetzt Lippenpflege ++++
 ++++ Laborleiter sauer: pH-Wert schon wieder zu niedrig ++++
 ++++ Lachnummer: Behörde will Reihenfolge von Witzen besser organisieren ++++
 ++++ Lachs gehandhabt: Arbeiter in Fischfabrik nimmt Hygienevorschriften nicht ernst ++++
+++++ Lachs weg: Freund rät erfolglosem Angler zu Humor ++++
 ++++ Lacht sich schlapp: Mann muss Geschlechtsverkehr während Comedysendung abbrechen ++++
 ++++ Lackdose-Intoleranz: Sprayer muss Pinsel nehmen ++++
 ++++ Lackritzschnecke: Domina fügt gegen Bezahlung mit Süßem auch Narben zu ++++
