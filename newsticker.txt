@@ -678,6 +678,7 @@
 ++++ Ein kleiner Schritt für einen Menschen: Neil Armstrong erwägt Penisvergrößerung ++++
 ++++ Einlauf verpasst: Boxer verspätet sich wegen privater Schlägerei ++++
 ++++ Einleuchtend: Proktologe arbeitet mit Helmlampe ++++
+++++ Ein Mann, ein Word: Vater verspricht Sohn Softwarepaket zum 18. Geburtstag ++++
 ++++ Ein Mann, ein Wort: Psychiater setzt angekündigte Sprechzeitenkürzung durch ++++
 ++++ Ein MegaFLOP: Neuer Großrechner viel zu langsam ++++
 ++++ Ein paar Radler gekippt: Betrunkener Autofahrer verletzt mehrere Verkehrsteilnehmer ++++
@@ -1227,6 +1228,7 @@
 ++++ Hatte jeglichen Lebensmut verloren: Katze ging vor die Hunde ++++
 ++++ Hatte keine Atmosphäre: Erstes Restaurant auf dem Mond wieder geschlossen ++++
 ++++ Hatte keinen Bock mehr: Einsames Schaf begeht Selbstmord ++++
+++++ Hatte keinen Sprit mehr: Alkoholiker muss zu Fuß zum Getränkemarkt ++++
 ++++ Hätte man auch anders lösen können: Mieter entfernt Tapete mit Vorschlaghammer ++++
 ++++ Hatte nur einen Haken: Maler konnte Wandfresko nirgends aufhängen ++++
 ++++ Hatte Parteigenossen: Mann war gerne SPD-Mitglied ++++
@@ -1818,6 +1820,7 @@
 ++++ Macht Nägel mit Köpfen: Kannibale meldet Patent auf Rezept an ++++
 ++++ Macht nichts: Senior Assistant Vice Chief Executive Officer entlassen ++++
 ++++ Macht Riesen Spaß: Zwergenweitwurf ++++
+++++ Macht sich zum Horst: Chirurgin versucht Geschlechtsumwandlung an sich selbst ++++
 ++++ Machtvoll: Absinth haut den stärksten Mann um ++++
 ++++ Magerquark: Mutter unsicher über Sohnemanns Mittagstisch ++++
 ++++ Maggi net: Bayerischer Koch lehnt Würzmittel ab ++++
@@ -2023,6 +2026,7 @@
 ++++ Nicht der Rede wert: Moderator entlassen ++++
 ++++ Nicht der Rede wert: Peer Steinbrück unzufrieden mit Nebeneinkünften ++++
 ++++ Nicht die feine Art: Kundin schreit Metzgerin wegen falscher Leberwurst an ++++
+++++ Nicht die Seine: Enttäuschendes Date an der Loire ++++
 ++++ Nicht einfach: Doppelte Buchführung ++++
 ++++ Nicht eingeweiht: Bauherr fehlt auf eigenem Richtfest ++++
 ++++ Nicht ganz dicht: Reederei lässt unfertiges Schiff vom Stapel ++++
@@ -2421,6 +2425,7 @@
 ++++ Schiss vor der Arbeit: Mann geht täglich um halb 8 aufs Klo ++++
 ++++ Schlachtenbummler: Fleischerlehrling trödelt beim Töten von Tieren ++++
 ++++ Schlachtfest: Genmanipulierte Sau lässt sich nicht töten ++++
+++++ Schläfert ein: Tierarzt hält todlangweiligen Vortrag über Hunde-Euthanasie ++++
 ++++ Schlagersänger pleite: Bank weist Blanco-Scheck zurück ++++
 ++++ Schlägt dem Fass den Boden aus: Gieriger Alkoholiker randaliert in Weinkeller ++++
 ++++ Schlappe fünf Euro: Pantoffeln heute im Sonderangebot ++++
@@ -2958,6 +2963,7 @@
 ++++ Versteht die Welt nicht mehr: Mann wird plötzlich taub ++++
 ++++ Versteht kein Word: Rentner hat Probleme mit seinem Computerprogramm ++++
 ++++ Versteht Spas: Thermalbad-Berater locker im Umgang mit Kunden ++++
+++++ Verstimmt: Geiger mit neuem Instrument unzufrieden ++++
 ++++ Vertickt: Mann verkauft defekten Wecker ++++
 ++++ Verunreinigte Schafswolle: Händler scheren sich einen Dreck ++++
 ++++ Verwackelt: Fotograf scheitert bei Produktfoto von Götterspeise ++++
@@ -3299,6 +3305,7 @@
 ++++ Zu viel Ouzo: Mann bricht fließend griechisch ++++
 ++++ Zu viel Pils: Betrunkener Koch versaut Jägerschnitzel ++++
 ++++ Zu viel Schnaps: Flachmann übergibt sich in Brusttasche ++++
+++++ Zu wenig Ballkontakte: Erfolgloser Bundesliga-Profi findet bei Tanzveranstaltung keinen Anschluss ++++
 ++++ Zu wenig Netto vom Brutto: Supermarkt-Kassiererin verlangt mehr Brutto vom Netto ++++
 ++++ Zu wenig Spielraum: Stadt kann sich Kindergartenausbau nicht leisten ++++
 ++++ Zu wenig Stoff: Erotikfilmprojekt kurzfristig abgeblasen ++++
