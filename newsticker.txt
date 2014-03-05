@@ -644,6 +644,7 @@
 ++++ Durchgefallen: Falltür hat Test bestanden ++++
 ++++ Durchgeknallt: Mann schläft mit Irrer ++++
 ++++ Dürfen nicht eingeführt werden: Ausländische Zäpfchen ohne EU-Zulassung ++++
+++++ Dürftig: Mann bekommt Frau mit schlechtem Anmachspruch nicht ins Bett ++++
 ++++ Echt jetzt: Radfahrer hat Licht nur zum Schein ++++
 ++++ Effektiv: Wilderer verwendet pandabrechende Munition ++++
 ++++ Egelerregend: Offene Wunden ++++
@@ -944,6 +945,7 @@
 ++++ Gefeuert: Mathematiker wegen Potenzschwäche entlassen ++++
 ++++ Gefeuert: Technischer Zeichner machte statt Blaupausen ständig blau, Pausen ++++
 ++++ Gegen Sabber: Schwabe erfindet Maultaschentuch ++++
+++++ Gegner staubt ab: Torwart hält Kasten nicht sauber ++++
 ++++ Geheilt durch Handauflegen: Mann hat Erektionsstörung jetzt im Griff ++++
 ++++ Geheimnis gelüftet: Vermisstes Dreieck unter Bermuda-Shorts gefunden ++++
 ++++ Geheimsprache: Prostituierte kommunizieren mittels Strichcodes ++++
@@ -983,6 +985,7 @@
 ++++ Gelber Sack: Chinesischer Nachbar trennt seinen Müll nicht ++++
 ++++ Gelöst: Chemiker begießt Kreuzworträtsel mit Säure ++++
 ++++ Gemeine Fangfragen: Mann fällt durch Angelprüfung ++++
+++++ Gemeinsame Veranlagung: Masochistisches Ehepaar freut sich auf Steuererklärung ++++
 ++++ Gemischte Reaktion: Gelächter und Entsetzen nach Explosion im Chemieunterricht ++++
 ++++ Genau nach seiner Vorstellung: Bewerber wird sofort eingestellt ++++
 ++++ Gendarm: Französischer Polizist enthüllt Fleischskandal ++++
@@ -1030,6 +1033,7 @@
 ++++ Gezinkt: Meister im Kartenhausbauen als Hochstapler entlarvt ++++
 ++++ Ghostwriter: Nachricht war gar nicht von Sam ++++
 ++++ Gibt ein schönes Par ab: Gemischtes Golf-Duo spielt 72er-Runde ++++
+++++ Gibt keine Laute mehr von sich: Instrumentenbauer tot aufgefunden ++++
 ++++ Gibt weiter Rätsel auf: Verschwundener Sudoku-Autor ++++
 ++++ Gießen: Hessischer Botaniker findet heraus, wie Pflanzen länger leben ++++
 ++++ Ging allen auf den Keks: Bahlsen kündigt Angestelltem ++++
@@ -1182,6 +1186,7 @@
 ++++ Hat die Sau rausgelassen: Stallknecht nach wilder Party gefeuert ++++
 ++++ Hat die Wahl zwischen Pest und Cholera: Medizinstudent erwischt zwei schwierige Prüfungsthemen ++++
 ++++ Hat ein dickes Fell: Model beharrt auf unrasierten Beinen ++++
+++++ Hat eine Anzeige am Hals: Mann muss wegen Körperreklame vor Gericht ++++
 ++++ Hat eine Nacht drüber geschlafen: Tourist will doch lieber das Parterrezimmer ++++
 ++++ Hat einen dicken Hals: Vampir verärgert über adipöses Opfer ++++
 ++++ Hat einen Doktor in Medizin: Arzt ertränkt Kollegen in Hustensaft ++++
@@ -1252,6 +1257,7 @@
 ++++ Hatte einfach zuviel im Kopf: Tumorpatient stirbt wegen verpasstem OP-Termin ++++
 ++++ Hatte ein Händchen für Tiere: Kind streichelte Löwen im Zoo ++++
 ++++ Hatte es im Rücken: Genialer Schmuggler muss aus gesundheitlichen Gründen aufhören ++++
+++++ Hätte fast nicht Stadt gefunden: Konzert beginnt verspätet, weil Musiker sich verfahren hat ++++
 ++++ Hätte ihm keiner zugetraut: Mann bietet Kannibalen die Stirn ++++
 ++++ Hatte jeglichen Lebensmut verloren: Katze ging vor die Hunde ++++
 ++++ Hatte keine Atmosphäre: Erstes Restaurant auf dem Mond wieder geschlossen ++++
@@ -3369,6 +3375,7 @@
 ++++ Zwangsläufig: Nymphomanin gründet Selbsthilfegruppe ++++
 ++++ Zwangsläufig: Nymphomaninnen ++++
 ++++ Zwangsweise: Frau wurde nur durch strenge Erziehung zur Intellektuellen ++++
+++++ Zweieiige Zwillinge: Brüder am Hodensack zusammengewachsen ++++
 ++++ Zwei Fliegen mit einer Klappe: Tierfilmer gelingt Aufzeichnung von Paarungsakt auf Anhieb ++++
 ++++ Zwei linke Hände: Chirurg verpatzt Transplantation ++++
 ++++ Zwei Stunden Wurzeln gezogen: Mathematiker lenkt sich mit Kopfrechnen von Zahnbehandlung ab ++++
