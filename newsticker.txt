@@ -346,6 +346,7 @@
 ++++ "Bin halt nicht immer in Topform": Dichter gibt Ungereimtheiten in Steuererklärung zu ++++
 ++++ Biolek: Fernsehmoderator erfindet Lutscher ohne künstliche Zusätze ++++
 ++++ "Bis dass der Tod euch penist": Schwule Paare drängen auf Änderung der Hochzeitsformel ++++
+++++ Bis in die Puppen gefahren: Übermüdeter LKW-Fahrer rast in Schaufensterauslage ++++
 ++++ Biss auf Granit: Restaurantgast reklamiert sein Essen erfolglos ++++
 ++++ Biss Mark: Hering ++++
 ++++ Bis zum Anschlag: Terrorist entspannt zu lauter Musik ++++
@@ -531,6 +532,7 @@
 ++++ Datenautobahn: Stau auf dem CD-Brenner ++++
 ++++ Dauerbrenner: Witze über Phosphor ++++
 ++++ Dauerhaft: Lebenslänglich ++++
+++++ Davon kann man ausgehen: Lottogewinn reicht für netten Abend zu zweit ++++
 ++++ Davon kann man sich eine Scheibe abschneiden: Großzügiger Metzger lädt zur Salamiverkostung ++++
 ++++ Da wird er Augen machen: Mann bekommt Arbeitsplatz in Kuscheltiermanufaktur gezeigt ++++
 ++++ Dax im Keller: Frau ruft Kammerjäger ++++
@@ -586,6 +588,7 @@
 ++++ Dicke danken: Sind frei ++++
 ++++ Dickes Ding: Dildo zu groß für Otto Analverbraucher ++++
 ++++ Dick im Geschäft: Elefant im Porzellanladen ++++
+++++ Die Bank droht: Verschuldeter Fußballprofi verliert Stammplatz ++++
 ++++ Diebstahl: Kleiner dicker Hund mit plattem Gesicht gemopst ++++
 ++++ Die Bullen sind hinter ihm her: Torero auf der Flucht ++++
 ++++ Die Chemie stimmt: Junkie-Pärchen glücklich ++++
@@ -1857,6 +1860,7 @@
 ++++ Linksdrall: Frau mit ungleichen Brüsten kann nicht geradeaus gehen ++++
 ++++ Link: Verknüpfung im Internet zeigt auf Virus ++++
 ++++ Lippenbekenntnis: "Ja, die rote Farbe auf der Zigarettenkippe kommt von mir." ++++
+++++ Löffel abgegeben: Hase stirbt bei Organspende ++++
 ++++ Löffelchenstellung nach Knigge: Oberhalb des Tellers ++++
 ++++ Logen: Freimaurer doch in 11. September verwickelt ++++
 ++++ Los Angeles: Amerikanerin fordert von Gatten dicken Fang ++++
@@ -2270,6 +2274,7 @@
 ++++ Pervers: Mann mit Sprachfehler ist logopädophil ++++
 ++++ Pervers: Spannbetttuch beobachtet Pärchen aus nächster Nähe beim Geschlechtsverkehr ++++
 ++++ Pfand nicht mehr zurück: Verbleib von Leergutsammler unklar ++++
+++++ Pfau-Mann: Zoo schleust Spitzel ins Vogelgehege ++++
 ++++ Pfeifen auf der Bühne: Langweiliger Auftritt bei Talentwettbewerb ++++
 ++++ Pfeifen: Peter Gagelmann und Wolfgang Stark ++++
 ++++ Pferdekuss: Eifersüchtiger Hengst tritt Nebenbuhler ++++
@@ -2404,6 +2409,7 @@
 ++++ Riesenfetisch: Mann steht auf Stelzen ++++
 ++++ Riesengeschäft: Villeroy & Boch macht in Kloschüsseln ++++
 ++++ Riesenschiss vor dem Lehrer: Junge ging trotz Durchfalls in die Schule ++++
+++++ Riesenshalom: Großes Hallo beim Ski-Torlauf in Tel Aviv ++++
 ++++ Riesenspecktakel: Fette Zookrake gefüttert ++++
 ++++ Riesen-Spoiler: Details zum neuen "Fast and Furious" im Internet geleakt ++++
 ++++ Ringfahndung erfolglos: Polizei dreht sich im Kreis ++++
@@ -2940,6 +2946,7 @@
 ++++ Umgenietet: Jeans passte Gangsterboss nicht ++++
 ++++ Umsonst gebacken: Pustekuchen ++++
 ++++ Umständlich: Autofahrer führt vor Einstellung des Sitzes jedesmal Vorstellungsgespräch ++++
+++++ Unachtsam: Kapitän in Gedanken versunken ++++
 ++++ Unangebracht: Fehlende Kleiderhaken in Nobel-Restaurant ++++
 ++++ Unangemessener Tonfall: Anwohner wirft Blumentopf nach schimpfendem Passanten ++++
 ++++ Unangenehm: Französischer Räuber muss zur Gendarmspiegelung ++++
