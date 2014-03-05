@@ -216,6 +216,7 @@
 ++++ Ausgefeilt: Häftling entkommt durch cleveren Plan aus Gefängnis ++++
 ++++ Ausgekochtes Schlitzohr: Wirt entwickelt exotische Rezepte, um mehr Gäste zu locken ++++
 ++++ Ausgelaugt: Bäcker gibt Brezelverkauf auf ++++
+++++ Ausgelutscht: Witze über vereiste Gehwege in Peking ++++
 ++++ Ausgenutzt: Rinder sind die Melkkühe der Nation ++++
 ++++ Ausgepackt: zip-Dateien machen sich .rar ++++
 ++++ Ausgerastet: Hysterische Frau wollte nach Pause nicht weiterwandern ++++
@@ -1244,6 +1245,7 @@
 ++++ Hat umgeschult: Heimkehrer war früher mal Straßenfeger ++++
 ++++ Hat viele verschiedene Frauen: Mormone ist Witwer ++++
 ++++ Hat viel um die Ohren: Mann mit Halbglatze schafft es nicht zu Friseurtermin ++++
+++++ Hat zu tief ins Glas geschaut: Hellseher verletzt sich an Wahrheitskugel ++++
 ++++ Hat zu viel gekostet: Koch wegen hohem Lebensmittel-Verbrauch entlassen ++++
 ++++ Häufig: Bauer gesteht regelmäßigen Liebesakt in Scheune ++++
 ++++ Hausaufgaben: Soldaten müssen Rückzug aus Wohngebieten üben ++++
@@ -1544,6 +1546,7 @@
 ++++ Kein Biss: ARD-Intendant unzufrieden mit seinen Dritten ++++
 ++++ Kein Bock mehr: Skatspieler steigt nach Regeländerung aus ++++
 ++++ Kein Ding: Frau findet Zeugungsunfähigkeit ihres Partners nicht schlimm ++++
+++++ Keine Ahnung vom Blasen: Kapellmeister lehnt Trompeterin nach miserablem Vorspiel ab ++++
 ++++ Keine Ahnung vom Schlittenfahren: Eskimos gehen vor die Hunde ++++
 ++++ Keine Ausdauer: Schiedsrichter pfeift aus dem letzten Loch ++++
 ++++ Keine Basis für eine gute Beziehung: Polarforscher ließ Polarforscherin zu wenig Freiraum ++++
@@ -2103,6 +2106,7 @@
 ++++ Null Block: Volleyballer hat keine Lust mehr ++++
 ++++ Nur am Rande gestreift: Kreuzung von Pferd und Zebra machte keine großen Schlagzeilen ++++
 ++++ Nur an der Leine unterwegs: Hannovers Hunde enttäuscht ++++
+++++ Nur auf einen Abstecher: Messermörder bekommt kurzen Freigang ++++
 ++++ Nur die Hinrichtung im Kopf: Henker verläuft sich auf dem Heimweg ++++
 ++++ Nur die Rosinen herausgepickt: Stollen droht einzustürzen ++++
 ++++ Nur ein alter Schinken: Antikes Metzgerfachbuch enttäuscht ++++
@@ -2447,6 +2451,7 @@
 ++++ Schlechter Tweed: Twitter-Nutzer lästert über Qualität seines Markensakkos ++++
 ++++ Schlechtes Fell: Scheues Waldtier muss in Rehhaarklinik ++++
 ++++ Schlechte Witterung: Spürhund versagt bei Regen ++++
+++++ Schlechte Zensur: Schüler übermalt Zeugnisnote mit Buntstift ++++
 ++++ Schlecht gestimmt: Sarkozy sauer auf Wähler ++++
 ++++ Schlechtwetter: Brite tippt auf Sonnenschein ++++
 ++++ Schlimmer Finger: Mann täuscht Handverletzung vor, um Ärztin anzubaggern ++++
@@ -2467,6 +2472,7 @@
 ++++ Schnauze voll vom Rumgeschleppe: Bernhardiner macht Fass auf ++++
 ++++ Schnauze voll von Buchstabensuppe: Gäste fordern "Zahlen bitte!" ++++
 ++++ Schnee von gestern: Wasser ++++
+++++ Schneidet gern Crememassen: Konditor arbeitet nebenbei als Clown im Zirkus ++++
 ++++ Schneidet gewaltig auf: Chirurg führt angeblich tausend OPs am Tag durch ++++
 ++++ Schneidet gut ab: Gemeinde zufrieden mit neuem Rabbi ++++
 ++++ Schneller Brüter: Roadrunner ++++
@@ -2646,6 +2652,7 @@
 ++++ Spricht mit gespaltener Zunge: Häuptlingssohn glaubt Vater nicht, dass man Messer nicht ablecken soll ++++
 ++++ Springer auf A7: Schachprofi will sich nach spielentscheidendem Fehlzug von Autobahnbrücke stürzen ++++
 ++++ Springt im Dreieck: Ariane Friedrich in Pyramide eingesperrt ++++
+++++ Springt sofort ins Auge: Känguru verhält sich auffällig ++++
 ++++ Staatsstreich: Regierung lässt Zahnpasta unter Türklinken verteilen ++++
 ++++ Stachen ihm sofort ins Auge: Imker musste diese Bienen haben ++++
 ++++ Stahldiebstahl: Dieb stahl Stahl ++++
