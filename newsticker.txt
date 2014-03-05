@@ -485,6 +485,7 @@
 ++++ Das gibt Erker: Bauunternehmen vergisst Dachfenster einzusetzen ++++
 ++++ Das hat er sich reetlich verdient: Nordfriese schenkt seinem Sohn ein Dach ++++
 ++++ Das hat gesessen: Mädchen kommt geläutert aus dem Gefängnis ++++
+++++ Das hat sich abgezeichnet: Teilnehmerin mit Doppel-D gewinnt Wet-T-Shirt Contest ++++
 ++++ Das hätte es früher nicht gegeben: Alte Leute regen sich über Computer auf ++++
 ++++ Das ist der Hammer: Mann zieht freiwillig in westfälische Stadt ++++
 ++++ Das ist der Hammer: Meister muss Lehrling Werkzeug erklären ++++
@@ -828,6 +829,7 @@
 ++++ Fast nichts mehr an: Frau löst ihr Problem mit aufgeladener Kleidung ++++
 ++++ Fast nur Witze mit Bart: Neues Simpsons-Drehbuch kann nicht überzeugen ++++
 ++++ Fauler Hund: Straßenarbeiter will Tierkadaver nicht wegräumen ++++
+++++ Fauler Sack: Mann geht wegen Geschlechtskrankheit nicht zur Arbeit ++++
 ++++ Faules Pack: Fast 300.000 Deutsche in Kurzarbeit ++++
 ++++ Faul: Schaffner liegt in den letzten Zügen ++++
 ++++ FDP besorgt: Kinder reicher Eltern gegenüber Kindern superreicher Eltern benachteiligt ++++
@@ -1185,6 +1187,7 @@
 ++++ Hat den Braten gerochen: Mann kauft defekte Dunstabzugshaube nicht ++++
 ++++ Hat den Vogel abgeschossen: Mafia bringt Witzbold um ++++
 ++++ Hat Dicke gereicht: Kannibalenhäuptling ließ sich bei Festmahl nicht lumpen ++++
+++++ Hat die Base neutralisiert: Irrer Chemiker ermordet Cousine mit Säure ++++
 ++++ Hat die Frau seines Lebens getroffen: Jäger wieder solo ++++
 ++++ Hat die Nase vorn: Fast jeder ++++
 ++++ Hat die Sau rausgelassen: Stallknecht nach wilder Party gefeuert ++++
@@ -1385,6 +1388,7 @@
 ++++ Hund zufrieden: Floh abgekratzt ++++
 ++++ Hut ab: Udo Lindenberg geht endlich zum Friseur ++++
 ++++ Hütehund: Border Collie steht einfach jede Kopfbedeckung ++++
+++++ i.a.: Esel unterschreibt für Zoodirektor ++++
 ++++ Ich glaub, es hackt: Kind angeblich zu Waldarbeit gezwungen ++++
 ++++ "Ich glaub, mein Schwein pfeift!": Bauer leidet an Tinnitus ++++
 ++++ "Ich glaub, mich knutscht ein Elch": Schwedischer Darkroom anders als erwartet ++++
@@ -1527,6 +1531,7 @@
 ++++ Kälter als man denkt: Griff ins Klo ++++
 ++++ Kameradenschwein: Feldwebel schlachtet Truppenmaskottchen ++++
 ++++ Kam früher im Kino: Der WiXXer ++++
+++++ Kammfund: Pitbull erspürt Tatwaffe von Friseurmord ++++
 ++++ Kam mit dem Druck nicht zurecht: Printmediengestalter kündigt seinen Job ++++
 ++++ Kam mit den Schrecken davon: Ertappter Dieb entwischt in Insektenschwarm ++++
 ++++ Kam nicht drüber weg: Stuntbiker nach Sturz in Schlucht ein gebrochener Mann ++++
@@ -2165,6 +2170,7 @@
 ++++ Nur eine Fußprellung: Mann fällt Stein vom Herzen ++++
 ++++ Nur einen runtergeholt: Flakschütze unehrenhaft entlassen ++++
 ++++ Nur ein kleiner Grazer: Autofahrer, der Österreicher überfahren hat, erleichtert ++++
+++++ Nur ein Paradieschen: Christ hatte sich die Auswahl an Früchten im Garten Eden besser vorgestellt ++++
 ++++ Nur ein Stern: Sonnensystem erhält miserable Bewertungen von Weltraumtouristen ++++
 ++++ Nur ein Strohmann: Krähen haben keine Angst mehr vor Vogelscheuche ++++
 ++++ Nur ein Tropfen auf den heißen Stein: Sauna-Aufguß eher enttäuschend ++++
@@ -2907,6 +2913,7 @@
 ++++ Überwunden: Unfallchirurg veröffentlicht neues Buch nach Schreibblockade ++++
 ++++ Überzeugt: Mann schiebt Schwächeanfall auf zu viel ungeschützten Sex ++++
 ++++ Überzogen: Mann rutscht wegen Sessel-Restaurierung in die roten Zahlen ++++
+++++ Übler Druckabfall: Zeitung schreibt reißerischen Artikel über Flugzeugpanne ++++
 ++++ Übles Verbrechen: Betrunkener kotzt neben Klo ++++
 ++++ Übt Kritik: Zeitungsvolontär schreibt erste Buchrezension ++++
 ++++ Uhrmacher-Pfusch: Standuhr geht ++++
