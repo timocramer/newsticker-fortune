@@ -722,6 +722,7 @@
 ++++ Endlich eingezogen: Letzter Wehrpflichtiger richtet Kasernenstube gemütlich ein ++++
 ++++ Endlich gen Italien: Familie freut sich auf FKK-Urlaub ++++
 ++++ Endlich Heil: Nazi kann gebrochenen rechten Arm wieder heben ++++
+++++ Endlich: Letzte Stelle von π berechnet ++++
 ++++ Endlich trocken: Alkoholiker gibt Geist auf ++++
 ++++ Endlich trocken: Alkoholiker trinkt keine lieblichen Weine mehr ++++
 ++++ Engelsgleich: Marx ++++
@@ -1231,9 +1232,11 @@
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
 ++++ Hat nicht viel geholfen: Rettungssanitäter fällt durch Motivationsseminar ++++
+++++ Hat nochmal nachgefragt: Quake-Spieler wollte sich seiner Führungsposition versichern ++++
 ++++ Hat ordentlich gebaggert: Kleiner Junge beeindruckt Mädchen im Sandkasten ++++
 ++++ Hat ordentlich getankt: Betrunkener Autofahrer hat Benzinlache nicht verursacht ++++
 ++++ Hat ordentlich Holz vor der Hütte: Frau wimmelt aufdringlichen Heizölvertreter ab ++++
+++++ Hatschi: Abfahrtsläufer fühlt sich trotz Erkältung gut gerüstet ++++
 ++++ Hat seinem Chef einen Bärendienst erwiesen: Imkerlehrling nascht zu viel ++++
 ++++ Hat seinen Meister gefunden: Toter Trickbetrüger von Bestatter reingelegt ++++
 ++++ Hat seinen Reiz verloren: Mann hört mit ständiger Husterei auf ++++
@@ -2034,6 +2037,7 @@
 ++++ Nach verspäteter Ermittlung: Polizei stellt Uhr ++++
 ++++ Nach Vorhangdiebstahl bei Ikea: Mann sitzt hinter schwedischen Gardinen ++++
 ++++ Nackt auf dem Pferd: Ritter ist entrüstet ++++
+++++ Nackte tat Sachen: "Bild" berichtet schon wieder über Micaela Schäfer ++++
 ++++ Nah am Wasser gebaut: Architekt weint bei Damm-Eröffnung ++++
 ++++ Naheliegend: Biber ernährt sich von Dammwild ++++
 ++++ Naheliegend: Kuscheln tut gut ++++
@@ -2386,6 +2390,7 @@
 ++++ Riesenspecktakel: Fette Zookrake gefüttert ++++
 ++++ Riesen-Spoiler: Details zum neuen "Fast and Furious" im Internet geleakt ++++
 ++++ Ringfahndung erfolglos: Polizei dreht sich im Kreis ++++
+++++ Risiko eingegangen: Mann steckte Gesellschaftsspiel in die Waschmaschine ++++
 ++++ Risiko zu groß: Gesellschaftsspiel darf bei Flug nicht mit ins Handgepäck ++++
 ++++ Riskantes Hobby: Wieder vier Spieler beim Poolbillard ertrunken ++++
 ++++ Riskiert eine dicke Lippe: Frau beleidigt Schönheitschirurg während OP ++++
@@ -2393,6 +2398,7 @@
 ++++ Rochen: Beifänge von Heringsflotten nicht genießbar ++++
 ++++ Rock am Ring: Festivalbesucherin verheddert sich mit ihrem Intimpiercing ++++
 ++++ Rockerbraut: Bikerin verkauft Bier ihres Mannes ++++
+++++ Rods Löffel: Kleiner Junge benutzt Stewarts Besteck, ohne zu fragen ++++
 ++++ Rolle rückwärts: Ellor ++++
 ++++ Romantisch: Frau bekommt Lesepult geschenkt ++++
 ++++ Romantisch: Mann mit schwerer Kindheit findet seine Trauma-Frau ++++
@@ -2880,6 +2886,7 @@
 ++++ Übel aufgestoßen: Rülps-Wettbewerb führt zu Nachbarschaftsklage ++++
 ++++ Übel: Blinder Passagier ist sehkrank ++++
 ++++ Übel mitgespielt: Kind erbricht in Sandkasten ++++
+++++ Überall sichtbare Entrüstung: Umkleidekabinen bei Ritterturnier überfüllt ++++
 ++++ Überascht: Legasthenikerdorf nach Vulkanausbruch verschüttet ++++
 ++++ Über den Haufen gefahren: Autofahrer übt Rache an rücksichtslosem Hundebesitzer ++++
 ++++ Über den Tisch gezogen: Teller am Boden zerstört ++++
