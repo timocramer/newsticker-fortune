@@ -171,6 +171,7 @@
 ++++ Auf den Hund gekommen: Sodomist ++++
 ++++ Auf den Kopf gehauen: Verbrecher versäuft Beute nach Raubüberfall ++++
 ++++ Auf den letzten Drücker: Mann gerade noch aus brennender Toilette befreit ++++
+++++ Auf den Trichter gekommen: Mann entdeckt Faible für Sex mit Küchengeräten ++++
 ++++ Auf den Weg gemacht: Mann schafft es nicht mehr bis zur Haustür ++++
 ++++ Auf den Weg gemacht: Straßenreinigung rückt aus ++++
 ++++ Auf der ganzen Linie versagt: Probezeit von Busfahrer wird nicht verlängert ++++
@@ -326,6 +327,7 @@
 ++++ Bewerbung nur beschränkt möglich: Behindertenwerkstatt nimmt nicht jeden an ++++
 ++++ Bewusstlosigkeit vorgetäuscht: Patient will Anästhesisten nicht enttäuschen ++++
 ++++ BH-Wert zu niedrig: Frau nach Schönheits-OP sauer ++++
+++++ Bier wird Schal: Zauberer braucht ewig für Verwandlungstrick ++++
 ++++ Bigott: Schöpfer outet sich ++++
 ++++ Bikini: Ist Atoll und B ganz nett anzuschauen ++++
 ++++ Bildet sich was drauf ein: Hypochonder stolz auf sein neues Krankenhausbett ++++
@@ -656,6 +658,7 @@
 ++++ Einfacher Durchschnitt: Chirurg findet seine Leistung nicht erwähnenswert ++++
 ++++ Einfache Rechenaufgabe: Zwei mal zwei Meter Rasenfläche gemäht ++++
 ++++ Einfach mal abschalten: Pfleger geniesst Ruhe auf der Intensivstation ++++
+++++ Einfach: Möbelhersteller präsentiert sparsame Kommode ++++
 ++++ Einfach nur krank: Nachlässiger Arzt stellt Pauschaldiagnosen ++++
 ++++ Einfach Spitze: Name des höchsten deutschen Bergs soll verkürzt werden ++++
 ++++ Einfach unschlagbar: Geist gewinnt jeden Boxkampf ++++
@@ -697,6 +700,7 @@
 ++++ Eitel: Magnet hätte gern was Schönes zum Anziehen ++++
 ++++ Eitel: Pfau legt Spiegelei ++++
 ++++ Eklat: Internationaler Clownkongress gerät zur Farce ++++
+++++ Eklat: Kein Eiklar in Eclair ++++
 ++++ Eklat: Sturm der Entrüstung löst Weltfrieden aus ++++
 ++++ Endgültiges Aus: Lichtschalter kriegt sich nicht mehr ein ++++
 ++++ Endlich die richtige Kreuzung gefunden: Rosenzüchter kommt gerade noch rechtzeitig zur Preisverleihung ++++
@@ -1194,6 +1198,7 @@
 ++++ Hat lange mit sich gekämpft: Schizophrener Boxer ringt sich zu Therapie durch ++++
 ++++ Hat massiven Dachschaden: Hauseigentümer meldet Versicherung missglückte Ufolandung ++++
 ++++ Hat 'nen dicken Hals: Mit Obstallergiker ist nicht gut Kirschen essen ++++
+++++ Hat nicht viel geholfen: Rettungssanitäter fällt durch Motivationsseminar ++++
 ++++ Hat ordentlich gebaggert: Kleiner Junge beeindruckt Mädchen im Sandkasten ++++
 ++++ Hat ordentlich getankt: Betrunkener Autofahrer hat Benzinlache nicht verursacht ++++
 ++++ Hat ordentlich Holz vor der Hütte: Frau wimmelt aufdringlichen Heizölvertreter ab ++++
@@ -1819,9 +1824,11 @@
 ++++ Macht Liebe blind?: Einäugiger wirft Auge auf junge Frau ++++
 ++++ Macht Nägel mit Köpfen: Kannibale meldet Patent auf Rezept an ++++
 ++++ Macht nichts: Senior Assistant Vice Chief Executive Officer entlassen ++++
+++++ Macht nix: Hundehalter geht später einfach noch mal Gassi ++++
 ++++ Macht Riesen Spaß: Zwergenweitwurf ++++
 ++++ Macht sich zum Horst: Chirurgin versucht Geschlechtsumwandlung an sich selbst ++++
 ++++ Machtvoll: Absinth haut den stärksten Mann um ++++
+++++ Magentarot: Telekom klagt gegen Hersteller von essbaren Wahrsagerkarten ++++
 ++++ Magerquark: Mutter unsicher über Sohnemanns Mittagstisch ++++
 ++++ Maggi net: Bayerischer Koch lehnt Würzmittel ab ++++
 ++++ Mag's bar: Insolvente Baumarktkette akzeptiert keine Kreditkarten mehr ++++
