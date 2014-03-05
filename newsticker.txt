@@ -66,6 +66,7 @@
 ++++ Alle draufgegangen: Rettungsboot verhindert Opfer bei Schiffskatastrophe ++++
 ++++ Allee Hopp: Straße in Sinsheim nach SAP-Gründer benannt ++++
 ++++ Alle kommen auf ihre Kosten: Prostituierte hat spendablen Tag ++++
+++++ Allererste Sahne: Junge freut sich über Beginn der Pubertät ++++
 ++++ Allergiewarnung: Eichhörnchen können Nüsse enthalten ++++
 ++++ Alles abgelaufen: Supermarktkundin sucht vergeblich frische Ware ++++
 ++++ Alles abgeschrieben: Mann übernimmt Steuererklärung eines Kollegen wörtlich ++++
@@ -231,6 +232,7 @@
 ++++ Ausgezeichnet: Maler stirbt bei Preisverleihung ++++
 ++++ Ausgezogen: WG zu prüde ++++
 ++++ Auskommen im Alter: Nachkommen müssen laut Abkommen vollkommen für Einkommen aufkommen ++++
+++++ Ausnahmetalent: Metzgerlehrling erhält nur Bestnoten ++++
 ++++ Aussage in Stutenskandal verweigert: Wen will Zuchthengst decken? ++++
 ++++ Ausschlaggebend: Allergiker aß Nüsse ++++
 ++++ Außenseiter im Team: Musikalischer Fußballer spielt gerne auf dem Flügel ++++
@@ -455,6 +457,7 @@
 ++++ Damit konnte niemand rechnen: Bundeswehr sucht Mathematiker für mehrere Divisionen ++++
 ++++ Damm gerissen: Starke Strömung verursacht Komplikationen bei Bibergeburt ++++
 ++++ Da muss er jetzt durch: Klaustrophobiker wird durch enge Gasse gedrängt ++++
+++++ "Da muss ich einmal nachharken": Markus Lanz nervt neue Kollegen nach Umschulung zum Gärtner ++++
 ++++ Da muss man erst mal drauf kommen: Sex auf dem Baukran ++++
 ++++ Da muss sie erstmal schlucken: Pornodebütantin bekommt harte Auflagen ++++
 ++++ Danach kräht kein Hahn mehr: Bauer schlachtet noch wie im Mittelalter ++++
@@ -683,6 +686,7 @@
 ++++ Ein Herz und eine Seele: Mediziner und Theologe einig über Obduktionsergebnis ++++
 ++++ Ein kleiner Schritt für einen Menschen: Neil Armstrong erwägt Penisvergrößerung ++++
 ++++ Einlauf verpasst: Boxer verspätet sich wegen privater Schlägerei ++++
+++++ Ein lauschiges Plätzchen: NSA überwacht Parkbesucher mit Keks-Wanze ++++
 ++++ Einleuchtend: Proktologe arbeitet mit Helmlampe ++++
 ++++ Ein Mann, ein Word: Vater verspricht Sohn Softwarepaket zum 18. Geburtstag ++++
 ++++ Ein Mann, ein Wort: Psychiater setzt angekündigte Sprechzeitenkürzung durch ++++
@@ -1436,6 +1440,7 @@
 ++++ Ironie: Punk trägt Vokuhila ++++
 ++++ Irre Parabel: Schriftsteller ruiniert seinen Ruf mit wirrer metaphorischer Erzählung ++++
 ++++ Islam: Muezzin sitzt im Rollstuhl ++++
+++++ Isle of man: Britischer Inselbewohner hat sein Coming-Out ++++
 ++++ Isny im Allgäu: Stadt erhält schlechte Bewertung in Gourmetführer ++++
 ++++ ISS: Astronaut muss Hungerstreik beenden ++++
 ++++ Isst Feige: Mann hat Angst vor Datteln ++++
@@ -1908,6 +1913,7 @@
 ++++ Mit einem Bein im Knast: Pistorius hat Prothese liegenlassen ++++
 ++++ Mit einem Schlag zu Ende: Ehe von Rafael und Sylvie van der Vaart ++++
 ++++ Mit Feldstecher: Liebestolle Frau in Kornfeld entdeckt ++++
+++++ Mit Gift: Hochzeitsgeschenk sorgt für kurze Ehe ++++
 ++++ Mit Hochspannung erwartet: Gemeinde freut sich auf Stromanschluss ++++
 ++++ Mit Kater aufgewacht: Betrunkener Sodomist erlebte Nacht seines Lebens ++++
 ++++ Mit Kater erwacht: Katze kann sich an nichts erinnern ++++
@@ -2541,6 +2547,7 @@
 ++++ Schwindelanfall: Ärzte besorgt um Simulanten ++++
 ++++ Schwindel auf dem Rummelplatz: Karussell dreht sich schneller als angegeben ++++
 ++++ Schwindelerregend: Drehbuch ++++
+++++ Schwitzt unter den Armen: Millionär fühlt sich in sozialschwachem Stadtteil unwohl ++++
 ++++ Seagate: Festplatte läuft problemlos ++++
 ++++ Seele verschwunden: Toter außer sich ++++
 ++++ Seeräuber ermordet: Polizei drückt Auge zu ++++
